@@ -1,0 +1,2236 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10029453",
+    "artist_names": "Ariana Grande",
+    "full_title": "bye by\u00a0Ariana\u00a0Grande",
+    "header_image_thumbnail_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+    "id": 10029453,
+    "instrumental": false,
+    "lyrics_owner_id": 5529082,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1743708832,
+    "path": "/Ariana-grande-bye-lyrics",
+    "primary_artist_names": "Ariana Grande",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Ariana-grande-bye-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 8
+    },
+    "release_date_for_display": "March 8, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 5,
+        "contributors": 80,
+        "iq_earners": 80,
+        "transcribers": 4,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 366944
+    },
+    "title": "bye",
+    "title_with_featured": "bye",
+    "updated_by_human_at": 1745716534,
+    "url": "https://genius.com/Ariana-grande-bye-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/26507",
+        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+        "id": 26507,
+        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ariana Grande",
+        "url": "https://genius.com/artists/Ariana-grande",
+        "iq": 2871
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        }
+    ],
+    "apple_music_id": "1725913557",
+    "apple_music_player_url": "https://genius.com/songs/10029453/apple_music_player",
+    "description": {
+        "plain": "\u201cbye\u201d she sings about the negative while also highlighting positive things, and finally putting an end to the relationship. The single is the second track on her seventh studio album, eternal sunshine\n\nThat was a tricky balance for me because I definitely had some sessions where I was writing more emotionally and reactively but that\u2019s also very human so I didn\u2019t want to erase all of it,\"\n\n\u2014via Amazon Music"
+    },
+    "embed_content": "<div id='rg_embed_link_10029453' class='rg_embed_link' data-song-id='10029453'>Read <a href='https://genius.com/Ariana-grande-bye-lyrics'>\u201cbye\u201d by Ariana\u00a0Grande</a> on Genius</div> <script crossorigin src='//genius.com/songs/10029453/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Jungle Studios (New York, NY), MXM Studios (Stockholm, SE), Studio 12 (Jonstorp, SE) and Decoy Studios (Suffolk, UK)",
+    "release_date": "2024-03-08",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#221811",
+    "song_art_secondary_color": "#643c1c",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1369026",
+        "cover_art_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+        "full_title": "eternal sunshine deluxe: brighter days ahead (instrumental version) by Ariana Grande",
+        "id": 1369026,
+        "name": "eternal sunshine deluxe: brighter days ahead (instrumental version)",
+        "primary_artist_names": "Ariana Grande",
+        "release_date_for_display": "April 1, 2025",
+        "url": "https://genius.com/albums/Ariana-grande/Eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        "artist": {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/26507",
+                "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                "id": 26507,
+                "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Ariana Grande",
+                "url": "https://genius.com/artists/Ariana-grande",
+                "iq": 2871
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Horns Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                },
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                }
+            ]
+        },
+        {
+            "label": "String Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/3680060",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3680060,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Karl Gun\u00e9r",
+                    "url": "https://genius.com/artists/Karl-guner"
+                },
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Strings Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/3680060",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3680060,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Karl Gun\u00e9r",
+                    "url": "https://genius.com/artists/Karl-guner"
+                },
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/655230",
+                    "header_image_url": "https://images.genius.com/e4c5ac8e30682f9104794139d8e68b65.850x315x1.jpg",
+                    "id": 655230,
+                    "image_url": "https://images.genius.com/e0fd8ad1e6e10758a0e7fde0a9bc1c61.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sterling Sound Studio",
+                    "url": "https://genius.com/artists/Sterling-sound-studio"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/671773",
+                    "header_image_url": "https://images.genius.com/69b98ac87c62a835daee4213d07afa5b.453x453x1.png",
+                    "id": 671773,
+                    "image_url": "https://images.genius.com/5127719ae104ecfc06ba1ad8d19b7ce5.453x453x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MixStar Studios",
+                    "url": "https://genius.com/artists/Mixstar-studios"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/26507",
+                    "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                    "id": 26507,
+                    "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ariana Grande",
+                    "url": "https://genius.com/artists/Ariana-grande",
+                    "iq": 2871
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                }
+            ]
+        },
+        {
+            "label": "Horns",
+            "artists": [
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640944",
+                    "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+                    "id": 640944,
+                    "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0218erban Ghenea",
+                    "url": "https://genius.com/artists/Serban-ghenea"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                }
+            ]
+        },
+        {
+            "label": "Strings Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2844765",
+                    "header_image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "id": 2844765,
+                    "image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryce Bordone",
+                    "url": "https://genius.com/artists/Bryce-bordone"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/676020",
+                    "header_image_url": "https://images.genius.com/03c595259c84a93a6e509e6ac3f31333.299x299x1.jpg",
+                    "id": 676020,
+                    "image_url": "https://images.genius.com/03c595259c84a93a6e509e6ac3f31333.299x299x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Erik Arvinder",
+                    "url": "https://genius.com/artists/Erik-arvinder"
+                },
+                {
+                    "api_path": "/artists/2415910",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2415910,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hanna Helgegren",
+                    "url": "https://genius.com/artists/Hanna-helgegren"
+                },
+                {
+                    "api_path": "/artists/3385606",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3385606,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Johannesson",
+                    "url": "https://genius.com/artists/Mattias-johannesson"
+                }
+            ]
+        },
+        {
+            "label": "Trumpet",
+            "artists": [
+                {
+                    "api_path": "/artists/1666478",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1666478,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Janne Bjerger",
+                    "url": "https://genius.com/artists/Janne-bjerger"
+                },
+                {
+                    "api_path": "/artists/382327",
+                    "header_image_url": "https://images.genius.com/177c08c3fc58cffb701ecdf3a8e9001e.515x515x1.png",
+                    "id": 382327,
+                    "image_url": "https://images.genius.com/177c08c3fc58cffb701ecdf3a8e9001e.515x515x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Magnus Johansson",
+                    "url": "https://genius.com/artists/Magnus-johansson"
+                }
+            ]
+        },
+        {
+            "label": "Trombone",
+            "artists": [
+                {
+                    "api_path": "/artists/1930452",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1930452,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peter Jonasson",
+                    "url": "https://genius.com/artists/Peter-jonasson"
+                }
+            ]
+        },
+        {
+            "label": "Tenor Saxophone",
+            "artists": [
+                {
+                    "api_path": "/artists/1666476",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1666476,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tomas Jonsson",
+                    "url": "https://genius.com/artists/Tomas-jonsson"
+                }
+            ]
+        },
+        {
+            "label": "Strings",
+            "artists": [
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                },
+                {
+                    "api_path": "/artists/3074794",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3074794,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Per Strandberg",
+                    "url": "https://genius.com/artists/Per-strandberg"
+                }
+            ]
+        },
+        {
+            "label": "Glockenspiel",
+            "artists": [
+                {
+                    "api_path": "/artists/641349",
+                    "header_image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "id": 641349,
+                    "image_url": "https://images.genius.com/ec59265d0caa3b9e8dff7e66e6fd401e.331x331x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattias Bylund",
+                    "url": "https://genius.com/artists/Mattias-bylund"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1788190",
+                    "header_image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "id": 1788190,
+                    "image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lou Carrao",
+                    "url": "https://genius.com/artists/Lou-carrao"
+                },
+                {
+                    "api_path": "/artists/641345",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 641345,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sam Holland",
+                    "url": "https://genius.com/artists/Sam-holland"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/641350",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 641350,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Bukovinszky",
+                    "url": "https://genius.com/artists/David-bukovinszky"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                },
+                {
+                    "api_path": "/artists/26507",
+                    "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                    "id": 26507,
+                    "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ariana Grande",
+                    "url": "https://genius.com/artists/Ariana-grande",
+                    "iq": 2871
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/155062",
+                    "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "id": 155062,
+                    "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ILYA",
+                    "url": "https://genius.com/artists/Ilya"
+                },
+                {
+                    "api_path": "/artists/1788190",
+                    "header_image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "id": 1788190,
+                    "image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lou Carrao",
+                    "url": "https://genius.com/artists/Lou-carrao"
+                },
+                {
+                    "api_path": "/artists/27835",
+                    "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+                    "id": 27835,
+                    "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Martin",
+                    "url": "https://genius.com/artists/Max-martin"
+                },
+                {
+                    "api_path": "/artists/1151446",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1151446,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Engstr\u00f6m",
+                    "url": "https://genius.com/artists/Michael-engstrom"
+                }
+            ]
+        },
+        {
+            "label": "Baritone Saxophone",
+            "artists": [
+                {
+                    "api_path": "/artists/1666476",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1666476,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tomas Jonsson",
+                    "url": "https://genius.com/artists/Tomas-jonsson"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643391",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 643391,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Eylands",
+                    "url": "https://genius.com/artists/Eric-eylands"
+                },
+                {
+                    "api_path": "/artists/3182686",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3182686,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob Sellens",
+                    "url": "https://genius.com/artists/Rob-sellens"
+                }
+            ]
+        },
+        {
+            "label": "Alto Saxophone",
+            "artists": [
+                {
+                    "api_path": "/artists/1384429",
+                    "header_image_url": "https://images.genius.com/f3fc94d086b04eae44cb187f256025c7.494x494x1.jpg",
+                    "id": 1384429,
+                    "image_url": "https://images.genius.com/f3fc94d086b04eae44cb187f256025c7.494x494x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wojtek Goral",
+                    "url": "https://genius.com/artists/Wojtek-goral"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/3646147",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3646147,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SONGS OF WOLF COUSINS",
+                    "url": "https://genius.com/artists/Songs-of-wolf-cousins"
+                },
+                {
+                    "api_path": "/artists/1123379",
+                    "header_image_url": "https://images.genius.com/a1c385d893c461273cc9728cee9c2192.560x264x1.png",
+                    "id": 1123379,
+                    "image_url": "https://images.genius.com/a1c385d893c461273cc9728cee9c2192.560x264x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MXM Music",
+                    "url": "https://genius.com/artists/Mxm-music"
+                },
+                {
+                    "api_path": "/artists/1179023",
+                    "header_image_url": "https://images.genius.com/e0f5e49317e965cfa53e20c085a955e1.851x315x1.png",
+                    "id": 1179023,
+                    "image_url": "https://images.genius.com/4ebbcabd72ac78217a95d7a2f767218d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kobalt Music",
+                    "url": "https://genius.com/artists/Kobalt-music"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21643433,
+        "annotator_login": "imperfectforyou",
+        "api_path": "/referents/30921504",
+        "classification": "unreviewed",
+        "fragment": "bye",
+        "id": 30921504,
+        "is_description": true,
+        "path": "/30921504/Ariana-grande-bye/Bye",
+        "range": {
+            "content": "bye"
+        },
+        "song_id": 10029453,
+        "url": "https://genius.com/30921504/Ariana-grande-bye/Bye",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10029453",
+            "client_timestamps": {
+                "updated_by_human_at": 1745716534,
+                "lyrics_updated_at": 1743708832
+            },
+            "context": "Ariana Grande",
+            "id": 10029453,
+            "image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+            "link_title": "bye by\u00a0Ariana\u00a0Grande",
+            "title": "bye",
+            "type": "Song",
+            "url": "https://genius.com/Ariana-grande-bye-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30921504",
+                "body": {
+                    "plain": "\u201cbye\u201d she sings about the negative while also highlighting positive things, and finally putting an end to the relationship. The single is the second track on her seventh studio album, eternal sunshine\n\nThat was a tricky balance for me because I definitely had some sessions where I was writing more emotionally and reactively but that\u2019s also very human so I didn\u2019t want to erase all of it,\"\n\n\u2014via Amazon Music"
+                },
+                "comment_count": 2,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30921504,
+                "pinned": false,
+                "share_url": "https://genius.com/30921504",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30921504/Ariana-grande-bye/Bye",
+                "verified": false,
+                "votes_total": 48,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21643433",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e19425624c71b48a56884864e5532649",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e19425624c71b48a56884864e5532649",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e19425624c71b48a56884864e5532649",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e19425624c71b48a56884864e5532649",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/v5k6bnl21br",
+                            "human_readable_role_for_display": null,
+                            "id": 21643433,
+                            "iq": 244,
+                            "login": "imperfectforyou",
+                            "name": "imperfectforyou",
+                            "role_for_display": null,
+                            "url": "https://genius.com/imperfectforyou",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7655824",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/gzbjte3ygqm",
+        "human_readable_role_for_display": "Contributor",
+        "id": 7655824,
+        "iq": 73102,
+        "login": "bloodandbutter",
+        "name": "bloodandbutter",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/bloodandbutter",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "arianagrande",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/arianagrande/ariana-grande-bye"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=PlaiDnJyabE"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        {
+            "api_path": "/artists/27835",
+            "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+            "id": 27835,
+            "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Max Martin",
+            "url": "https://genius.com/artists/Max-martin"
+        },
+        {
+            "api_path": "/artists/155062",
+            "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+            "id": 155062,
+            "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "ILYA",
+            "url": "https://genius.com/artists/Ilya"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11677454",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "bye (instrumental) by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+                    "id": 11677454,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-bye-instrumental-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-bye-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "bye (instrumental)",
+                    "title_with_featured": "bye (instrumental)",
+                    "url": "https://genius.com/Ariana-grande-bye-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11677510",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "bye (a cappella) by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.1000x1000x1.png",
+                    "id": 11677510,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-bye-a-cappella-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-bye-a-cappella-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "bye (a cappella)",
+                    "title_with_featured": "bye (a cappella)",
+                    "url": "https://genius.com/Ariana-grande-bye-a-cappella-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Ariana-grande-bye-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10105933",
+                    "artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "full_title": "Ariana Grande - \u200bbye (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "header_image_thumbnail_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.1000x1000x1.png",
+                    "id": 10105933,
+                    "lyrics_owner_id": 21343458,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-hebrew-translations-ariana-grande-bye-lyrics",
+                    "primary_artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-hebrew-translations-ariana-grande-bye-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - \u200bbye (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "title_with_featured": "Ariana Grande - \u200bbye (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "url": "https://genius.com/Genius-hebrew-translations-ariana-grande-bye-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1699245",
+                        "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                        "id": 1699245,
+                        "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                        "url": "https://genius.com/artists/Genius-hebrew-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1699245",
+                            "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                            "id": 1699245,
+                            "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                            "url": "https://genius.com/artists/Genius-hebrew-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10047768",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Ariana Grande - bye (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.684x684x1.png",
+                    "id": 10047768,
+                    "lyrics_owner_id": 20155240,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-ariana-grande-bye-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-bye-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.684x684x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (Traduzione Italiana)",
+                    "title_with_featured": "Ariana Grande - bye (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-bye-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10030409",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Ariana Grande - bye (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "id": 10030409,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-arabic-translations-ariana-grande-bye-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-ariana-grande-bye-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Ariana Grande - bye (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-ariana-grande-bye-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10029469",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Ariana Grande \u2013 bye (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10029469,
+                    "lyrics_owner_id": 21579229,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-ariana-grande-bye-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-ariana-grande-bye-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande \u2013 bye (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Ariana Grande \u2013 bye (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-ariana-grande-bye-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10142050",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Ariana Grande - bye (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.780x780x1.png",
+                    "id": 10142050,
+                    "lyrics_owner_id": 7206332,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-ariana-grande-bye-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-bye-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Ariana Grande - bye (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-bye-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10141757",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Ariana Grande - bye (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10141757,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-ariana-grande-bye-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-bye-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Ariana Grande - bye (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-bye-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10118154",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Ariana Grande - bye (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.879x879x1.png",
+                    "id": 10118154,
+                    "lyrics_owner_id": 17336116,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-ariana-grande-bye-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-bye-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.879x879x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 8668
+                    },
+                    "title": "Ariana Grande - bye (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Ariana Grande - bye (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-bye-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11330268",
+                    "artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "full_title": "Ariana Grande - bye (\u010cesk\u00fd p\u0159eklad) by\u00a0Genius\u00a0\u010cesk\u00e9 p\u0159eklady",
+                    "header_image_thumbnail_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.1000x1000x1.png",
+                    "id": 11330268,
+                    "lyrics_owner_id": 21299323,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ceske-preklady-ariana-grande-bye-cesky-preklad-lyrics",
+                    "primary_artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ceske-preklady-ariana-grande-bye-cesky-preklad-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (\u010cesk\u00fd p\u0159eklad)",
+                    "title_with_featured": "Ariana Grande - bye (\u010cesk\u00fd p\u0159eklad)",
+                    "url": "https://genius.com/Genius-ceske-preklady-ariana-grande-bye-cesky-preklad-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1827252",
+                        "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "id": 1827252,
+                        "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                        "url": "https://genius.com/artists/Genius-ceske-preklady"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1827252",
+                            "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "id": 1827252,
+                            "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                            "url": "https://genius.com/artists/Genius-ceske-preklady"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10362104",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Ariana Grande - bye (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10362104,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-ariana-grande-bye-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-bye-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Ariana Grande - bye (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-bye-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10260200",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Ariana Grande - bye (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10260200,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-ariana-grande-bye-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-bye-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (Terjemahan Indonesia)",
+                    "title_with_featured": "Ariana Grande - bye (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-bye-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10153775",
+                    "artist_names": "Genius magyar ford\u00edt\u00e1sok",
+                    "full_title": "Ariana Grande - bye (magyar ford\u00edt\u00e1s) by\u00a0Genius\u00a0magyar ford\u00edt\u00e1sok",
+                    "header_image_thumbnail_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.300x287x1.png",
+                    "header_image_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.1000x956x1.png",
+                    "id": 10153775,
+                    "lyrics_owner_id": 11604643,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-magyar-forditasok-ariana-grande-bye-magyar-forditas-lyrics",
+                    "primary_artist_names": "Genius magyar ford\u00edt\u00e1sok",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-bye-magyar-forditas-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.300x287x1.png",
+                    "song_art_image_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.1000x956x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (magyar ford\u00edt\u00e1s)",
+                    "title_with_featured": "Ariana Grande - bye (magyar ford\u00edt\u00e1s)",
+                    "url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-bye-magyar-forditas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2426702",
+                        "header_image_url": "https://images.genius.com/d3bf05d95c36b86220beae15ce535d85.1000x333x1.png",
+                        "id": 2426702,
+                        "image_url": "https://images.genius.com/a14b52cab443248959d510d5443a8d17.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius magyar ford\u00edt\u00e1sok",
+                        "url": "https://genius.com/artists/Genius-magyar-forditasok"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2426702",
+                            "header_image_url": "https://images.genius.com/d3bf05d95c36b86220beae15ce535d85.1000x333x1.png",
+                            "id": 2426702,
+                            "image_url": "https://images.genius.com/a14b52cab443248959d510d5443a8d17.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius magyar ford\u00edt\u00e1sok",
+                            "url": "https://genius.com/artists/Genius-magyar-forditasok"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10148356",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Ariana Grande - bye (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.1000x1000x1.png",
+                    "id": 10148356,
+                    "lyrics_owner_id": 21006149,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-ariana-grande-bye-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-bye-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Ariana Grande - bye (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-bye-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10144025",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Ariana Grande - bye (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/cda6f78801f2f295a0e134e92064a88f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/cda6f78801f2f295a0e134e92064a88f.640x640x1.jpg",
+                    "id": 10144025,
+                    "lyrics_owner_id": 21645144,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-ariana-grande-bye-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-ariana-grande-bye-traduction-francaise-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cda6f78801f2f295a0e134e92064a88f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/cda6f78801f2f295a0e134e92064a88f.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - bye (Traduction Fran\u00e7aise)",
+                    "title_with_featured": "Ariana Grande - bye (Traduction Fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-ariana-grande-bye-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10105933",
+            "id": 10105933,
+            "language": "iw",
+            "lyrics_state": "complete",
+            "path": "/Genius-hebrew-translations-ariana-grande-bye-lyrics",
+            "title": "Ariana Grande - \u200bbye (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+            "url": "https://genius.com/Genius-hebrew-translations-ariana-grande-bye-lyrics"
+        },
+        {
+            "api_path": "/songs/10047768",
+            "id": 10047768,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-ariana-grande-bye-traduzione-italiana-lyrics",
+            "title": "Ariana Grande - bye (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-bye-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10030409",
+            "id": 10030409,
+            "language": "ar",
+            "lyrics_state": "complete",
+            "path": "/Genius-arabic-translations-ariana-grande-bye-lyrics",
+            "title": "Ariana Grande - bye (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-ariana-grande-bye-lyrics"
+        },
+        {
+            "api_path": "/songs/10029469",
+            "id": 10029469,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-ariana-grande-bye-lyrics",
+            "title": "Ariana Grande \u2013 bye (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-ariana-grande-bye-lyrics"
+        },
+        {
+            "api_path": "/songs/10142050",
+            "id": 10142050,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-ariana-grande-bye-turkce-ceviri-lyrics",
+            "title": "Ariana Grande - bye (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-bye-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10141757",
+            "id": 10141757,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-ariana-grande-bye-deutsche-ubersetzung-lyrics",
+            "title": "Ariana Grande - bye (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-bye-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10118154",
+            "id": 10118154,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-ariana-grande-bye-traduccion-al-espanol-lyrics",
+            "title": "Ariana Grande - bye (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-bye-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/11330268",
+            "id": 11330268,
+            "language": "cs",
+            "lyrics_state": "complete",
+            "path": "/Genius-ceske-preklady-ariana-grande-bye-cesky-preklad-lyrics",
+            "title": "Ariana Grande - bye (\u010cesk\u00fd p\u0159eklad)",
+            "url": "https://genius.com/Genius-ceske-preklady-ariana-grande-bye-cesky-preklad-lyrics"
+        },
+        {
+            "api_path": "/songs/10362104",
+            "id": 10362104,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-ariana-grande-bye-polskie-tumaczenie-lyrics",
+            "title": "Ariana Grande - bye (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-bye-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10260200",
+            "id": 10260200,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-ariana-grande-bye-terjemahan-indonesia-lyrics",
+            "title": "Ariana Grande - bye (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-bye-terjemahan-indonesia-lyrics"
+        },
+        {
+            "api_path": "/songs/10153775",
+            "id": 10153775,
+            "language": "hu",
+            "lyrics_state": "complete",
+            "path": "/Genius-magyar-forditasok-ariana-grande-bye-magyar-forditas-lyrics",
+            "title": "Ariana Grande - bye (magyar ford\u00edt\u00e1s)",
+            "url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-bye-magyar-forditas-lyrics"
+        },
+        {
+            "api_path": "/songs/10148356",
+            "id": 10148356,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-ariana-grande-bye-traducao-em-portugues-lyrics",
+            "title": "Ariana Grande - bye (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-bye-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10144025",
+            "id": 10144025,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-ariana-grande-bye-traduction-francaise-lyrics",
+            "title": "Ariana Grande - bye (Traduction Fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-ariana-grande-bye-traduction-francaise-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        {
+            "api_path": "/artists/27835",
+            "header_image_url": "https://images.genius.com/1a44589766aa9b30ba951b89a7f47704.1000x661x1.jpg",
+            "id": 27835,
+            "image_url": "https://images.genius.com/eb1e4e8892e9b0252fbe8e807c01b68e.829x829x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Max Martin",
+            "url": "https://genius.com/artists/Max-martin"
+        },
+        {
+            "api_path": "/artists/155062",
+            "header_image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+            "id": 155062,
+            "image_url": "https://images.genius.com/f8bd149d0fe5f663320f199cb5cab3b4.590x590x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "ILYA",
+            "url": "https://genius.com/artists/Ilya"
+        }
+    ],
+    "artist": "Ariana Grande",
+    "lyrics": "80 ContributorsTranslations\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)Italiano\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)T\u00fcrk\u00e7eDeutschEspa\u00f1ol\u010ceskyPolskiBahasa IndonesiaMagyarPortugu\u00easFran\u00e7aisbye Lyrics\nBye-bye\nBoy, bye, hmm\nHmm\nBye-bye\nBoy, bye\nIt's over, it's over, oh, yeah\n\nThis ain't the first time I've been hostage to these tears\nI can't believe I'm finally movin' through my fears\nAt least I know how hard we tried, both you and me\nDidn't we? Didn't we?\n\nSo I grab my stuff\nCourtney just pulled up in the driveway\nIt's time\n\nBye-bye\nBoy, bye\nBye-bye\nIt's over, it's over, oh, yeah\nBye-bye\nI'm takin' what's mine, yeah\nBye-bye\nIt's over, it's over, oh, yeah\n\nYou know? I'm stronger than I think\nUsually, I'd join you on the floor, but this dance ain't for me\nBoy, just turn the music up\nMaybe someday, we'll look back with love\nDidn't think you'd lose me\nNow it's just too late to choose me\n\nSo I grab my stuff\nCourtney just pulled up in the driveway\nIt's time (It's time)\n\nBye-bye\nBoy, bye (Boy, bye)\nBye-bye\nIt's over, it's over, oh, yeah\nBye-bye\nI'm takin' what's mine, yeah (Takin' what's mine)\nBye-bye\nIt's over, it's over, oh, yeah\n\nNow, it's certainly bittersweet\nThis hook feels too hard to sing\nBut it's better than repeat (Than repeat, than repeat, than repeat)\nOoh\n\nBye-bye (Bye-bye)\nBoy, bye (Boy, bye)\nBye-bye\nIt's over, it's over, oh, yeah (Bye)\nBye-bye (Bye-bye)\nI'm takin' what's mine, yeah (Takin' what's mine, ooh)\nBye-bye\nIt's over, it's over, oh, yeah (Ooh)\nBye-bye (Bye-bye)\nBoy, bye\nBye-bye\nIt's over, it's over, oh, yeah (It's over, baby)\nBye-bye (Bye-bye)\nI'm takin' what's mine, yeah (I'm takin' what's mine)\nBye-bye\nIt's over, it's over, oh, yeah"
+}

@@ -1,0 +1,3328 @@
+{
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/10162263",
+    "artist_names": "Dua Lipa",
+    "full_title": "Illusion by\u00a0Dua\u00a0Lipa",
+    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+    "id": 10162263,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728508076,
+    "path": "/Dua-lipa-illusion-lyrics",
+    "primary_artist_names": "Dua Lipa",
+    "pyongs_count": 9,
+    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 11
+    },
+    "release_date_for_display": "April 11, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 4,
+        "contributors": 49,
+        "iq_earners": 49,
+        "transcribers": 6,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 151463
+    },
+    "title": "Illusion",
+    "title_with_featured": "Illusion",
+    "updated_by_human_at": 1730307942,
+    "url": "https://genius.com/Dua-lipa-illusion-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/555561",
+        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+        "id": 555561,
+        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dua Lipa",
+        "url": "https://genius.com/artists/Dua-lipa",
+        "iq": 2566
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        }
+    ],
+    "apple_music_id": "1734980444",
+    "apple_music_player_url": "https://genius.com/songs/10162263/apple_music_player",
+    "description": {
+        "plain": "On \u201cIllusion\u201d, Dua Lipa rejects falling for an \u201cillusion\u201d, a personality fa\u00e7ade created by someone trying to deceive her, despite being able to see through this, she is choosing to see the situation as amusing.\n\nThe music video was filmed at the Piscina Municipal de Montju\u00efc in Barcelona, which hosted diving and water polo events at the 1992 Summer Olympics.\n\nSpeaking to Zane Lowe for Apple Music, Lipa revealed that \u201cIllusion\u201d was the first song written for Radical Optimism."
+    },
+    "embed_content": "<div id='rg_embed_link_10162263' class='rg_embed_link' data-song-id='10162263'>Read <a href='https://genius.com/Dua-lipa-illusion-lyrics'>\u201cIllusion\u201d by Dua\u00a0Lipa</a> on Genius</div> <script crossorigin src='//genius.com/songs/10162263/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "5dB Industries Studio (London, UK) and Woodshed Recording (Malibu, US)",
+    "release_date": "2024-04-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#003ca4",
+    "song_art_secondary_color": "#0d0d0f",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1189482",
+        "cover_art_url": "https://images.genius.com/27c3d0e7a962c45b8e589ae874cd7aee.1000x1000x1.png",
+        "full_title": "Radical Optimism (TIDAL Reissue) by Dua Lipa",
+        "id": 1189482,
+        "name": "Radical Optimism (TIDAL Reissue)",
+        "primary_artist_names": "Dua Lipa",
+        "release_date_for_display": "May 28, 2024",
+        "url": "https://genius.com/albums/Dua-lipa/Radical-optimism-tidal-reissue",
+        "artist": {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/555561",
+                "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                "id": 555561,
+                "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Dua Lipa",
+                "url": "https://genius.com/artists/Dua-lipa",
+                "iq": 2566
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/3843861",
+                    "header_image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "id": 3843861,
+                    "image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Radical22",
+                    "url": "https://genius.com/artists/Radical22"
+                },
+                {
+                    "api_path": "/artists/1152704",
+                    "header_image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "id": 1152704,
+                    "image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner/Chappell",
+                    "url": "https://genius.com/artists/Warner-chappell"
+                },
+                {
+                    "api_path": "/artists/3612018",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3612018,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Viking Jamz Publishing",
+                    "url": "https://genius.com/artists/Viking-jamz-publishing"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2361362",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2361362,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniela Sicilia",
+                    "url": "https://genius.com/artists/Daniela-sicilia"
+                },
+                {
+                    "api_path": "/artists/3221322",
+                    "header_image_url": "https://images.genius.com/abfca72a7951e55859198a8fc32380e8.455x455x1.jpg",
+                    "id": 3221322,
+                    "image_url": "https://images.genius.com/abfca72a7951e55859198a8fc32380e8.455x455x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Kay",
+                    "url": "https://genius.com/artists/Josh-kay"
+                },
+                {
+                    "api_path": "/artists/3727200",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3727200,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jan Brzezinski",
+                    "url": "https://genius.com/artists/Jan-brzezinski"
+                }
+            ]
+        },
+        {
+            "label": "Spatial Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/606741",
+                    "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+                    "id": 606741,
+                    "image_url": "https://images.genius.com/917c3efa8b707ebfccc58536ea5ae03c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Gudwin",
+                    "url": "https://genius.com/artists/Josh-gudwin"
+                }
+            ]
+        },
+        {
+            "label": "Spatial Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2451558",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2451558,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Szydlo",
+                    "url": "https://genius.com/artists/Zach-szydlo"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/619133",
+                    "header_image_url": "https://images.genius.com/38c6f4dc0b4d01007ce2628c43926117.1000x990x1.png",
+                    "id": 619133,
+                    "image_url": "https://images.genius.com/e13ffbac832939258c0cb3d733362a54.645x645x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Caroline Ailin",
+                    "url": "https://genius.com/artists/Caroline-ailin"
+                },
+                {
+                    "api_path": "/artists/1053373",
+                    "header_image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "id": 1053373,
+                    "image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cameron Gower Poole",
+                    "url": "https://genius.com/artists/Cameron-gower-poole"
+                }
+            ]
+        },
+        {
+            "label": "Video Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1543913",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1543913,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Frank Borin",
+                    "url": "https://genius.com/artists/Frank-borin"
+                },
+                {
+                    "api_path": "/artists/1543912",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1543912,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ivanna Borin",
+                    "url": "https://genius.com/artists/Ivanna-borin"
+                },
+                {
+                    "api_path": "/artists/1669323",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1669323,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alexa Haywood",
+                    "url": "https://genius.com/artists/Alexa-haywood"
+                },
+                {
+                    "api_path": "/artists/2040940",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2040940,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cora Rodr\u00edguez",
+                    "url": "https://genius.com/artists/Cora-rodriguez"
+                }
+            ]
+        },
+        {
+            "label": "Video Assistant Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/2789237",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2789237,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bernat Udina",
+                    "url": "https://genius.com/artists/Bernat-udina"
+                }
+            ]
+        },
+        {
+            "label": "Video Set Dresser",
+            "artists": [
+                {
+                    "api_path": "/artists/3912121",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912121,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tupac Martin Damia",
+                    "url": "https://genius.com/artists/Tupac-martin-damia"
+                },
+                {
+                    "api_path": "/artists/3912122",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912122,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Juan Carlos Sabat\u00e9",
+                    "url": "https://genius.com/artists/Juan-carlos-sabate"
+                },
+                {
+                    "api_path": "/artists/3912123",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912123,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Santiago Mario Giacometti Balmaceda",
+                    "url": "https://genius.com/artists/Santiago-mario-giacometti-balmaceda"
+                }
+            ]
+        },
+        {
+            "label": "Video Art Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1947838",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1947838,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Teresa Montanuy",
+                    "url": "https://genius.com/artists/Teresa-montanuy"
+                }
+            ]
+        },
+        {
+            "label": "Video Best Boy",
+            "artists": [
+                {
+                    "api_path": "/artists/2040935",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2040935,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alejandro Narvaez",
+                    "url": "https://genius.com/artists/Alejandro-narvaez"
+                }
+            ]
+        },
+        {
+            "label": "Video Gaffer",
+            "artists": [
+                {
+                    "api_path": "/artists/3912120",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912120,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rafa Ramirez",
+                    "url": "https://genius.com/artists/Rafa-ramirez"
+                }
+            ]
+        },
+        {
+            "label": "Video Key Grip",
+            "artists": [
+                {
+                    "api_path": "/artists/3912119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis Vieites",
+                    "url": "https://genius.com/artists/Luis-vieites"
+                }
+            ]
+        },
+        {
+            "label": "Video Drone Operator",
+            "artists": [
+                {
+                    "api_path": "/artists/3912118",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912118,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raul Aguilera",
+                    "url": "https://genius.com/artists/Raul-aguilera"
+                }
+            ]
+        },
+        {
+            "label": "Video Camera Operator",
+            "artists": [
+                {
+                    "api_path": "/artists/1911735",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1911735,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Xavi Guillen",
+                    "url": "https://genius.com/artists/Xavi-guillen"
+                }
+            ]
+        },
+        {
+            "label": "Video Digital Imaging Technician",
+            "artists": [
+                {
+                    "api_path": "/artists/3912117",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912117,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pablo de Val",
+                    "url": "https://genius.com/artists/Pablo-de-val"
+                }
+            ]
+        },
+        {
+            "label": "Video Assist Operator",
+            "artists": [
+                {
+                    "api_path": "/artists/1471363",
+                    "header_image_url": "https://images.genius.com/2b076eecea37dd00ea60a3c1c2f46911.795x200x1.jpg",
+                    "id": 1471363,
+                    "image_url": "https://images.genius.com/f20a3deb0a6772f7e33a340b6287a649.526x526x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Garcia",
+                    "url": "https://genius.com/artists/Dani-garcia"
+                }
+            ]
+        },
+        {
+            "label": "Video Clapper Loader",
+            "artists": [
+                {
+                    "api_path": "/artists/1055843",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1055843,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ana S\u00e1nchez",
+                    "url": "https://genius.com/artists/Ana-sanchez"
+                },
+                {
+                    "api_path": "/artists/3912116",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912116,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anna Albiac",
+                    "url": "https://genius.com/artists/Anna-albiac"
+                }
+            ]
+        },
+        {
+            "label": "Video Focus Puller",
+            "artists": [
+                {
+                    "api_path": "/artists/1978843",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1978843,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "H\u00e9ctor Juli\u00e1n",
+                    "url": "https://genius.com/artists/Hector-julian"
+                },
+                {
+                    "api_path": "/artists/3731939",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3731939,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Gallardo",
+                    "url": "https://genius.com/artists/Dani-gallardo"
+                },
+                {
+                    "api_path": "/artists/1525574",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1525574,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ra\u00fal Mulas",
+                    "url": "https://genius.com/artists/Raul-mulas"
+                }
+            ]
+        },
+        {
+            "label": "Video Location Manager",
+            "artists": [
+                {
+                    "api_path": "/artists/3912115",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912115,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Ceballos",
+                    "url": "https://genius.com/artists/David-ceballos"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/2883558",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2883558,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mart\u00ed M\u00e9ndez",
+                    "url": "https://genius.com/artists/Marti-mendez"
+                },
+                {
+                    "api_path": "/artists/2883559",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2883559,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marta Mur",
+                    "url": "https://genius.com/artists/Marta-mur"
+                }
+            ]
+        },
+        {
+            "label": "Video Post-Production Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/1216858",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1216858,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julia Parks",
+                    "url": "https://genius.com/artists/Julia-parks"
+                }
+            ]
+        },
+        {
+            "label": "Video Colorist",
+            "artists": [
+                {
+                    "api_path": "/artists/2651504",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2651504,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Masick",
+                    "url": "https://genius.com/artists/Tim-masick"
+                }
+            ]
+        },
+        {
+            "label": "Video Casting Team",
+            "artists": [
+                {
+                    "api_path": "/artists/2883558",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2883558,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mart\u00ed M\u00e9ndez",
+                    "url": "https://genius.com/artists/Marti-mendez"
+                },
+                {
+                    "api_path": "/artists/3912106",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912106,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alba Sobrepera",
+                    "url": "https://genius.com/artists/Alba-sobrepera"
+                },
+                {
+                    "api_path": "/artists/3912112",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912112,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sam Vazquez",
+                    "url": "https://genius.com/artists/Sam-vazquez"
+                },
+                {
+                    "api_path": "/artists/3912113",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912113,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Max Cargnello",
+                    "url": "https://genius.com/artists/Max-cargnello"
+                },
+                {
+                    "api_path": "/artists/3912114",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912114,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alicia & Pablo Casting",
+                    "url": "https://genius.com/artists/Alicia-and-pablo-casting"
+                }
+            ]
+        },
+        {
+            "label": "Video Hair Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/3893700",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3893700,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peter Lux",
+                    "url": "https://genius.com/artists/Peter-lux"
+                }
+            ]
+        },
+        {
+            "label": "Video Makeup Artist",
+            "artists": [
+                {
+                    "api_path": "/artists/3912111",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912111,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Katie Jane Hughes",
+                    "url": "https://genius.com/artists/Katie-jane-hughes"
+                }
+            ]
+        },
+        {
+            "label": "Video Choreographer",
+            "artists": [
+                {
+                    "api_path": "/artists/1349838",
+                    "header_image_url": "https://images.genius.com/2476701edbc461d0ad1ef848ef4c7414.1000x333x1.jpg",
+                    "id": 1349838,
+                    "image_url": "https://images.genius.com/3f859c0ddb9d546f6b508149db2bf0c2.980x980x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charm La\u2019Donna",
+                    "url": "https://genius.com/artists/Charm-ladonna"
+                },
+                {
+                    "api_path": "/artists/3017844",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3017844,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sharon June",
+                    "url": "https://genius.com/artists/Sharon-june"
+                },
+                {
+                    "api_path": "/artists/3017841",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3017841,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammi Lee Jayne",
+                    "url": "https://genius.com/artists/Sammi-lee-jayne"
+                },
+                {
+                    "api_path": "/artists/3912110",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912110,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paula Alcorta Hojas",
+                    "url": "https://genius.com/artists/Paula-alcorta-hojas"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1818913",
+                    "header_image_url": "https://images.genius.com/87e56365e36575aa9aeec0c4ad96cc6c.1000x935x1.png",
+                    "id": 1818913,
+                    "image_url": "https://images.genius.com/3c982b85df37e14154386e04af9733a9.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carlos Font Clos",
+                    "url": "https://genius.com/artists/Carlos-font-clos"
+                }
+            ]
+        },
+        {
+            "label": "Video 1st Assistant Director",
+            "artists": [
+                {
+                    "api_path": "/artists/3912108",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912108,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oleksii Smoliar",
+                    "url": "https://genius.com/artists/Oleksii-smoliar"
+                },
+                {
+                    "api_path": "/artists/3912109",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912109,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Edgar Vicho",
+                    "url": "https://genius.com/artists/Edgar-vicho"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Designer",
+            "artists": [
+                {
+                    "api_path": "/artists/1344506",
+                    "header_image_url": "https://images.genius.com/2b5e7d5715be9546f126034ef8b36194.532x532x1.png",
+                    "id": 1344506,
+                    "image_url": "https://images.genius.com/2b5e7d5715be9546f126034ef8b36194.532x532x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Spencer Graves",
+                    "url": "https://genius.com/artists/Spencer-graves"
+                },
+                {
+                    "api_path": "/artists/2478922",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2478922,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anna Salgado",
+                    "url": "https://genius.com/artists/Anna-salgado"
+                },
+                {
+                    "api_path": "/artists/3731933",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3731933,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Molina",
+                    "url": "https://genius.com/artists/Dani-molina"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/3912103",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912103,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Olivia Moss",
+                    "url": "https://genius.com/artists/Olivia-moss"
+                },
+                {
+                    "api_path": "/artists/3912104",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912104,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Neus Flotats",
+                    "url": "https://genius.com/artists/Neus-flotats"
+                },
+                {
+                    "api_path": "/artists/3912105",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912105,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "J\u00falia Escudero",
+                    "url": "https://genius.com/artists/Julia-escudero"
+                },
+                {
+                    "api_path": "/artists/3912106",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912106,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alba Sobrepera",
+                    "url": "https://genius.com/artists/Alba-sobrepera"
+                },
+                {
+                    "api_path": "/artists/3912107",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912107,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marta del Portillo",
+                    "url": "https://genius.com/artists/Marta-del-portillo"
+                }
+            ]
+        },
+        {
+            "label": "Video Commissioner",
+            "artists": [
+                {
+                    "api_path": "/artists/1117498",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1117498,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Theresa Adebiyi",
+                    "url": "https://genius.com/artists/Theresa-adebiyi"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/1748169",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1748169,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nikita Kuzmenko",
+                    "url": "https://genius.com/artists/Nikita-kuzmenko"
+                }
+            ]
+        },
+        {
+            "label": "Video Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1998353",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1998353,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Underwonder Content",
+                    "url": "https://genius.com/artists/Underwonder-content"
+                },
+                {
+                    "api_path": "/artists/44483",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 44483,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Primo",
+                    "url": "https://genius.com/artists/Primo"
+                },
+                {
+                    "api_path": "/artists/3912102",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3912102,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Karen Saur\u00ed March\u00e1n",
+                    "url": "https://genius.com/artists/Karen-sauri-marchan"
+                },
+                {
+                    "api_path": "/artists/2343967",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2343967,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Abbot",
+                    "url": "https://genius.com/artists/Pete-abbot"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1748170",
+                    "header_image_url": "https://images.genius.com/c43e4cd82166da574617dc0a91d54bce.498x498x1.jpg",
+                    "id": 1748170,
+                    "image_url": "https://images.genius.com/c43e4cd82166da574617dc0a91d54bce.498x498x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tanu Muino",
+                    "url": "https://genius.com/artists/Tanu-muino"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/3001528",
+                    "header_image_url": "https://images.genius.com/b0888be5636477f6dad27e2e5772a381.1000x333x1.jpg",
+                    "id": 3001528,
+                    "image_url": "https://images.genius.com/e1d73929d81873ee134f967d01fa6a88.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records UK",
+                    "url": "https://genius.com/artists/Warner-records-uk"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1023030",
+                    "header_image_url": "https://images.genius.com/9e7adbb225b21e7e308ecf87aa80d0a1.792x792x1.jpg",
+                    "id": 1023030,
+                    "image_url": "https://images.genius.com/9e7adbb225b21e7e308ecf87aa80d0a1.792x792x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Will Quinnell",
+                    "url": "https://genius.com/artists/Will-quinnell"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Sound Effects",
+            "artists": [
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/606741",
+                    "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+                    "id": 606741,
+                    "image_url": "https://images.genius.com/917c3efa8b707ebfccc58536ea5ae03c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Gudwin",
+                    "url": "https://genius.com/artists/Josh-gudwin"
+                }
+            ]
+        },
+        {
+            "label": "Drum Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/210725",
+                    "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+                    "id": 210725,
+                    "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny L Harle",
+                    "url": "https://genius.com/artists/Danny-l-harle"
+                }
+            ]
+        },
+        {
+            "label": "Whistle",
+            "artists": [
+                {
+                    "api_path": "/artists/210725",
+                    "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+                    "id": 210725,
+                    "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny L Harle",
+                    "url": "https://genius.com/artists/Danny-l-harle"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/210725",
+                    "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+                    "id": 210725,
+                    "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny L Harle",
+                    "url": "https://genius.com/artists/Danny-l-harle"
+                },
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/210725",
+                    "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+                    "id": 210725,
+                    "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny L Harle",
+                    "url": "https://genius.com/artists/Danny-l-harle"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/210725",
+                    "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+                    "id": 210725,
+                    "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny L Harle",
+                    "url": "https://genius.com/artists/Danny-l-harle"
+                },
+                {
+                    "api_path": "/artists/44430",
+                    "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+                    "id": 44430,
+                    "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Parker",
+                    "url": "https://genius.com/artists/Kevin-parker"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/198492",
+                    "header_image_url": "https://images.genius.com/406abf0c9d060f38d200ca405d3fdb67.450x450x1.png",
+                    "id": 198492,
+                    "image_url": "https://images.genius.com/f1be92e994e74685355891765b3eaf63.488x488x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Gehringer",
+                    "url": "https://genius.com/artists/Chris-gehringer"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1053373",
+                    "header_image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "id": 1053373,
+                    "image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cameron Gower Poole",
+                    "url": "https://genius.com/artists/Cameron-gower-poole"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3001528",
+                    "header_image_url": "https://images.genius.com/b0888be5636477f6dad27e2e5772a381.1000x333x1.jpg",
+                    "id": 3001528,
+                    "image_url": "https://images.genius.com/e1d73929d81873ee134f967d01fa6a88.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records UK",
+                    "url": "https://genius.com/artists/Warner-records-uk"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3843861",
+                    "header_image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "id": 3843861,
+                    "image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Radical22",
+                    "url": "https://genius.com/artists/Radical22"
+                },
+                {
+                    "api_path": "/artists/3001528",
+                    "header_image_url": "https://images.genius.com/b0888be5636477f6dad27e2e5772a381.1000x333x1.jpg",
+                    "id": 3001528,
+                    "image_url": "https://images.genius.com/e1d73929d81873ee134f967d01fa6a88.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records UK",
+                    "url": "https://genius.com/artists/Warner-records-uk"
+                },
+                {
+                    "api_path": "/artists/2545028",
+                    "header_image_url": "https://images.genius.com/83aa4744f9bc9899ff663cba0e5d535d.1000x1000x1.jpg",
+                    "id": 2545028,
+                    "image_url": "https://images.genius.com/83aa4744f9bc9899ff663cba0e5d535d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music UK",
+                    "url": "https://genius.com/artists/Warner-music-uk"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3843861",
+                    "header_image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "id": 3843861,
+                    "image_url": "https://images.genius.com/2bf3d3388e4691c88ce9e7433dc3675b.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Radical22",
+                    "url": "https://genius.com/artists/Radical22"
+                },
+                {
+                    "api_path": "/artists/3001528",
+                    "header_image_url": "https://images.genius.com/b0888be5636477f6dad27e2e5772a381.1000x333x1.jpg",
+                    "id": 3001528,
+                    "image_url": "https://images.genius.com/e1d73929d81873ee134f967d01fa6a88.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records UK",
+                    "url": "https://genius.com/artists/Warner-records-uk"
+                },
+                {
+                    "api_path": "/artists/2545028",
+                    "header_image_url": "https://images.genius.com/83aa4744f9bc9899ff663cba0e5d535d.1000x1000x1.jpg",
+                    "id": 2545028,
+                    "image_url": "https://images.genius.com/83aa4744f9bc9899ff663cba0e5d535d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music UK",
+                    "url": "https://genius.com/artists/Warner-music-uk"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21079010,
+        "annotator_login": "APerfectContradiction",
+        "api_path": "/referents/31425265",
+        "classification": "unreviewed",
+        "fragment": "Illusion",
+        "id": 31425265,
+        "is_description": true,
+        "path": "/31425265/Dua-lipa-illusion/Illusion",
+        "range": {
+            "content": "Illusion"
+        },
+        "song_id": 10162263,
+        "url": "https://genius.com/31425265/Dua-lipa-illusion/Illusion",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10162263",
+            "client_timestamps": {
+                "updated_by_human_at": 1730307942,
+                "lyrics_updated_at": 1728508076
+            },
+            "context": "Dua Lipa",
+            "id": 10162263,
+            "image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+            "link_title": "Illusion by\u00a0Dua\u00a0Lipa",
+            "title": "Illusion",
+            "type": "Song",
+            "url": "https://genius.com/Dua-lipa-illusion-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31425265",
+                "body": {
+                    "plain": "On \u201cIllusion\u201d, Dua Lipa rejects falling for an \u201cillusion\u201d, a personality fa\u00e7ade created by someone trying to deceive her, despite being able to see through this, she is choosing to see the situation as amusing.\n\nThe music video was filmed at the Piscina Municipal de Montju\u00efc in Barcelona, which hosted diving and water polo events at the 1992 Summer Olympics.\n\nSpeaking to Zane Lowe for Apple Music, Lipa revealed that \u201cIllusion\u201d was the first song written for Radical Optimism."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31425265,
+                "pinned": false,
+                "share_url": "https://genius.com/31425265",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31425265/Dua-lipa-illusion/Illusion",
+                "verified": false,
+                "votes_total": 13,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21079010",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/lfhnz71npop",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/lfhnz71npop",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/lfhnz71npop",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/lfhnz71npop",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/3f365cdd0ecc29d2c2e21d4a66a798d0d0dd3d47c6a17dc146236e79778f26e7%2Fme11lh976hm",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21079010,
+                            "iq": 26265,
+                            "login": "APerfectContradiction",
+                            "name": "APerfectContradiction",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/APerfectContradiction",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "dualipa",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/dualipa/illusion"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=a9cyG_yfh1k"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/210725",
+            "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+            "id": 210725,
+            "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Danny L Harle",
+            "url": "https://genius.com/artists/Danny-l-harle"
+        },
+        {
+            "api_path": "/artists/44430",
+            "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+            "id": 44430,
+            "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kevin Parker",
+            "url": "https://genius.com/artists/Kevin-parker"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10270471",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Instrumental) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10270471,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-instrumental-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Instrumental)",
+                    "title_with_featured": "Illusion (Instrumental)",
+                    "url": "https://genius.com/Dua-lipa-illusion-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10270488",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Acapella) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10270488,
+                    "lyrics_owner_id": 7206332,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-acapella-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-acapella-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Acapella)",
+                    "title_with_featured": "Illusion (Acapella)",
+                    "url": "https://genius.com/Dua-lipa-illusion-acapella-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10270474",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Extended Instrumental) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10270474,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-extended-instrumental-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-extended-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 11
+                    },
+                    "release_date_for_display": "May 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Extended Instrumental)",
+                    "title_with_featured": "Illusion (Extended Instrumental)",
+                    "url": "https://genius.com/Dua-lipa-illusion-extended-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10449119",
+                    "artist_names": "HUZKY & SM_Cloud",
+                    "full_title": "Illusion by\u00a0HUZKY & SM_Cloud",
+                    "header_image_thumbnail_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.1000x1000x1.png",
+                    "id": 10449119,
+                    "lyrics_owner_id": 15616527,
+                    "lyrics_state": "unreleased",
+                    "path": "/Huzky-and-sm-cloud-illusion-lyrics",
+                    "primary_artist_names": "HUZKY & SM_Cloud",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Huzky-and-sm-cloud-illusion-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion",
+                    "title_with_featured": "Illusion",
+                    "url": "https://genius.com/Huzky-and-sm-cloud-illusion-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3190173",
+                        "header_image_url": "https://images.genius.com/621476f4cead280a57330b81472386c1.1000x264x1.jpg",
+                        "id": 3190173,
+                        "image_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "HUZKY",
+                        "url": "https://genius.com/artists/Huzky"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3190173",
+                            "header_image_url": "https://images.genius.com/621476f4cead280a57330b81472386c1.1000x264x1.jpg",
+                            "id": 3190173,
+                            "image_url": "https://images.genius.com/7f9a963999ecfa5a93c227bbe3b9830b.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "HUZKY",
+                            "url": "https://genius.com/artists/Huzky"
+                        },
+                        {
+                            "api_path": "/artists/3966069",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3966069,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SM_Cloud",
+                            "url": "https://genius.com/artists/Sm-cloud"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11255900",
+                    "artist_names": "KIDZ BOP Kids",
+                    "full_title": "Illusion by\u00a0KIDZ\u00a0BOP Kids",
+                    "header_image_thumbnail_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.1000x1000x1.png",
+                    "id": 11255900,
+                    "lyrics_owner_id": 234923,
+                    "lyrics_state": "complete",
+                    "path": "/Kidz-bop-kids-illusion-lyrics",
+                    "primary_artist_names": "KIDZ BOP Kids",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kidz-bop-kids-illusion-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 17
+                    },
+                    "release_date_for_display": "January 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion",
+                    "title_with_featured": "Illusion",
+                    "url": "https://genius.com/Kidz-bop-kids-illusion-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/353676",
+                        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                        "id": 353676,
+                        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KIDZ BOP Kids",
+                        "url": "https://genius.com/artists/Kidz-bop-kids"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/353676",
+                            "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                            "id": 353676,
+                            "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "KIDZ BOP Kids",
+                            "url": "https://genius.com/artists/Kidz-bop-kids"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Dua-lipa-illusion-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10270513",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Extended) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/7d4b6e4225815f49dd89df9322493733.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7d4b6e4225815f49dd89df9322493733.1000x1000x1.png",
+                    "id": 10270513,
+                    "lyrics_owner_id": 14649386,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-extended-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-extended-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7d4b6e4225815f49dd89df9322493733.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7d4b6e4225815f49dd89df9322493733.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 5190
+                    },
+                    "title": "Illusion (Extended)",
+                    "title_with_featured": "Illusion (Extended)",
+                    "url": "https://genius.com/Dua-lipa-illusion-extended-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10550955",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (The Blaze Remix) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/ce17f11c21592fc17d93a1970de09b2a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ce17f11c21592fc17d93a1970de09b2a.1000x1000x1.png",
+                    "id": 10550955,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-the-blaze-remix-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-the-blaze-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 21
+                    },
+                    "release_date_for_display": "June 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ce17f11c21592fc17d93a1970de09b2a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ce17f11c21592fc17d93a1970de09b2a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (The Blaze Remix)",
+                    "title_with_featured": "Illusion (The Blaze Remix)",
+                    "url": "https://genius.com/Dua-lipa-illusion-the-blaze-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10515815",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Regard Remix) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/425fc9b9f05d1d8dd802083251cfc6a9.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/425fc9b9f05d1d8dd802083251cfc6a9.1000x1000x1.png",
+                    "id": 10515815,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-regard-remix-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-regard-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/425fc9b9f05d1d8dd802083251cfc6a9.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/425fc9b9f05d1d8dd802083251cfc6a9.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Regard Remix)",
+                    "title_with_featured": "Illusion (Regard Remix)",
+                    "url": "https://genius.com/Dua-lipa-illusion-regard-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10502174",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Remix) [Mixed] by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "id": 10502174,
+                    "lyrics_owner_id": 11677218,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-remix-mixed-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Remix) [Mixed]",
+                    "title_with_featured": "Illusion (Remix) [Mixed]",
+                    "url": "https://genius.com/Dua-lipa-illusion-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10717624",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Honey Dijon Remix) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/ea60b03e741232e7efaadb45a21931b9.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ea60b03e741232e7efaadb45a21931b9.1000x1000x1.png",
+                    "id": 10717624,
+                    "lyrics_owner_id": 21824474,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-honey-dijon-remix-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-honey-dijon-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 2
+                    },
+                    "release_date_for_display": "August 2, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ea60b03e741232e7efaadb45a21931b9.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ea60b03e741232e7efaadb45a21931b9.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Honey Dijon Remix)",
+                    "title_with_featured": "Illusion (Honey Dijon Remix)",
+                    "url": "https://genius.com/Dua-lipa-illusion-honey-dijon-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10689719",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Creepy Nuts Remix) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/c34ef8da9c70934ce46215d6224e01d5.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c34ef8da9c70934ce46215d6224e01d5.1000x1000x1.png",
+                    "id": 10689719,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-creepy-nuts-remix-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-creepy-nuts-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 26
+                    },
+                    "release_date_for_display": "July 26, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 26, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c34ef8da9c70934ce46215d6224e01d5.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c34ef8da9c70934ce46215d6224e01d5.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Creepy Nuts Remix)",
+                    "title_with_featured": "Illusion (Creepy Nuts Remix)",
+                    "url": "https://genius.com/Dua-lipa-illusion-creepy-nuts-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10662035",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Logic1000 Remix) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/7703fdc2c3bb96b49b3856567878ae5a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7703fdc2c3bb96b49b3856567878ae5a.1000x1000x1.png",
+                    "id": 10662035,
+                    "lyrics_owner_id": 7206332,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-logic1000-remix-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-logic1000-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7703fdc2c3bb96b49b3856567878ae5a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7703fdc2c3bb96b49b3856567878ae5a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Logic1000 Remix)",
+                    "title_with_featured": "Illusion (Logic1000 Remix)",
+                    "url": "https://genius.com/Dua-lipa-illusion-logic1000-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11449958",
+                    "artist_names": "Beyonc\u00e9, Dua Lipa & Lady Gaga",
+                    "full_title": "RIIVERDANCE / Illusion / Replay (Mixed) by\u00a0Beyonc\u00e9, Dua\u00a0Lipa & Lady\u00a0Gaga",
+                    "header_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "id": 11449958,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9, Dua Lipa & Lady Gaga",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 29
+                    },
+                    "release_date_for_display": "January 29, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 29, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "RIIVERDANCE / Illusion / Replay (Mixed)",
+                    "title_with_featured": "RIIVERDANCE / Illusion / Replay (Mixed)",
+                    "url": "https://genius.com/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        },
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        },
+                        {
+                            "api_path": "/artists/447",
+                            "header_image_url": "https://images.genius.com/dcb6db2009e0380234f8efc8b1bce505.1000x370x1.png",
+                            "id": 447,
+                            "image_url": "https://images.genius.com/3cabe9f21c01e9758d908e30fc1cd772.1000x1000x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Lady Gaga",
+                            "url": "https://genius.com/artists/Lady-gaga",
+                            "iq": 2700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10340829",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (London Sessions) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/198bcb129747f0a14cc68abf05991fc0.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/198bcb129747f0a14cc68abf05991fc0.1000x1000x1.png",
+                    "id": 10340829,
+                    "lyrics_owner_id": 15893930,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-london-sessions-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-london-sessions-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 8
+                    },
+                    "release_date_for_display": "May 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/198bcb129747f0a14cc68abf05991fc0.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/198bcb129747f0a14cc68abf05991fc0.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (London Sessions)",
+                    "title_with_featured": "Illusion (London Sessions)",
+                    "url": "https://genius.com/Dua-lipa-illusion-london-sessions-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11133187",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Illusion (Live from the Royal Albert Hall) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/bfd26f28748e8245b204a62c3d55c4f7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/bfd26f28748e8245b204a62c3d55c4f7.1000x1000x1.png",
+                    "id": 11133187,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-illusion-live-from-the-royal-albert-hall-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-illusion-live-from-the-royal-albert-hall-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/bfd26f28748e8245b204a62c3d55c4f7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/bfd26f28748e8245b204a62c3d55c4f7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Illusion (Live from the Royal Albert Hall)",
+                    "title_with_featured": "Illusion (Live from the Royal Albert Hall)",
+                    "url": "https://genius.com/Dua-lipa-illusion-live-from-the-royal-albert-hall-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Dua-lipa-illusion-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10271413",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Dua Lipa - Illusion (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10271413,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-dua-lipa-illusion-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-dua-lipa-illusion-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Terjemahan Indonesia)",
+                    "title_with_featured": "Dua Lipa - Illusion (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-dua-lipa-illusion-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/10261351",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Dua Lipa - Illusion (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10261351,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-dua-lipa-illusion-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-illusion-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Dua Lipa - Illusion (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-illusion-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10257991",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Dua Lipa - Illusion (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/6fd5cf8b2a77e431d9da7edcc868eb27.300x302x1.png",
+                    "header_image_url": "https://images.genius.com/6fd5cf8b2a77e431d9da7edcc868eb27.828x834x1.png",
+                    "id": 10257991,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-arabic-translations-dua-lipa-illusion-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-dua-lipa-illusion-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6fd5cf8b2a77e431d9da7edcc868eb27.300x302x1.png",
+                    "song_art_image_url": "https://images.genius.com/6fd5cf8b2a77e431d9da7edcc868eb27.828x834x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Dua Lipa - Illusion (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-dua-lipa-illusion-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10161740",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Dua Lipa - Illusion (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10161740,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-dua-lipa-illusion-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-illusion-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Dua Lipa - Illusion (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-illusion-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10166148",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Dua Lipa - Illusion (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10166148,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-dua-lipa-illusion-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-illusion-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 3
+                    },
+                    "release_date_for_display": "May 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Dua Lipa - Illusion (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-illusion-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10275028",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Dua Lipa - Illusion (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10275028,
+                    "lyrics_owner_id": 314336,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-dua-lipa-illusion-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-dua-lipa-illusion-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    },
+                    "release_date_for_display": "April 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Dua Lipa - Illusion (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-dua-lipa-illusion-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10271308",
+                    "artist_names": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "full_title": "Dua Lipa - Illusion (\u4e2d\u6587\u7ffb\u8b6f \u2013 Traditional) by\u00a0Genius\u00a0Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10271308,
+                    "lyrics_owner_id": 21758464,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-chinese-translations-dua-lipa-illusion-traditional-lyrics",
+                    "primary_artist_names": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-chinese-translations-dua-lipa-illusion-traditional-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (\u4e2d\u6587\u7ffb\u8b6f \u2013 Traditional)",
+                    "title_with_featured": "Dua Lipa - Illusion (\u4e2d\u6587\u7ffb\u8b6f \u2013 Traditional)",
+                    "url": "https://genius.com/Genius-chinese-translations-dua-lipa-illusion-traditional-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2738802",
+                        "header_image_url": "https://images.genius.com/1ff18f489c7e258ce050420b0dbd2021.440x440x1.png",
+                        "id": 2738802,
+                        "image_url": "https://images.genius.com/51410751bcf9dd72c4ca84f3bf11251d.800x800x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                        "url": "https://genius.com/artists/Genius-chinese-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2738802",
+                            "header_image_url": "https://images.genius.com/1ff18f489c7e258ce050420b0dbd2021.440x440x1.png",
+                            "id": 2738802,
+                            "image_url": "https://images.genius.com/51410751bcf9dd72c4ca84f3bf11251d.800x800x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                            "url": "https://genius.com/artists/Genius-chinese-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10161428",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Dua Lipa - Illusion (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10161428,
+                    "lyrics_owner_id": 20155240,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-dua-lipa-illusion-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-illusion-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Traduzione Italiana)",
+                    "title_with_featured": "Dua Lipa - Illusion (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-illusion-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10165162",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Dua Lipa - Illusion (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/e0949a8a9b9ac0978002de5e07501307.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e0949a8a9b9ac0978002de5e07501307.340x340x1.png",
+                    "id": 10165162,
+                    "lyrics_owner_id": 12735385,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-dua-lipa-illusion-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-dua-lipa-illusion-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 3
+                    },
+                    "release_date_for_display": "May 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e0949a8a9b9ac0978002de5e07501307.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e0949a8a9b9ac0978002de5e07501307.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Dua Lipa - Illusion (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-dua-lipa-illusion-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10162232",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Dua Lipa - Illusion (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10162232,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-dua-lipa-illusion-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-illusion-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Dua Lipa - Illusion (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-illusion-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10353626",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Dua Lipa - Illusion (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "id": 10353626,
+                    "lyrics_owner_id": 21179342,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-dua-lipa-illusion-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-dua-lipa-illusion-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 11
+                    },
+                    "release_date_for_display": "April 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35cbce0733040c16d0d6b1a6df978416.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Illusion (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Dua Lipa - Illusion (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-dua-lipa-illusion-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10271413",
+            "id": 10271413,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-dua-lipa-illusion-terjemahan-indonesia-lyrics",
+            "title": "Dua Lipa - Illusion (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-dua-lipa-illusion-terjemahan-indonesia-lyrics"
+        },
+        {
+            "api_path": "/songs/10261351",
+            "id": 10261351,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-dua-lipa-illusion-polskie-tumaczenie-lyrics",
+            "title": "Dua Lipa - Illusion (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-illusion-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10257991",
+            "id": 10257991,
+            "language": "ar",
+            "lyrics_state": "complete",
+            "path": "/Genius-arabic-translations-dua-lipa-illusion-lyrics",
+            "title": "Dua Lipa - Illusion (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-dua-lipa-illusion-lyrics"
+        },
+        {
+            "api_path": "/songs/10161740",
+            "id": 10161740,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-dua-lipa-illusion-traduccion-al-espanol-lyrics",
+            "title": "Dua Lipa - Illusion (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-illusion-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10166148",
+            "id": 10166148,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-dua-lipa-illusion-deutsche-ubersetzung-lyrics",
+            "title": "Dua Lipa - Illusion (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-illusion-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10275028",
+            "id": 10275028,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-dua-lipa-illusion-traduction-francaise-lyrics",
+            "title": "Dua Lipa - Illusion (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-dua-lipa-illusion-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10271308",
+            "id": 10271308,
+            "language": "zh-Hant",
+            "lyrics_state": "complete",
+            "path": "/Genius-chinese-translations-dua-lipa-illusion-traditional-lyrics",
+            "title": "Dua Lipa - Illusion (\u4e2d\u6587\u7ffb\u8b6f \u2013 Traditional)",
+            "url": "https://genius.com/Genius-chinese-translations-dua-lipa-illusion-traditional-lyrics"
+        },
+        {
+            "api_path": "/songs/10161428",
+            "id": 10161428,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-dua-lipa-illusion-traduzione-italiana-lyrics",
+            "title": "Dua Lipa - Illusion (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-illusion-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10165162",
+            "id": 10165162,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-dua-lipa-illusion-turkce-ceviri-lyrics",
+            "title": "Dua Lipa - Illusion (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-dua-lipa-illusion-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10162232",
+            "id": 10162232,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-dua-lipa-illusion-traducao-em-portugues-lyrics",
+            "title": "Dua Lipa - Illusion (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-illusion-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10353626",
+            "id": 10353626,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-dua-lipa-illusion-lyrics",
+            "title": "Dua Lipa - Illusion (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-dua-lipa-illusion-lyrics"
+        },
+        {
+            "api_path": "/songs/10348161",
+            "id": 10348161,
+            "language": "iw",
+            "lyrics_state": "incomplete",
+            "path": "/Genius-hebrew-translations-dua-lipa-illusion-lyrics",
+            "title": "Dua Lipa - Illusion (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+            "url": "https://genius.com/Genius-hebrew-translations-dua-lipa-illusion-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        },
+        {
+            "api_path": "/artists/619133",
+            "header_image_url": "https://images.genius.com/38c6f4dc0b4d01007ce2628c43926117.1000x990x1.png",
+            "id": 619133,
+            "image_url": "https://images.genius.com/e13ffbac832939258c0cb3d733362a54.645x645x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Caroline Ailin",
+            "url": "https://genius.com/artists/Caroline-ailin"
+        },
+        {
+            "api_path": "/artists/246245",
+            "header_image_url": "https://images.genius.com/c9d818c21da8a39bd98b957b97a7cc67.600x600x1.jpg",
+            "id": 246245,
+            "image_url": "https://images.genius.com/c9d818c21da8a39bd98b957b97a7cc67.600x600x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tobias Jesso Jr.",
+            "url": "https://genius.com/artists/Tobias-jesso-jr"
+        },
+        {
+            "api_path": "/artists/44430",
+            "header_image_url": "https://images.genius.com/a24530ef13eb09357a36cabe7f117c78.640x360x1.png",
+            "id": 44430,
+            "image_url": "https://images.genius.com/f1ee2799212ae8885a5dbf11b5bfa8af.822x822x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kevin Parker",
+            "url": "https://genius.com/artists/Kevin-parker"
+        },
+        {
+            "api_path": "/artists/210725",
+            "header_image_url": "https://images.genius.com/e10013e57620e1302ba371fa52492524.1000x564x1.jpg",
+            "id": 210725,
+            "image_url": "https://images.genius.com/8b59fac5f10f49e203ce06264a4b4175.982x982x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Danny L Harle",
+            "url": "https://genius.com/artists/Danny-l-harle"
+        }
+    ],
+    "artist": "Dua Lipa",
+    "lyrics": "49 ContributorsTranslationsBahasa IndonesiaPolski\u0627\u0644\u0639\u0631\u0628\u064a\u0629Espa\u00f1olDeutschFran\u00e7ais\u7e41\u9ad4\u4e2d\u6587 (Traditional Chinese)ItalianoT\u00fcrk\u00e7ePortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)Illusion Lyrics\nI been known to miss a red flag\nI been known to put my lover on a pedestal\nIn the end, those things just don't last\nAnd it's time I take my rose-coloured glasses off\n\nI already know your type, tellin' me the things I like (Mm)\nTryna make me yours for life, takin' me for a ride (Mm)\nI already know your type, think you play your cards right (Mm)\nDon't you know I could do this dance all night?\n\nOoh, what you doin'?\nDon't know who you think that you're confusin'\nI be like, ooh, it's amusin'\nYou think I'm gonna fall for an illusion\n\nDance all night, dance all night\nDance all night, dance all night (I be like, ooh)\nDance all night, dance all night\nDance all night, dance, dance\n\nWas a time when that shit might've worked\nWas a time when I just threw a match and let it burn\nNow I'm grown, I know what I deserve\nI still like dancin' with the lessons I already learned\n\nI already know your type, tellin' me the things I like (Mm)\nTryna make me yours for life, takin' me for a ride (Mm)\nI already know your type, think you play your cards right (Mm)\nDon't you know I could do this dance all night?\n\nOoh, what you doin'?\nDon't know who you think that you're confusin'\nI be like, ooh, it's amusin'\nYou think I'm gonna fall for an illusion\n\nDance all night, dance all night\nDance all night, dance all night (I be like, ooh)\nDance all night, dance all night\nDance all night, dance, dance\n\nIllusion\nI really like the way you're movin'\nYeah, I just wanna dance with the illusion\nYeah, I just wanna dance with\nYeah, I just wanna dance with\nI could dance all night (Woo)\n(Dance all night)\n(Ooh-ooh-ooh-ooh)\n\nOoh, what you doin'?\nDon't know who you think that you're confusin'\nI be like, ooh, it's amusin'\nYou think I'm gonna fall for an illu\u2014 (Illusion)\nOoh-ooh, what you doin'?\nDon't know who you think that you're confusin'\nI be like, ooh, it's amusin' (Illusion, illusion, illusion, illusion)\nYou think I'm gonna fall for an illusion"
+}

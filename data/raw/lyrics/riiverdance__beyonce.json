@@ -1,0 +1,1584 @@
+{
+    "_type": "song",
+    "annotation_count": 26,
+    "api_path": "/songs/10212128",
+    "artist_names": "Beyonc\u00e9",
+    "full_title": "RIIVERDANCE by\u00a0Beyonc\u00e9",
+    "header_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "id": 10212128,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747150369,
+    "path": "/Beyonce-riiverdance-lyrics",
+    "primary_artist_names": "Beyonc\u00e9",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Beyonce-riiverdance-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 29
+    },
+    "release_date_for_display": "March 29, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 52,
+        "iq_earners": 52,
+        "transcribers": 4,
+        "unreviewed_annotations": 26,
+        "verified_annotations": 0,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 148297
+    },
+    "title": "RIIVERDANCE",
+    "title_with_featured": "RIIVERDANCE",
+    "updated_by_human_at": 1747150369,
+    "url": "https://genius.com/Beyonce-riiverdance-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/498",
+        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+        "id": 498,
+        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beyonc\u00e9",
+        "url": "https://genius.com/artists/Beyonce"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        }
+    ],
+    "apple_music_id": "1738371159",
+    "apple_music_player_url": "https://genius.com/songs/10212128/apple_music_player",
+    "description": {
+        "plain": "In RIIVERDANCE, Beyonc\u00e9 brings a classic Country instrument devised by Dolly Parton, using fingernails as percussion, to generate a classic track that mixes with Beyonc\u00e9\u2019s usual music, inviting you to love, dance and move freely."
+    },
+    "embed_content": "<div id='rg_embed_link_10212128' class='rg_embed_link' data-song-id='10212128'>Read <a href='https://genius.com/Beyonce-riiverdance-lyrics'>\u201cRIIVERDANCE\u201d by Beyonc\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/10212128/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Westlake Recording Studios (Los Angeles, CA)",
+    "release_date": "2024-03-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dcdcd9",
+    "song_art_secondary_color": "#7e7d7c",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1043786",
+        "cover_art_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+        "full_title": "COWBOY CARTER by Beyonc\u00e9",
+        "id": 1043786,
+        "name": "COWBOY CARTER",
+        "primary_artist_names": "Beyonc\u00e9",
+        "release_date_for_display": "March 29, 2024",
+        "url": "https://genius.com/albums/Beyonce/Cowboy-carter",
+        "artist": {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/498",
+                "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                "id": 498,
+                "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Beyonc\u00e9",
+                "url": "https://genius.com/artists/Beyonce"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1189403",
+                    "header_image_url": "https://images.genius.com/92ffbd394fa7f8aa0894726b78dea144.1000x333x1.jpg",
+                    "id": 1189403,
+                    "image_url": "https://images.genius.com/e1c0053459c0a02dcf96e3b8a4f4c0b1.387x387x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SING Mastering",
+                    "url": "https://genius.com/artists/Sing-mastering"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/3048068",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3048068,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Canton House Studios",
+                    "url": "https://genius.com/artists/Canton-house-studios"
+                }
+            ]
+        },
+        {
+            "label": "Sound Effects",
+            "artists": [
+                {
+                    "api_path": "/artists/1788207",
+                    "header_image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "id": 1788207,
+                    "image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Khirye Tyler",
+                    "url": "https://genius.com/artists/Khirye-tyler"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1464579",
+                    "header_image_url": "https://images.genius.com/6fa3cf0ac1bc66f73ec1c6cba929422d.600x600x1.jpg",
+                    "id": 1464579,
+                    "image_url": "https://images.genius.com/6fa3cf0ac1bc66f73ec1c6cba929422d.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jacob Richards",
+                    "url": "https://genius.com/artists/Jacob-richards"
+                },
+                {
+                    "api_path": "/artists/3836173",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3836173,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Bhikoo",
+                    "url": "https://genius.com/artists/Chris-bhikoo"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2259918",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2259918,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oakland 13 Music",
+                    "url": "https://genius.com/artists/Oakland-13-music"
+                },
+                {
+                    "api_path": "/artists/647962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 647962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "2082 Music Publishing",
+                    "url": "https://genius.com/artists/2082-music-publishing"
+                },
+                {
+                    "api_path": "/artists/1011919",
+                    "header_image_url": "https://images.genius.com/f908865052a20f4b98598bff88765a73.1000x1000x1.png",
+                    "id": 1011919,
+                    "image_url": "https://images.genius.com/f890a617f1f954d942b094d2ac1a7381.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BMG",
+                    "url": "https://genius.com/artists/Bmg"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/1152704",
+                    "header_image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "id": 1152704,
+                    "image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner/Chappell",
+                    "url": "https://genius.com/artists/Warner-chappell"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/589828",
+                    "header_image_url": "https://images.genius.com/8010c397402a269e4c0c3def2edc7267.1000x667x1.png",
+                    "id": 589828,
+                    "image_url": "https://images.genius.com/46c5f3a739690651ba01154cc0b9e590.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jaycen Joshua",
+                    "url": "https://genius.com/artists/Jaycen-joshua"
+                },
+                {
+                    "api_path": "/artists/1498283",
+                    "header_image_url": "https://images.genius.com/8e7feebcc7b5daed99c9cdb8909368a8.594x594x1.png",
+                    "id": 1498283,
+                    "image_url": "https://images.genius.com/8e7feebcc7b5daed99c9cdb8909368a8.594x594x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Seaberg",
+                    "url": "https://genius.com/artists/Mike-seaberg"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            ]
+        },
+        {
+            "label": "Additional Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1013305",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1013305,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Harding",
+                    "url": "https://genius.com/artists/Brandon-harding"
+                },
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                },
+                {
+                    "api_path": "/artists/1788207",
+                    "header_image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "id": 1788207,
+                    "image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Khirye Tyler",
+                    "url": "https://genius.com/artists/Khirye-tyler"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                },
+                {
+                    "api_path": "/artists/3125989",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3125989,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Sutton",
+                    "url": "https://genius.com/artists/Nick-sutton"
+                },
+                {
+                    "api_path": "/artists/3750310",
+                    "header_image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "id": 3750310,
+                    "image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Terena Dawn",
+                    "url": "https://genius.com/artists/Terena-dawn"
+                },
+                {
+                    "api_path": "/artists/2892322",
+                    "header_image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "id": 2892322,
+                    "image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Lopez Garcia",
+                    "url": "https://genius.com/artists/Jonathan-lopez-garcia"
+                },
+                {
+                    "api_path": "/artists/2083255",
+                    "header_image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "id": 2083255,
+                    "image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick Gardner",
+                    "url": "https://genius.com/artists/Patrick-gardner"
+                },
+                {
+                    "api_path": "/artists/3275496",
+                    "header_image_url": "https://images.genius.com/21b4cece3f89f2a14d05a0a455714665.1000x667x1.jpg",
+                    "id": 3275496,
+                    "image_url": "https://images.genius.com/f4a89df30648b2ea8728a692eb618b6c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Garrett Duncan",
+                    "url": "https://genius.com/artists/Garrett-duncan"
+                },
+                {
+                    "api_path": "/artists/3896714",
+                    "header_image_url": "https://images.genius.com/1b7dd6c0827bdc4642f3f40db0f14306.1000x333x1.jpg",
+                    "id": 3896714,
+                    "image_url": "https://images.genius.com/cdba3cac4c8de75d45d6bff6daca9bc5.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200b\u200b\u200bconjust8",
+                    "url": "https://genius.com/artists/Conjust8"
+                },
+                {
+                    "api_path": "/artists/3899961",
+                    "header_image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "id": 3899961,
+                    "image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danforth Webster",
+                    "url": "https://genius.com/artists/Danforth-webster"
+                },
+                {
+                    "api_path": "/artists/3113960",
+                    "header_image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "id": 3113960,
+                    "image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Dilli",
+                    "url": "https://genius.com/artists/Jeremy-dilli"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1881023",
+                    "header_image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "id": 1881023,
+                    "image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrea Roberts",
+                    "url": "https://genius.com/artists/Andrea-roberts"
+                },
+                {
+                    "api_path": "/artists/661270",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661270,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Cranfield",
+                    "url": "https://genius.com/artists/John-cranfield"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 14763594,
+        "annotator_login": "cjvallezg",
+        "api_path": "/referents/31288498",
+        "classification": "unreviewed",
+        "fragment": "RIIVERDANCE",
+        "id": 31288498,
+        "is_description": true,
+        "path": "/31288498/Beyonce-riiverdance/Riiverdance",
+        "range": {
+            "content": "RIIVERDANCE"
+        },
+        "song_id": 10212128,
+        "url": "https://genius.com/31288498/Beyonce-riiverdance/Riiverdance",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10212128",
+            "client_timestamps": {
+                "updated_by_human_at": 1747150369,
+                "lyrics_updated_at": 1747150369
+            },
+            "context": "Beyonc\u00e9",
+            "id": 10212128,
+            "image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+            "link_title": "RIIVERDANCE by\u00a0Beyonc\u00e9",
+            "title": "RIIVERDANCE",
+            "type": "Song",
+            "url": "https://genius.com/Beyonce-riiverdance-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31288498",
+                "body": {
+                    "plain": "In RIIVERDANCE, Beyonc\u00e9 brings a classic Country instrument devised by Dolly Parton, using fingernails as percussion, to generate a classic track that mixes with Beyonc\u00e9\u2019s usual music, inviting you to love, dance and move freely."
+                },
+                "comment_count": 2,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31288498,
+                "pinned": false,
+                "share_url": "https://genius.com/31288498",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31288498/Beyonce-riiverdance/Riiverdance",
+                "verified": false,
+                "votes_total": 22,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14763594",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/pf5348d6weg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 14763594,
+                            "iq": 778,
+                            "login": "cjvallezg",
+                            "name": "cjvallezg",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/cjvallezg",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/1784922",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/7zhzqhlwtmx",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 1784922,
+        "iq": 11035,
+        "login": "drukqlord",
+        "name": "drukqlord",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/drukqlord",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "beyonce",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/beyonce/beyonce-riiverdance"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=AO8oJ1OHLHU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/1181",
+            "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+            "id": 1181,
+            "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "The-Dream",
+            "url": "https://genius.com/artists/The-dream",
+            "iq": 14277
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11449958",
+                    "artist_names": "Beyonc\u00e9, Dua Lipa & Lady Gaga",
+                    "full_title": "RIIVERDANCE / Illusion / Replay (Mixed) by\u00a0Beyonc\u00e9, Dua\u00a0Lipa & Lady\u00a0Gaga",
+                    "header_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "id": 11449958,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9, Dua Lipa & Lady Gaga",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 29
+                    },
+                    "release_date_for_display": "January 29, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 29, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "RIIVERDANCE / Illusion / Replay (Mixed)",
+                    "title_with_featured": "RIIVERDANCE / Illusion / Replay (Mixed)",
+                    "url": "https://genius.com/Beyonce-dua-lipa-and-lady-gaga-riiverdance-illusion-replay-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        },
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        },
+                        {
+                            "api_path": "/artists/447",
+                            "header_image_url": "https://images.genius.com/dcb6db2009e0380234f8efc8b1bce505.1000x370x1.png",
+                            "id": 447,
+                            "image_url": "https://images.genius.com/3cabe9f21c01e9758d908e30fc1cd772.1000x1000x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Lady Gaga",
+                            "url": "https://genius.com/artists/Lady-gaga",
+                            "iq": 2700
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/11272525",
+                    "artist_names": "Beyonc\u00e9 (Ft. Brittney Spencer, Dolly Parton, Post Malone, Reyna Roberts, Shaboozey, Tanner Adell & Tiera Kennedy)",
+                    "full_title": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance) by\u00a0Beyonc\u00e9 (Ft.\u00a0Brittney\u00a0Spencer, Dolly\u00a0Parton, Post\u00a0Malone, Reyna\u00a0Roberts, Shaboozey, Tanner\u00a0Adell & Tiera\u00a0Kennedy)",
+                    "header_image_thumbnail_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.300x200x1.jpg",
+                    "header_image_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.1000x667x1.jpg",
+                    "id": 11272525,
+                    "lyrics_owner_id": 20845349,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-beyonce-bowl-nfl-halftime-show-performance-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Beyonce-beyonce-bowl-nfl-halftime-show-performance-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 25
+                    },
+                    "release_date_for_display": "December 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.300x200x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.1000x667x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 6516
+                    },
+                    "title": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance)",
+                    "title_with_featured": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance) (Ft.\u00a0Brittney\u00a0Spencer, Dolly\u00a0Parton, Post\u00a0Malone, Reyna\u00a0Roberts, Shaboozey, Tanner\u00a0Adell & Tiera\u00a0Kennedy)",
+                    "url": "https://genius.com/Beyonce-beyonce-bowl-nfl-halftime-show-performance-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1823620",
+                            "header_image_url": "https://images.genius.com/c6dc7545590bca5995868448887a2ba9.826x826x1.jpg",
+                            "id": 1823620,
+                            "image_url": "https://images.genius.com/c6dc7545590bca5995868448887a2ba9.826x826x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brittney Spencer",
+                            "url": "https://genius.com/artists/Brittney-spencer"
+                        },
+                        {
+                            "api_path": "/artists/3064465",
+                            "header_image_url": "https://images.genius.com/128cb47e27d674a59d0b8d3a59385496.620x414x1.jpg",
+                            "id": 3064465,
+                            "image_url": "https://images.genius.com/b85cf1465f3f0a5a7d8f3e19a94d41fe.800x800x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tiera Kennedy",
+                            "url": "https://genius.com/artists/Tiera-kennedy"
+                        },
+                        {
+                            "api_path": "/artists/2333200",
+                            "header_image_url": "https://images.genius.com/1164af8b475fd2ca9a4bf6d89137c073.1000x333x1.jpg",
+                            "id": 2333200,
+                            "image_url": "https://images.genius.com/dbd7106215b0d84dc50c391486aee6e1.415x415x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Reyna Roberts",
+                            "url": "https://genius.com/artists/Reyna-roberts"
+                        },
+                        {
+                            "api_path": "/artists/2835248",
+                            "header_image_url": "https://images.genius.com/48e7105a5e90db5c501a3408de7e3f21.1000x333x1.jpg",
+                            "id": 2835248,
+                            "image_url": "https://images.genius.com/9f42226063eec5fe846c01423dfb4917.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tanner Adell",
+                            "url": "https://genius.com/artists/Tanner-adell"
+                        },
+                        {
+                            "api_path": "/artists/69508",
+                            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                            "id": 69508,
+                            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Shaboozey",
+                            "url": "https://genius.com/artists/Shaboozey"
+                        },
+                        {
+                            "api_path": "/artists/20955",
+                            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                            "id": 20955,
+                            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dolly Parton",
+                            "url": "https://genius.com/artists/Dolly-parton",
+                            "iq": 100
+                        },
+                        {
+                            "api_path": "/artists/326362",
+                            "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+                            "id": 326362,
+                            "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Post Malone",
+                            "url": "https://genius.com/artists/Post-malone",
+                            "iq": 16344
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Beyonce-riiverdance-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10226240",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Beyonc\u00e9 - RIIVERDANCE (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10226240,
+                    "lyrics_owner_id": 14506753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-beyonce-riiverdance-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-beyonce-riiverdance-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - RIIVERDANCE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Beyonc\u00e9 - RIIVERDANCE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-beyonce-riiverdance-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10228418",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Beyonc\u00e9 - RIIVERDANCE (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/0b986fd30f989f222d34b467e86e1970.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0b986fd30f989f222d34b467e86e1970.680x680x1.png",
+                    "id": 10228418,
+                    "lyrics_owner_id": 12239106,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-beyonce-riiverdance-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-beyonce-riiverdance-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0b986fd30f989f222d34b467e86e1970.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0b986fd30f989f222d34b467e86e1970.680x680x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - RIIVERDANCE (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Beyonc\u00e9 - RIIVERDANCE (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-beyonce-riiverdance-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10290570",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Beyonc\u00e9 - RIIVERDANCE (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "id": 10290570,
+                    "lyrics_owner_id": 1025804,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-beyonce-riiverdance-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-riiverdance-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - RIIVERDANCE (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Beyonc\u00e9 - RIIVERDANCE (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-riiverdance-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10260524",
+                    "artist_names": "Genius Nederlandse Vertalingen",
+                    "full_title": "Beyonc\u00e9 - RIIVERDANCE (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "id": 10260524,
+                    "lyrics_owner_id": 8909468,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-nederlandse-vertalingen-beyonce-riiverdance-nederlandse-vertaling-lyrics",
+                    "primary_artist_names": "Genius Nederlandse Vertalingen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-riiverdance-nederlandse-vertaling-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - RIIVERDANCE (Nederlandse Vertaling)",
+                    "title_with_featured": "Beyonc\u00e9 - RIIVERDANCE (Nederlandse Vertaling)",
+                    "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-riiverdance-nederlandse-vertaling-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1805866",
+                        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                        "id": 1805866,
+                        "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Nederlandse Vertalingen",
+                        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1805866",
+                            "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                            "id": 1805866,
+                            "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Nederlandse Vertalingen",
+                            "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10241964",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Beyonc\u00e9 - RIIVERDANCE (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "id": 10241964,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-beyonce-riiverdance-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-riiverdance-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - RIIVERDANCE (Terjemahan Indonesia)",
+                    "title_with_featured": "Beyonc\u00e9 - RIIVERDANCE (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-riiverdance-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10226240",
+            "id": 10226240,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-beyonce-riiverdance-traducao-em-portugues-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-beyonce-riiverdance-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10217036",
+            "id": 10217036,
+            "language": null,
+            "lyrics_state": "incomplete",
+            "path": "/Genius-russian-translations-beyonce-riiverdance-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-beyonce-riiverdance-lyrics"
+        },
+        {
+            "api_path": "/songs/10228418",
+            "id": 10228418,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-beyonce-riiverdance-traduccion-al-espanol-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-beyonce-riiverdance-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10290570",
+            "id": 10290570,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-beyonce-riiverdance-polskie-tumaczenie-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-riiverdance-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10260524",
+            "id": 10260524,
+            "language": "nl",
+            "lyrics_state": "complete",
+            "path": "/Genius-nederlandse-vertalingen-beyonce-riiverdance-nederlandse-vertaling-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (Nederlandse Vertaling)",
+            "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-riiverdance-nederlandse-vertaling-lyrics"
+        },
+        {
+            "api_path": "/songs/10241964",
+            "id": 10241964,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-beyonce-riiverdance-terjemahan-indonesia-lyrics",
+            "title": "Beyonc\u00e9 - RIIVERDANCE (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-riiverdance-terjemahan-indonesia-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/1181",
+            "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+            "id": 1181,
+            "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "The-Dream",
+            "url": "https://genius.com/artists/The-dream",
+            "iq": 14277
+        },
+        {
+            "api_path": "/artists/7709",
+            "header_image_url": "https://images.genius.com/64f25be4817e0d089a9f3e7d4e50f7f1.801x1000x1.jpg",
+            "id": 7709,
+            "image_url": "https://images.genius.com/da1c84ec7b4dbe9d38e9a8896bde041d.935x935x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "RAYE",
+            "url": "https://genius.com/artists/Raye"
+        },
+        {
+            "api_path": "/artists/27472",
+            "header_image_url": "https://images.genius.com/047e8ba8b1b637837167155280d744f4.636x421x1.jpg",
+            "id": 27472,
+            "image_url": "https://images.genius.com/f7a2b1399bdd86a49d198e51f551656e.679x679x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sounwave",
+            "url": "https://genius.com/artists/Sounwave",
+            "iq": 559
+        }
+    ],
+    "artist": "Beyonc\u00e9",
+    "lyrics": "52 ContributorsTranslationsPortugu\u00easBeyonc\u00e9 - RIIVERDANCE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)Espa\u00f1olPolskiNederlandsBahasa IndonesiaRIIVERDANCE Lyrics\nDance, dance, dance, dance\nDance, dance, dance, dance\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nRunnin' through the river\nRunnin' through the river with you, dance (Dance)\nRunnin' through the river\nRunnin' through the river with you, dance (Dance)\n\nStaring down the barrel of his gun\nYes, he shot me down\nI died and someone brought me back to life\nBut never to my senses\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nStaring down the barrel of my gun\nYes, I shot you down\nHe cried the day he realized\nThat lies were hidden in my kisses\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nHe was tangled in my arms\nHe was my mess, my ball of string\nI would give him everything\nMy thunderstorm and second chances\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nRunnin' through the river\nRunnin' through the river with you, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nWe fight but we must make amends\nArrest me and read me my rights\nI plan to steal your heart again\nOn Saturday and Sunday nights\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nWrap me 'round your little finger\nWrap me 'round your wedding ring\nYour words, they take the shape my body makes\nAin't that the scary thing?\n\nBounce on that shit, dance (Oh)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nRunnin' through the river (Dance)\nRunnin' through the river with you, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands\n\nStaring at the barrel of his gun\nYes, he shot me down\nI died, but then I came straight back to life\nBut never to my senses (Hey)\nWe fight and then we make amends\nArrest me and read me my rights (Hey)\nI plan to steal your heart again\nOn Saturday and Sunday nights (Dance)\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (We dance)\nBounce on that shit, dance (We dance)\nBounce on that shit, no hands\n\nThe day I met you, I remember everything\nI wrote it down\nYour smile was cold, your fade was fresh\nYour eyes were such a shade of brown\n\nBounce on that shit, dance (Oh)\nBounce on that shit, dance (Oh)\nBounce on that shit, dance (Oh)\nBounce on that shit, no hands\n\nYou press your ear onto my chest\nYou hear the speed my heart will beat\nSeconds drag like days\nWhenever you don't want to talk or speak\n\nBounce on that shit, dance (Dance, ooh)\nBounce on that shit, dance (Dance, dance)\nBounce on that shit, dance (Do the dance, dance)\nBounce on that shit, no hands (Do the dance, do it again)\n\nRunnin' through the river\nRunnin' through the river with you, dance\nRunnin' through the river\nRunnin' through the river\nRunnin' through the river (Runnin')\nRunnin' through the river with you, dance (Runnin')\nRunnin' through the river\nRunnin' through the river (Ooh)\n\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, dance (Dance)\nBounce on that shit, no hands"
+}

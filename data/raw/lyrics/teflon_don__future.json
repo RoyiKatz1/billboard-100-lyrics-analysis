@@ -1,0 +1,1186 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/10894186",
+    "artist_names": "Future",
+    "full_title": "TEFLON DON by\u00a0Future",
+    "header_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "id": 10894186,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1744820982,
+    "path": "/Future-teflon-don-lyrics",
+    "primary_artist_names": "Future",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Future-teflon-don-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 45,
+        "iq_earners": 45,
+        "transcribers": 4,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 94491
+    },
+    "title": "TEFLON DON",
+    "title_with_featured": "TEFLON DON",
+    "updated_by_human_at": 1746623142,
+    "url": "https://genius.com/Future-teflon-don-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        }
+    ],
+    "apple_music_id": "1767829565",
+    "apple_music_player_url": "https://genius.com/songs/10894186/apple_music_player",
+    "description": {
+        "plain": "\u201cTEFLON DON\u201d serves as the opener to Future\u2019s seventeenth mixtape, Mixtape Pluto. The title is a reference to John Gotti, who Future compares himself to in the chorus."
+    },
+    "embed_content": "<div id='rg_embed_link_10894186' class='rg_embed_link' data-song-id='10894186'>Read <a href='https://genius.com/Future-teflon-don-lyrics'>\u201cTEFLON DON\u201d by Future</a> on Genius</div> <script crossorigin src='//genius.com/songs/10894186/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fa5ccf",
+    "song_art_secondary_color": "#fa64e7",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1189209",
+        "cover_art_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+        "full_title": "MIXTAPE PLUTO by Future",
+        "id": 1189209,
+        "name": "MIXTAPE PLUTO",
+        "primary_artist_names": "Future",
+        "release_date_for_display": "September 20, 2024",
+        "url": "https://genius.com/albums/Future/Mixtape-pluto",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3103472",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3103472,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Dunn",
+                    "url": "https://genius.com/artists/James-dunn"
+                },
+                {
+                    "api_path": "/artists/4148812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4148812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Spence",
+                    "url": "https://genius.com/artists/Dylan-spence"
+                },
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/3491950",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3491950,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kai Sato",
+                    "url": "https://genius.com/artists/Kai-sato"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/655127",
+                    "header_image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "id": 655127,
+                    "image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Manco",
+                    "url": "https://genius.com/artists/Eric-manco"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1963500",
+                    "header_image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "id": 1963500,
+                    "image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicolas de Porcel",
+                    "url": "https://genius.com/artists/Nicolas-de-porcel"
+                },
+                {
+                    "api_path": "/artists/2803023",
+                    "header_image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "id": 2803023,
+                    "image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Demitrius Lewis II",
+                    "url": "https://genius.com/artists/Demitrius-lewis-ii"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640014",
+                    "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "id": 640014,
+                    "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mixed by Ali",
+                    "url": "https://genius.com/artists/Mixed-by-ali"
+                },
+                {
+                    "api_path": "/artists/2981840",
+                    "header_image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "id": 2981840,
+                    "image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Blatz",
+                    "url": "https://genius.com/artists/Brandon-blatz"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21774693,
+        "annotator_login": "530thecarmissing",
+        "api_path": "/referents/33042380",
+        "classification": "unreviewed",
+        "fragment": "TEFLON DON",
+        "id": 33042380,
+        "is_description": true,
+        "path": "/33042380/Future-teflon-don/Teflon-don",
+        "range": {
+            "content": "TEFLON DON"
+        },
+        "song_id": 10894186,
+        "url": "https://genius.com/33042380/Future-teflon-don/Teflon-don",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10894186",
+            "client_timestamps": {
+                "updated_by_human_at": 1746623142,
+                "lyrics_updated_at": 1744820982
+            },
+            "context": "Future",
+            "id": 10894186,
+            "image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+            "link_title": "TEFLON DON by\u00a0Future",
+            "title": "TEFLON DON",
+            "type": "Song",
+            "url": "https://genius.com/Future-teflon-don-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33042380",
+                "body": {
+                    "plain": "\u201cTEFLON DON\u201d serves as the opener to Future\u2019s seventeenth mixtape, Mixtape Pluto. The title is a reference to John Gotti, who Future compares himself to in the chorus."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33042380,
+                "pinned": false,
+                "share_url": "https://genius.com/33042380",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33042380/Future-teflon-don/Teflon-don",
+                "verified": false,
+                "votes_total": 14,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21774693",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/ad2599e2e3ea1c0b2fd77d5fa497148f",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/ad2599e2e3ea1c0b2fd77d5fa497148f",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/ad2599e2e3ea1c0b2fd77d5fa497148f",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/ad2599e2e3ea1c0b2fd77d5fa497148f",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/f1101c3448155449fe15d41861d44372f424a451a9000d494d16501ad1b583e3%2Fuf7zr8rivn",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21774693,
+                            "iq": 6360,
+                            "login": "530thecarmissing",
+                            "name": "530thecarmissing",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/530thecarmissing",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=8Leh8ZgMTpU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/44575",
+            "header_image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+            "id": 44575,
+            "image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "London on da Track",
+            "url": "https://genius.com/artists/London-on-da-track",
+            "iq": 307
+        },
+        {
+            "api_path": "/artists/2249456",
+            "header_image_url": "https://images.genius.com/07412fcf6cd6b244c029782170d0d548.720x720x1.png",
+            "id": 2249456,
+            "image_url": "https://images.genius.com/07412fcf6cd6b244c029782170d0d548.720x720x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FBG Goat",
+            "url": "https://genius.com/artists/Fbg-goat"
+        },
+        {
+            "api_path": "/artists/1067374",
+            "header_image_url": "https://images.genius.com/762bcd227f6e101a21453d7ccf740c69.431x431x1.png",
+            "id": 1067374,
+            "image_url": "https://images.genius.com/762bcd227f6e101a21453d7ccf740c69.431x431x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Topp",
+            "url": "https://genius.com/artists/Topp"
+        },
+        {
+            "api_path": "/artists/2393493",
+            "header_image_url": "https://images.genius.com/fadfbf4cccc4a572d78c0e40be60d6fb.320x320x1.jpg",
+            "id": 2393493,
+            "image_url": "https://images.genius.com/fadfbf4cccc4a572d78c0e40be60d6fb.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Peeb",
+            "url": "https://genius.com/artists/Peeb",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/2811326",
+            "header_image_url": "https://images.genius.com/08d6ff1318017b5e55bb6cf9cc43c119.900x900x1.png",
+            "id": 2811326,
+            "image_url": "https://images.genius.com/08d6ff1318017b5e55bb6cf9cc43c119.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "MoXart Beatz",
+            "url": "https://genius.com/artists/Moxart-beatz",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/2288191",
+            "header_image_url": "https://images.genius.com/9baf57e69c43b58b8aea044b9cdb584a.1000x556x1.png",
+            "id": 2288191,
+            "image_url": "https://images.genius.com/d51435c6e6e0a60036486871e1e4b9cb.589x589x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Desro",
+            "url": "https://genius.com/artists/Desro",
+            "iq": 100
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/857360",
+                    "artist_names": "Andy Williams",
+                    "full_title": "Speak Softly Love (Love Theme from \u201cThe Godfather\u201d) by\u00a0Andy\u00a0Williams",
+                    "header_image_thumbnail_url": "https://images.genius.com/fb1e816dd62fb86e93bb9aec5d1321ec.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fb1e816dd62fb86e93bb9aec5d1321ec.1000x1000x1.png",
+                    "id": 857360,
+                    "lyrics_owner_id": 1549345,
+                    "lyrics_state": "complete",
+                    "path": "/Andy-williams-speak-softly-love-love-theme-from-the-godfather-lyrics",
+                    "primary_artist_names": "Andy Williams",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Andy-williams-speak-softly-love-love-theme-from-the-godfather-sample",
+                    "release_date_components": {
+                        "year": 1972,
+                        "month": 4,
+                        "day": null
+                    },
+                    "release_date_for_display": "April 1972",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1972",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fb1e816dd62fb86e93bb9aec5d1321ec.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fb1e816dd62fb86e93bb9aec5d1321ec.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 42344
+                    },
+                    "title": "Speak Softly Love (Love Theme from \u201cThe Godfather\u201d)",
+                    "title_with_featured": "Speak Softly Love (Love Theme from \u201cThe Godfather\u201d)",
+                    "url": "https://genius.com/Andy-williams-speak-softly-love-love-theme-from-the-godfather-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/526003",
+                        "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+                        "id": 526003,
+                        "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andy Williams",
+                        "url": "https://genius.com/artists/Andy-williams"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/526003",
+                            "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+                            "id": 526003,
+                            "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Andy Williams",
+                            "url": "https://genius.com/artists/Andy-williams"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11089147",
+                    "artist_names": "ThaMonster",
+                    "full_title": "fytb? by\u00a0ThaMonster",
+                    "header_image_thumbnail_url": "https://images.genius.com/a55f09a783fcf672cd272e8f3f88392f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a55f09a783fcf672cd272e8f3f88392f.1000x1000x1.jpg",
+                    "id": 11089147,
+                    "lyrics_owner_id": 7910874,
+                    "lyrics_state": "complete",
+                    "path": "/Thamonster-fytb-lyrics",
+                    "primary_artist_names": "ThaMonster",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Thamonster-fytb-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 8
+                    },
+                    "release_date_for_display": "November 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a55f09a783fcf672cd272e8f3f88392f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a55f09a783fcf672cd272e8f3f88392f.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "fytb?",
+                    "title_with_featured": "fytb?",
+                    "url": "https://genius.com/Thamonster-fytb-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2261876",
+                        "header_image_url": "https://images.genius.com/67cc9262ddd082f3ece2a7a06c63e243.750x1000x1.jpg",
+                        "id": 2261876,
+                        "image_url": "https://images.genius.com/c6a3a2d5d47dfcc25907e11a59ab64f5.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "ThaMonster",
+                        "url": "https://genius.com/artists/Thamonster",
+                        "iq": 4090
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2261876",
+                            "header_image_url": "https://images.genius.com/67cc9262ddd082f3ece2a7a06c63e243.750x1000x1.jpg",
+                            "id": 2261876,
+                            "image_url": "https://images.genius.com/c6a3a2d5d47dfcc25907e11a59ab64f5.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "ThaMonster",
+                            "url": "https://genius.com/artists/Thamonster",
+                            "iq": 4090
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10894270",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Future - TEFLON DON (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.1000x1000x1.png",
+                    "id": 10894270,
+                    "lyrics_owner_id": 11400940,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-future-teflon-don-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-future-teflon-don-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - TEFLON DON (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Future - TEFLON DON (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-future-teflon-don-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10904960",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Future - TEFLON DON (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "id": 10904960,
+                    "lyrics_owner_id": 21506730,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-future-teflon-don-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-future-teflon-don-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Future - TEFLON DON (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Future - TEFLON DON (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-future-teflon-don-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11697068",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Future - TEFLON DON (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.882x882x1.png",
+                    "id": 11697068,
+                    "lyrics_owner_id": 9318193,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-future-teflon-don-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-future-teflon-don-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.882x882x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - TEFLON DON (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Future - TEFLON DON (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-future-teflon-don-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10894270",
+            "id": 10894270,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-future-teflon-don-traduccion-al-espanol-lyrics",
+            "title": "Future - TEFLON DON (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-future-teflon-don-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10904960",
+            "id": 10904960,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-future-teflon-don-traduction-francaise-lyrics",
+            "title": "Future - TEFLON DON (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-future-teflon-don-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/11697068",
+            "id": 11697068,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-future-teflon-don-traducao-em-portugues-lyrics",
+            "title": "Future - TEFLON DON (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-future-teflon-don-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/44575",
+            "header_image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+            "id": 44575,
+            "image_url": "https://images.genius.com/fcb14975af51a27a0ffb278a7524c81d.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "London on da Track",
+            "url": "https://genius.com/artists/London-on-da-track",
+            "iq": 307
+        },
+        {
+            "api_path": "/artists/2249456",
+            "header_image_url": "https://images.genius.com/07412fcf6cd6b244c029782170d0d548.720x720x1.png",
+            "id": 2249456,
+            "image_url": "https://images.genius.com/07412fcf6cd6b244c029782170d0d548.720x720x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FBG Goat",
+            "url": "https://genius.com/artists/Fbg-goat"
+        },
+        {
+            "api_path": "/artists/1067374",
+            "header_image_url": "https://images.genius.com/762bcd227f6e101a21453d7ccf740c69.431x431x1.png",
+            "id": 1067374,
+            "image_url": "https://images.genius.com/762bcd227f6e101a21453d7ccf740c69.431x431x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Topp",
+            "url": "https://genius.com/artists/Topp"
+        },
+        {
+            "api_path": "/artists/2393493",
+            "header_image_url": "https://images.genius.com/fadfbf4cccc4a572d78c0e40be60d6fb.320x320x1.jpg",
+            "id": 2393493,
+            "image_url": "https://images.genius.com/fadfbf4cccc4a572d78c0e40be60d6fb.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Peeb",
+            "url": "https://genius.com/artists/Peeb",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/2811326",
+            "header_image_url": "https://images.genius.com/08d6ff1318017b5e55bb6cf9cc43c119.900x900x1.png",
+            "id": 2811326,
+            "image_url": "https://images.genius.com/08d6ff1318017b5e55bb6cf9cc43c119.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "MoXart Beatz",
+            "url": "https://genius.com/artists/Moxart-beatz",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/2288191",
+            "header_image_url": "https://images.genius.com/9baf57e69c43b58b8aea044b9cdb584a.1000x556x1.png",
+            "id": 2288191,
+            "image_url": "https://images.genius.com/d51435c6e6e0a60036486871e1e4b9cb.589x589x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Desro",
+            "url": "https://genius.com/artists/Desro",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/361257",
+            "header_image_url": "https://images.genius.com/d860eaf74009af8a062015547d675973.1000x1000x1.jpg",
+            "id": 361257,
+            "image_url": "https://images.genius.com/d860eaf74009af8a062015547d675973.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nino Rota",
+            "url": "https://genius.com/artists/Nino-rota"
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "45 ContributorsTranslationsEspa\u00f1olFran\u00e7aisPortugu\u00easTEFLON DON Lyrics\nYeah, yeah, yeah\nYeah, yeah, yeah, yeah\nBeat the first case like John Gotti, woah\nBeat the first case like\n\nBeat the first case like John Gotti\nAnything you want, my dogs got\nBitch, I'm a boss, I call shot\nSpread a few bands at the raw spot (Boy, you been)\n\nGot the rock poppin' at the hotel\nReady, run a play for a whole bail (How you get\u2014)\n'Fore it hit the plate, make the house smell\nThrowin' up trays and Margiela\nOnce I'm in the chain, need an Advil (Freebandz, nigga)\nMotion on motion, that's how I feel\nCame from the field, I'ma crash first (Fuck all the opps)\nMak\u0435 your mama cry, gotta hit her where it hurts (Grrt, grrt)\nTh\u0435y come from my side, they gon' shoot up the church\nFrom nine to five, got nine goin' bezerk (Ayy, say gang)\nI'm goin' on a mission, I'm stayin' alert\nI'm the man on the streets, chop the top off the vert (Plutoski)\nBitch, you feelin' me? Bitch, I'm feelin' me too, got the energy\nTurn a ho on a stroll out in Tennessee\nI control all the motion, it been beneath\nReally crunk up the shit, talkin' V-nee-nee\nAll my bitches be turnt, that Cha-nee-nee\nI got stripes on the turf, ain't no kiddin' me\nGot my ice on the dirt, is you shittin' me?\nGot the load on the boat, dropped the pin in it\nHit the nitro, the motor, I'm pushin' it (Freebandz)\nI don't want a recorder, two hundred me\nI'm on top of this shit, killers under me\nMight just fuck up the money on a tragedy\nYou put bread on a dummy for threatenin' me (Murk)\nPut that tape on a drummy and press delete\nHe was drivin', his brain was sittin' on the seat\nI fly dope out the country to TrestleTree (Woo)\nI been flyer than a pilot, I got the key\nFuck it, put them narcotics back on the street\nRun the block, we gon' snatch you a Cuban link (Ski)\nTote two Dracos on me 'cause the trench in me (Ski)\nHear my chains when they clank 'cause I'm turnin' up (Freebandz)\nSee the money you get, I be burnin' up\nThat's a forty on the fit, I put on the stuff (Slatt)\nI went out and went got it when time was tough (Slatt)\nI whooped up a Bugatti, this one for Chuck\nFree my brothers forever, it's only us\nAin't no love for the others, we set 'em up\nGrrt, grrt, ski\n\nPlutoski, yeah, yeah, yeah\nYeah, yeah, yeah, yeah\nBeat the first case like John Gotti, woah\nBeat the first case like\n\nBeat the first case like John Gotti\nAnything you want, my dogs got\nBitch, I'm a boss, I call shot\nSpread a few bands at the raw spot (MIXTAPE PLUTO)\n\nYeah, yeah, ski\nYeah, yeah, ski\nSki\nMIXTAPE PLUTO"
+}

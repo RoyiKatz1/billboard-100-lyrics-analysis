@@ -1,0 +1,2439 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/9990963",
+    "artist_names": "Ariana Grande",
+    "full_title": "intro (end of the world) by\u00a0Ariana\u00a0Grande",
+    "header_image_thumbnail_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.300x300x1.png",
+    "header_image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+    "id": 9990963,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1743132544,
+    "path": "/Ariana-grande-intro-end-of-the-world-lyrics",
+    "primary_artist_names": "Ariana Grande",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Ariana-grande-intro-end-of-the-world-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 8
+    },
+    "release_date_for_display": "March 8, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 2,
+        "contributors": 56,
+        "iq_earners": 55,
+        "transcribers": 3,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 508529
+    },
+    "title": "intro (end of the world)",
+    "title_with_featured": "intro (end of the world)",
+    "updated_by_human_at": 1743550518,
+    "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/26507",
+        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+        "id": 26507,
+        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ariana Grande",
+        "url": "https://genius.com/artists/Ariana-grande",
+        "iq": 2871
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        }
+    ],
+    "apple_music_id": "1725913378",
+    "apple_music_player_url": "https://genius.com/songs/9990963/apple_music_player",
+    "description": {
+        "plain": "\u201cintro (end of the world)\u201d is the opening track to Ariana Grande\u2019s seventh studio album, eternal sunshine. The song introduces the album with questions about her relationship, which is later answered by Nonna on the final track of the album, \u201cordinary things.\u201d"
+    },
+    "embed_content": "<div id='rg_embed_link_9990963' class='rg_embed_link' data-song-id='9990963'>Read <a href='https://genius.com/Ariana-grande-intro-end-of-the-world-lyrics'>\u201cintro (end of the world)\u201d by Ariana\u00a0Grande</a> on Genius</div> <script crossorigin src='//genius.com/songs/9990963/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Jungle City Studios (New York, NY)",
+    "release_date": "2024-03-08",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#221811",
+    "song_art_secondary_color": "#643c1c",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1369026",
+        "cover_art_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+        "full_title": "eternal sunshine deluxe: brighter days ahead (instrumental version) by Ariana Grande",
+        "id": 1369026,
+        "name": "eternal sunshine deluxe: brighter days ahead (instrumental version)",
+        "primary_artist_names": "Ariana Grande",
+        "release_date_for_display": "April 1, 2025",
+        "url": "https://genius.com/albums/Ariana-grande/Eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
+        "artist": {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/26507",
+                "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                "id": 26507,
+                "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Ariana Grande",
+                "url": "https://genius.com/artists/Ariana-grande",
+                "iq": 2871
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/655230",
+                    "header_image_url": "https://images.genius.com/e4c5ac8e30682f9104794139d8e68b65.850x315x1.jpg",
+                    "id": 655230,
+                    "image_url": "https://images.genius.com/e0fd8ad1e6e10758a0e7fde0a9bc1c61.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sterling Sound Studio",
+                    "url": "https://genius.com/artists/Sterling-sound-studio"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/4005413",
+                    "header_image_url": "https://images.genius.com/afb78b2d6f38679ef941b4b878b4f676.766x766x1.jpg",
+                    "id": 4005413,
+                    "image_url": "https://images.genius.com/afb78b2d6f38679ef941b4b878b4f676.766x766x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Champagne Therapy Music Group",
+                    "url": "https://genius.com/artists/Champagne-therapy-music-group"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/2619264",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2619264,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sumowhaleboy",
+                    "url": "https://genius.com/artists/Sumowhaleboy"
+                },
+                {
+                    "api_path": "/artists/1544670",
+                    "header_image_url": "https://images.genius.com/63ea161392ca63c9f79015c93ad5d2f5.200x200x1.png",
+                    "id": 1544670,
+                    "image_url": "https://images.genius.com/63ea161392ca63c9f79015c93ad5d2f5.200x200x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Reservoir Media",
+                    "url": "https://genius.com/artists/Reservoir-media"
+                },
+                {
+                    "api_path": "/artists/3554294",
+                    "header_image_url": "https://images.genius.com/8a7726bf5b16a3a241775c714d425d37.150x150x1.png",
+                    "id": 3554294,
+                    "image_url": "https://images.genius.com/8a7726bf5b16a3a241775c714d425d37.150x150x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kilometre Music Group",
+                    "url": "https://genius.com/artists/Kilometre-music-group"
+                },
+                {
+                    "api_path": "/artists/2766839",
+                    "header_image_url": "https://images.genius.com/515d64b96ab79aa1bffca916445ec3a1.512x512x1.jpg",
+                    "id": 2766839,
+                    "image_url": "https://images.genius.com/515d64b96ab79aa1bffca916445ec3a1.512x512x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Chappell Music Korea Inc.",
+                    "url": "https://genius.com/artists/Warner-chappell-music-korea-inc"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/671773",
+                    "header_image_url": "https://images.genius.com/69b98ac87c62a835daee4213d07afa5b.453x453x1.png",
+                    "id": 671773,
+                    "image_url": "https://images.genius.com/5127719ae104ecfc06ba1ad8d19b7ce5.453x453x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MixStar Studios",
+                    "url": "https://genius.com/artists/Mixstar-studios"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/26507",
+                    "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                    "id": 26507,
+                    "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ariana Grande",
+                    "url": "https://genius.com/artists/Ariana-grande",
+                    "iq": 2871
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643391",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 643391,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Eylands",
+                    "url": "https://genius.com/artists/Eric-eylands"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/641345",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 641345,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sam Holland",
+                    "url": "https://genius.com/artists/Sam-holland"
+                },
+                {
+                    "api_path": "/artists/1788190",
+                    "header_image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "id": 1788190,
+                    "image_url": "https://images.genius.com/48355fd251fe384b87d17c47e1ae6b3c.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lou Carrao",
+                    "url": "https://genius.com/artists/Lou-carrao"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2844765",
+                    "header_image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "id": 2844765,
+                    "image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryce Bordone",
+                    "url": "https://genius.com/artists/Bryce-bordone"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640944",
+                    "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+                    "id": 640944,
+                    "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0218erban Ghenea",
+                    "url": "https://genius.com/artists/Serban-ghenea"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2093568",
+                    "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "id": 2093568,
+                    "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Paris",
+                    "url": "https://genius.com/artists/Aaron-paris"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2093568",
+                    "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "id": 2093568,
+                    "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Paris",
+                    "url": "https://genius.com/artists/Aaron-paris"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/2093568",
+                    "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "id": 2093568,
+                    "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Paris",
+                    "url": "https://genius.com/artists/Aaron-paris"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/2093568",
+                    "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "id": 2093568,
+                    "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Paris",
+                    "url": "https://genius.com/artists/Aaron-paris"
+                }
+            ]
+        },
+        {
+            "label": "Trombone",
+            "artists": [
+                {
+                    "api_path": "/artists/2065025",
+                    "header_image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "id": 2065025,
+                    "image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Nick Lee",
+                    "url": "https://genius.com/artists/Nick-lee",
+                    "iq": 104
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/2430050",
+                    "header_image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+                    "id": 2430050,
+                    "image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shintaro Yasuda",
+                    "url": "https://genius.com/artists/Shintaro-yasuda"
+                },
+                {
+                    "api_path": "/artists/2065025",
+                    "header_image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "id": 2065025,
+                    "image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Nick Lee",
+                    "url": "https://genius.com/artists/Nick-lee",
+                    "iq": 104
+                },
+                {
+                    "api_path": "/artists/2093568",
+                    "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "id": 2093568,
+                    "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Paris",
+                    "url": "https://genius.com/artists/Aaron-paris"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/2430050",
+                    "header_image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+                    "id": 2430050,
+                    "image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shintaro Yasuda",
+                    "url": "https://genius.com/artists/Shintaro-yasuda"
+                },
+                {
+                    "api_path": "/artists/2065025",
+                    "header_image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "id": 2065025,
+                    "image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Nick Lee",
+                    "url": "https://genius.com/artists/Nick-lee",
+                    "iq": 104
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/41673",
+                    "header_image_url": "https://images.genius.com/e0a5965448ddfa7f36975dcedff2bea6.1000x274x1.jpg",
+                    "id": 41673,
+                    "image_url": "https://images.genius.com/88ab85e89466de9f6be8c63bd8a745af.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Island Records",
+                    "url": "https://genius.com/artists/Island-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 11480310,
+        "annotator_login": "claudiadd",
+        "api_path": "/referents/31092764",
+        "classification": "accepted",
+        "fragment": "intro (end of the world)",
+        "id": 31092764,
+        "is_description": true,
+        "path": "/31092764/Ariana-grande-intro-end-of-the-world/Intro-end-of-the-world",
+        "range": {
+            "content": "intro (end of the world)"
+        },
+        "song_id": 9990963,
+        "url": "https://genius.com/31092764/Ariana-grande-intro-end-of-the-world/Intro-end-of-the-world",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9990963",
+            "client_timestamps": {
+                "updated_by_human_at": 1743550518,
+                "lyrics_updated_at": 1743132544
+            },
+            "context": "Ariana Grande",
+            "id": 9990963,
+            "image_url": "https://images.genius.com/08e2633706582e13bc20f44637441996.1000x1000x1.png",
+            "link_title": "intro (end of the world) by\u00a0Ariana\u00a0Grande",
+            "title": "intro (end of the world)",
+            "type": "Song",
+            "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31092764",
+                "body": {
+                    "plain": "\u201cintro (end of the world)\u201d is the opening track to Ariana Grande\u2019s seventh studio album, eternal sunshine. The song introduces the album with questions about her relationship, which is later answered by Nonna on the final track of the album, \u201cordinary things.\u201d"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31092764,
+                "pinned": false,
+                "share_url": "https://genius.com/31092764",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31092764/Ariana-grande-intro-end-of-the-world/Intro-end-of-the-world",
+                "verified": false,
+                "votes_total": 45,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.8095238095238095,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11480310",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/648cfcbb986f094a0a6aa011595d10f2",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/648cfcbb986f094a0a6aa011595d10f2",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/648cfcbb986f094a0a6aa011595d10f2",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/648cfcbb986f094a0a6aa011595d10f2",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/648cfcbb986f094a0a6aa011595d10f2",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 11480310,
+                            "iq": 493,
+                            "login": "claudiadd",
+                            "name": "claudiadd",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/claudiadd",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.11904761904761905,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/20314510",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/2b41bb9eaa666f9c44d75f88314eb322.1000x667x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 20314510,
+                            "iq": 241447,
+                            "login": "janick",
+                            "name": "janick",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/janick",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.047619047619047616,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/17429223",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/12427fd099e9c7bbe90baaa84ab0474288d714c74549362afe43012d61d4f9f6%2Fot0oh34chkl",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/12427fd099e9c7bbe90baaa84ab0474288d714c74549362afe43012d61d4f9f6%2Fot0oh34chkl",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/12427fd099e9c7bbe90baaa84ab0474288d714c74549362afe43012d61d4f9f6%2Fot0oh34chkl",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/12427fd099e9c7bbe90baaa84ab0474288d714c74549362afe43012d61d4f9f6%2Fot0oh34chkl",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/12427fd099e9c7bbe90baaa84ab0474288d714c74549362afe43012d61d4f9f6%2Fgnv6hlmsj2f",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 17429223,
+                            "iq": 3735,
+                            "login": "apastlife",
+                            "name": "apastlife",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/apastlife",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.023809523809523808,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22897065",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/57e33e758c5398f0029813bc02cf5bb0",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/57e33e758c5398f0029813bc02cf5bb0",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/57e33e758c5398f0029813bc02cf5bb0",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/57e33e758c5398f0029813bc02cf5bb0",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/57e33e758c5398f0029813bc02cf5bb0",
+                            "human_readable_role_for_display": null,
+                            "id": 22897065,
+                            "iq": 245,
+                            "login": "hey_pop_girlies_keep_up_the_good_work",
+                            "name": "hey_pop_girlies_keep_up_the_good_work",
+                            "role_for_display": null,
+                            "url": "https://genius.com/hey_pop_girlies_keep_up_the_good_work",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7655824",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/fc508fa4ab542b4368cf66119712ed73",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/gzbjte3ygqm",
+        "human_readable_role_for_display": "Contributor",
+        "id": 7655824,
+        "iq": 73102,
+        "login": "bloodandbutter",
+        "name": "bloodandbutter",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/bloodandbutter",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "arianagrande",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/arianagrande/ariana-grande-intro-end-of-the"
+        },
+        {
+            "provider": "youtube",
+            "start": 285,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=yj1Kvhog6PU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        {
+            "api_path": "/artists/2430050",
+            "header_image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+            "id": 2430050,
+            "image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shintaro Yasuda",
+            "url": "https://genius.com/artists/Shintaro-yasuda"
+        },
+        {
+            "api_path": "/artists/2065025",
+            "header_image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+            "id": 2065025,
+            "image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nick Lee",
+            "url": "https://genius.com/artists/Nick-lee",
+            "iq": 104
+        },
+        {
+            "api_path": "/artists/2093568",
+            "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+            "id": 2093568,
+            "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Aaron Paris",
+            "url": "https://genius.com/artists/Aaron-paris"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11586465",
+                    "artist_names": "Movie Scripts",
+                    "full_title": "brighter days ahead (Script) by\u00a0Movie\u00a0Scripts",
+                    "header_image_thumbnail_url": "https://images.genius.com/0d103e2859e98d79567c017f4facbac6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0d103e2859e98d79567c017f4facbac6.640x640x1.png",
+                    "id": 11586465,
+                    "lyrics_owner_id": 14942908,
+                    "lyrics_state": "complete",
+                    "path": "/Movie-scripts-brighter-days-ahead-script-annotated",
+                    "primary_artist_names": "Movie Scripts",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Movie-scripts-brighter-days-ahead-script-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 28
+                    },
+                    "release_date_for_display": "March 28, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 28, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0d103e2859e98d79567c017f4facbac6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0d103e2859e98d79567c017f4facbac6.640x640x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "brighter days ahead (Script)",
+                    "title_with_featured": "brighter days ahead (Script)",
+                    "url": "https://genius.com/Movie-scripts-brighter-days-ahead-script-annotated",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4256051",
+                        "header_image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                        "id": 4256051,
+                        "image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Movie Scripts",
+                        "url": "https://genius.com/artists/Movie-scripts"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4256051",
+                            "header_image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                            "id": 4256051,
+                            "image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Movie Scripts",
+                            "url": "https://genius.com/artists/Movie-scripts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/69358",
+                    "artist_names": "The Jimi Hendrix Experience",
+                    "full_title": "If 6 Was 9 by\u00a0The\u00a0Jimi Hendrix Experience",
+                    "header_image_thumbnail_url": "https://images.genius.com/fca2fb40185ba897298a840c1077800a.220x220x1.jpg",
+                    "header_image_url": "https://images.genius.com/fca2fb40185ba897298a840c1077800a.220x220x1.jpg",
+                    "id": 69358,
+                    "lyrics_owner_id": 70606,
+                    "lyrics_state": "complete",
+                    "path": "/The-jimi-hendrix-experience-if-6-was-9-lyrics",
+                    "primary_artist_names": "The Jimi Hendrix Experience",
+                    "pyongs_count": 8,
+                    "relationships_index_url": "https://genius.com/The-jimi-hendrix-experience-if-6-was-9-sample",
+                    "release_date_components": {
+                        "year": 1967,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 1967",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 1967",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fca2fb40185ba897298a840c1077800a.220x220x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/fca2fb40185ba897298a840c1077800a.220x220x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 132705
+                    },
+                    "title": "If 6 Was 9",
+                    "title_with_featured": "If 6 Was 9",
+                    "url": "https://genius.com/The-jimi-hendrix-experience-if-6-was-9-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/634985",
+                        "header_image_url": "https://images.genius.com/2631895179875ea7541bbb43d0a83481.1000x250x1.png",
+                        "id": 634985,
+                        "image_url": "https://images.genius.com/ca64447350d06d6dc144070174575951.840x840x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Jimi Hendrix Experience",
+                        "url": "https://genius.com/artists/The-jimi-hendrix-experience"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/634985",
+                            "header_image_url": "https://images.genius.com/2631895179875ea7541bbb43d0a83481.1000x250x1.png",
+                            "id": 634985,
+                            "image_url": "https://images.genius.com/ca64447350d06d6dc144070174575951.840x840x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Jimi Hendrix Experience",
+                            "url": "https://genius.com/artists/The-jimi-hendrix-experience"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11677419",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "intro (end of the world) [instrumental] by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+                    "id": 11677419,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-intro-end-of-the-world-instrumental-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-intro-end-of-the-world-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/847fc9564595fcfb6f0ed7693ed03551.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "intro (end of the world) [instrumental]",
+                    "title_with_featured": "intro (end of the world) [instrumental]",
+                    "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11677498",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "intro (end of the world) [a cappella] by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.1000x1000x1.png",
+                    "id": 11677498,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-intro-end-of-the-world-a-cappella-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-intro-end-of-the-world-a-cappella-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/397b82134be4aed244a66027157dfc0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "intro (end of the world) [a cappella]",
+                    "title_with_featured": "intro (end of the world) [a cappella]",
+                    "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-a-cappella-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 6,
+                    "api_path": "/songs/11608456",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "intro (end of the world) [extended] by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/62c7897451b9ee04cde9380f91e51045.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/62c7897451b9ee04cde9380f91e51045.1000x1000x1.png",
+                    "id": 11608456,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-intro-end-of-the-world-extended-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-intro-end-of-the-world-extended-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 28
+                    },
+                    "release_date_for_display": "March 28, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 28, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/62c7897451b9ee04cde9380f91e51045.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/62c7897451b9ee04cde9380f91e51045.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 392367
+                    },
+                    "title": "intro (end of the world) [extended]",
+                    "title_with_featured": "intro (end of the world) [extended]",
+                    "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-extended-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10942019",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "intro (end of the world) [live version] by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/54a916ba41a647f4df61eb9a413137f2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/54a916ba41a647f4df61eb9a413137f2.1000x1000x1.png",
+                    "id": 10942019,
+                    "lyrics_owner_id": 7206332,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-intro-end-of-the-world-live-version-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-intro-end-of-the-world-live-version-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 1
+                    },
+                    "release_date_for_display": "October 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/54a916ba41a647f4df61eb9a413137f2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/54a916ba41a647f4df61eb9a413137f2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "intro (end of the world) [live version]",
+                    "title_with_featured": "intro (end of the world) [live version]",
+                    "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-live-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Ariana-grande-intro-end-of-the-world-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10105932",
+                    "artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "full_title": "Ariana Grande - \u200bintro (end of the world) (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "header_image_thumbnail_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.1000x1000x1.png",
+                    "id": 10105932,
+                    "lyrics_owner_id": 21343458,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-hebrew-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "primary_artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-hebrew-translations-ariana-grande-intro-end-of-the-world-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/15b06ea3823752287796cc720ce5ab00.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - \u200bintro (end of the world) (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "title_with_featured": "Ariana Grande - \u200bintro (end of the world) (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "url": "https://genius.com/Genius-hebrew-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1699245",
+                        "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                        "id": 1699245,
+                        "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                        "url": "https://genius.com/artists/Genius-hebrew-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1699245",
+                            "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                            "id": 1699245,
+                            "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                            "url": "https://genius.com/artists/Genius-hebrew-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10047766",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Ariana Grande - intro (end of the world) (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.684x684x1.png",
+                    "id": 10047766,
+                    "lyrics_owner_id": 20155240,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-ariana-grande-intro-end-of-the-world-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-intro-end-of-the-world-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fb651701aad2f80c805aa3e8f99fe4cb.684x684x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (Traduzione Italiana)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-intro-end-of-the-world-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9991751",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Ariana Grande \u2013 \u200bintro (end of the world) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 9991751,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-ariana-grande-intro-end-of-the-world-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande \u2013 \u200bintro (end of the world) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Ariana Grande \u2013 \u200bintro (end of the world) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9991255",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Ariana Grande - intro (end of the world) (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "id": 9991255,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-arabic-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-ariana-grande-intro-end-of-the-world-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10138143",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Ariana Grande - \u200bintro (end of the world) [Deutsche \u00dcbersetzung] by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10138143,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-ariana-grande-intro-end-of-the-world-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-intro-end-of-the-world-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - \u200bintro (end of the world) [Deutsche \u00dcbersetzung]",
+                    "title_with_featured": "Ariana Grande - \u200bintro (end of the world) [Deutsche \u00dcbersetzung]",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-intro-end-of-the-world-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10118153",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Ariana Grande - intro (end of the world) (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.879x879x1.png",
+                    "id": 10118153,
+                    "lyrics_owner_id": 17336116,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-ariana-grande-intro-end-of-the-world-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-intro-end-of-the-world-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d4978784bce8abd9cd3e7e48bc5e04b3.879x879x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 11775
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-intro-end-of-the-world-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10142049",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Ariana Grande - \u200bintro (end of the world) (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.780x780x1.png",
+                    "id": 10142049,
+                    "lyrics_owner_id": 7206332,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-ariana-grande-intro-end-of-the-world-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-intro-end-of-the-world-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b674af377c5a285d9aeeb28cc1c140c0.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - \u200bintro (end of the world) (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Ariana Grande - \u200bintro (end of the world) (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-intro-end-of-the-world-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10141464",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Ariana Grande - intro (end of the world) (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "id": 10141464,
+                    "lyrics_owner_id": 13953849,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-ariana-grande-intro-end-of-the-world-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-ariana-grande-intro-end-of-the-world-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/831d11412669a0c1e15f313427ac089d.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-ariana-grande-intro-end-of-the-world-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10167937",
+                    "artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "full_title": "Ariana Grande - intro (end of the world) (\u010cesk\u00fd p\u0159eklad) by\u00a0Genius\u00a0\u010cesk\u00e9 p\u0159eklady",
+                    "header_image_thumbnail_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.1000x1000x1.png",
+                    "id": 10167937,
+                    "lyrics_owner_id": 21299323,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ceske-preklady-ariana-grande-intro-end-of-the-world-cesky-preklad-lyrics",
+                    "primary_artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ceske-preklady-ariana-grande-intro-end-of-the-world-cesky-preklad-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/974bfaa22a76a5df19618f180d76d6a1.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (\u010cesk\u00fd p\u0159eklad)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (\u010cesk\u00fd p\u0159eklad)",
+                    "url": "https://genius.com/Genius-ceske-preklady-ariana-grande-intro-end-of-the-world-cesky-preklad-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1827252",
+                        "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "id": 1827252,
+                        "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                        "url": "https://genius.com/artists/Genius-ceske-preklady"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1827252",
+                            "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "id": 1827252,
+                            "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                            "url": "https://genius.com/artists/Genius-ceske-preklady"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10153720",
+                    "artist_names": "Genius magyar ford\u00edt\u00e1sok",
+                    "full_title": "Ariana Grande - intro (end of the world) [magyar ford\u00edt\u00e1s] by\u00a0Genius\u00a0magyar ford\u00edt\u00e1sok",
+                    "header_image_thumbnail_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.300x287x1.png",
+                    "header_image_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.1000x956x1.png",
+                    "id": 10153720,
+                    "lyrics_owner_id": 11604643,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-magyar-forditasok-ariana-grande-intro-end-of-the-world-magyar-forditas-lyrics",
+                    "primary_artist_names": "Genius magyar ford\u00edt\u00e1sok",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-intro-end-of-the-world-magyar-forditas-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.300x287x1.png",
+                    "song_art_image_url": "https://images.genius.com/8e69d004b1dff5b736b7f1f1904d901d.1000x956x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) [magyar ford\u00edt\u00e1s]",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) [magyar ford\u00edt\u00e1s]",
+                    "url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-intro-end-of-the-world-magyar-forditas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2426702",
+                        "header_image_url": "https://images.genius.com/d3bf05d95c36b86220beae15ce535d85.1000x333x1.png",
+                        "id": 2426702,
+                        "image_url": "https://images.genius.com/a14b52cab443248959d510d5443a8d17.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius magyar ford\u00edt\u00e1sok",
+                        "url": "https://genius.com/artists/Genius-magyar-forditasok"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2426702",
+                            "header_image_url": "https://images.genius.com/d3bf05d95c36b86220beae15ce535d85.1000x333x1.png",
+                            "id": 2426702,
+                            "image_url": "https://images.genius.com/a14b52cab443248959d510d5443a8d17.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius magyar ford\u00edt\u00e1sok",
+                            "url": "https://genius.com/artists/Genius-magyar-forditasok"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10143481",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Ariana Grande - intro (end of the world) (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.1000x1000x1.png",
+                    "id": 10143481,
+                    "lyrics_owner_id": 21644863,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-ariana-grande-intro-end-of-the-world-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-intro-end-of-the-world-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f58a3d2c883d4d7e23597842205f7d24.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-intro-end-of-the-world-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10362066",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Ariana Grande - intro (end of the world) (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10362066,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-ariana-grande-intro-end-of-the-world-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-intro-end-of-the-world-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-intro-end-of-the-world-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10224589",
+                    "artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "full_title": "Ariana Grande - intro (end of the world) (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22) by\u00a0Genius\u00a0Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "header_image_thumbnail_url": "https://images.genius.com/9d7c72ae4349edaeb75b84a365cfb257.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/9d7c72ae4349edaeb75b84a365cfb257.1000x1000x1.png",
+                    "id": 10224589,
+                    "lyrics_owner_id": 16463578,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-thai-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "primary_artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-thai-translations-ariana-grande-intro-end-of-the-world-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9d7c72ae4349edaeb75b84a365cfb257.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/9d7c72ae4349edaeb75b84a365cfb257.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 7170
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "url": "https://genius.com/Genius-thai-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1651883",
+                        "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                        "id": 1651883,
+                        "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                        "url": "https://genius.com/artists/Genius-thai-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1651883",
+                            "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                            "id": 1651883,
+                            "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "url": "https://genius.com/artists/Genius-thai-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10197418",
+                    "artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "full_title": "Ariana Grande - \u200bintro (end of the world) (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7) by\u00a0Genius\u00a0Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "header_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "id": 10197418,
+                    "lyrics_owner_id": 19544002,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-greek-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "primary_artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-greek-translations-ariana-grande-intro-end-of-the-world-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/796c7c5988d3911cb08e3ba57c8cd4e8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - \u200bintro (end of the world) (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "title_with_featured": "Ariana Grande - \u200bintro (end of the world) (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "url": "https://genius.com/Genius-greek-translations-ariana-grande-intro-end-of-the-world-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2888256",
+                        "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                        "id": 2888256,
+                        "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                        "url": "https://genius.com/artists/Genius-greek-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2888256",
+                            "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                            "id": 2888256,
+                            "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                            "url": "https://genius.com/artists/Genius-greek-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10194118",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Ariana Grande - intro (end of the world) (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/787345ba18db728c2de68d4e72502728.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/787345ba18db728c2de68d4e72502728.1000x1000x1.png",
+                    "id": 10194118,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-ariana-grande-intro-end-of-the-world-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-intro-end-of-the-world-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 8
+                    },
+                    "release_date_for_display": "March 8, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 8, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/787345ba18db728c2de68d4e72502728.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/787345ba18db728c2de68d4e72502728.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - intro (end of the world) (Terjemahan Indonesia)",
+                    "title_with_featured": "Ariana Grande - intro (end of the world) (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-intro-end-of-the-world-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10105932",
+            "id": 10105932,
+            "language": "iw",
+            "lyrics_state": "complete",
+            "path": "/Genius-hebrew-translations-ariana-grande-intro-end-of-the-world-lyrics",
+            "title": "Ariana Grande - \u200bintro (end of the world) (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+            "url": "https://genius.com/Genius-hebrew-translations-ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        {
+            "api_path": "/songs/10047766",
+            "id": 10047766,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-ariana-grande-intro-end-of-the-world-traduzione-italiana-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-intro-end-of-the-world-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/9991751",
+            "id": 9991751,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-ariana-grande-intro-end-of-the-world-lyrics",
+            "title": "Ariana Grande \u2013 \u200bintro (end of the world) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        {
+            "api_path": "/songs/9991255",
+            "id": 9991255,
+            "language": "ar",
+            "lyrics_state": "complete",
+            "path": "/Genius-arabic-translations-ariana-grande-intro-end-of-the-world-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        {
+            "api_path": "/songs/10138143",
+            "id": 10138143,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-ariana-grande-intro-end-of-the-world-deutsche-ubersetzung-lyrics",
+            "title": "Ariana Grande - \u200bintro (end of the world) [Deutsche \u00dcbersetzung]",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-ariana-grande-intro-end-of-the-world-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10118153",
+            "id": 10118153,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-ariana-grande-intro-end-of-the-world-traduccion-al-espanol-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-intro-end-of-the-world-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10142049",
+            "id": 10142049,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-ariana-grande-intro-end-of-the-world-turkce-ceviri-lyrics",
+            "title": "Ariana Grande - \u200bintro (end of the world) (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-intro-end-of-the-world-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10141464",
+            "id": 10141464,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-ariana-grande-intro-end-of-the-world-traduction-francaise-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-ariana-grande-intro-end-of-the-world-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10167937",
+            "id": 10167937,
+            "language": "cs",
+            "lyrics_state": "complete",
+            "path": "/Genius-ceske-preklady-ariana-grande-intro-end-of-the-world-cesky-preklad-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (\u010cesk\u00fd p\u0159eklad)",
+            "url": "https://genius.com/Genius-ceske-preklady-ariana-grande-intro-end-of-the-world-cesky-preklad-lyrics"
+        },
+        {
+            "api_path": "/songs/10153720",
+            "id": 10153720,
+            "language": "hu",
+            "lyrics_state": "complete",
+            "path": "/Genius-magyar-forditasok-ariana-grande-intro-end-of-the-world-magyar-forditas-lyrics",
+            "title": "Ariana Grande - intro (end of the world) [magyar ford\u00edt\u00e1s]",
+            "url": "https://genius.com/Genius-magyar-forditasok-ariana-grande-intro-end-of-the-world-magyar-forditas-lyrics"
+        },
+        {
+            "api_path": "/songs/10143481",
+            "id": 10143481,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-ariana-grande-intro-end-of-the-world-traducao-em-portugues-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-intro-end-of-the-world-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10362066",
+            "id": 10362066,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-ariana-grande-intro-end-of-the-world-polskie-tumaczenie-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-ariana-grande-intro-end-of-the-world-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10224589",
+            "id": 10224589,
+            "language": "th",
+            "lyrics_state": "complete",
+            "path": "/Genius-thai-translations-ariana-grande-intro-end-of-the-world-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+            "url": "https://genius.com/Genius-thai-translations-ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        {
+            "api_path": "/songs/10197418",
+            "id": 10197418,
+            "language": "el",
+            "lyrics_state": "complete",
+            "path": "/Genius-greek-translations-ariana-grande-intro-end-of-the-world-lyrics",
+            "title": "Ariana Grande - \u200bintro (end of the world) (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+            "url": "https://genius.com/Genius-greek-translations-ariana-grande-intro-end-of-the-world-lyrics"
+        },
+        {
+            "api_path": "/songs/10194118",
+            "id": 10194118,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-ariana-grande-intro-end-of-the-world-terjemahan-indonesia-lyrics",
+            "title": "Ariana Grande - intro (end of the world) (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-ariana-grande-intro-end-of-the-world-terjemahan-indonesia-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        },
+        {
+            "api_path": "/artists/2430050",
+            "header_image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+            "id": 2430050,
+            "image_url": "https://images.genius.com/de19a4c1864e26ae54d50330fd0fc1bd.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shintaro Yasuda",
+            "url": "https://genius.com/artists/Shintaro-yasuda"
+        },
+        {
+            "api_path": "/artists/2065025",
+            "header_image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+            "id": 2065025,
+            "image_url": "https://images.genius.com/eaab197b9ea5f1a6de65a2c989c2ce29.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nick Lee",
+            "url": "https://genius.com/artists/Nick-lee",
+            "iq": 104
+        },
+        {
+            "api_path": "/artists/2093568",
+            "header_image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+            "id": 2093568,
+            "image_url": "https://images.genius.com/02f29b36403cda37698169a43cd0c75c.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Aaron Paris",
+            "url": "https://genius.com/artists/Aaron-paris"
+        }
+    ],
+    "artist": "Ariana Grande",
+    "lyrics": "56 ContributorsTranslations\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)Italiano\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)\u0627\u0644\u0639\u0631\u0628\u064a\u0629DeutschEspa\u00f1olT\u00fcrk\u00e7eFran\u00e7ais\u010ceskyMagyarPortugu\u00easPolski\u0e44\u0e17\u0e22 (Thai)\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acBahasa Indonesiaintro (end of the world) Lyrics\u201cintro (end of the world)\u201d is the opening track to Ariana Grande\u2019s seventh studio album, eternal sunshine. The song introduces the album with questions about her relationship, which is later answered by Nonna\u2026 Read More\u00a0\nUh\n\nHow can I tell if I'm in the right relationship?\nAren't you really s'posed to know that shit?\nFeel it in your bones and own that shit? I don't know\nThen I had this interaction I've been thinkin' 'bout for like five weeks\nWonder if he's thinkin' 'bout it too and smiling\nWonder if he knows that that's been what's inspirin' me\nWonder if he's judgin' me like I am right now\n\nI don't care\nI'd rather tell the truth (Truth)\nThan make it worse for you, mm (You)\n\nIf the sun refused to shine\nBaby, would I still be your lover?\nWould you want me there?\nIf the moon went dark tonight\nAnd if it all ended tomorrow\nWould I be the one on your mind, your mind, your mind?\nAnd if it all ended tomorrow\nWould you be the one on mine?"
+}

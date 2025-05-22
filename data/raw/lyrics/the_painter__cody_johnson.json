@@ -1,0 +1,808 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/9392985",
+    "artist_names": "Cody Johnson",
+    "full_title": "The Painter by\u00a0Cody\u00a0Johnson",
+    "header_image_thumbnail_url": "https://images.genius.com/b91f03f5e4a2b8c390f24ab99e999b0d.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/b91f03f5e4a2b8c390f24ab99e999b0d.1000x1000x1.jpg",
+    "id": 9392985,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718007480,
+    "path": "/Cody-johnson-the-painter-lyrics",
+    "primary_artist_names": "Cody Johnson",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Cody-johnson-the-painter-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 8,
+        "day": 11
+    },
+    "release_date_for_display": "August 11, 2023",
+    "release_date_with_abbreviated_month_for_display": "Aug. 11, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b91f03f5e4a2b8c390f24ab99e999b0d.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/b91f03f5e4a2b8c390f24ab99e999b0d.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 8,
+        "iq_earners": 8,
+        "transcribers": 2,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 52792
+    },
+    "title": "The Painter",
+    "title_with_featured": "The Painter",
+    "updated_by_human_at": 1734781475,
+    "url": "https://genius.com/Cody-johnson-the-painter-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/333806",
+        "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+        "id": 333806,
+        "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cody Johnson",
+        "url": "https://genius.com/artists/Cody-johnson"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/333806",
+            "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+            "id": 333806,
+            "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cody Johnson",
+            "url": "https://genius.com/artists/Cody-johnson"
+        }
+    ],
+    "apple_music_id": "1707355280",
+    "apple_music_player_url": "https://genius.com/songs/9392985/apple_music_player",
+    "description": {
+        "plain": "This is a song Cody Johnson wrote for his wife. This song is basically saying how his wife saved his life. Calling her the painter of his life."
+    },
+    "embed_content": "<div id='rg_embed_link_9392985' class='rg_embed_link' data-song-id='9392985'>Read <a href='https://genius.com/Cody-johnson-the-painter-lyrics'>\u201cThe Painter\u201d by Cody\u00a0Johnson</a> on Genius</div> <script crossorigin src='//genius.com/songs/9392985/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-08-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#336b77",
+    "song_art_secondary_color": "#042924",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1093918",
+        "cover_art_url": "https://images.genius.com/75549eb3276d02166db8c5f088e825ed.1000x1000x1.png",
+        "full_title": "Leather Deluxe Edition by Cody Johnson",
+        "id": 1093918,
+        "name": "Leather Deluxe Edition",
+        "primary_artist_names": "Cody Johnson",
+        "release_date_for_display": "November 1, 2024",
+        "url": "https://genius.com/albums/Cody-johnson/Leather-deluxe-edition",
+        "artist": {
+            "api_path": "/artists/333806",
+            "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+            "id": 333806,
+            "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cody Johnson",
+            "url": "https://genius.com/artists/Cody-johnson"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/333806",
+                "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+                "id": 333806,
+                "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Cody Johnson",
+                "url": "https://genius.com/artists/Cody-johnson"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/4084957",
+                    "header_image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "id": 4084957,
+                    "image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dustin Haney",
+                    "url": "https://genius.com/artists/Dustin-haney"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/562813",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562813,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Mitchell",
+                    "url": "https://genius.com/artists/James-mitchell"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1445275",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1445275,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Galloway",
+                    "url": "https://genius.com/artists/Tim-galloway"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2293777",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2293777,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis Toy",
+                    "url": "https://genius.com/artists/Travis-toy"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2756623",
+                    "header_image_url": "https://images.genius.com/0878c5ea88836b2d9d2e27d17ff904a1.1000x525x1.jpg",
+                    "id": 2756623,
+                    "image_url": "https://images.genius.com/b9572d4fd9ec14f61ef0596de0a52951.597x597x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music Nashville",
+                    "url": "https://genius.com/artists/Warner-music-nashville"
+                }
+            ]
+        },
+        {
+            "label": "Fiddle",
+            "artists": [
+                {
+                    "api_path": "/artists/1222417",
+                    "header_image_url": "https://images.genius.com/946c3b6b44cacb876e72da0aecb4da9a.300x300x1.jpg",
+                    "id": 1222417,
+                    "image_url": "https://images.genius.com/946c3b6b44cacb876e72da0aecb4da9a.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jenee Fleenor",
+                    "url": "https://genius.com/artists/Jenee-fleenor"
+                }
+            ]
+        },
+        {
+            "label": "Strings",
+            "artists": [
+                {
+                    "api_path": "/artists/1222417",
+                    "header_image_url": "https://images.genius.com/946c3b6b44cacb876e72da0aecb4da9a.300x300x1.jpg",
+                    "id": 1222417,
+                    "image_url": "https://images.genius.com/946c3b6b44cacb876e72da0aecb4da9a.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jenee Fleenor",
+                    "url": "https://genius.com/artists/Jenee-fleenor"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1134115",
+                    "header_image_url": "https://images.genius.com/1847e6a62fa3fb897a89efdbd69c610e.383x383x1.jpg",
+                    "id": 1134115,
+                    "image_url": "https://images.genius.com/1847e6a62fa3fb897a89efdbd69c610e.383x383x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Brignardello",
+                    "url": "https://genius.com/artists/Mike-brignardello"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1458570",
+                    "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "id": 1458570,
+                    "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Roe",
+                    "url": "https://genius.com/artists/Jerry-roe"
+                },
+                {
+                    "api_path": "/artists/1445280",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1445280,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Ostrander",
+                    "url": "https://genius.com/artists/Justin-ostrander"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2292621",
+                    "header_image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "id": 2292621,
+                    "image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Clarke",
+                    "url": "https://genius.com/artists/Jack-clarke"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1046379",
+                    "header_image_url": "https://images.genius.com/1de3289af4b116bd326b213c85bbf97d.522x522x1.jpg",
+                    "id": 1046379,
+                    "image_url": "https://images.genius.com/1de3289af4b116bd326b213c85bbf97d.522x522x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bobby Hamrick",
+                    "url": "https://genius.com/artists/Bobby-hamrick"
+                },
+                {
+                    "api_path": "/artists/2144364",
+                    "header_image_url": "https://images.genius.com/056cab89736341b22bbd996f584ab891.973x973x1.jpg",
+                    "id": 2144364,
+                    "image_url": "https://images.genius.com/056cab89736341b22bbd996f584ab891.973x973x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kat Higgins",
+                    "url": "https://genius.com/artists/Kat-higgins"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/333806",
+                    "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+                    "id": 333806,
+                    "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cody Johnson",
+                    "url": "https://genius.com/artists/Cody-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/662408",
+                    "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "id": 662408,
+                    "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Mendelson",
+                    "url": "https://genius.com/artists/Andrew-mendelson"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21235151,
+        "annotator_login": "J_c0b_Raps",
+        "api_path": "/referents/29210853",
+        "classification": "unreviewed",
+        "fragment": "The Painter",
+        "id": 29210853,
+        "is_description": true,
+        "path": "/29210853/Cody-johnson-the-painter/The-painter",
+        "range": {
+            "content": "The Painter"
+        },
+        "song_id": 9392985,
+        "url": "https://genius.com/29210853/Cody-johnson-the-painter/The-painter",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9392985",
+            "client_timestamps": {
+                "updated_by_human_at": 1734781475,
+                "lyrics_updated_at": 1718007480
+            },
+            "context": "Cody Johnson",
+            "id": 9392985,
+            "image_url": "https://images.genius.com/b91f03f5e4a2b8c390f24ab99e999b0d.1000x1000x1.jpg",
+            "link_title": "The Painter by\u00a0Cody\u00a0Johnson",
+            "title": "The Painter",
+            "type": "Song",
+            "url": "https://genius.com/Cody-johnson-the-painter-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29210853",
+                "body": {
+                    "plain": "This is a song Cody Johnson wrote for his wife. This song is basically saying how his wife saved his life. Calling her the painter of his life."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 29210853,
+                "pinned": false,
+                "share_url": "https://genius.com/29210853",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/29210853/Cody-johnson-the-painter/The-painter",
+                "verified": false,
+                "votes_total": 2,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21235151",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/1ddf82026eba475f1f121bba5781d32a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/1ddf82026eba475f1f121bba5781d32a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/1ddf82026eba475f1f121bba5781d32a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/1ddf82026eba475f1f121bba5781d32a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/7567c4e9b16cafc560c33e1c3f31ccad.1000x166x1.jpg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21235151,
+                            "iq": 36918,
+                            "login": "J_c0b_Raps",
+                            "name": "J_c0b_Raps",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/J_c0b_Raps",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=ur1cb_OztPQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/354348",
+            "header_image_url": "https://images.genius.com/61839dc8a81613c6337b7a0f3b50300a.960x617x1.jpg",
+            "id": 354348,
+            "image_url": "https://images.genius.com/d40b5268dc77214374a89847f8d1f6f3.957x957x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Trent Willmon",
+            "url": "https://genius.com/artists/Trent-willmon"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1175709",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1175709,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Benjy Davis",
+            "url": "https://genius.com/artists/Benjy-davis"
+        },
+        {
+            "api_path": "/artists/2144364",
+            "header_image_url": "https://images.genius.com/056cab89736341b22bbd996f584ab891.973x973x1.jpg",
+            "id": 2144364,
+            "image_url": "https://images.genius.com/056cab89736341b22bbd996f584ab891.973x973x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kat Higgins",
+            "url": "https://genius.com/artists/Kat-higgins"
+        },
+        {
+            "api_path": "/artists/3194754",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3194754,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ryan Larkins",
+            "url": "https://genius.com/artists/Ryan-larkins"
+        }
+    ],
+    "artist": "Cody Johnson",
+    "lyrics": "8 ContributorsThe Painter Lyrics\nShe talks about the future like she's flippin' through a magazine\nFinds the beauty in the thrown away and broken things\nGets excited about all my crazy dreams\n\nGot every sunset that she's ever seen memorized\nSaves them away for a rainy day or stormy night\nThe sky is brighter lookin' at it through her eyes\n\nI don't remember\nLife before she came into the picture\nBrought the beauty I was missin' with her\nShowed me colors I ain't ever seen\nShe took chances\nWith every wall I built, she saw a canvas\nI thank God every day for how He made her\nMy life was black and white, but she's the painter\n\nShe reminds me that it ain't too late to start again\nFine is good, but you need some blue every now and then\nHow'd I live so long without her reckless touch?\n\nI don't remember\nLife before she came into the picture\nBrought the beauty I was missin' with her\nShowed me colors I ain't ever seen\nShe took chances\nWith every wall I built, she saw a canvas\nI thank God every day for how He made her\nMy life was black and white, but she's the painter\n\nI don't remember\nLife before she came into the picture\nBrought the beauty I was missin' with her\nShowed me colors I ain't ever seen\nShe took chances\nWith every wall I built, she saw a canvas\nI thank God every day for how He made her\nMy life was black and white, but she's the painter\n\nShe's the painter"
+}

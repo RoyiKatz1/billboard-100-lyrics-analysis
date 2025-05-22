@@ -1,0 +1,876 @@
+{
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/10894192",
+    "artist_names": "Future",
+    "full_title": "BRAZZIER by\u00a0Future",
+    "header_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "id": 10894192,
+    "instrumental": false,
+    "lyrics_owner_id": 18644847,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741197520,
+    "path": "/Future-brazzier-lyrics",
+    "primary_artist_names": "Future",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Future-brazzier-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 31,
+        "iq_earners": 31,
+        "transcribers": 2,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 60384
+    },
+    "title": "BRAZZIER",
+    "title_with_featured": "BRAZZIER",
+    "updated_by_human_at": 1741197520,
+    "url": "https://genius.com/Future-brazzier-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        }
+    ],
+    "apple_music_id": "1767829866",
+    "apple_music_player_url": "https://genius.com/songs/10894192/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10894192' class='rg_embed_link' data-song-id='10894192'>Read <a href='https://genius.com/Future-brazzier-lyrics'>\u201cBRAZZIER\u201d by Future</a> on Genius</div> <script crossorigin src='//genius.com/songs/10894192/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fa5ccf",
+    "song_art_secondary_color": "#fa64e7",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1189209",
+        "cover_art_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+        "full_title": "MIXTAPE PLUTO by Future",
+        "id": 1189209,
+        "name": "MIXTAPE PLUTO",
+        "primary_artist_names": "Future",
+        "release_date_for_display": "September 20, 2024",
+        "url": "https://genius.com/albums/Future/Mixtape-pluto",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/4148812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4148812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Spence",
+                    "url": "https://genius.com/artists/Dylan-spence"
+                },
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/3491950",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3491950,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kai Sato",
+                    "url": "https://genius.com/artists/Kai-sato"
+                },
+                {
+                    "api_path": "/artists/3103472",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3103472,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Dunn",
+                    "url": "https://genius.com/artists/James-dunn"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1963500",
+                    "header_image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "id": 1963500,
+                    "image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicolas de Porcel",
+                    "url": "https://genius.com/artists/Nicolas-de-porcel"
+                },
+                {
+                    "api_path": "/artists/2803023",
+                    "header_image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "id": 2803023,
+                    "image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Demitrius Lewis II",
+                    "url": "https://genius.com/artists/Demitrius-lewis-ii"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640014",
+                    "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "id": 640014,
+                    "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mixed by Ali",
+                    "url": "https://genius.com/artists/Mixed-by-ali"
+                },
+                {
+                    "api_path": "/artists/2981840",
+                    "header_image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "id": 2981840,
+                    "image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Blatz",
+                    "url": "https://genius.com/artists/Brandon-blatz"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/655127",
+                    "header_image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "id": 655127,
+                    "image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Manco",
+                    "url": "https://genius.com/artists/Eric-manco"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 12035275,
+        "annotator_login": "Rabe8i",
+        "api_path": "/referents/33042688",
+        "classification": "needs_exegesis",
+        "fragment": "BRAZZIER",
+        "id": 33042688,
+        "is_description": true,
+        "path": "/33042688/Future-brazzier/Brazzier",
+        "range": {
+            "content": "BRAZZIER"
+        },
+        "song_id": 10894192,
+        "url": "https://genius.com/33042688/Future-brazzier/Brazzier",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10894192",
+            "client_timestamps": {
+                "updated_by_human_at": 1741197520,
+                "lyrics_updated_at": 1741197520
+            },
+            "context": "Future",
+            "id": 10894192,
+            "image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+            "link_title": "BRAZZIER by\u00a0Future",
+            "title": "BRAZZIER",
+            "type": "Song",
+            "url": "https://genius.com/Future-brazzier-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33042688",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33042688,
+                "pinned": false,
+                "share_url": "https://genius.com/33042688",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/33042688/Future-brazzier/Brazzier",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12035275",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/3b2f92d7eb8225b831d49ed34a64b861",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/3b2f92d7eb8225b831d49ed34a64b861",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/3b2f92d7eb8225b831d49ed34a64b861",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/3b2f92d7eb8225b831d49ed34a64b861",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/8fbcd33a30fe13835e27866c2842fb33.834x302x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 12035275,
+                            "iq": 1777713,
+                            "login": "Rabe8i",
+                            "name": "Rabesi",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/Rabe8i",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=ufWyjtt7A84"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/674885",
+            "header_image_url": "https://images.genius.com/93cedf5229a78bcdc1373d51ddda9cd1.494x434x1.png",
+            "id": 674885,
+            "image_url": "https://images.genius.com/a24d25a2b64002552bc813a99f87649d.434x434x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "DY Krazy",
+            "url": "https://genius.com/artists/Dy-krazy"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10921079",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Future - BRAZZIER (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "id": 10921079,
+                    "lyrics_owner_id": 21506730,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-future-brazzier-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-future-brazzier-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - BRAZZIER (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Future - BRAZZIER (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-future-brazzier-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10894302",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Future - BRAZZIER (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.1000x1000x1.png",
+                    "id": 10894302,
+                    "lyrics_owner_id": 11484166,
+                    "lyrics_state": "unreleased",
+                    "path": "/Genius-traducciones-al-espanol-future-brazzier-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-future-brazzier-traduccion-al-espanol-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/20eef2ec630b84dce246f912f485bb5b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - BRAZZIER (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Future - BRAZZIER (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-future-brazzier-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10921079",
+            "id": 10921079,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-future-brazzier-traduction-francaise-lyrics",
+            "title": "Future - BRAZZIER (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-future-brazzier-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10894302",
+            "id": 10894302,
+            "language": "es",
+            "lyrics_state": "unreleased",
+            "path": "/Genius-traducciones-al-espanol-future-brazzier-traduccion-al-espanol-lyrics",
+            "title": "Future - BRAZZIER (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-future-brazzier-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/674885",
+            "header_image_url": "https://images.genius.com/93cedf5229a78bcdc1373d51ddda9cd1.494x434x1.png",
+            "id": 674885,
+            "image_url": "https://images.genius.com/a24d25a2b64002552bc813a99f87649d.434x434x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "DY Krazy",
+            "url": "https://genius.com/artists/Dy-krazy"
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "31 ContributorsTranslationsFran\u00e7aisEspa\u00f1olBRAZZIER Lyrics\nPluto\nGon' kick my shit, know that\nLet me pop my shit (Southside), let me pop my shit\n\nI took them cheap prices up high\nI'm really the biggest homie you got\nI'll fuck a rapper bitch in the whip\nWrite her a verse, give her a lil' clout\nTippy-toe, tiptoe, fuckin' this bitch on the marble\nI got real coke, real cocaine on my collar\nShe a nympho, benzo, bitch just hit the lotto\nPut them yellow diamonds on a black bitch, call her Mulatto\nBitch drink 1940 deuce like Moscato\nShe the butt-naked truth and this bitch swallow\nTook a whole month from the day I m\u0435t her and spent a million dollars\nI just made h\u0435r ex pissed off, all the shit I bought\nI got a habit, takin' chicks out, goin' out the mall\nI drink lean, but I'm a big dog, so I bought the bar\nDick her down 'til her body start shakin', she in shock\nI talk drugs, I talk diamonds, I talk money, Ashallah\nGive you cake, happy birthday, I'ma fuck her raw\nThat's my bitch, I'm throwin' a Rollie on her arm\nTurn a baddie to a boss overnight, she a star\nMy lil' bitch hittin' them licks every day, credit card\nWoah, woah, woah, I'm in the deep end, swimmin' with the sharks\nWoah, woah, woah, I'm in 'Biza, lettin' these freaks suck my cock\nMy bitch stayin' down with me, shootin' stars, oh, Lord\nI take st\u2014 sticks with me and I take killers where I go\n'Bout to go count a mil' ticket 'til my wrist lock up\nFuck another check up every time we leave the store\nPopped so many tags, I forgot how many cars I got\nWrapped a soldier rag 'round the gun, Louis Vuitton\n\nGo on and throw your gang sign up if that's what you on\nIf I fucked her more than one time, that shit hittin' for somethin' (That shit hittin' for somethin')\nYeah, heavy sedated, intoxicated\nI'ma go crazy, I gotta go brazier\nOne in the top, one in the cut\nOnce it's stuck, then it's up\n\nI get fronts and backs, Chanel bandana around the MAC, yeah\nI ain't trippin', if you slip, you gon' get whacked, yeah\nSame nigga, before I rapped, flippin' packs, yeah\nKeep it cool, don't front the mood, play the back, yeah\nMy niggas ain't no construction workers, but they love playin' with sand (Woo)\nI just bust down another Rol' and put emeralds in the band (Yeah)\nTouchin' down in Wakanda, goin' international on the 'Gram ('Gram)\nI don't go nowhere without my hammer, that's not in the plan (Nope)\nShe must be hittin' for somethin' if I ever fucked her again\nMask on, mask off, make that purgin' shit a trend\nI'm the realest nigga she fucked, so that make the pussy a virgin again\nI send them goons lil' deep, deep, deep, they comin' through to spin (Slatt)\nI send them goons lil' deep, deep, deep (Yeah), they comin' through to\u2014 (What's happenin'?)\n\nGo on and throw your gang sign up if that's what you on\nIf I fucked her more than one time, that shit hittin' for somethin' (That shit hittin' for somethin')\nYeah, heavy sedated, intoxicated\nI'ma go crazy, I gotta go brazier\nOne in the top, one in the cut\nOnce it's stuck, then it's up"
+}

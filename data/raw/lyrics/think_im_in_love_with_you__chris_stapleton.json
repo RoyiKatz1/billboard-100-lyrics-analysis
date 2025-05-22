@@ -1,0 +1,1131 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9345439",
+    "artist_names": "Chris Stapleton",
+    "full_title": "Think I'm In Love With You by\u00a0Chris\u00a0Stapleton",
+    "header_image_thumbnail_url": "https://images.genius.com/3c1f61dec1d31b844eb8452f442b39b7.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/3c1f61dec1d31b844eb8452f442b39b7.770x770x1.jpg",
+    "id": 9345439,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746128480,
+    "path": "/Chris-stapleton-think-im-in-love-with-you-lyrics",
+    "primary_artist_names": "Chris Stapleton",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Chris-stapleton-think-im-in-love-with-you-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 9,
+        "day": 8
+    },
+    "release_date_for_display": "September 8, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3c1f61dec1d31b844eb8452f442b39b7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/3c1f61dec1d31b844eb8452f442b39b7.770x770x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 8,
+        "iq_earners": 8,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 179368
+    },
+    "title": "Think I\u2019m In Love With You",
+    "title_with_featured": "Think I'm In Love With You",
+    "updated_by_human_at": 1746128480,
+    "url": "https://genius.com/Chris-stapleton-think-im-in-love-with-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/394611",
+        "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+        "id": 394611,
+        "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chris Stapleton",
+        "url": "https://genius.com/artists/Chris-stapleton"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/394611",
+            "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "id": 394611,
+            "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Stapleton",
+            "url": "https://genius.com/artists/Chris-stapleton"
+        }
+    ],
+    "apple_music_id": "1697401278",
+    "apple_music_player_url": "https://genius.com/songs/9345439/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9345439' class='rg_embed_link' data-song-id='9345439'>Read <a href='https://genius.com/Chris-stapleton-think-im-in-love-with-you-lyrics'>\u201cThink I'm In Love With You\u201d by Chris\u00a0Stapleton</a> on Genius</div> <script crossorigin src='//genius.com/songs/9345439/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-09-08",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#f47c5c",
+    "song_art_secondary_color": "#fc7c59",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1061001",
+        "cover_art_url": "https://images.genius.com/75d14b7adfcdc69b8b92b6ccd3aaa893.1000x1000x1.png",
+        "full_title": "Higher by Chris Stapleton",
+        "id": 1061001,
+        "name": "Higher",
+        "primary_artist_names": "Chris Stapleton",
+        "release_date_for_display": "November 10, 2023",
+        "url": "https://genius.com/albums/Chris-stapleton/Higher",
+        "artist": {
+            "api_path": "/artists/394611",
+            "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "id": 394611,
+            "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Stapleton",
+            "url": "https://genius.com/artists/Chris-stapleton"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/394611",
+                "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                "id": 394611,
+                "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Chris Stapleton",
+                "url": "https://genius.com/artists/Chris-stapleton"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/2743706",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2743706,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joanna Carter",
+                    "url": "https://genius.com/artists/Joanna-carter"
+                },
+                {
+                    "api_path": "/artists/4106035",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4106035,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Stratakis",
+                    "url": "https://genius.com/artists/James-stratakis"
+                },
+                {
+                    "api_path": "/artists/3219740",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3219740,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wes Edwards",
+                    "url": "https://genius.com/artists/Wes-edwards"
+                },
+                {
+                    "api_path": "/artists/4106036",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4106036,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Angie Lorenz",
+                    "url": "https://genius.com/artists/Angie-lorenz"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2866047",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2866047,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Running Bear Films",
+                    "url": "https://genius.com/artists/Running-bear-films"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/301281",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 301281,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lee Pardini",
+                    "url": "https://genius.com/artists/Lee-pardini"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/1242431",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1242431,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jenny Bifano",
+                    "url": "https://genius.com/artists/Jenny-bifano"
+                },
+                {
+                    "api_path": "/artists/1242430",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1242430,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Janet Darnall",
+                    "url": "https://genius.com/artists/Janet-darnall"
+                },
+                {
+                    "api_path": "/artists/135928",
+                    "header_image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+                    "id": 135928,
+                    "image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Angell",
+                    "url": "https://genius.com/artists/David-angell"
+                },
+                {
+                    "api_path": "/artists/1171593",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1171593,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alicia Enstrom",
+                    "url": "https://genius.com/artists/Alicia-enstrom"
+                },
+                {
+                    "api_path": "/artists/651802",
+                    "header_image_url": "https://images.genius.com/b3501d8baf4abd393d000f1375f91022.401x269x1.jpg",
+                    "id": 651802,
+                    "image_url": "https://images.genius.com/45ef27b71cb7a3ee06ac696bc0a9465d.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Davidson",
+                    "url": "https://genius.com/artists/David-davidson"
+                },
+                {
+                    "api_path": "/artists/680790",
+                    "header_image_url": "https://images.genius.com/d49cd5883d08601c93f60ac768f3e895.150x150x1.png",
+                    "id": 680790,
+                    "image_url": "https://images.genius.com/d49cd5883d08601c93f60ac768f3e895.150x150x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mary Kathryn Vanosdale",
+                    "url": "https://genius.com/artists/Mary-kathryn-vanosdale"
+                },
+                {
+                    "api_path": "/artists/1242432",
+                    "header_image_url": "https://images.genius.com/7895f0749c45fa06a68e74c20a88aa8c.505x505x1.jpg",
+                    "id": 1242432,
+                    "image_url": "https://images.genius.com/7895f0749c45fa06a68e74c20a88aa8c.505x505x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jung-Min Shin",
+                    "url": "https://genius.com/artists/Jung-min-shin"
+                }
+            ]
+        },
+        {
+            "label": "Tambourine",
+            "artists": [
+                {
+                    "api_path": "/artists/629649",
+                    "header_image_url": "https://images.genius.com/df3fe7e3e2d52da631b1885078a14d10.800x800x1.jpg",
+                    "id": 629649,
+                    "image_url": "https://images.genius.com/df3fe7e3e2d52da631b1885078a14d10.800x800x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Morgane Stapleton",
+                    "url": "https://genius.com/artists/Morgane-stapleton"
+                }
+            ]
+        },
+        {
+            "label": "Strings Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/2466202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2466202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephen Lamb",
+                    "url": "https://genius.com/artists/Stephen-lamb"
+                },
+                {
+                    "api_path": "/artists/680791",
+                    "header_image_url": "https://images.genius.com/8d4b6145189e693b300b027115eab072.246x246x1.png",
+                    "id": 680791,
+                    "image_url": "https://images.genius.com/8d4b6145189e693b300b027115eab072.246x246x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kristin Wilkinson",
+                    "url": "https://genius.com/artists/Kristin-wilkinson"
+                },
+                {
+                    "api_path": "/artists/394611",
+                    "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                    "id": 394611,
+                    "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Stapleton",
+                    "url": "https://genius.com/artists/Chris-stapleton"
+                },
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                }
+            ]
+        },
+        {
+            "label": "Shaker",
+            "artists": [
+                {
+                    "api_path": "/artists/1132913",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1132913,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Mixon",
+                    "url": "https://genius.com/artists/Derek-mixon"
+                },
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/1316430",
+                    "header_image_url": "https://images.genius.com/f0977564b287a34c74919740b1cb10f8.640x640x1.jpg",
+                    "id": 1316430,
+                    "image_url": "https://images.genius.com/a0d242f0a67d39c74f8e7c901d5fec17.426x426x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Clay Hunt",
+                    "url": "https://genius.com/artists/Clay-hunt"
+                },
+                {
+                    "api_path": "/artists/3665504",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3665504,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Peters",
+                    "url": "https://genius.com/artists/Zach-peters"
+                },
+                {
+                    "api_path": "/artists/1132911",
+                    "header_image_url": "https://images.genius.com/f867b59750668ebbfb865cf5bd975b29.750x500x1.jpg",
+                    "id": 1132911,
+                    "image_url": "https://images.genius.com/dc0eef21302ac476cd9fb9638633e019.677x677x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gena Johnson",
+                    "url": "https://genius.com/artists/Gena-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1132911",
+                    "header_image_url": "https://images.genius.com/f867b59750668ebbfb865cf5bd975b29.750x500x1.jpg",
+                    "id": 1132911,
+                    "image_url": "https://images.genius.com/dc0eef21302ac476cd9fb9638633e019.677x677x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gena Johnson",
+                    "url": "https://genius.com/artists/Gena-johnson"
+                },
+                {
+                    "api_path": "/artists/977567",
+                    "header_image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "id": 977567,
+                    "image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vance Powell",
+                    "url": "https://genius.com/artists/Vance-powell"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/977567",
+                    "header_image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "id": 977567,
+                    "image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vance Powell",
+                    "url": "https://genius.com/artists/Vance-powell"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/988745",
+                    "header_image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "id": 988745,
+                    "image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Lyman",
+                    "url": "https://genius.com/artists/Pete-lyman"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/977567",
+                    "header_image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "id": 977567,
+                    "image_url": "https://images.genius.com/734e533aa314ce3c283227b3d709b0bf.748x748x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vance Powell",
+                    "url": "https://genius.com/artists/Vance-powell"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/394611",
+                    "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                    "id": 394611,
+                    "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Stapleton",
+                    "url": "https://genius.com/artists/Chris-stapleton"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1132913",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1132913,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Mixon",
+                    "url": "https://genius.com/artists/Derek-mixon"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/651803",
+                    "header_image_url": "https://images.genius.com/a3d20f35bb9b6ca7b3a2ed689e67d054.250x250x1.jpg",
+                    "id": 651803,
+                    "image_url": "https://images.genius.com/a3d20f35bb9b6ca7b3a2ed689e67d054.250x250x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sari Reist",
+                    "url": "https://genius.com/artists/Sari-reist"
+                },
+                {
+                    "api_path": "/artists/1068202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1068202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Hoke",
+                    "url": "https://genius.com/artists/Austin-hoke"
+                },
+                {
+                    "api_path": "/artists/1242413",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1242413,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Bate",
+                    "url": "https://genius.com/artists/Kevin-bate"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1132912",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1132912,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "J.T. Cure",
+                    "url": "https://genius.com/artists/Jt-cure"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2721887",
+                    "header_image_url": "https://images.genius.com/221a79e82b075857747d2c548a013224.750x750x1.jpg",
+                    "id": 2721887,
+                    "image_url": "https://images.genius.com/7378f3cb5b3d2841d99564cb23d26397.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phillip Smith",
+                    "url": "https://genius.com/artists/Phillip-smith"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1207673",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1207673,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Bacigalupi",
+                    "url": "https://genius.com/artists/Daniel-bacigalupi"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1171977",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1171977,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Fahey",
+                    "url": "https://genius.com/artists/Michael-fahey"
+                },
+                {
+                    "api_path": "/artists/1132911",
+                    "header_image_url": "https://images.genius.com/f867b59750668ebbfb865cf5bd975b29.750x500x1.jpg",
+                    "id": 1132911,
+                    "image_url": "https://images.genius.com/dc0eef21302ac476cd9fb9638633e019.677x677x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gena Johnson",
+                    "url": "https://genius.com/artists/Gena-johnson"
+                },
+                {
+                    "api_path": "/artists/3665503",
+                    "header_image_url": "https://images.genius.com/a6b6f9c1c0082369ba5349d87d163aad.728x728x1.png",
+                    "id": 3665503,
+                    "image_url": "https://images.genius.com/a6b6f9c1c0082369ba5349d87d163aad.728x728x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Koehn Terry",
+                    "url": "https://genius.com/artists/Koehn-terry"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2493303",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2493303,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sound Records",
+                    "url": "https://genius.com/artists/Sound-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2493303",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2493303,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sound Records",
+                    "url": "https://genius.com/artists/Sound-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1438045",
+                    "header_image_url": "https://images.genius.com/d7e7c1decc382908d44bcd9fff44c1da.600x265x1.jpg",
+                    "id": 1438045,
+                    "image_url": "https://images.genius.com/d7e7c1decc382908d44bcd9fff44c1da.600x265x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Nashville Records",
+                    "url": "https://genius.com/artists/Mercury-nashville-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/29085809",
+        "classification": "needs_exegesis",
+        "fragment": "Think I\u2019m In Love With You",
+        "id": 29085809,
+        "is_description": true,
+        "path": "/29085809/Chris-stapleton-think-im-in-love-with-you/Think-im-in-love-with-you",
+        "range": {
+            "content": "Think I'm In Love With You"
+        },
+        "song_id": 9345439,
+        "url": "https://genius.com/29085809/Chris-stapleton-think-im-in-love-with-you/Think-im-in-love-with-you",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9345439",
+            "client_timestamps": {
+                "updated_by_human_at": 1746128480,
+                "lyrics_updated_at": 1746128480
+            },
+            "context": "Chris Stapleton",
+            "id": 9345439,
+            "image_url": "https://images.genius.com/3c1f61dec1d31b844eb8452f442b39b7.770x770x1.jpg",
+            "link_title": "Think I\u2019m In Love With You by\u00a0Chris\u00a0Stapleton",
+            "title": "Think I'm In Love With You",
+            "type": "Song",
+            "url": "https://genius.com/Chris-stapleton-think-im-in-love-with-you-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29085809",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 29085809,
+                "pinned": false,
+                "share_url": "https://genius.com/29085809",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/29085809/Chris-stapleton-think-im-in-love-with-you/Think-im-in-love-with-you",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/15291991",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+        "human_readable_role_for_display": "Editor",
+        "id": 15291991,
+        "iq": 227494,
+        "login": "axelcv",
+        "name": "Bob the Minion",
+        "role_for_display": "editor",
+        "url": "https://genius.com/axelcv",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=5-8D5ILlhNE"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/629649",
+            "header_image_url": "https://images.genius.com/df3fe7e3e2d52da631b1885078a14d10.800x800x1.jpg",
+            "id": 629649,
+            "image_url": "https://images.genius.com/df3fe7e3e2d52da631b1885078a14d10.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Morgane Stapleton",
+            "url": "https://genius.com/artists/Morgane-stapleton"
+        },
+        {
+            "api_path": "/artists/534034",
+            "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+            "id": 534034,
+            "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dave Cobb",
+            "url": "https://genius.com/artists/Dave-cobb"
+        },
+        {
+            "api_path": "/artists/394611",
+            "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "id": 394611,
+            "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Stapleton",
+            "url": "https://genius.com/artists/Chris-stapleton"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10409420",
+                    "artist_names": "Chris Stapleton & Dua Lipa",
+                    "full_title": "Think I\u2019m In Love With You (Live From The 59th ACM Awards) by\u00a0Chris\u00a0Stapleton & Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/53ef4871513df2e00574a41e6d5b8218.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/53ef4871513df2e00574a41e6d5b8218.1000x1000x1.png",
+                    "id": 10409420,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Chris-stapleton-and-dua-lipa-think-im-in-love-with-you-live-from-the-59th-acm-awards-lyrics",
+                    "primary_artist_names": "Chris Stapleton & Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Chris-stapleton-and-dua-lipa-think-im-in-love-with-you-live-from-the-59th-acm-awards-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 24
+                    },
+                    "release_date_for_display": "May 24, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 24, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/53ef4871513df2e00574a41e6d5b8218.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/53ef4871513df2e00574a41e6d5b8218.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 21578
+                    },
+                    "title": "Think I\u2019m In Love With You (Live From The 59th ACM Awards)",
+                    "title_with_featured": "Think I\u2019m In Love With You (Live From The 59th ACM Awards)",
+                    "url": "https://genius.com/Chris-stapleton-and-dua-lipa-think-im-in-love-with-you-live-from-the-59th-acm-awards-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/394611",
+                        "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                        "id": 394611,
+                        "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Chris Stapleton",
+                        "url": "https://genius.com/artists/Chris-stapleton"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/394611",
+                            "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                            "id": 394611,
+                            "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Chris Stapleton",
+                            "url": "https://genius.com/artists/Chris-stapleton"
+                        },
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/394611",
+            "header_image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "id": 394611,
+            "image_url": "https://images.genius.com/e053cb2e59334b51fecbcc0f816b2750.768x768x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Stapleton",
+            "url": "https://genius.com/artists/Chris-stapleton"
+        }
+    ],
+    "artist": "Chris Stapleton",
+    "lyrics": "8 ContributorsThink I\u2019m In Love With You Lyrics\nBaby, do you ever wonder\nWhatever happened way back when\nOr if I'll see you again\nAnd maybe if you ever wonder\nAw, you might wish things could change\nI know this might sound strange but\n\nI think I'm in love with you\nI didn't know it at the time\nI know what I wanna do\nIt's makin' me lose my mind\nI thought about thinkin' it through\nAnd every time I do I find\nI wanna make your dreams come true\nI think I'm in love with you\nI'm in love with you\n\nOoh, you are the power over me\nYou are the truth that I believe\nYou are my life, you are my world\nYou are th\u0435 air I'm breathin', girl\nYou are the light I wanna see\nYou'r\u0435 all of everythin' to me\nYou are the reasons that I am\nWoman\n\nI think I'm in love with you\nI didn't know it at the time\nI know what I wanna do\nIt's makin' me lose my mind\nI thought about thinkin' it through\nAnd every time I do I find\nI wanna make your dreams come true\nI think I'm in love with you\nOh, I think I'm in love with you\nI didn't know it at the time\nI know what I wanna do\nIt's makin' me lose my mind, girl\nI thought about thinkin' it through\nAnd every time I do I find\nI wanna make your dreams come true\nI think I'm in love with you\nOh, I think I'm in love with you\nI didn't know it at the time\nI know what I wanna do\nIt's makin' me lose my mind, girl\nI thought about thinkin' it through\nAnd every time I do I find\nI wanna make your dreams come true\nI think I'm in love with you\nI'm in love with you\n\nI think I'm in love with you\nI think I'm in love with you\nI think I'm in love with you (Yeah)\nI think I'm in love with you\nI think I'm in love with you (Yeah)\nI think I'm in love with you"
+}

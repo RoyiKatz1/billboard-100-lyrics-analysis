@@ -1,0 +1,845 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/1205924",
+    "artist_names": "The Jackson 5",
+    "full_title": "Santa Claus Is Coming to Town by\u00a0The\u00a0Jackson 5",
+    "header_image_thumbnail_url": "https://images.genius.com/e937a1bb80a584487c90055f98528372.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e937a1bb80a584487c90055f98528372.1000x1000x1.png",
+    "id": 1205924,
+    "instrumental": false,
+    "lyrics_owner_id": 3492882,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1734379243,
+    "path": "/The-jackson-5-santa-claus-is-coming-to-town-lyrics",
+    "primary_artist_names": "The Jackson 5",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/The-jackson-5-santa-claus-is-coming-to-town-sample",
+    "release_date_components": {
+        "year": 1970,
+        "month": 10,
+        "day": 15
+    },
+    "release_date_for_display": "October 15, 1970",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1970",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e937a1bb80a584487c90055f98528372.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e937a1bb80a584487c90055f98528372.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 27,
+        "iq_earners": 27,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 40220
+    },
+    "title": "Santa Claus Is Coming to Town",
+    "title_with_featured": "Santa Claus Is Coming to Town",
+    "updated_by_human_at": 1734379243,
+    "url": "https://genius.com/The-jackson-5-santa-claus-is-coming-to-town-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/8662",
+        "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+        "id": 8662,
+        "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Jackson 5",
+        "url": "https://genius.com/artists/The-jackson-5"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/8662",
+            "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+            "id": 8662,
+            "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Jackson 5",
+            "url": "https://genius.com/artists/The-jackson-5"
+        }
+    ],
+    "apple_music_id": "751977005",
+    "apple_music_player_url": "https://genius.com/songs/1205924/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_1205924' class='rg_embed_link' data-song-id='1205924'>Read <a href='https://genius.com/The-jackson-5-santa-claus-is-coming-to-town-lyrics'>\u201cSanta Claus Is Coming to Town\u201d by The\u00a0Jackson 5</a> on Genius</div> <script crossorigin src='//genius.com/songs/1205924/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "1970-10-15",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d61e31",
+    "song_art_secondary_color": "#921424",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/351867",
+        "cover_art_url": "https://images.genius.com/a0f831e4846f7edfdfa5891a200cbb88.1000x1000x1.jpg",
+        "full_title": "Soulsation! by The Jackson 5",
+        "id": 351867,
+        "name": "Soulsation!",
+        "primary_artist_names": "The Jackson 5",
+        "release_date_for_display": "June 20, 1995",
+        "url": "https://genius.com/albums/The-jackson-5/Soulsation",
+        "artist": {
+            "api_path": "/artists/8662",
+            "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+            "id": 8662,
+            "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Jackson 5",
+            "url": "https://genius.com/artists/The-jackson-5"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/8662",
+                "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+                "id": 8662,
+                "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "The Jackson 5",
+                "url": "https://genius.com/artists/The-jackson-5"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/835",
+                    "header_image_url": "https://images.genius.com/b5ade1416d2f3c989d65208f90f3905e.746x334x1.jpg",
+                    "id": 835,
+                    "image_url": "https://images.genius.com/00a04628053128dbb9188052b2a7d68b.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Jackson",
+                    "url": "https://genius.com/artists/Michael-jackson"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/39272",
+                    "header_image_url": "https://images.genius.com/ea7d090dd6f5613421fd0e42b187955c.800x500x1.jpg",
+                    "id": 39272,
+                    "image_url": "https://images.genius.com/92946fbf390302e9213669253660ffe5.350x350x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jackie Jackson",
+                    "url": "https://genius.com/artists/Jackie-jackson"
+                },
+                {
+                    "api_path": "/artists/553648",
+                    "header_image_url": "https://images.genius.com/4a456f272e13392edc0f6d4ab54b60c0.1000x429x1.jpg",
+                    "id": 553648,
+                    "image_url": "https://images.genius.com/1bcbe347dcd7f90686e4428aef0f9e02.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tito Jackson",
+                    "url": "https://genius.com/artists/Tito-jackson",
+                    "iq": 161
+                },
+                {
+                    "api_path": "/artists/39273",
+                    "header_image_url": "https://images.genius.com/7e81538781c0e7ee943fc5832b9045b5.1000x500x1.png",
+                    "id": 39273,
+                    "image_url": "https://images.genius.com/c68f62dfe68a3fdfd09170f82a4c5f9e.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jermaine Jackson",
+                    "url": "https://genius.com/artists/Jermaine-jackson"
+                },
+                {
+                    "api_path": "/artists/461200",
+                    "header_image_url": "https://images.genius.com/7e07ec865e03ab8de85d4a88505b1ec9.270x270x1.jpg",
+                    "id": 461200,
+                    "image_url": "https://images.genius.com/7e07ec865e03ab8de85d4a88505b1ec9.270x270x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marlon Jackson",
+                    "url": "https://genius.com/artists/Marlon-jackson"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/36302",
+                    "header_image_url": "https://images.genius.com/d34bc18256d5d3ffdc2049fbb46bcde9.600x600x1.jpg",
+                    "id": 36302,
+                    "image_url": "https://images.genius.com/d34bc18256d5d3ffdc2049fbb46bcde9.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Anthony Carmichael",
+                    "url": "https://genius.com/artists/James-anthony-carmichael"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/648041",
+                    "header_image_url": "https://images.genius.com/e97e77720bff06844982449c559cc143.1000x1000x1.png",
+                    "id": 648041,
+                    "image_url": "https://images.genius.com/a7e1ee6cba00091ee294d8b66b06df3d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMI Music Publishing",
+                    "url": "https://genius.com/artists/Emi-music-publishing"
+                },
+                {
+                    "api_path": "/artists/2290318",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2290318,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Francis, Day & Hunter",
+                    "url": "https://genius.com/artists/Francis-day-and-hunter"
+                },
+                {
+                    "api_path": "/artists/1229279",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1229279,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Haven Gillespie Music",
+                    "url": "https://genius.com/artists/Haven-gillespie-music"
+                },
+                {
+                    "api_path": "/artists/1984487",
+                    "header_image_url": "https://images.genius.com/827c59d0c142f45d0a53b22e13be6c6b.220x220x1.jpg",
+                    "id": 1984487,
+                    "image_url": "https://images.genius.com/827c59d0c142f45d0a53b22e13be6c6b.220x220x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jobete Music",
+                    "url": "https://genius.com/artists/Jobete-music"
+                },
+                {
+                    "api_path": "/artists/1229277",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1229277,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leo Feist, Inc.",
+                    "url": "https://genius.com/artists/Leo-feist-inc"
+                },
+                {
+                    "api_path": "/artists/2761653",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2761653,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SBK United Partnership Ltd.",
+                    "url": "https://genius.com/artists/Sbk-united-partnership-ltd"
+                },
+                {
+                    "api_path": "/artists/4214466",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4214466,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Songwriters Guild",
+                    "url": "https://genius.com/artists/The-songwriters-guild"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/661090",
+                    "header_image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "id": 661090,
+                    "image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Motown Records",
+                    "url": "https://genius.com/artists/Motown-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/661090",
+                    "header_image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "id": 661090,
+                    "image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Motown Records",
+                    "url": "https://genius.com/artists/Motown-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6936343,
+        "annotator_login": "EchoPC",
+        "api_path": "/referents/33831429",
+        "classification": "needs_exegesis",
+        "fragment": "Santa Claus Is Coming to Town",
+        "id": 33831429,
+        "is_description": true,
+        "path": "/33831429/The-jackson-5-santa-claus-is-coming-to-town/Santa-claus-is-coming-to-town",
+        "range": {
+            "content": "Santa Claus Is Coming to Town"
+        },
+        "song_id": 1205924,
+        "url": "https://genius.com/33831429/The-jackson-5-santa-claus-is-coming-to-town/Santa-claus-is-coming-to-town",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/1205924",
+            "client_timestamps": {
+                "updated_by_human_at": 1734379243,
+                "lyrics_updated_at": 1734379243
+            },
+            "context": "The Jackson 5",
+            "id": 1205924,
+            "image_url": "https://images.genius.com/e937a1bb80a584487c90055f98528372.1000x1000x1.png",
+            "link_title": "Santa Claus Is Coming to Town by\u00a0The\u00a0Jackson 5",
+            "title": "Santa Claus Is Coming to Town",
+            "type": "Song",
+            "url": "https://genius.com/The-jackson-5-santa-claus-is-coming-to-town-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33831429",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33831429,
+                "pinned": false,
+                "share_url": "https://genius.com/33831429",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/33831429/The-jackson-5-santa-claus-is-coming-to-town/Santa-claus-is-coming-to-town",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6936343",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/b2aed52a41c33fdc81e4f9a7f36c59c6",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/b2aed52a41c33fdc81e4f9a7f36c59c6",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/b2aed52a41c33fdc81e4f9a7f36c59c6",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/b2aed52a41c33fdc81e4f9a7f36c59c6",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/b2aed52a41c33fdc81e4f9a7f36c59c6",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 6936343,
+                            "iq": 717705,
+                            "login": "EchoPC",
+                            "name": "EchoPC",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/EchoPC",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "jackson 5 official",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/jackson-5-official/santa-claus-is-coming-to-1?si=f1f4cbee66a44bec83c59ffd60eeea5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=nYmPZrvThW8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/65703",
+            "header_image_url": "https://images.genius.com/05f2a6fb3a2b91e8b6028939d746f2ae.577x577x1.jpg",
+            "id": 65703,
+            "image_url": "https://images.genius.com/05f2a6fb3a2b91e8b6028939d746f2ae.577x577x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Hal Davis",
+            "url": "https://genius.com/artists/Hal-davis"
+        },
+        {
+            "api_path": "/artists/65558",
+            "header_image_url": "https://images.genius.com/ca66deb0bd1173ff1019e08d5af883e8.1000x667x1.png",
+            "id": 65558,
+            "image_url": "https://images.genius.com/0f69db65029cd2935719c3b7f074821f.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Berry Gordy",
+            "url": "https://genius.com/artists/Berry-gordy"
+        },
+        {
+            "api_path": "/artists/65708",
+            "header_image_url": "https://images.genius.com/31b56f263141303b7c474727f361060d.166x166x1.jpg",
+            "id": 65708,
+            "image_url": "https://images.genius.com/31b56f263141303b7c474727f361060d.166x166x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fonce Mizell",
+            "url": "https://genius.com/artists/Fonce-mizell"
+        },
+        {
+            "api_path": "/artists/475275",
+            "header_image_url": "https://images.genius.com/f69ade1b58552f55952a099899188032.341x341x1.jpg",
+            "id": 475275,
+            "image_url": "https://images.genius.com/f69ade1b58552f55952a099899188032.341x341x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Deke Richards",
+            "url": "https://genius.com/artists/Deke-richards"
+        },
+        {
+            "api_path": "/artists/65709",
+            "header_image_url": "https://images.genius.com/7239cc3851f0be1f198d3b891ae5a006.200x322x1.jpg",
+            "id": 65709,
+            "image_url": "https://images.genius.com/5a0419444c11f4e36a29878c1180bb29.200x200x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Freddie Perren",
+            "url": "https://genius.com/artists/Freddie-perren"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/1625518",
+                    "artist_names": "The Jackson 5",
+                    "full_title": "J5 Christmas Medley by\u00a0The\u00a0Jackson 5",
+                    "header_image_thumbnail_url": "https://images.genius.com/34a8abef1b20e4d3197a9c436608dfb5.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/34a8abef1b20e4d3197a9c436608dfb5.1000x1000x1.jpg",
+                    "id": 1625518,
+                    "lyrics_owner_id": 3492882,
+                    "lyrics_state": "complete",
+                    "path": "/The-jackson-5-j5-christmas-medley-lyrics",
+                    "primary_artist_names": "The Jackson 5",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-jackson-5-j5-christmas-medley-sample",
+                    "release_date_components": {
+                        "year": 2009,
+                        "month": 10,
+                        "day": 13
+                    },
+                    "release_date_for_display": "October 13, 2009",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 13, 2009",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/34a8abef1b20e4d3197a9c436608dfb5.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/34a8abef1b20e4d3197a9c436608dfb5.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "J5 Christmas Medley",
+                    "title_with_featured": "J5 Christmas Medley",
+                    "url": "https://genius.com/The-jackson-5-j5-christmas-medley-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/8662",
+                        "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+                        "id": 8662,
+                        "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Jackson 5",
+                        "url": "https://genius.com/artists/The-jackson-5"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/8662",
+                            "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+                            "id": 8662,
+                            "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Jackson 5",
+                            "url": "https://genius.com/artists/The-jackson-5"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/2375829",
+                    "artist_names": "shawn wasabi",
+                    "full_title": "Mac n' Cheese by\u00a0shawn\u00a0wasabi",
+                    "header_image_thumbnail_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.586x586x1.jpg",
+                    "id": 2375829,
+                    "lyrics_owner_id": 2522650,
+                    "lyrics_state": "complete",
+                    "path": "/Shawn-wasabi-mac-n-cheese-lyrics",
+                    "primary_artist_names": "shawn wasabi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Shawn-wasabi-mac-n-cheese-sample",
+                    "release_date_components": {
+                        "year": 2013,
+                        "month": 12,
+                        "day": 12
+                    },
+                    "release_date_for_display": "December 12, 2013",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 12, 2013",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.586x586x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Mac n\u2019 Cheese",
+                    "title_with_featured": "Mac n' Cheese",
+                    "url": "https://genius.com/Shawn-wasabi-mac-n-cheese-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/330607",
+                        "header_image_url": "https://images.genius.com/dfe6f29945d3f4da8af5d772a2adba79.1000x1000x1.jpg",
+                        "id": 330607,
+                        "image_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.586x586x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "shawn wasabi",
+                        "url": "https://genius.com/artists/Shawn-wasabi",
+                        "iq": 280
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/330607",
+                            "header_image_url": "https://images.genius.com/dfe6f29945d3f4da8af5d772a2adba79.1000x1000x1.jpg",
+                            "id": 330607,
+                            "image_url": "https://images.genius.com/34d6a45966bfcd1bd49e5d659efd0592.586x586x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "shawn wasabi",
+                            "url": "https://genius.com/artists/Shawn-wasabi",
+                            "iq": 280
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5623312",
+                    "artist_names": "Harry Reser",
+                    "full_title": "Santa Claus Is Comin' To Town by\u00a0Harry\u00a0Reser",
+                    "header_image_thumbnail_url": "https://images.genius.com/29a1daf14e17e1c6d2914428d8f7f975.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/29a1daf14e17e1c6d2914428d8f7f975.700x700x1.jpg",
+                    "id": 5623312,
+                    "lyrics_owner_id": 5934018,
+                    "lyrics_state": "complete",
+                    "path": "/Harry-reser-santa-claus-is-comin-to-town-lyrics",
+                    "primary_artist_names": "Harry Reser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Harry-reser-santa-claus-is-comin-to-town-sample",
+                    "release_date_components": {
+                        "year": 1934,
+                        "month": 11,
+                        "day": null
+                    },
+                    "release_date_for_display": "November 1934",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1934",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/29a1daf14e17e1c6d2914428d8f7f975.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/29a1daf14e17e1c6d2914428d8f7f975.700x700x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Santa Claus Is Comin\u2019 To Town",
+                    "title_with_featured": "Santa Claus Is Comin' To Town",
+                    "url": "https://genius.com/Harry-reser-santa-claus-is-comin-to-town-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2262967",
+                        "header_image_url": "https://images.genius.com/81cb0b1dafaaf786c28fd3776f67fb78.300x300x1.jpg",
+                        "id": 2262967,
+                        "image_url": "https://images.genius.com/81cb0b1dafaaf786c28fd3776f67fb78.300x300x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Harry Reser",
+                        "url": "https://genius.com/artists/Harry-reser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2262967",
+                            "header_image_url": "https://images.genius.com/81cb0b1dafaaf786c28fd3776f67fb78.300x300x1.jpg",
+                            "id": 2262967,
+                            "image_url": "https://images.genius.com/81cb0b1dafaaf786c28fd3776f67fb78.300x300x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Harry Reser",
+                            "url": "https://genius.com/artists/Harry-reser"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/323668",
+            "header_image_url": "https://images.genius.com/c039992650ea83a41c98ecf44ff72b86.250x250x1.jpg",
+            "id": 323668,
+            "image_url": "https://images.genius.com/c039992650ea83a41c98ecf44ff72b86.250x250x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Haven Gillespie",
+            "url": "https://genius.com/artists/Haven-gillespie"
+        },
+        {
+            "api_path": "/artists/572970",
+            "header_image_url": "https://images.genius.com/ad361a62c9bf3033b5ccdd89aa6f0474.162x162x1.jpg",
+            "id": 572970,
+            "image_url": "https://images.genius.com/ad361a62c9bf3033b5ccdd89aa6f0474.162x162x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "J. Fred Coots",
+            "url": "https://genius.com/artists/J-fred-coots"
+        }
+    ],
+    "artist": "The Jackson 5",
+    "lyrics": "27 ContributorsSanta Claus Is Coming to Town Lyrics\nSanta Claus is comin' to town\nSanta Claus is comin' to town\n\nYou'd better watch out\nYou'd better not cry\nYou'd better not pout\nI'm telling you why\n\nSanta Claus is comin' to town\nSanta Claus is comin' to town\nSanta Claus is comin' to town\n\nHe's making a list\nAnd checking it twice\nGonna find out who's naughty and nice\n\nSanta Claus is comin' to town, oh yeah\nSanta Claus is comin' to town\nSanta Claus is comin' to town\n\nHe sees you when you're sleeping\nHe knows when you're awake\nHe knows if you've been bad or good\nSo be good for goodness sake\n(Be good for goodness sake)\n\nOh, you'd better watch out (Watch out)\nYou'd better not cry (Woo-hoo)\nBetter not pout\nI'm telling you why\n\nOh! Santa Claus is comin' to town, oh yeah\nSanta Claus is comin' to town\nSanta Claus is comin' to town (Woo-hoo)\n(Woo-hoo, woo-hoo)\nSanta Claus is comin' to town\nSanta Claus is comin' to town\nSanta Claus is comin' to town\n\nLittle tin horns, and little toy drums\nRooty-toot-toot, and rump-a-tum-tums\nCurly-haired dolls, that tootle and coo\nElephants, boats, and kiddie cars too\n\nOh! Santa Claus is comin' to town, oh yeah\nSanta Claus is comin' to town\nSanta Claus is comin' to town\nOne more time now\nSanta Claus is comin' to town, oh yeah\nSanta Claus is comin' to town\nSanta Claus is comin' to town"
+}

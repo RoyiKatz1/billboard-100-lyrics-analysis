@@ -1,0 +1,828 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/10373898",
+    "artist_names": "Luke Combs",
+    "full_title": "Ain\u2019t No Love in Oklahoma by\u00a0Luke\u00a0Combs",
+    "header_image_thumbnail_url": "https://images.genius.com/5107f322dbc69a80804d60100891c84e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5107f322dbc69a80804d60100891c84e.1000x1000x1.png",
+    "id": 10373898,
+    "instrumental": false,
+    "lyrics_owner_id": 16478929,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747706291,
+    "path": "/Luke-combs-aint-no-love-in-oklahoma-lyrics",
+    "primary_artist_names": "Luke Combs",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Luke-combs-aint-no-love-in-oklahoma-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 16
+    },
+    "release_date_for_display": "May 16, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 16, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5107f322dbc69a80804d60100891c84e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5107f322dbc69a80804d60100891c84e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 26,
+        "iq_earners": 26,
+        "transcribers": 6,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 101044
+    },
+    "title": "Ain\u2019t No Love in Oklahoma",
+    "title_with_featured": "Ain\u2019t No Love in Oklahoma",
+    "updated_by_human_at": 1747706291,
+    "url": "https://genius.com/Luke-combs-aint-no-love-in-oklahoma-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/330498",
+        "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+        "id": 330498,
+        "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Luke Combs",
+        "url": "https://genius.com/artists/Luke-combs",
+        "iq": 488
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        }
+    ],
+    "apple_music_id": "1746560129",
+    "apple_music_player_url": "https://genius.com/songs/10373898/apple_music_player",
+    "description": {
+        "plain": "\u201cAin\u2019t No Love in Oklahoma\u201d is a song recorded by American\u00a0country music\u00a0singer\u00a0Luke Combs. It was released on May 20, 2024, as the lead single from\u00a0Twisters: The Album, the forthcoming soundtrack album for the 2024 movie\u00a0Twisters.[1]\u00a0Combs co-wrote the song with\u00a0Jessi Alexander\u00a0and\u00a0Jonathan Singleton, and co-produced it with Singleton and Chip Matthew."
+    },
+    "embed_content": "<div id='rg_embed_link_10373898' class='rg_embed_link' data-song-id='10373898'>Read <a href='https://genius.com/Luke-combs-aint-no-love-in-oklahoma-lyrics'>\u201cAin\u2019t No Love in Oklahoma\u201d by Luke\u00a0Combs</a> on Genius</div> <script crossorigin src='//genius.com/songs/10373898/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-16",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#745c34",
+    "song_art_secondary_color": "#745436",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1180232",
+        "cover_art_url": "https://images.genius.com/4279ca4696ab732a7d1ab76b50c6f5c6.1000x1000x1.png",
+        "full_title": "Twisters: The Album by Various Artists",
+        "id": 1180232,
+        "name": "Twisters: The Album",
+        "primary_artist_names": "Various Artists",
+        "release_date_for_display": "July 19, 2024",
+        "url": "https://genius.com/albums/Various-artists/Twisters-the-album",
+        "artist": {
+            "api_path": "/artists/768",
+            "header_image_url": "https://images.genius.com/6d17a095876c92096ba39cbc61364c94.1000x1000x1.png",
+            "id": 768,
+            "image_url": "https://images.genius.com/8abbdc0c7fbf5607563d413cf62aa8a2.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Various Artists",
+            "url": "https://genius.com/artists/Various-artists"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/768",
+                "header_image_url": "https://images.genius.com/6d17a095876c92096ba39cbc61364c94.1000x1000x1.png",
+                "id": 768,
+                "image_url": "https://images.genius.com/8abbdc0c7fbf5607563d413cf62aa8a2.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Various Artists",
+                "url": "https://genius.com/artists/Various-artists"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Production Manager (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/259377",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 259377,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Johnson",
+                    "url": "https://genius.com/artists/Scott-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/330498",
+                    "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+                    "id": 330498,
+                    "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Luke Combs",
+                    "url": "https://genius.com/artists/Luke-combs",
+                    "iq": 488
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/468657",
+                    "header_image_url": "https://images.genius.com/80147c81a0d694a589c29d0cdf80c4eb.234x234x1.jpg",
+                    "id": 468657,
+                    "image_url": "https://images.genius.com/80147c81a0d694a589c29d0cdf80c4eb.234x234x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Mackey",
+                    "url": "https://genius.com/artists/Steve-mackey"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1181082",
+                    "header_image_url": "https://images.genius.com/f4e67f390f82da99906571a7a211af1c.300x300x1.jpg",
+                    "id": 1181082,
+                    "image_url": "https://images.genius.com/f4e67f390f82da99906571a7a211af1c.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Todd Lombardo",
+                    "url": "https://genius.com/artists/Todd-lombardo"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1256905",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1256905,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Blackmon",
+                    "url": "https://genius.com/artists/Steve-blackmon"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1458570",
+                    "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "id": 1458570,
+                    "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Roe",
+                    "url": "https://genius.com/artists/Jerry-roe"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                },
+                {
+                    "api_path": "/artists/400386",
+                    "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "id": 400386,
+                    "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Singleton",
+                    "url": "https://genius.com/artists/Jonathan-singleton"
+                }
+            ]
+        },
+        {
+            "label": "Additional Recording",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                },
+                {
+                    "api_path": "/artists/400386",
+                    "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "id": 400386,
+                    "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Singleton",
+                    "url": "https://genius.com/artists/Jonathan-singleton"
+                },
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1217270",
+                    "header_image_url": "https://images.genius.com/81edee20288d23425a0f6b9b7b0f36e4.428x428x1.jpg",
+                    "id": 1217270,
+                    "image_url": "https://images.genius.com/81edee20288d23425a0f6b9b7b0f36e4.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benny Quinn",
+                    "url": "https://genius.com/artists/Benny-quinn"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22164069,
+        "annotator_login": "AmyHollands",
+        "api_path": "/referents/31680792",
+        "classification": "unreviewed",
+        "fragment": "Ain\u2019t No Love in Oklahoma",
+        "id": 31680792,
+        "is_description": true,
+        "path": "/31680792/Luke-combs-aint-no-love-in-oklahoma/Aint-no-love-in-oklahoma",
+        "range": {
+            "content": "Ain\u2019t No Love in Oklahoma"
+        },
+        "song_id": 10373898,
+        "url": "https://genius.com/31680792/Luke-combs-aint-no-love-in-oklahoma/Aint-no-love-in-oklahoma",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10373898",
+            "client_timestamps": {
+                "updated_by_human_at": 1747706291,
+                "lyrics_updated_at": 1747706291
+            },
+            "context": "Luke Combs",
+            "id": 10373898,
+            "image_url": "https://images.genius.com/5107f322dbc69a80804d60100891c84e.1000x1000x1.png",
+            "link_title": "Ain\u2019t No Love in Oklahoma by\u00a0Luke\u00a0Combs",
+            "title": "Ain\u2019t No Love in Oklahoma",
+            "type": "Song",
+            "url": "https://genius.com/Luke-combs-aint-no-love-in-oklahoma-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31680792",
+                "body": {
+                    "plain": "\u201cAin\u2019t No Love in Oklahoma\u201d is a song recorded by American\u00a0country music\u00a0singer\u00a0Luke Combs. It was released on May 20, 2024, as the lead single from\u00a0Twisters: The Album, the forthcoming soundtrack album for the 2024 movie\u00a0Twisters.[1]\u00a0Combs co-wrote the song with\u00a0Jessi Alexander\u00a0and\u00a0Jonathan Singleton, and co-produced it with Singleton and Chip Matthew."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31680792,
+                "pinned": false,
+                "share_url": "https://genius.com/31680792",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31680792/Luke-combs-aint-no-love-in-oklahoma/Aint-no-love-in-oklahoma",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22164069",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c0d739e9d3fe1d91d58b905c9b9f4650",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c0d739e9d3fe1d91d58b905c9b9f4650",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c0d739e9d3fe1d91d58b905c9b9f4650",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c0d739e9d3fe1d91d58b905c9b9f4650",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/c0d739e9d3fe1d91d58b905c9b9f4650",
+                            "human_readable_role_for_display": null,
+                            "id": 22164069,
+                            "iq": 115,
+                            "login": "AmyHollands",
+                            "name": "AmyHollands",
+                            "role_for_display": null,
+                            "url": "https://genius.com/AmyHollands",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=J6YlaeACE4E"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        },
+        {
+            "api_path": "/artists/1065448",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 1065448,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chip Matthews",
+            "url": "https://genius.com/artists/Chip-matthews"
+        },
+        {
+            "api_path": "/artists/400386",
+            "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "id": 400386,
+            "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jonathan Singleton",
+            "url": "https://genius.com/artists/Jonathan-singleton"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        },
+        {
+            "api_path": "/artists/1065448",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 1065448,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chip Matthews",
+            "url": "https://genius.com/artists/Chip-matthews"
+        },
+        {
+            "api_path": "/artists/400386",
+            "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "id": 400386,
+            "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jonathan Singleton",
+            "url": "https://genius.com/artists/Jonathan-singleton"
+        }
+    ],
+    "artist": "Luke Combs",
+    "lyrics": "26 ContributorsAin\u2019t No Love in Oklahoma Lyrics\nI keep chasing that same old devil\nDown the same old dead-end highway\nRiding that storm running through my veins\nLike a shot down tailspun airplane\nScared of nothing and I'm scared to death\nI can't breathe and I catch my breath\nBut I keep chasing that same old devil\nDown the same old dead-end highway\n\nAin't no love in Oklahoma\nJust the whistle of a long black train\nYou'll know when it's coming for ya\nRiding in on the wind and rain\n\nI got saved in the same Red River\nThe same Red River tryna drown me\nIt ain't knocking me down, I'm standing my ground\nWith the whole world falling all around me\nI keep running, but I'm standing still\nPray for peace, but I need th\u0435 thrill\nSo I keep chasing that same old devil\nDown the sam\u0435 old dead-end highway\n\nAin't no love in Oklahoma\nJust the whistle of a long black train\nYou'll know when it's coming for ya\nRiding in on the wind and rain\n\nAin't no love in Oklahoma\nJust the whistle of a long black train\nYou'll know when it's coming for ya\nRiding in on the wind and rain\nAin't no love in Oklahoma\nJust the whistle of a long black train\nYou'll know when it's coming for ya\nRiding in on the wind and rain"
+}

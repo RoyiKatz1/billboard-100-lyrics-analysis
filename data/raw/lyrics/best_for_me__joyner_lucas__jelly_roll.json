@@ -1,0 +1,878 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/10152784",
+    "artist_names": "Joyner Lucas & Jelly Roll",
+    "full_title": "Best For Me by\u00a0Joyner\u00a0Lucas & Jelly\u00a0Roll",
+    "header_image_thumbnail_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.1000x1000x1.png",
+    "id": 10152784,
+    "instrumental": false,
+    "lyrics_owner_id": 9387139,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746365645,
+    "path": "/Joyner-lucas-and-jelly-roll-best-for-me-lyrics",
+    "primary_artist_names": "Joyner Lucas & Jelly Roll",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Joyner-lucas-and-jelly-roll-best-for-me-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 18
+    },
+    "release_date_for_display": "March 18, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 18, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 27,
+        "iq_earners": 27,
+        "transcribers": 1,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 102697
+    },
+    "title": "Best For Me",
+    "title_with_featured": "Best For Me",
+    "updated_by_human_at": 1746365645,
+    "url": "https://genius.com/Joyner-lucas-and-jelly-roll-best-for-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/345077",
+        "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+        "id": 345077,
+        "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Joyner Lucas",
+        "url": "https://genius.com/artists/Joyner-lucas",
+        "iq": 6800
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/345077",
+            "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+            "id": 345077,
+            "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Joyner Lucas",
+            "url": "https://genius.com/artists/Joyner-lucas",
+            "iq": 6800
+        },
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        }
+    ],
+    "apple_music_id": "1733550426",
+    "apple_music_player_url": "https://genius.com/songs/10152784/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10152784' class='rg_embed_link' data-song-id='10152784'>Read <a href='https://genius.com/Joyner-lucas-and-jelly-roll-best-for-me-lyrics'>\u201cBest For Me\u201d by Joyner\u00a0Lucas & Jelly\u00a0Roll</a> on Genius</div> <script crossorigin src='//genius.com/songs/10152784/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-03-18",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#f7400d",
+    "song_art_secondary_color": "#dc1e09",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/768072",
+        "cover_art_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.1000x1000x1.png",
+        "full_title": "Not Now I\u2019m Busy by Joyner Lucas",
+        "id": 768072,
+        "name": "Not Now I\u2019m Busy",
+        "primary_artist_names": "Joyner Lucas",
+        "release_date_for_display": "March 22, 2024",
+        "url": "https://genius.com/albums/Joyner-lucas/Not-now-im-busy",
+        "artist": {
+            "api_path": "/artists/345077",
+            "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+            "id": 345077,
+            "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Joyner Lucas",
+            "url": "https://genius.com/artists/Joyner-lucas",
+            "iq": 6800
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/345077",
+                "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+                "id": 345077,
+                "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Joyner Lucas",
+                "url": "https://genius.com/artists/Joyner-lucas",
+                "iq": 6800
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1882103",
+                    "header_image_url": "https://images.genius.com/0428899522ce9449c865b8ebc6e59fa4.256x256x1.png",
+                    "id": 1882103,
+                    "image_url": "https://images.genius.com/0428899522ce9449c865b8ebc6e59fa4.256x256x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tully",
+                    "url": "https://genius.com/artists/Tully"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1882102",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1882102,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Twenty Nine Music Group",
+                    "url": "https://genius.com/artists/Twenty-nine-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1882102",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1882102,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Twenty Nine Music Group",
+                    "url": "https://genius.com/artists/Twenty-nine-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/3883912",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3883912,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kayle Olzer",
+                    "url": "https://genius.com/artists/Kayle-olzer"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1800053",
+                    "header_image_url": "https://images.genius.com/d02233bd3e2553c1d06ae44289302927.640x640x1.jpg",
+                    "id": 1800053,
+                    "image_url": "https://images.genius.com/d02233bd3e2553c1d06ae44289302927.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leo Son",
+                    "url": "https://genius.com/artists/Leo-son"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/345077",
+                    "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+                    "id": 345077,
+                    "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Joyner Lucas",
+                    "url": "https://genius.com/artists/Joyner-lucas",
+                    "iq": 6800
+                },
+                {
+                    "api_path": "/artists/1978175",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1978175,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trevor Finney",
+                    "url": "https://genius.com/artists/Trevor-finney"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/3883911",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3883911,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Henaghan",
+                    "url": "https://genius.com/artists/Michael-henaghan"
+                }
+            ]
+        },
+        {
+            "label": "Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/3883910",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3883910,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dhruv Joshi",
+                    "url": "https://genius.com/artists/Dhruv-joshi"
+                },
+                {
+                    "api_path": "/artists/1222307",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1222307,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brendan Smith",
+                    "url": "https://genius.com/artists/Brendan-smith"
+                },
+                {
+                    "api_path": "/artists/3722956",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3722956,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jade Diamonds",
+                    "url": "https://genius.com/artists/Jade-diamonds"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/345077",
+                    "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+                    "id": 345077,
+                    "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Joyner Lucas",
+                    "url": "https://genius.com/artists/Joyner-lucas",
+                    "iq": 6800
+                },
+                {
+                    "api_path": "/artists/1978175",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1978175,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trevor Finney",
+                    "url": "https://genius.com/artists/Trevor-finney"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8719577,
+        "annotator_login": "stanley834",
+        "api_path": "/referents/31122726",
+        "classification": "needs_exegesis",
+        "fragment": "Best For Me",
+        "id": 31122726,
+        "is_description": true,
+        "path": "/31122726/Joyner-lucas-and-jelly-roll-best-for-me/Best-for-me",
+        "range": {
+            "content": "Best For Me"
+        },
+        "song_id": 10152784,
+        "url": "https://genius.com/31122726/Joyner-lucas-and-jelly-roll-best-for-me/Best-for-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10152784",
+            "client_timestamps": {
+                "updated_by_human_at": 1746365645,
+                "lyrics_updated_at": 1746365645
+            },
+            "context": "Joyner Lucas & Jelly Roll",
+            "id": 10152784,
+            "image_url": "https://images.genius.com/c82129bebbeed3b02b7ef96fa3a81967.1000x1000x1.png",
+            "link_title": "Best For Me by\u00a0Joyner\u00a0Lucas & Jelly\u00a0Roll",
+            "title": "Best For Me",
+            "type": "Song",
+            "url": "https://genius.com/Joyner-lucas-and-jelly-roll-best-for-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31122726",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31122726,
+                "pinned": false,
+                "share_url": "https://genius.com/31122726",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31122726/Joyner-lucas-and-jelly-roll-best-for-me/Best-for-me",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/8719577",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/n34swcokzpf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/n34swcokzpf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/n34swcokzpf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/n34swcokzpf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/fdlf6bvi44r",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 8719577,
+                            "iq": 58869,
+                            "login": "stanley834",
+                            "name": "stanley834",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/stanley834",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=V0H8oGWkn0Q"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1800053",
+            "header_image_url": "https://images.genius.com/d02233bd3e2553c1d06ae44289302927.640x640x1.jpg",
+            "id": 1800053,
+            "image_url": "https://images.genius.com/d02233bd3e2553c1d06ae44289302927.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Leo Son",
+            "url": "https://genius.com/artists/Leo-son"
+        },
+        {
+            "api_path": "/artists/3115759",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3115759,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "ADHD Productions",
+            "url": "https://genius.com/artists/Adhd-productions"
+        },
+        {
+            "api_path": "/artists/2338398",
+            "header_image_url": "https://images.genius.com/96aec1a50ff03de4be46dbc765d3e490.457x457x1.png",
+            "id": 2338398,
+            "image_url": "https://images.genius.com/96aec1a50ff03de4be46dbc765d3e490.457x457x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Young Lime",
+            "url": "https://genius.com/artists/Young-lime"
+        },
+        {
+            "api_path": "/artists/989757",
+            "header_image_url": "https://images.genius.com/e1697ed2f85b3aa7037eb1a7a685a4f4.1000x210x1.jpg",
+            "id": 989757,
+            "image_url": "https://images.genius.com/0e947fedc494860b596af4501a9359b4.328x328x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Young Taylor",
+            "url": "https://genius.com/artists/Young-taylor"
+        },
+        {
+            "api_path": "/artists/583928",
+            "header_image_url": "https://images.genius.com/c5edd9bf2d072d74ec3db0fff6c94b51.400x400x1.jpg",
+            "id": 583928,
+            "image_url": "https://images.genius.com/c5edd9bf2d072d74ec3db0fff6c94b51.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nox Beatz",
+            "url": "https://genius.com/artists/Nox-beatz"
+        },
+        {
+            "api_path": "/artists/3881686",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3881686,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chezka",
+            "url": "https://genius.com/artists/Chezka"
+        },
+        {
+            "api_path": "/artists/2758770",
+            "header_image_url": "https://images.genius.com/12ee1f776a6e0d3e607960e30bce7d4a.150x150x1.jpg",
+            "id": 2758770,
+            "image_url": "https://images.genius.com/12ee1f776a6e0d3e607960e30bce7d4a.150x150x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ayoley",
+            "url": "https://genius.com/artists/Ayoley"
+        },
+        {
+            "api_path": "/artists/1154706",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1154706,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Charlie Chronopoulos",
+            "url": "https://genius.com/artists/Charlie-chronopoulos"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10321532",
+                    "artist_names": "SouzReptil1k17 (Ft. ANB Creepy)",
+                    "full_title": "CANSAO by\u00a0SouzReptil1k17 (Ft.\u00a0ANB\u00a0Creepy)",
+                    "header_image_thumbnail_url": "https://images.genius.com/26520de87c61befdde55602a0bda4107.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/26520de87c61befdde55602a0bda4107.1000x1000x1.jpg",
+                    "id": 10321532,
+                    "lyrics_owner_id": 21104399,
+                    "lyrics_state": "complete",
+                    "path": "/Souzreptil1k17-cansao-lyrics",
+                    "primary_artist_names": "SouzReptil1k17",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Souzreptil1k17-cansao-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 25
+                    },
+                    "release_date_for_display": "April 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/26520de87c61befdde55602a0bda4107.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/26520de87c61befdde55602a0bda4107.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "CANSAO",
+                    "title_with_featured": "CANSAO (Ft.\u00a0ANB\u00a0Creepy)",
+                    "url": "https://genius.com/Souzreptil1k17-cansao-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1757807",
+                            "header_image_url": "https://images.genius.com/430b2714793968d0dededa7f3b1b82f9.567x179x1.jpg",
+                            "id": 1757807,
+                            "image_url": "https://images.genius.com/43b8333cb9186c594e5a8f34c7d6436d.618x618x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "ANB Creepy",
+                            "url": "https://genius.com/artists/Anb-creepy"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/3245087",
+                        "header_image_url": "https://images.genius.com/98964b015ecaeb5b8f42f59ca1d59320.976x901x1.jpg",
+                        "id": 3245087,
+                        "image_url": "https://images.genius.com/955e3b1026e3192bdaffecbf37b6d222.766x766x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SouzReptil1k17",
+                        "url": "https://genius.com/artists/Souzreptil1k17"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3245087",
+                            "header_image_url": "https://images.genius.com/98964b015ecaeb5b8f42f59ca1d59320.976x901x1.jpg",
+                            "id": 3245087,
+                            "image_url": "https://images.genius.com/955e3b1026e3192bdaffecbf37b6d222.766x766x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SouzReptil1k17",
+                            "url": "https://genius.com/artists/Souzreptil1k17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        },
+        {
+            "api_path": "/artists/345077",
+            "header_image_url": "https://images.genius.com/e4a1f4f393a6f2895ef728dd3bbc6cb3.1000x855x1.jpg",
+            "id": 345077,
+            "image_url": "https://images.genius.com/709c3e76b7791f24941d74381b696243.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Joyner Lucas",
+            "url": "https://genius.com/artists/Joyner-lucas",
+            "iq": 6800
+        }
+    ],
+    "artist": "Joyner Lucas",
+    "lyrics": "27 ContributorsBest For Me Lyrics\nHow can you love someone and learn to let them go?\nHow can we fall apart on things we'll never know?\nAnd isn't it funny you can change your ways\nFor someone to fill in your empty space?\nTell me, is it really love if you have to ask if they'll stay?\n\nYeah, I got somebody I love (Yeah)\nSomeone who's really important to me, but now they addicted to drugs (Damn)\nSomeone who not who they used to be and we ain't been keepin' in touch (Yeah)\nI ain't gonna say any names at all 'cause I don't want no one to judge (Woah)\nBut I wrot\u0435 this song in hopes when they h\u0435ar it, they'll never forget who they was\nI hope you feelin' your spirit enough (Joyner)\nI wanna just tell you I love you in case that you really don't hear it as much (Woah)\nI know we ain't talked in a while, but fuck it, I really don't care what it was\nI wanna reach out, but you keep on shuttin' me down, or you ain't been carin' as much\nAnd what the fuck happened to you? (Fuck happened to you?)\nYou losin' the fight (Damn)\nI never thought I'd see the day that you let addiction ruin your life\nEveryone callin' that shit a disease and makin' you feel like you in the right\nBut I hate the fact that you really be usin' that as an excuse to do what you like\nOr do what you might (Do what you might, woah)\nAnd I keep on prayin' and reachin' for you\nI hope you look in the mirror and see all the things I been seein' in you\nHope your reflection'll send you a message and show you this shit is much deeper than you\nIf you don't believe in yourself, then you'll never believe in somebody believin' in you\nAnd I gotta tell you the truth (Tell you the truth)\n'Cause I'm 'bout to lose it (Lose it)\nAnd you in denial about it and just wanna make up a million excuses\nTearin' our family apart, but you'll leave us scarred and everyone bruises\nEvery decision affectin' us all and if you get lost, then everyone loses\nFor real\nAnd I'ma be next to leave\nI heard that God got a plan and He ain't fulfillin' your destiny\nMuch as I need you, I will not be stickin' around or watchin' you rest in peace\nI promise, I love you, but I gotta do what's best for me\n\nHow can you love someone and learn to let them go?\nHow can we fall apart on things we'll never know?\nAnd isn't it funny you can change your ways\nFor someone to fill in your empty space?\nTell me, is it really love if you have to ask if they'll stay?\n\nLook, I know you been callin' for me (Yeah)\nYou hit up my phone, but I been alone so long, I'm harder to reach (Joyner)\nI know you ain't say any names, but I got a feeling you talkin' to me\nI hate when these demons get into my soul, I feel like I'm caught in the beefs (Uh)\nHow do I let go of something I know is bigger and stronger than me?\nIf I could be honest, I'll tell you the truth, I'm not who you want me to be (Nah)\nNobody is perfect, not even you, so why you keep targetin' me?\nI feel like we can't even have a genuine convo without you startin' to preach\nI felt like a dog on a leash, it's not what I need\nLivin' in hell, wondering when I gotta leave, like how can I breathe?\nAnd how you gon' tell me addiction's not a disease? Fuck do you mean?\nIf it's not a disease, then why has it gotten to me? It's not what it seems\nBut you always be makin' me feel like the problem is me\nI'm not gonna be who you want me to be, let God decide it for me\nAnd speakin' of God, how the fuck you know all of the plans He's gotten for me?\nSo give me a break\nI been inchin' away from tryna get outta this dream, I'm driftin' away\nHow come you only there for me when I be tryna get clean? My biggest mistake\nIs me wishin' that things were different, I feel like the drugs is made for sinnin'\nIt's why I been stuck in the same position, fuck\nI'm fallin', but I cannot budge\nBeen wonderin' why I'm in love with a strange addiction\nAnd why the fuck you always playin' the victim\nLot of this shit that you hate to mention\nIt sucks 'cause I had to taint your vision\nBut ain't nothin' left for me\nSo you could just quit addressin' me\nI guess it's just my destiny\nSo take me as I am or let me be, I'm tired of you stressin' me\n'Cause shit, I gotta do what's best for me\n\nHow can you love someone and learn to let them go?\nHow can we fall apart on things we'll never know?\nAnd isn't it funny you can change your ways\nFor someone to fill in your empty space?\nTell me, is it really love if you have to ask if they'll stay?"
+}

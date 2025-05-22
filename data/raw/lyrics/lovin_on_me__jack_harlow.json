@@ -1,0 +1,1920 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/9706893",
+    "artist_names": "Jack Harlow (Ft. Cadillac Dale)",
+    "full_title": "Lovin On Me by\u00a0Jack\u00a0Harlow (Ft.\u00a0Cadillac\u00a0Dale)",
+    "header_image_thumbnail_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.300x300x1.png",
+    "header_image_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.1000x1000x1.png",
+    "id": 9706893,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736995947,
+    "path": "/Jack-harlow-lovin-on-me-lyrics",
+    "primary_artist_names": "Jack Harlow",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 11,
+        "day": 10
+    },
+    "release_date_for_display": "November 10, 2023",
+    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 2,
+        "contributors": 65,
+        "iq_earners": 65,
+        "transcribers": 6,
+        "unreviewed_annotations": 12,
+        "verified_annotations": 1,
+        "hot": false,
+        "pageviews": 648436
+    },
+    "title": "Lovin On Me",
+    "title_with_featured": "Lovin On Me (Ft.\u00a0Cadillac\u00a0Dale)",
+    "updated_by_human_at": 1737773078,
+    "url": "https://genius.com/Jack-harlow-lovin-on-me-lyrics",
+    "featured_artists": [
+        {
+            "api_path": "/artists/124145",
+            "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+            "id": 124145,
+            "image_url": "https://images.genius.com/19f5f265bf8b8ee8a2723a833aa03cef.306x306x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cadillac Dale",
+            "url": "https://genius.com/artists/Cadillac-dale"
+        }
+    ],
+    "primary_artist": {
+        "api_path": "/artists/615747",
+        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+        "id": 615747,
+        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jack Harlow",
+        "url": "https://genius.com/artists/Jack-harlow",
+        "iq": 4392
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/615747",
+            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+            "id": 615747,
+            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jack Harlow",
+            "url": "https://genius.com/artists/Jack-harlow",
+            "iq": 4392
+        }
+    ],
+    "apple_music_id": "1715277428",
+    "apple_music_player_url": "https://genius.com/songs/9706893/apple_music_player",
+    "description": {
+        "plain": "First teased on social media in October 2023, \u2018Lovin On Me\u2019 serves as the potential lead single for a currently unnamed fourth studio album from Jack Harlow."
+    },
+    "embed_content": "<div id='rg_embed_link_9706893' class='rg_embed_link' data-song-id='9706893'>Read <a href='https://genius.com/Jack-harlow-lovin-on-me-lyrics'>\u201cLovin On Me\u201d by Jack\u00a0Harlow</a> on Genius</div> <script crossorigin src='//genius.com/songs/9706893/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-11-10",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#141135",
+    "song_art_secondary_color": "#545d64",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1168294",
+        "cover_art_url": "https://images.genius.com/53a0402b3d4862cebdfc5b16ec811447.1000x1000x1.webp",
+        "full_title": "BRAVO Hits, Vol. 124 by Bravo Hits",
+        "id": 1168294,
+        "name": "BRAVO Hits, Vol. 124",
+        "primary_artist_names": "Bravo Hits",
+        "release_date_for_display": "February 9, 2024",
+        "url": "https://genius.com/albums/Bravo-hits/Bravo-hits-vol-124",
+        "artist": {
+            "api_path": "/artists/988189",
+            "header_image_url": "https://images.genius.com/b8b67fdc82c57bcaf5bd07fcff10e5ce.1000x1000x1.jpg",
+            "id": 988189,
+            "image_url": "https://images.genius.com/b8b67fdc82c57bcaf5bd07fcff10e5ce.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Bravo Hits",
+            "url": "https://genius.com/artists/Bravo-hits"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/988189",
+                "header_image_url": "https://images.genius.com/b8b67fdc82c57bcaf5bd07fcff10e5ce.1000x1000x1.jpg",
+                "id": 988189,
+                "image_url": "https://images.genius.com/b8b67fdc82c57bcaf5bd07fcff10e5ce.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Bravo Hits",
+                "url": "https://genius.com/artists/Bravo-hits"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                },
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                },
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                },
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2353074",
+                    "header_image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+                    "id": 2353074,
+                    "image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nickie Jon Pabo\u0301n",
+                    "url": "https://genius.com/artists/Nickie-jon-pabon"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2353074",
+                    "header_image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+                    "id": 2353074,
+                    "image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nickie Jon Pabo\u0301n",
+                    "url": "https://genius.com/artists/Nickie-jon-pabon"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4436754,
+        "annotator_login": "peblr",
+        "api_path": "/referents/30009076",
+        "classification": "unreviewed",
+        "fragment": "Lovin On Me",
+        "id": 30009076,
+        "is_description": true,
+        "path": "/30009076/Jack-harlow-lovin-on-me/Lovin-on-me",
+        "range": {
+            "content": "Lovin On Me"
+        },
+        "song_id": 9706893,
+        "url": "https://genius.com/30009076/Jack-harlow-lovin-on-me/Lovin-on-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9706893",
+            "client_timestamps": {
+                "updated_by_human_at": 1737773078,
+                "lyrics_updated_at": 1736995947
+            },
+            "context": "Jack Harlow",
+            "id": 9706893,
+            "image_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.1000x1000x1.png",
+            "link_title": "Lovin On Me by\u00a0Jack\u00a0Harlow (Ft.\u00a0Cadillac\u00a0Dale)",
+            "title": "Lovin On Me",
+            "type": "Song",
+            "url": "https://genius.com/Jack-harlow-lovin-on-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30009076",
+                "body": {
+                    "plain": "First teased on social media in October 2023, \u2018Lovin On Me\u2019 serves as the potential lead single for a currently unnamed fourth studio album from Jack Harlow."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30009076,
+                "pinned": false,
+                "share_url": "https://genius.com/30009076",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30009076/Jack-harlow-lovin-on-me/Lovin-on-me",
+                "verified": false,
+                "votes_total": 32,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4436754",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/yg53286ms5",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/yg53286ms5",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/yg53286ms5",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/yg53286ms5",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/yfxxnvw2iaq",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 4436754,
+                            "iq": 1211,
+                            "login": "peblr",
+                            "name": "peblr",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/peblr",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=Iq8h3GEe22o"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/26460",
+            "header_image_url": "https://images.genius.com/a6e51c067acba9f8137486b8347af6c0.600x300x1.jpg",
+            "id": 26460,
+            "image_url": "https://images.genius.com/e2e6e240748534dcb81dc993d893c46c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OZ",
+            "url": "https://genius.com/artists/Oz"
+        },
+        {
+            "api_path": "/artists/1549039",
+            "header_image_url": "https://images.genius.com/393fd056721f55596442ae069042ae51.1000x667x1.jpg",
+            "id": 1549039,
+            "image_url": "https://images.genius.com/eda2cbe8beaa46987021693fbc6afce7.668x668x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nik D",
+            "url": "https://genius.com/artists/Nik-d",
+            "iq": 150
+        },
+        {
+            "api_path": "/artists/139043",
+            "header_image_url": "https://images.genius.com/fd7ec4af4634bb5a859ddc7d54a9ad18.1000x1000x1.jpg",
+            "id": 139043,
+            "image_url": "https://images.genius.com/fd7ec4af4634bb5a859ddc7d54a9ad18.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Momberger",
+            "url": "https://genius.com/artists/Sean-momberger"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9718335",
+                    "artist_names": "Cadillac Dale",
+                    "full_title": "Whatever by\u00a0Cadillac\u00a0Dale",
+                    "header_image_thumbnail_url": "https://images.genius.com/3086707696cc63118644de365583eecf.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3086707696cc63118644de365583eecf.300x300x1.jpg",
+                    "id": 9718335,
+                    "lyrics_owner_id": 4753066,
+                    "lyrics_state": "complete",
+                    "path": "/Cadillac-dale-whatever-lyrics",
+                    "primary_artist_names": "Cadillac Dale",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cadillac-dale-whatever-sample",
+                    "release_date_components": {
+                        "year": 1995,
+                        "month": 1,
+                        "day": 1
+                    },
+                    "release_date_for_display": "January 1, 1995",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 1, 1995",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3086707696cc63118644de365583eecf.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3086707696cc63118644de365583eecf.300x300x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 16966
+                    },
+                    "title": "Whatever",
+                    "title_with_featured": "Whatever",
+                    "url": "https://genius.com/Cadillac-dale-whatever-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/124145",
+                        "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+                        "id": 124145,
+                        "image_url": "https://images.genius.com/19f5f265bf8b8ee8a2723a833aa03cef.306x306x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cadillac Dale",
+                        "url": "https://genius.com/artists/Cadillac-dale"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/124145",
+                            "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+                            "id": 124145,
+                            "image_url": "https://images.genius.com/19f5f265bf8b8ee8a2723a833aa03cef.306x306x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cadillac Dale",
+                            "url": "https://genius.com/artists/Cadillac-dale"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10080750",
+                    "artist_names": "6016",
+                    "full_title": "\u200ematpat theorizes sparklecare by\u00a06016",
+                    "header_image_thumbnail_url": "https://images.genius.com/539a5c83b817b83753a8e7c8ede131be.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/539a5c83b817b83753a8e7c8ede131be.500x500x1.jpg",
+                    "id": 10080750,
+                    "lyrics_owner_id": 21381156,
+                    "lyrics_state": "complete",
+                    "path": "/6016-matpat-theorizes-sparklecare-lyrics",
+                    "primary_artist_names": "6016",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/6016-matpat-theorizes-sparklecare-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 20
+                    },
+                    "release_date_for_display": "February 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/539a5c83b817b83753a8e7c8ede131be.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/539a5c83b817b83753a8e7c8ede131be.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u200ematpat theorizes sparklecare",
+                    "title_with_featured": "\u200ematpat theorizes sparklecare",
+                    "url": "https://genius.com/6016-matpat-theorizes-sparklecare-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3796070",
+                        "header_image_url": "https://images.genius.com/b006cc324843bc7eee6d133a95565da1.508x149x1.png",
+                        "id": 3796070,
+                        "image_url": "https://images.genius.com/60d2de88cf16b0e44341f7f9ba9325f0.200x200x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "6016",
+                        "url": "https://genius.com/artists/6016"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3796070",
+                            "header_image_url": "https://images.genius.com/b006cc324843bc7eee6d133a95565da1.508x149x1.png",
+                            "id": 3796070,
+                            "image_url": "https://images.genius.com/60d2de88cf16b0e44341f7f9ba9325f0.200x200x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "6016",
+                            "url": "https://genius.com/artists/6016"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10039250",
+                    "artist_names": "KXNG Crooked & Joell Ortiz",
+                    "full_title": "Lovin On Me Freestyle by\u00a0KXNG\u00a0Crooked & Joell\u00a0Ortiz",
+                    "header_image_thumbnail_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.720x720x1.jpg",
+                    "id": 10039250,
+                    "lyrics_owner_id": 16119105,
+                    "lyrics_state": "unreleased",
+                    "path": "/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-lyrics",
+                    "primary_artist_names": "KXNG Crooked & Joell Ortiz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 9
+                    },
+                    "release_date_for_display": "February 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me Freestyle",
+                    "title_with_featured": "Lovin On Me Freestyle",
+                    "url": "https://genius.com/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/484",
+                        "header_image_url": "https://images.genius.com/a4c8df721cc1eb833f54a1c9514553ba.618x184x1.png",
+                        "id": 484,
+                        "image_url": "https://images.genius.com/95ef03a3fbbbe4a5ad5015fafb6689dc.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "KXNG Crooked",
+                        "url": "https://genius.com/artists/Kxng-crooked",
+                        "iq": 6579
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/484",
+                            "header_image_url": "https://images.genius.com/a4c8df721cc1eb833f54a1c9514553ba.618x184x1.png",
+                            "id": 484,
+                            "image_url": "https://images.genius.com/95ef03a3fbbbe4a5ad5015fafb6689dc.1000x1000x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "KXNG Crooked",
+                            "url": "https://genius.com/artists/Kxng-crooked",
+                            "iq": 6579
+                        },
+                        {
+                            "api_path": "/artists/262",
+                            "header_image_url": "https://images.genius.com/21ca2955e7c1038e10b6d882c758be86.475x336x1.jpg",
+                            "id": 262,
+                            "image_url": "https://images.genius.com/21ca2955e7c1038e10b6d882c758be86.475x336x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Joell Ortiz",
+                            "url": "https://genius.com/artists/Joell-ortiz",
+                            "iq": 4551
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 37,
+                    "api_path": "/songs/58325",
+                    "artist_names": "Drake (Ft. Lil Wayne)",
+                    "full_title": "The Motto by\u00a0Drake (Ft.\u00a0Lil\u00a0Wayne)",
+                    "header_image_thumbnail_url": "https://images.genius.com/011b9f00d72d0d3841f6bcf9cbc4e83c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/011b9f00d72d0d3841f6bcf9cbc4e83c.1000x1000x1.png",
+                    "id": 58325,
+                    "lyrics_owner_id": 7,
+                    "lyrics_state": "complete",
+                    "path": "/Drake-the-motto-lyrics",
+                    "primary_artist_names": "Drake",
+                    "pyongs_count": 177,
+                    "relationships_index_url": "https://genius.com/Drake-the-motto-sample",
+                    "release_date_components": {
+                        "year": 2011,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2011",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2011",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/011b9f00d72d0d3841f6bcf9cbc4e83c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/011b9f00d72d0d3841f6bcf9cbc4e83c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 3837844
+                    },
+                    "title": "The Motto",
+                    "title_with_featured": "The Motto (Ft.\u00a0Lil\u00a0Wayne)",
+                    "url": "https://genius.com/Drake-the-motto-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/4",
+                            "header_image_url": "https://images.genius.com/3b3485a28f2eb47c5ff3d7691e71bcba.1000x333x1.jpg",
+                            "id": 4,
+                            "image_url": "https://images.genius.com/6aa00441a7eb56b06aab796760f82468.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Lil Wayne",
+                            "url": "https://genius.com/artists/Lil-wayne",
+                            "iq": 4922
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/130",
+                        "header_image_url": "https://images.genius.com/7467e89330eb13ebaef405d0d8338626.480x332x28.gif",
+                        "id": 130,
+                        "image_url": "https://images.genius.com/b140fa0a4aeb3ea19aa2c0afe665d58d.273x273x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Drake",
+                        "url": "https://genius.com/artists/Drake"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/130",
+                            "header_image_url": "https://images.genius.com/7467e89330eb13ebaef405d0d8338626.480x332x28.gif",
+                            "id": 130,
+                            "image_url": "https://images.genius.com/b140fa0a4aeb3ea19aa2c0afe665d58d.273x273x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Drake",
+                            "url": "https://genius.com/artists/Drake"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10039250",
+                    "artist_names": "KXNG Crooked & Joell Ortiz",
+                    "full_title": "Lovin On Me Freestyle by\u00a0KXNG\u00a0Crooked & Joell\u00a0Ortiz",
+                    "header_image_thumbnail_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.720x720x1.jpg",
+                    "id": 10039250,
+                    "lyrics_owner_id": 16119105,
+                    "lyrics_state": "unreleased",
+                    "path": "/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-lyrics",
+                    "primary_artist_names": "KXNG Crooked & Joell Ortiz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 9
+                    },
+                    "release_date_for_display": "February 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7a287e1f564dc355760d05ff8a44dd0c.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me Freestyle",
+                    "title_with_featured": "Lovin On Me Freestyle",
+                    "url": "https://genius.com/Kxng-crooked-and-joell-ortiz-lovin-on-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/484",
+                        "header_image_url": "https://images.genius.com/a4c8df721cc1eb833f54a1c9514553ba.618x184x1.png",
+                        "id": 484,
+                        "image_url": "https://images.genius.com/95ef03a3fbbbe4a5ad5015fafb6689dc.1000x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "KXNG Crooked",
+                        "url": "https://genius.com/artists/Kxng-crooked",
+                        "iq": 6579
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/484",
+                            "header_image_url": "https://images.genius.com/a4c8df721cc1eb833f54a1c9514553ba.618x184x1.png",
+                            "id": 484,
+                            "image_url": "https://images.genius.com/95ef03a3fbbbe4a5ad5015fafb6689dc.1000x1000x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "KXNG Crooked",
+                            "url": "https://genius.com/artists/Kxng-crooked",
+                            "iq": 6579
+                        },
+                        {
+                            "api_path": "/artists/262",
+                            "header_image_url": "https://images.genius.com/21ca2955e7c1038e10b6d882c758be86.475x336x1.jpg",
+                            "id": 262,
+                            "image_url": "https://images.genius.com/21ca2955e7c1038e10b6d882c758be86.475x336x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Joell Ortiz",
+                            "url": "https://genius.com/artists/Joell-ortiz",
+                            "iq": 4551
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/11224573",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2024 (Blame It On The Whiskey) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "id": 11224573,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "title_with_featured": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Jack-harlow-lovin-on-me-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9755583",
+                    "artist_names": "Sinneyy",
+                    "full_title": "Lovin On Me (Nik Plunk 5) by\u00a0Sinneyy",
+                    "header_image_thumbnail_url": "https://images.genius.com/6a913abb84f1211a4b4d652a6318a475.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6a913abb84f1211a4b4d652a6318a475.800x800x1.jpg",
+                    "id": 9755583,
+                    "lyrics_owner_id": 3484315,
+                    "lyrics_state": "complete",
+                    "path": "/Sinneyy-lovin-on-me-nik-plunk-5-lyrics",
+                    "primary_artist_names": "Sinneyy",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sinneyy-lovin-on-me-nik-plunk-5-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 20
+                    },
+                    "release_date_for_display": "November 20, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 20, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6a913abb84f1211a4b4d652a6318a475.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6a913abb84f1211a4b4d652a6318a475.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (Nik Plunk 5)",
+                    "title_with_featured": "Lovin On Me (Nik Plunk 5)",
+                    "url": "https://genius.com/Sinneyy-lovin-on-me-nik-plunk-5-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/977630",
+                        "header_image_url": "https://images.genius.com/be0aee8937b6d77870eb8d77fdf014cd.1000x563x1.png",
+                        "id": 977630,
+                        "image_url": "https://images.genius.com/5872b65b2965fdc3d01acd7f1d5f2324.579x579x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinneyy",
+                        "url": "https://genius.com/artists/Sinneyy",
+                        "iq": 18445
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/977630",
+                            "header_image_url": "https://images.genius.com/be0aee8937b6d77870eb8d77fdf014cd.1000x563x1.png",
+                            "id": 977630,
+                            "image_url": "https://images.genius.com/5872b65b2965fdc3d01acd7f1d5f2324.579x579x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sinneyy",
+                            "url": "https://genius.com/artists/Sinneyy",
+                            "iq": 18445
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9842005",
+                    "artist_names": "Jack Harlow (Ft. NEMS)",
+                    "full_title": "Lovin On Me (G-Mix) by\u00a0Jack\u00a0Harlow (Ft.\u00a0NEMS)",
+                    "header_image_thumbnail_url": "https://images.genius.com/c171e048b9d32cfa63a8ec82221bf684.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/c171e048b9d32cfa63a8ec82221bf684.1000x1000x1.jpg",
+                    "id": 9842005,
+                    "lyrics_owner_id": 4369569,
+                    "lyrics_state": "complete",
+                    "path": "/Jack-harlow-lovin-on-me-g-mix-lyrics",
+                    "primary_artist_names": "Jack Harlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-g-mix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c171e048b9d32cfa63a8ec82221bf684.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/c171e048b9d32cfa63a8ec82221bf684.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (G-Mix)",
+                    "title_with_featured": "Lovin On Me (G-Mix) (Ft.\u00a0NEMS)",
+                    "url": "https://genius.com/Jack-harlow-lovin-on-me-g-mix-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1841278",
+                            "header_image_url": "https://images.genius.com/b363bf71ae8f1b6a9bd961d22576e13f.1000x1000x1.jpg",
+                            "id": 1841278,
+                            "image_url": "https://images.genius.com/cdd10ef63648915a1bd311cdfc30fbc4.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "NEMS",
+                            "url": "https://genius.com/artists/Nems"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/615747",
+                        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                        "id": 615747,
+                        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Harlow",
+                        "url": "https://genius.com/artists/Jack-harlow",
+                        "iq": 4392
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/615747",
+                            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                            "id": 615747,
+                            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Harlow",
+                            "url": "https://genius.com/artists/Jack-harlow",
+                            "iq": 4392
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9870794",
+                    "artist_names": "Jack Harlow",
+                    "full_title": "Lovin On Me (99.9 Virgin Radio Clean Edit) by\u00a0Jack\u00a0Harlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                    "id": 9870794,
+                    "lyrics_owner_id": 19539356,
+                    "lyrics_state": "complete",
+                    "path": "/Jack-harlow-lovin-on-me-999-virgin-radio-clean-edit-lyrics",
+                    "primary_artist_names": "Jack Harlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-999-virgin-radio-clean-edit-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (99.9 Virgin Radio Clean Edit)",
+                    "title_with_featured": "Lovin On Me (99.9 Virgin Radio Clean Edit)",
+                    "url": "https://genius.com/Jack-harlow-lovin-on-me-999-virgin-radio-clean-edit-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/615747",
+                        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                        "id": 615747,
+                        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Harlow",
+                        "url": "https://genius.com/artists/Jack-harlow",
+                        "iq": 4392
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/615747",
+                            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                            "id": 615747,
+                            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Harlow",
+                            "url": "https://genius.com/artists/Jack-harlow",
+                            "iq": 4392
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9950369",
+                    "artist_names": "Plies",
+                    "full_title": "Lovin On Me (Remix) by\u00a0Plies",
+                    "header_image_thumbnail_url": "https://images.genius.com/ebb057fff909121ffbc01b19f313404a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ebb057fff909121ffbc01b19f313404a.500x500x1.png",
+                    "id": 9950369,
+                    "lyrics_owner_id": 54639,
+                    "lyrics_state": "unreleased",
+                    "path": "/Plies-lovin-on-me-remix-lyrics",
+                    "primary_artist_names": "Plies",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Plies-lovin-on-me-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 15
+                    },
+                    "release_date_for_display": "January 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ebb057fff909121ffbc01b19f313404a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ebb057fff909121ffbc01b19f313404a.500x500x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (Remix)",
+                    "title_with_featured": "Lovin On Me (Remix)",
+                    "url": "https://genius.com/Plies-lovin-on-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/272",
+                        "header_image_url": "https://images.genius.com/142f4d6c2e6ce44c7607f441746bff25.1000x1000x1.jpg",
+                        "id": 272,
+                        "image_url": "https://images.genius.com/142f4d6c2e6ce44c7607f441746bff25.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Plies",
+                        "url": "https://genius.com/artists/Plies",
+                        "iq": 1161
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/272",
+                            "header_image_url": "https://images.genius.com/142f4d6c2e6ce44c7607f441746bff25.1000x1000x1.jpg",
+                            "id": 272,
+                            "image_url": "https://images.genius.com/142f4d6c2e6ce44c7607f441746bff25.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Plies",
+                            "url": "https://genius.com/artists/Plies",
+                            "iq": 1161
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11366188",
+                    "artist_names": "Lil Ronny MothaF (Ft. Cadillac Dale)",
+                    "full_title": "Lovin' On Me Freestyle by\u00a0Lil\u00a0Ronny MothaF (Ft.\u00a0Cadillac\u00a0Dale)",
+                    "header_image_thumbnail_url": "https://images.genius.com/3753f9961c5fe62d65d47a94d2f27d4a.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3753f9961c5fe62d65d47a94d2f27d4a.640x640x1.jpg",
+                    "id": 11366188,
+                    "lyrics_owner_id": 13334850,
+                    "lyrics_state": "complete",
+                    "path": "/Lil-ronny-mothaf-lovin-on-me-freestyle-lyrics",
+                    "primary_artist_names": "Lil Ronny MothaF",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lil-ronny-mothaf-lovin-on-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 5
+                    },
+                    "release_date_for_display": "May 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3753f9961c5fe62d65d47a94d2f27d4a.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3753f9961c5fe62d65d47a94d2f27d4a.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin\u2019 On Me Freestyle",
+                    "title_with_featured": "Lovin' On Me Freestyle (Ft.\u00a0Cadillac\u00a0Dale)",
+                    "url": "https://genius.com/Lil-ronny-mothaf-lovin-on-me-freestyle-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/124145",
+                            "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+                            "id": 124145,
+                            "image_url": "https://images.genius.com/19f5f265bf8b8ee8a2723a833aa03cef.306x306x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cadillac Dale",
+                            "url": "https://genius.com/artists/Cadillac-dale"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/279961",
+                        "header_image_url": "https://images.genius.com/65cef8d08e9d1907d4742fd8c3c61749.1000x667x1.jpg",
+                        "id": 279961,
+                        "image_url": "https://images.genius.com/940efdadd277df12d247adfe63384364.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lil Ronny MothaF",
+                        "url": "https://genius.com/artists/Lil-ronny-mothaf",
+                        "iq": 423
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/279961",
+                            "header_image_url": "https://images.genius.com/65cef8d08e9d1907d4742fd8c3c61749.1000x667x1.jpg",
+                            "id": 279961,
+                            "image_url": "https://images.genius.com/940efdadd277df12d247adfe63384364.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lil Ronny MothaF",
+                            "url": "https://genius.com/artists/Lil-ronny-mothaf",
+                            "iq": 423
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9132876",
+                    "artist_names": "Daniel Larson",
+                    "full_title": "Wild Hearts by\u00a0Daniel\u00a0Larson",
+                    "header_image_thumbnail_url": "https://images.genius.com/3d7103a58f1464b3625383a4e7026abc.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3d7103a58f1464b3625383a4e7026abc.355x355x1.jpg",
+                    "id": 9132876,
+                    "lyrics_owner_id": 11362953,
+                    "lyrics_state": "complete",
+                    "path": "/Daniel-larson-wild-hearts-lyrics",
+                    "primary_artist_names": "Daniel Larson",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Daniel-larson-wild-hearts-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 6
+                    },
+                    "release_date_for_display": "May 6, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 6, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3d7103a58f1464b3625383a4e7026abc.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3d7103a58f1464b3625383a4e7026abc.355x355x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Wild Hearts",
+                    "title_with_featured": "Wild Hearts",
+                    "url": "https://genius.com/Daniel-larson-wild-hearts-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2462245",
+                        "header_image_url": "https://images.genius.com/eb899df4e3bdf2d647952ab086f51b56.225x225x1.jpg",
+                        "id": 2462245,
+                        "image_url": "https://images.genius.com/4495a33054949243913f4fec02d71ce6.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Daniel Larson",
+                        "url": "https://genius.com/artists/Daniel-larson"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2462245",
+                            "header_image_url": "https://images.genius.com/eb899df4e3bdf2d647952ab086f51b56.225x225x1.jpg",
+                            "id": 2462245,
+                            "image_url": "https://images.genius.com/4495a33054949243913f4fec02d71ce6.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Daniel Larson",
+                            "url": "https://genius.com/artists/Daniel-larson"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10768988",
+                    "artist_names": "Jack Harlow",
+                    "full_title": "Lovin On Me (Sonny Fodera Remix) [Mixed] by\u00a0Jack\u00a0Harlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/fd7fd6b33e18d5315dbb067cecebff3c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fd7fd6b33e18d5315dbb067cecebff3c.1000x1000x1.png",
+                    "id": 10768988,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Jack-harlow-lovin-on-me-sonny-fodera-remix-mixed-lyrics",
+                    "primary_artist_names": "Jack Harlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-sonny-fodera-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fd7fd6b33e18d5315dbb067cecebff3c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fd7fd6b33e18d5315dbb067cecebff3c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (Sonny Fodera Remix) [Mixed]",
+                    "title_with_featured": "Lovin On Me (Sonny Fodera Remix) [Mixed]",
+                    "url": "https://genius.com/Jack-harlow-lovin-on-me-sonny-fodera-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/615747",
+                        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                        "id": 615747,
+                        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Harlow",
+                        "url": "https://genius.com/artists/Jack-harlow",
+                        "iq": 4392
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/615747",
+                            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                            "id": 615747,
+                            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Harlow",
+                            "url": "https://genius.com/artists/Jack-harlow",
+                            "iq": 4392
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10502214",
+                    "artist_names": "Jack Harlow",
+                    "full_title": "Lovin On Me (Jake Shore Remix) [Mixed] [June 2024] by\u00a0Jack\u00a0Harlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "id": 10502214,
+                    "lyrics_owner_id": 11677218,
+                    "lyrics_state": "complete",
+                    "path": "/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-june-2024-lyrics",
+                    "primary_artist_names": "Jack Harlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-june-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (Jake Shore Remix) [Mixed] [June 2024]",
+                    "title_with_featured": "Lovin On Me (Jake Shore Remix) [Mixed] [June 2024]",
+                    "url": "https://genius.com/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-june-2024-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/615747",
+                        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                        "id": 615747,
+                        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Harlow",
+                        "url": "https://genius.com/artists/Jack-harlow",
+                        "iq": 4392
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/615747",
+                            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                            "id": 615747,
+                            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Harlow",
+                            "url": "https://genius.com/artists/Jack-harlow",
+                            "iq": 4392
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10365805",
+                    "artist_names": "Jack Harlow",
+                    "full_title": "Lovin On Me (Jake Shore Remix) [Mixed] by\u00a0Jack\u00a0Harlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.999x999x1.png",
+                    "id": 10365805,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "unreleased",
+                    "path": "/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-lyrics",
+                    "primary_artist_names": "Jack Harlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 3
+                    },
+                    "release_date_for_display": "May 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lovin On Me (Jake Shore Remix) [Mixed]",
+                    "title_with_featured": "Lovin On Me (Jake Shore Remix) [Mixed]",
+                    "url": "https://genius.com/Jack-harlow-lovin-on-me-jake-shore-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/615747",
+                        "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                        "id": 615747,
+                        "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Harlow",
+                        "url": "https://genius.com/artists/Jack-harlow",
+                        "iq": 4392
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/615747",
+                            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+                            "id": 615747,
+                            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Harlow",
+                            "url": "https://genius.com/artists/Jack-harlow",
+                            "iq": 4392
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Jack-harlow-lovin-on-me-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/9735646",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Jack Harlow - Lovin On Me (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "id": 9735646,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-jack-harlow-lovin-on-me-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-jack-harlow-lovin-on-me-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 30742
+                    },
+                    "title": "Jack Harlow - Lovin On Me (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Jack Harlow - Lovin On Me (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-jack-harlow-lovin-on-me-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9779154",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Jack Harlow - Lovin On Me (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "id": 9779154,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-jack-harlow-lovin-on-me-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-jack-harlow-lovin-on-me-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 7966
+                    },
+                    "title": "Jack Harlow - Lovin On Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Jack Harlow - Lovin On Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-jack-harlow-lovin-on-me-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10005767",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Jack Harlow - Lovin On Me (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "id": 10005767,
+                    "lyrics_owner_id": 17493298,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-jack-harlow-lovin-on-me-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-jack-harlow-lovin-on-me-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/179eb743cc07a54141016c0fe2de062a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jack Harlow - Lovin On Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Jack Harlow - Lovin On Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-jack-harlow-lovin-on-me-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10298369",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Jack Harlow - Lovin On Me (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.1000x1000x1.png",
+                    "id": 10298369,
+                    "lyrics_owner_id": 19055536,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-jack-harlow-lovin-on-me-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-jack-harlow-lovin-on-me-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/24e304c51642a72f7ed46d57b03aa0a3.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jack Harlow - Lovin On Me (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Jack Harlow - Lovin On Me (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-jack-harlow-lovin-on-me-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9735646",
+            "id": 9735646,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-jack-harlow-lovin-on-me-deutsche-ubersetzung-lyrics",
+            "title": "Jack Harlow - Lovin On Me (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-jack-harlow-lovin-on-me-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/9779154",
+            "id": 9779154,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-jack-harlow-lovin-on-me-traduccion-al-espanol-lyrics",
+            "title": "Jack Harlow - Lovin On Me (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-jack-harlow-lovin-on-me-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10005767",
+            "id": 10005767,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-jack-harlow-lovin-on-me-traducao-em-portugues-lyrics",
+            "title": "Jack Harlow - Lovin On Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-jack-harlow-lovin-on-me-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10298369",
+            "id": 10298369,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-jack-harlow-lovin-on-me-lyrics",
+            "title": "Jack Harlow - Lovin On Me (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-jack-harlow-lovin-on-me-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/615747",
+            "header_image_url": "https://images.genius.com/8d518a2457aea7a523276ff6e8832cf0.1000x313x1.jpg",
+            "id": 615747,
+            "image_url": "https://images.genius.com/6ab01e566d54299478dbcda158f6f396.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jack Harlow",
+            "url": "https://genius.com/artists/Jack-harlow",
+            "iq": 4392
+        },
+        {
+            "api_path": "/artists/26460",
+            "header_image_url": "https://images.genius.com/a6e51c067acba9f8137486b8347af6c0.600x300x1.jpg",
+            "id": 26460,
+            "image_url": "https://images.genius.com/e2e6e240748534dcb81dc993d893c46c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OZ",
+            "url": "https://genius.com/artists/Oz"
+        },
+        {
+            "api_path": "/artists/1549039",
+            "header_image_url": "https://images.genius.com/393fd056721f55596442ae069042ae51.1000x667x1.jpg",
+            "id": 1549039,
+            "image_url": "https://images.genius.com/eda2cbe8beaa46987021693fbc6afce7.668x668x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nik D",
+            "url": "https://genius.com/artists/Nik-d",
+            "iq": 150
+        },
+        {
+            "api_path": "/artists/139043",
+            "header_image_url": "https://images.genius.com/fd7ec4af4634bb5a859ddc7d54a9ad18.1000x1000x1.jpg",
+            "id": 139043,
+            "image_url": "https://images.genius.com/fd7ec4af4634bb5a859ddc7d54a9ad18.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Momberger",
+            "url": "https://genius.com/artists/Sean-momberger"
+        },
+        {
+            "api_path": "/artists/2353074",
+            "header_image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+            "id": 2353074,
+            "image_url": "https://images.genius.com/d41b0399d39efd28b4c6379e61d1577d.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nickie Jon Pabo\u0301n",
+            "url": "https://genius.com/artists/Nickie-jon-pabon"
+        },
+        {
+            "api_path": "/artists/1438955",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1438955,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Reginald Nelton",
+            "url": "https://genius.com/artists/Reginald-nelton"
+        },
+        {
+            "api_path": "/artists/124145",
+            "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+            "id": 124145,
+            "image_url": "https://images.genius.com/19f5f265bf8b8ee8a2723a833aa03cef.306x306x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cadillac Dale",
+            "url": "https://genius.com/artists/Cadillac-dale"
+        }
+    ],
+    "artist": "Jack Harlow",
+    "lyrics": "65 ContributorsTranslationsDeutschEspa\u00f1olPortugu\u00eas\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Lovin On Me Lyrics\nI don't like no whips and chains and you can't tie me down\nBut you can whip your lovin' on me, baby\nWhip your lovin' on me, baby\n\nI'm vanilla, baby (I don't like no whips and chains)\nI'll choke you, but I ain't no killer, baby (And you can't tie me down)\nShe twenty-eight, tellin' me I'm still a baby (But you can whip your lovin' on me, baby)\nI get love in Detroit like Skilla Baby (Whip your lovin' on me, baby)\nAnd the thing about your boy is\nI don't like no whips and chains and you can't tie me down\nBut you can whip your lovin' on me, baby (That's right, that's right)\nWhip your lovin' on me, baby\n\nYoung J-A-C-K, AKA\nRico like Suave, Young Enrique\nSpeakin' of AKA, she's a alpha\nBut not around your boy, she get quiet 'round your boy, hold on (Shh)\nDon't know what you heard or what you thought about your boy\nBut they lied about your boy, goin' dumb and it's somethin' idiotic 'bout your boy\nShe wearin' cheetah print\nThat's how bad she wanna b\u0435 spotted 'round your boy\n\nI don't like no whips and chains and you can't tie m\u0435 down\nBut you can whip your lovin' on me, baby\nWhip your lovin' on me\n\nI'm vanilla, baby (I don't like no whips and chains)\nI'll choke you, but I ain't no killer, baby (And you can't tie me down)\nShe twenty-eight, tellin' me I'm still a baby (But you can whip your lovin' on me, baby)\nI get love in Detroit like Skilla Baby (Whip your lovin' on me, baby)\nAnd the thing about your boy is\nI don't like no whips and chains and you can't tie me down\nBut you can whip your lovin' on me, baby\nWhip your lovin' on me, baby\n\nYoung M-I-S-S-I-O-N-A-R-Y\nYou sharp like barbed wire\nShe stole my heart, then she got archived\nI keep it short with a bitch, Lord Farquaad\nAll the girls in the front row (Ayy)\nAll the girls at the barricade (Ayy)\nAll the girls that been waitin' all day\nLet your tongue hang out, fuck everything (Ayy)\nIf you came with a man (Came with a man)\nLet go of his hand (Let go of that shit)\nEverybody in the suite kickin' up they feet\nStand up, bitch, dance\n\nI don't like no whips and chains and you can't tie me down (I see you, and all the guys in the back waitin' on the next track)\nBut you can whip your lovin' on me, baby (Cut your boy a lil' slack)\nWhip your lovin' on me (It's young Jack)\n\nI'm vanilla, baby (I don't like no whips and chains)\nI'll choke you, but I ain't no killer, baby (And you can't tie me down)\nShe twenty-eight, tellin' me I'm still a baby (But you can whip your lovin' on me, baby)\nI get love in Detroit like Skilla Baby (Whip your lovin' on me, baby)\nAnd the thing about your boy is\nI don't like no whips and chains and you can't tie me down\nBut you can whip your lovin' on me, baby (That's right, that's right)\nWhip your lovin' on me, baby\n\nI don't like no whips and chains and you can't tie me down\nBut you can whip your lovin' on me, baby\nWhip your lovin' on me, baby"
+}

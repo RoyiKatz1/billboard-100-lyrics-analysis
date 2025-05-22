@@ -1,0 +1,940 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9100686",
+    "artist_names": "Riley Green (Ft. Luke Combs)",
+    "full_title": "Different \u2019Round Here (Remix) by\u00a0Riley\u00a0Green (Ft.\u00a0Luke\u00a0Combs)",
+    "header_image_thumbnail_url": "https://images.genius.com/8d57c5b653b7d22d5e8b596c4f7363b4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8d57c5b653b7d22d5e8b596c4f7363b4.1000x1000x1.png",
+    "id": 9100686,
+    "instrumental": false,
+    "lyrics_owner_id": 93685,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1683858434,
+    "path": "/Riley-green-different-round-here-remix-lyrics",
+    "primary_artist_names": "Riley Green",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Riley-green-different-round-here-remix-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 5,
+        "day": 11
+    },
+    "release_date_for_display": "May 11, 2023",
+    "release_date_with_abbreviated_month_for_display": "May 11, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8d57c5b653b7d22d5e8b596c4f7363b4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8d57c5b653b7d22d5e8b596c4f7363b4.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 8,
+        "iq_earners": 8,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false
+    },
+    "title": "Different \u2019Round Here (Remix)",
+    "title_with_featured": "Different \u2019Round Here (Remix) (Ft.\u00a0Luke\u00a0Combs)",
+    "updated_by_human_at": 1710812877,
+    "url": "https://genius.com/Riley-green-different-round-here-remix-lyrics",
+    "featured_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        }
+    ],
+    "primary_artist": {
+        "api_path": "/artists/1210348",
+        "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+        "id": 1210348,
+        "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Riley Green",
+        "url": "https://genius.com/artists/Riley-green"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1210348",
+            "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+            "id": 1210348,
+            "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Riley Green",
+            "url": "https://genius.com/artists/Riley-green"
+        }
+    ],
+    "apple_music_id": "1683241174",
+    "apple_music_player_url": "https://genius.com/songs/9100686/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9100686' class='rg_embed_link' data-song-id='9100686'>Read <a href='https://genius.com/Riley-green-different-round-here-remix-lyrics'>\u201cDifferent \u2019Round Here (Remix)\u201d by Riley\u00a0Green</a> on Genius</div> <script crossorigin src='//genius.com/songs/9100686/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-05-11",
+    "current_user_metadata": {
+        "permissions": [
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "see_pageviews",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#e06623",
+    "song_art_secondary_color": "#8b3d1c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1076860",
+        "cover_art_url": "https://images.genius.com/d7e6a7968de5555a21f0afac8edd43e6.1000x1000x1.jpg",
+        "full_title": "Ain\u2019t My Last Rodeo by Riley Green",
+        "id": 1076860,
+        "name": "Ain\u2019t My Last Rodeo",
+        "primary_artist_names": "Riley Green",
+        "release_date_for_display": "October 13, 2023",
+        "url": "https://genius.com/albums/Riley-green/Aint-my-last-rodeo",
+        "artist": {
+            "api_path": "/artists/1210348",
+            "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+            "id": 1210348,
+            "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Riley Green",
+            "url": "https://genius.com/artists/Riley-green"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1210348",
+                "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+                "id": 1210348,
+                "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Riley Green",
+                "url": "https://genius.com/artists/Riley-green"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/643889",
+                    "header_image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "id": 643889,
+                    "image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike \u201cFrog\u201d Griffith",
+                    "url": "https://genius.com/artists/Mike-frog-griffith"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1151178",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1151178,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Badum",
+                    "url": "https://genius.com/artists/Sean-badum"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1209339",
+                    "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "id": 1209339,
+                    "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ilya Toshinskiy",
+                    "url": "https://genius.com/artists/Ilya-toshinskiy"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1022746",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1022746,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Small",
+                    "url": "https://genius.com/artists/Chris-small"
+                },
+                {
+                    "api_path": "/artists/409433",
+                    "header_image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "id": 409433,
+                    "image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Huff",
+                    "url": "https://genius.com/artists/David-huff"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/409433",
+                    "header_image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "id": 409433,
+                    "image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Huff",
+                    "url": "https://genius.com/artists/David-huff"
+                },
+                {
+                    "api_path": "/artists/515186",
+                    "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "id": 515186,
+                    "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Niebank",
+                    "url": "https://genius.com/artists/Justin-niebank"
+                },
+                {
+                    "api_path": "/artists/123538",
+                    "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "id": 123538,
+                    "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dann Huff",
+                    "url": "https://genius.com/artists/Dann-huff"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1003630",
+                    "header_image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "id": 1003630,
+                    "image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Ayan",
+                    "url": "https://genius.com/artists/Adam-ayan"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                },
+                {
+                    "api_path": "/artists/515186",
+                    "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "id": 515186,
+                    "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Niebank",
+                    "url": "https://genius.com/artists/Justin-niebank"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                },
+                {
+                    "api_path": "/artists/542327",
+                    "header_image_url": "https://images.genius.com/5e9015ec5113fcc18bfd80dc3305ceee.229x229x1.jpg",
+                    "id": 542327,
+                    "image_url": "https://images.genius.com/5e9015ec5113fcc18bfd80dc3305ceee.229x229x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Marcantonio",
+                    "url": "https://genius.com/artists/Steve-marcantonio"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1914641",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1914641,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Reedy",
+                    "url": "https://genius.com/artists/Josh-reedy"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/669632",
+                    "header_image_url": "https://images.genius.com/847f24e72910c44eb326264012ebd107.533x533x1.jpg",
+                    "id": 669632,
+                    "image_url": "https://images.genius.com/847f24e72910c44eb326264012ebd107.533x533x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris McHugh",
+                    "url": "https://genius.com/artists/Chris-mchugh"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/669632",
+                    "header_image_url": "https://images.genius.com/847f24e72910c44eb326264012ebd107.533x533x1.jpg",
+                    "id": 669632,
+                    "image_url": "https://images.genius.com/847f24e72910c44eb326264012ebd107.533x533x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris McHugh",
+                    "url": "https://genius.com/artists/Chris-mchugh"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/644120",
+                    "header_image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "id": 644120,
+                    "image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charlie Judge",
+                    "url": "https://genius.com/artists/Charlie-judge"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/644120",
+                    "header_image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "id": 644120,
+                    "image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charlie Judge",
+                    "url": "https://genius.com/artists/Charlie-judge"
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/158702",
+                    "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "id": 158702,
+                    "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmie Lee Sloas",
+                    "url": "https://genius.com/artists/Jimmie-lee-sloas"
+                }
+            ]
+        },
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/670298",
+                    "header_image_url": "https://images.genius.com/a4455b6d57ae265b49a4206c02cddc8a.197x197x1.jpg",
+                    "id": 670298,
+                    "image_url": "https://images.genius.com/a4455b6d57ae265b49a4206c02cddc8a.197x197x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Dugmore",
+                    "url": "https://genius.com/artists/Dan-dugmore"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                },
+                {
+                    "api_path": "/artists/123538",
+                    "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "id": 123538,
+                    "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dann Huff",
+                    "url": "https://genius.com/artists/Dann-huff"
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/1209339",
+                    "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "id": 1209339,
+                    "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ilya Toshinskiy",
+                    "url": "https://genius.com/artists/Ilya-toshinskiy"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 3556550,
+        "annotator_login": "amucomm",
+        "api_path": "/referents/28487270",
+        "classification": "needs_exegesis",
+        "fragment": "Different \u2019Round Here (Remix)",
+        "id": 28487270,
+        "is_description": true,
+        "path": "/28487270/Riley-green-different-round-here-remix/Different-round-here-remix",
+        "range": {
+            "content": "Different \u2019Round Here (Remix)"
+        },
+        "song_id": 9100686,
+        "url": "https://genius.com/28487270/Riley-green-different-round-here-remix/Different-round-here-remix",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9100686",
+            "client_timestamps": {
+                "updated_by_human_at": 1710812877,
+                "lyrics_updated_at": 1683858434
+            },
+            "context": "Riley Green",
+            "id": 9100686,
+            "image_url": "https://images.genius.com/8d57c5b653b7d22d5e8b596c4f7363b4.1000x1000x1.png",
+            "link_title": "Different \u2019Round Here (Remix) by\u00a0Riley\u00a0Green (Ft.\u00a0Luke\u00a0Combs)",
+            "title": "Different \u2019Round Here (Remix)",
+            "type": "Song",
+            "url": "https://genius.com/Riley-green-different-round-here-remix-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28487270",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 28487270,
+                "pinned": false,
+                "share_url": "https://genius.com/28487270",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/28487270/Riley-green-different-round-here-remix/Different-round-here-remix",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/3556550",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/adfd4f7d640b9a9fdf888ba94e92ccc8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/adfd4f7d640b9a9fdf888ba94e92ccc8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/adfd4f7d640b9a9fdf888ba94e92ccc8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/adfd4f7d640b9a9fdf888ba94e92ccc8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/adfd4f7d640b9a9fdf888ba94e92ccc8",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 3556550,
+                            "iq": 8569,
+                            "login": "amucomm",
+                            "name": "amucomm",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/amucomm",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=JqgWqtyNgmI"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/375016",
+            "header_image_url": "https://images.genius.com/58bc6ad6a64d89add99010163f28d31c.240x240x1.jpg",
+            "id": 375016,
+            "image_url": "https://images.genius.com/58bc6ad6a64d89add99010163f28d31c.240x240x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jimmy Harnen",
+            "url": "https://genius.com/artists/Jimmy-harnen"
+        },
+        {
+            "api_path": "/artists/123538",
+            "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+            "id": 123538,
+            "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dann Huff",
+            "url": "https://genius.com/artists/Dann-huff"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": [
+                {
+                    "annotation_count": 15,
+                    "api_path": "/songs/4751088",
+                    "artist_names": "Riley Green",
+                    "full_title": "Different 'Round Here by\u00a0Riley\u00a0Green",
+                    "header_image_thumbnail_url": "https://images.genius.com/b5d9d558b5c0b1fbf029bae2138236a3.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b5d9d558b5c0b1fbf029bae2138236a3.1000x1000x1.jpg",
+                    "id": 4751088,
+                    "lyrics_owner_id": 4733728,
+                    "lyrics_state": "complete",
+                    "path": "/Riley-green-different-round-here-lyrics",
+                    "primary_artist_names": "Riley Green",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Riley-green-different-round-here-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b5d9d558b5c0b1fbf029bae2138236a3.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b5d9d558b5c0b1fbf029bae2138236a3.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 15,
+                        "hot": false,
+                        "pageviews": 40393
+                    },
+                    "title": "Different \u2019Round Here",
+                    "title_with_featured": "Different 'Round Here",
+                    "url": "https://genius.com/Riley-green-different-round-here-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1210348",
+                        "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+                        "id": 1210348,
+                        "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Riley Green",
+                        "url": "https://genius.com/artists/Riley-green"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1210348",
+                            "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+                            "id": 1210348,
+                            "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Riley Green",
+                            "url": "https://genius.com/artists/Riley-green"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1210348",
+            "header_image_url": "https://images.genius.com/6c655c6e348a33a77d4440ab44a60850.828x307x1.jpg",
+            "id": 1210348,
+            "image_url": "https://images.genius.com/a3775408b1bf9f90c5134ec6d18dd92b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Riley Green",
+            "url": "https://genius.com/artists/Riley-green"
+        },
+        {
+            "api_path": "/artists/374774",
+            "header_image_url": "https://images.genius.com/96b8eedc46e54fd92bce725657568d64.1000x213x1.jpg",
+            "id": 374774,
+            "image_url": "https://images.genius.com/995cb2a3e54a238d8def213969ce30f1.853x853x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Randy Montana",
+            "url": "https://genius.com/artists/Randy-montana"
+        },
+        {
+            "api_path": "/artists/400386",
+            "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "id": 400386,
+            "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jonathan Singleton",
+            "url": "https://genius.com/artists/Jonathan-singleton"
+        }
+    ],
+    "artist": "Riley Green",
+    "lyrics": "8 ContributorsDifferent \u2019Round Here (Remix) Lyrics\nAround here, fast is how the grass grows\nLost is what you find on a back road\nProof's in the whiskey, red's in the dirt\nAnd hard work stops at the fence row\nWe stand for the flag and if you don't like it, we don't care\n'Cause we do things a little different 'round here\n\nWhere brave is eighteen, wearin' army green\nTruth is in the words, in red we read\nProud is what you say about where you're from\nHeroes are daddies and mamas are love\nWhere right is right, where wrong is wrong\nYeah, we're doin' things a little different 'round here\n\nEasy's at the end of a long day\nFree's how you feel, not what you pay\nSimple's how we live (Yeah), thanks is what we give (Come on)\nRoots in the ground's why we stay (Why we stay)\n\nBrave is eighteen, wearin' army green\nTruth is in the words, in red we read\nProud is what you say about where you're from\nHeroes are daddies and mamas are love\nYeah, right is right and wrong is wrong\nYeah, we're doin' things a little different 'round here\n\nDoin' things a little different 'round here\n\nWhere rain on the roof is what a song is\nAnd home is where the heart is\n\nBrave is eighteen, wearin' army green (Army green)\nTruth is in the words, in red we read (In red we read)\nProud is what you say about where you're from\nAnd heroes are daddies and mamas are love\nAnd right is right and wrong is wrong\nYeah, we're doin' things a little different where\nRight is right and wrong is wrong\nYeah, we're (Yeah, we're) doin' things a little different 'round here\n\nYeah, we do things a little different 'round here"
+}

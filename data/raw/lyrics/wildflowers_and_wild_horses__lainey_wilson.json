@@ -1,0 +1,850 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/8287631",
+    "artist_names": "Lainey Wilson",
+    "full_title": "Wildflowers and Wild Horses by\u00a0Lainey\u00a0Wilson",
+    "header_image_thumbnail_url": "https://images.genius.com/62cebd107b93ccaccec55c51c3e96cd6.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/62cebd107b93ccaccec55c51c3e96cd6.1000x1000x1.jpg",
+    "id": 8287631,
+    "instrumental": false,
+    "lyrics_owner_id": 4234789,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1731536144,
+    "path": "/Lainey-wilson-wildflowers-and-wild-horses-lyrics",
+    "primary_artist_names": "Lainey Wilson",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-sample",
+    "release_date_components": {
+        "year": 2022,
+        "month": 10,
+        "day": 28
+    },
+    "release_date_for_display": "October 28, 2022",
+    "release_date_with_abbreviated_month_for_display": "Oct. 28, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/62cebd107b93ccaccec55c51c3e96cd6.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/62cebd107b93ccaccec55c51c3e96cd6.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 12,
+        "iq_earners": 11,
+        "transcribers": 3,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 23002
+    },
+    "title": "Wildflowers and Wild Horses",
+    "title_with_featured": "Wildflowers and Wild Horses",
+    "updated_by_human_at": 1745738731,
+    "url": "https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1149083",
+        "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+        "id": 1149083,
+        "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lainey Wilson",
+        "url": "https://genius.com/artists/Lainey-wilson"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        }
+    ],
+    "apple_music_id": "1636275042",
+    "apple_music_player_url": "https://genius.com/songs/8287631/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_8287631' class='rg_embed_link' data-song-id='8287631'>Read <a href='https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-lyrics'>\u201cWildflowers and Wild Horses\u201d by Lainey\u00a0Wilson</a> on Genius</div> <script crossorigin src='//genius.com/songs/8287631/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2022-10-28",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d18b2d",
+    "song_art_secondary_color": "#6d4817",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/976107",
+        "cover_art_url": "https://images.genius.com/a04e941f5b774b7aea0a137f151a7636.1000x1000x1.png",
+        "full_title": "Bell Bottom Country (Digital Edition) by Lainey Wilson",
+        "id": 976107,
+        "name": "Bell Bottom Country (Digital Edition)",
+        "primary_artist_names": "Lainey Wilson",
+        "release_date_for_display": "November 28, 2022",
+        "url": "https://genius.com/albums/Lainey-wilson/Bell-bottom-country-digital-edition",
+        "artist": {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1149083",
+                "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                "id": 1149083,
+                "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Lainey Wilson",
+                "url": "https://genius.com/artists/Lainey-wilson"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1597691",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1597691,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmy Mansfield",
+                    "url": "https://genius.com/artists/Jimmy-mansfield"
+                },
+                {
+                    "api_path": "/artists/3321032",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3321032,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Groppel",
+                    "url": "https://genius.com/artists/Josh-groppel"
+                },
+                {
+                    "api_path": "/artists/1597692",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1597692,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jaxon Hargrove",
+                    "url": "https://genius.com/artists/Jaxon-hargrove"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                },
+                {
+                    "api_path": "/artists/1597691",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1597691,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmy Mansfield",
+                    "url": "https://genius.com/artists/Jimmy-mansfield"
+                },
+                {
+                    "api_path": "/artists/3321032",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3321032,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Groppel",
+                    "url": "https://genius.com/artists/Josh-groppel"
+                },
+                {
+                    "api_path": "/artists/1597692",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1597692,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jaxon Hargrove",
+                    "url": "https://genius.com/artists/Jaxon-hargrove"
+                },
+                {
+                    "api_path": "/artists/662408",
+                    "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "id": 662408,
+                    "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Mendelson",
+                    "url": "https://genius.com/artists/Andrew-mendelson"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Dobro",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1149065",
+                    "header_image_url": "https://images.genius.com/76d4c59264126a662c9e5363e8b3a9d9.316x316x1.jpg",
+                    "id": 1149065,
+                    "image_url": "https://images.genius.com/76d4c59264126a662c9e5363e8b3a9d9.316x316x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brad Pemberton",
+                    "url": "https://genius.com/artists/Brad-pemberton"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1513845",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1513845,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joel King",
+                    "url": "https://genius.com/artists/Joel-king"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/355766",
+                    "header_image_url": "https://images.genius.com/9dc4833aad7ec379111e771523c6b8d5.640x640x1.jpg",
+                    "id": 355766,
+                    "image_url": "https://images.genius.com/9dc4833aad7ec379111e771523c6b8d5.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charlie Worsham",
+                    "url": "https://genius.com/artists/Charlie-worsham"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1158322",
+                    "header_image_url": "https://images.genius.com/1e287347e78e0c9be9f4a46213710a4b.1000x667x1.jpg",
+                    "id": 1158322,
+                    "image_url": "https://images.genius.com/26f918f4bdc98acc87941f5ec2351e9c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Molly Tuttle",
+                    "url": "https://genius.com/artists/Molly-tuttle"
+                },
+                {
+                    "api_path": "/artists/1908653",
+                    "header_image_url": "https://images.genius.com/c87a5df22141c25ae167a6901e38118d.1000x1000x1.jpg",
+                    "id": 1908653,
+                    "image_url": "https://images.genius.com/c87a5df22141c25ae167a6901e38118d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aslan Freeman",
+                    "url": "https://genius.com/artists/Aslan-freeman"
+                },
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1158322",
+                    "header_image_url": "https://images.genius.com/1e287347e78e0c9be9f4a46213710a4b.1000x667x1.jpg",
+                    "id": 1158322,
+                    "image_url": "https://images.genius.com/26f918f4bdc98acc87941f5ec2351e9c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Molly Tuttle",
+                    "url": "https://genius.com/artists/Molly-tuttle"
+                },
+                {
+                    "api_path": "/artists/3321032",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3321032,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Groppel",
+                    "url": "https://genius.com/artists/Josh-groppel"
+                },
+                {
+                    "api_path": "/artists/1089419",
+                    "header_image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "id": 1089419,
+                    "image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Hall",
+                    "url": "https://genius.com/artists/Jason-hall"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 54639,
+        "annotator_login": "WriteNProppa",
+        "api_path": "/referents/26480160",
+        "classification": "needs_exegesis",
+        "fragment": "Wildflowers and Wild Horses",
+        "id": 26480160,
+        "is_description": true,
+        "path": "/26480160/Lainey-wilson-wildflowers-and-wild-horses/Wildflowers-and-wild-horses",
+        "range": {
+            "content": "Wildflowers and Wild Horses"
+        },
+        "song_id": 8287631,
+        "url": "https://genius.com/26480160/Lainey-wilson-wildflowers-and-wild-horses/Wildflowers-and-wild-horses",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8287631",
+            "client_timestamps": {
+                "updated_by_human_at": 1745738731,
+                "lyrics_updated_at": 1731536144
+            },
+            "context": "Lainey Wilson",
+            "id": 8287631,
+            "image_url": "https://images.genius.com/62cebd107b93ccaccec55c51c3e96cd6.1000x1000x1.jpg",
+            "link_title": "Wildflowers and Wild Horses by\u00a0Lainey\u00a0Wilson",
+            "title": "Wildflowers and Wild Horses",
+            "type": "Song",
+            "url": "https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/26480160",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 26480160,
+                "pinned": false,
+                "share_url": "https://genius.com/26480160",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/26480160/Lainey-wilson-wildflowers-and-wild-horses/Wildflowers-and-wild-horses",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/54639",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                            "human_readable_role_for_display": "Staff",
+                            "id": 54639,
+                            "iq": 3897259,
+                            "login": "WriteNProppa",
+                            "name": "WriteNProppa",
+                            "role_for_display": "staff",
+                            "url": "https://genius.com/WriteNProppa",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=BY1UfsPlVnY"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/59535",
+            "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+            "id": 59535,
+            "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jay Joyce",
+            "url": "https://genius.com/artists/Jay-joyce"
+        },
+        {
+            "api_path": "/artists/2092176",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2092176,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Court Blankenship",
+            "url": "https://genius.com/artists/Court-blankenship"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9718449",
+                    "artist_names": "Lainey Wilson",
+                    "full_title": "Wildflowers and Wild Horses (Single Version) by\u00a0Lainey\u00a0Wilson",
+                    "header_image_thumbnail_url": "https://images.genius.com/ce48a4a0d6ec59b46b61d11c2bd62370.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ce48a4a0d6ec59b46b61d11c2bd62370.1000x1000x1.png",
+                    "id": 9718449,
+                    "lyrics_owner_id": 93685,
+                    "lyrics_state": "complete",
+                    "path": "/Lainey-wilson-wildflowers-and-wild-horses-single-version-lyrics",
+                    "primary_artist_names": "Lainey Wilson",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-single-version-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 8
+                    },
+                    "release_date_for_display": "November 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ce48a4a0d6ec59b46b61d11c2bd62370.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ce48a4a0d6ec59b46b61d11c2bd62370.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Wildflowers and Wild Horses (Single Version)",
+                    "title_with_featured": "Wildflowers and Wild Horses (Single Version)",
+                    "url": "https://genius.com/Lainey-wilson-wildflowers-and-wild-horses-single-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1149083",
+                        "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                        "id": 1149083,
+                        "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lainey Wilson",
+                        "url": "https://genius.com/artists/Lainey-wilson"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1149083",
+                            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                            "id": 1149083,
+                            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lainey Wilson",
+                            "url": "https://genius.com/artists/Lainey-wilson"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2006858",
+            "header_image_url": "https://images.genius.com/e6cbb86d07784bb4824e5e08fa238f46.960x640x1.jpg",
+            "id": 2006858,
+            "image_url": "https://images.genius.com/4ee118ab7302f101356982691827aa16.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Trannie Stevens",
+            "url": "https://genius.com/artists/Trannie-stevens"
+        },
+        {
+            "api_path": "/artists/1594664",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1594664,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Paul Sikes",
+            "url": "https://genius.com/artists/Paul-sikes"
+        },
+        {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        }
+    ],
+    "artist": "Lainey Wilson",
+    "lyrics": "12 ContributorsWildflowers and Wild Horses Lyrics\nWildflowers\nWild horses\n\nIn the middle of the night\nI hear a corn field coyote cry\nUp at the moon no matter what\nSky I'm laying under\nIn the eye of a hurricane\nWhen I got one foot in the grave\nI'll dig my boots into the dirt\nAnd face the rolling thunder\n\nI'm five generations\nOf blazing a trail\nThrough barbed wired valleys and overgrown dells\nI'm barefoot and bareback and born tough as nails\nWhoa-ooh-oh, ooh-oh\nI'm four fifths of reckless\nAnd one fifth of jack\nI push like a daisy through old sidewalk cracks\nYeah, my kinda crazy's still running its courses\nWith wildflowers and wild horses\n\nIt's in th\u0435 water in my veins\nThat bread of h\u0435aven falls like rain\nSo I'm taken care of either way\nMake something out of how I'm made\nUntil I hitch a ride on glory's train\n\nI'm five generations\nOf blazing a trail\nThrough barbed wired valleys and overgrown dells\nI'm barefoot and bareback and born tough as nails\nWhoa-ooh-oh, ooh-oh\nI'm four fifths of reckless\nAnd one fifth of jack\nI push like a daisy through old sidewalk cracks\nYeah, my kinda crazy's still running its courses\nWith wildflowers and wild horses\nI'm five generations\nOf blazing a trail\nThrough barbed wired valleys and overgrown dells\nI'm barefoot and bareback and born tough as nails\nWhoa-ooh-oh, ooh-oh\nI'm four fifths of reckless\nAnd one fifth of jack\nI push like a daisy through old sidewalk cracks\nYeah, my kinda crazy's still running its courses\nWith wildflowers and wild horses\n\nYeah, my kinda crazy's still running its courses\nWith wildflowers and wild horses\nWildflowers and wild horses"
+}

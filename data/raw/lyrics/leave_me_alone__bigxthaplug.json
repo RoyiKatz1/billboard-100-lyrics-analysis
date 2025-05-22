@@ -1,0 +1,746 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10964232",
+    "artist_names": "BigXthaPlug",
+    "full_title": "Leave Me Alone by\u00a0BigXthaPlug",
+    "header_image_thumbnail_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+    "id": 10964232,
+    "instrumental": false,
+    "lyrics_owner_id": 54639,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747567432,
+    "path": "/Bigxthaplug-leave-me-alone-lyrics",
+    "primary_artist_names": "BigXthaPlug",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bigxthaplug-leave-me-alone-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 10,
+        "day": 11
+    },
+    "release_date_for_display": "October 11, 2024",
+    "release_date_with_abbreviated_month_for_display": "Oct. 11, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 9,
+        "iq_earners": 9,
+        "transcribers": 1,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 9084
+    },
+    "title": "Leave Me Alone",
+    "title_with_featured": "Leave Me Alone",
+    "updated_by_human_at": 1747567432,
+    "url": "https://genius.com/Bigxthaplug-leave-me-alone-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2991490",
+        "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "id": 2991490,
+        "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BigXthaPlug",
+        "url": "https://genius.com/artists/Bigxthaplug"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        }
+    ],
+    "apple_music_id": "1771890365",
+    "apple_music_player_url": "https://genius.com/songs/10964232/apple_music_player",
+    "description": {
+        "plain": "\u201cLeave Me Alone,\u201d is a raw and unapologetic track that reflects on the pressures and challenges of fame, relationships, and betrayal."
+    },
+    "embed_content": "<div id='rg_embed_link_10964232' class='rg_embed_link' data-song-id='10964232'>Read <a href='https://genius.com/Bigxthaplug-leave-me-alone-lyrics'>\u201cLeave Me Alone\u201d by BigXthaPlug</a> on Genius</div> <script crossorigin src='//genius.com/songs/10964232/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-10-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c68657",
+    "song_art_secondary_color": "#5c241c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1322515",
+        "cover_art_url": "https://images.genius.com/4db088e40bd68ed1e4e6406c5940bcef.1000x1000x1.png",
+        "full_title": "TAKE CARE (DELUXE) by BigXthaPlug",
+        "id": 1322515,
+        "name": "TAKE CARE (DELUXE)",
+        "primary_artist_names": "BigXthaPlug",
+        "release_date_for_display": "January 24, 2025",
+        "url": "https://genius.com/albums/Bigxthaplug/Take-care-deluxe",
+        "artist": {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2991490",
+                "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "id": 2991490,
+                "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BigXthaPlug",
+                "url": "https://genius.com/artists/Bigxthaplug"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Audio Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22304119,
+        "annotator_login": "ChandlerJordan",
+        "api_path": "/referents/33211270",
+        "classification": "unreviewed",
+        "fragment": "Leave Me Alone",
+        "id": 33211270,
+        "is_description": true,
+        "path": "/33211270/Bigxthaplug-leave-me-alone/Leave-me-alone",
+        "range": {
+            "content": "Leave Me Alone"
+        },
+        "song_id": 10964232,
+        "url": "https://genius.com/33211270/Bigxthaplug-leave-me-alone/Leave-me-alone",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10964232",
+            "client_timestamps": {
+                "updated_by_human_at": 1747567432,
+                "lyrics_updated_at": 1747567432
+            },
+            "context": "BigXthaPlug",
+            "id": 10964232,
+            "image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+            "link_title": "Leave Me Alone by\u00a0BigXthaPlug",
+            "title": "Leave Me Alone",
+            "type": "Song",
+            "url": "https://genius.com/Bigxthaplug-leave-me-alone-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33211270",
+                "body": {
+                    "plain": "\u201cLeave Me Alone,\u201d is a raw and unapologetic track that reflects on the pressures and challenges of fame, relationships, and betrayal."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33211270,
+                "pinned": false,
+                "share_url": "https://genius.com/33211270",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33211270/Bigxthaplug-leave-me-alone/Leave-me-alone",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22304119",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/a618b3d69b35d782a510b0b3aa39953f",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/a618b3d69b35d782a510b0b3aa39953f",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/a618b3d69b35d782a510b0b3aa39953f",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/a618b3d69b35d782a510b0b3aa39953f",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/a618b3d69b35d782a510b0b3aa39953f",
+                            "human_readable_role_for_display": null,
+                            "id": 22304119,
+                            "iq": 180,
+                            "login": "ChandlerJordan",
+                            "name": "ChandlerJordan",
+                            "role_for_display": null,
+                            "url": "https://genius.com/ChandlerJordan",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bigxdaplug",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bigxdaplug/leave-me-alone"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=a3HoLmCAwUA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        },
+        {
+            "api_path": "/artists/2888278",
+            "header_image_url": "https://images.genius.com/ada615b23cc4a85da8a0da8ebb426c75.700x525x1.jpg",
+            "id": 2888278,
+            "image_url": "https://images.genius.com/92cde4b8e682b0b071d19a4a209db468.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aimonmyneck",
+            "url": "https://genius.com/artists/Aimonmyneck",
+            "iq": 245
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        },
+        {
+            "api_path": "/artists/2888278",
+            "header_image_url": "https://images.genius.com/ada615b23cc4a85da8a0da8ebb426c75.700x525x1.jpg",
+            "id": 2888278,
+            "image_url": "https://images.genius.com/92cde4b8e682b0b071d19a4a209db468.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aimonmyneck",
+            "url": "https://genius.com/artists/Aimonmyneck",
+            "iq": 245
+        }
+    ],
+    "artist": "BigXthaPlug",
+    "lyrics": "9 ContributorsLeave Me Alone Lyrics\n(Band)\n(Let the band play)\nAyy\n\nAyy, BigX, man, I need me a feature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 man, shut the fuck up\nI just want all you people to leave\u205fme\u205falone\nAyy,\u205fBigX, man, I\u205fneed me a\u205ffeature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 naw, I ain't even got it\nWhere was you when I did all this shit on my own?\n\nLately, baby mama been trippin'\nAfter all of the shit she been gettin'\nMade a baby, she still in her feelings\nWent through my phone and seen all of these women\nNot knowin' that I could care 'less 'bout these bitches\nOpps talkin', why these niggas m\u0435ntion the biggest?\nWatchin' me wh\u0435n they could be gettin' richer\nProbably mad 'cause they can't meet the 6ixers\nHuh, I done lost all the love that I had\nThink 'bout lil' bro and I start gettin' mad\nHow the fuck did you say you knew what type of nigga I was when all I did was give you a chance?\nHuh, I'm the one bought you all of them shirts\nI'm the one who bought you all them pants\nI'm the one who took you off the streets\nAnd gave you a place to come lay your head\n\nAyy, BigX, man, I need me a feature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 man, shut the fuck up\nI just want all you people to leave me alone\nAyy, BigX, man, I need me a feature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 naw, I ain't even got it\nWhere was you when I did all this shit on my own?\n\nThey say the more money, more problems, that's facts\nEverybody gon' speak even if the shit cap\nWhere was all of these folks with opinions and shit\n'Bout my livin' this shit when I used to sell crack?\nYou see, nobody care when you doin' down bad\nI came up from the mud and made half the world mad\nNow they all want some clout and a piece of the bag\nIt's too bad, know them folks left me out on my ass\nI know you remember you left me out sad\nShit, I know you remember X broke with that fad\nI bet you remember me turnin' up bad\nNow I'm lit, nigga dissin', I'm payin' a tab\nThree years, I got rich off of rappin' my past\nNow I'm rappin' 'bout pain and my hurt\nDon't think I'm a pussy, get put on a shirt\nIn a hearse just like six feet deep in that dirt\n\nAyy, BigX, man, I need me a feature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 man, shut the fuck up\nI just want all you people to leave me alone\nAyy, BigX, man, I need me a feature\nAyy, BigX, can you get on this song?\nAyy, BigX\u2014 naw, I ain't even got it\nWhere was you when I did all this shit on my own?"
+}

@@ -1,0 +1,854 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10396919",
+    "artist_names": "The Red Clay Strays",
+    "full_title": "Wanna Be Loved by\u00a0The\u00a0Red Clay Strays",
+    "header_image_thumbnail_url": "https://images.genius.com/d7b7c4347d4c0b0d6eeab10fe44558a7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/d7b7c4347d4c0b0d6eeab10fe44558a7.1000x1000x1.png",
+    "id": 10396919,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1731694944,
+    "path": "/The-red-clay-strays-wanna-be-loved-lyrics",
+    "primary_artist_names": "The Red Clay Strays",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/The-red-clay-strays-wanna-be-loved-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 22
+    },
+    "release_date_for_display": "May 22, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 22, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d7b7c4347d4c0b0d6eeab10fe44558a7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/d7b7c4347d4c0b0d6eeab10fe44558a7.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 5,
+        "iq_earners": 5,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 16611
+    },
+    "title": "Wanna Be Loved",
+    "title_with_featured": "Wanna Be Loved",
+    "updated_by_human_at": 1731694944,
+    "url": "https://genius.com/The-red-clay-strays-wanna-be-loved-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2105391",
+        "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+        "id": 2105391,
+        "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Red Clay Strays",
+        "url": "https://genius.com/artists/The-red-clay-strays"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2105391",
+            "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+            "id": 2105391,
+            "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Red Clay Strays",
+            "url": "https://genius.com/artists/The-red-clay-strays"
+        }
+    ],
+    "apple_music_id": "1746991958",
+    "apple_music_player_url": "https://genius.com/songs/10396919/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10396919' class='rg_embed_link' data-song-id='10396919'>Read <a href='https://genius.com/The-red-clay-strays-wanna-be-loved-lyrics'>\u201cWanna Be Loved\u201d by The\u00a0Red Clay Strays</a> on Genius</div> <script crossorigin src='//genius.com/songs/10396919/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#898175",
+    "song_art_secondary_color": "#47433d",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1186430",
+        "cover_art_url": "https://images.genius.com/af815e9871b0a35b43371b12386911f9.1000x1000x1.png",
+        "full_title": "Made by These Moments  by The Red Clay Strays",
+        "id": 1186430,
+        "name": "Made by These Moments ",
+        "primary_artist_names": "The Red Clay Strays",
+        "release_date_for_display": "July 26, 2024",
+        "url": "https://genius.com/albums/The-red-clay-strays/Made-by-these-moments",
+        "artist": {
+            "api_path": "/artists/2105391",
+            "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+            "id": 2105391,
+            "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Red Clay Strays",
+            "url": "https://genius.com/artists/The-red-clay-strays"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2105391",
+                "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+                "id": 2105391,
+                "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "The Red Clay Strays",
+                "url": "https://genius.com/artists/The-red-clay-strays"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3963034",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3963034,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Coleman (Country)",
+                    "url": "https://genius.com/artists/Brandon-coleman-country"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/3963034",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3963034,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Coleman (Country)",
+                    "url": "https://genius.com/artists/Brandon-coleman-country"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/3963034",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3963034,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Coleman (Country)",
+                    "url": "https://genius.com/artists/Brandon-coleman-country"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                },
+                {
+                    "api_path": "/artists/670784",
+                    "header_image_url": "https://images.genius.com/43a3fc31aefb6d622953368be3a718ee.441x441x1.jpg",
+                    "id": 670784,
+                    "image_url": "https://images.genius.com/43a3fc31aefb6d622953368be3a718ee.441x441x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Neill",
+                    "url": "https://genius.com/artists/Mark-neill"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                },
+                {
+                    "api_path": "/artists/670784",
+                    "header_image_url": "https://images.genius.com/43a3fc31aefb6d622953368be3a718ee.441x441x1.jpg",
+                    "id": 670784,
+                    "image_url": "https://images.genius.com/43a3fc31aefb6d622953368be3a718ee.441x441x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Neill",
+                    "url": "https://genius.com/artists/Mark-neill"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2977966",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2977966,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ethan Barrette",
+                    "url": "https://genius.com/artists/Ethan-barrette"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/3565249",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3565249,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Bishop",
+                    "url": "https://genius.com/artists/Andrew-bishop"
+                },
+                {
+                    "api_path": "/artists/2105390",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2105390,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Nix",
+                    "url": "https://genius.com/artists/Drew-nix"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                }
+            ]
+        },
+        {
+            "label": "Mellotron",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                }
+            ]
+        },
+        {
+            "label": "Harmonica",
+            "artists": [
+                {
+                    "api_path": "/artists/2105390",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2105390,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Nix",
+                    "url": "https://genius.com/artists/Drew-nix"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/3565249",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3565249,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Bishop",
+                    "url": "https://genius.com/artists/Andrew-bishop"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/3542021",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3542021,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John W. Hall",
+                    "url": "https://genius.com/artists/John-w-hall"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/534034",
+                    "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+                    "id": 534034,
+                    "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cobb",
+                    "url": "https://genius.com/artists/Dave-cobb"
+                },
+                {
+                    "api_path": "/artists/2105390",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2105390,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Nix",
+                    "url": "https://genius.com/artists/Drew-nix"
+                },
+                {
+                    "api_path": "/artists/3963031",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3963031,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Rishel",
+                    "url": "https://genius.com/artists/Zach-rishel"
+                },
+                {
+                    "api_path": "/artists/3963034",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3963034,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Coleman (Country)",
+                    "url": "https://genius.com/artists/Brandon-coleman-country"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2105391",
+                    "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+                    "id": 2105391,
+                    "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Red Clay Strays",
+                    "url": "https://genius.com/artists/The-red-clay-strays"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/31739736",
+        "classification": "needs_exegesis",
+        "fragment": "Wanna Be Loved",
+        "id": 31739736,
+        "is_description": true,
+        "path": "/31739736/The-red-clay-strays-wanna-be-loved/Wanna-be-loved",
+        "range": {
+            "content": "Wanna Be Loved"
+        },
+        "song_id": 10396919,
+        "url": "https://genius.com/31739736/The-red-clay-strays-wanna-be-loved/Wanna-be-loved",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10396919",
+            "client_timestamps": {
+                "updated_by_human_at": 1731694944,
+                "lyrics_updated_at": 1731694944
+            },
+            "context": "The Red Clay Strays",
+            "id": 10396919,
+            "image_url": "https://images.genius.com/d7b7c4347d4c0b0d6eeab10fe44558a7.1000x1000x1.png",
+            "link_title": "Wanna Be Loved by\u00a0The\u00a0Red Clay Strays",
+            "title": "Wanna Be Loved",
+            "type": "Song",
+            "url": "https://genius.com/The-red-clay-strays-wanna-be-loved-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31739736",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31739736,
+                "pinned": false,
+                "share_url": "https://genius.com/31739736",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31739736/The-red-clay-strays-wanna-be-loved/Wanna-be-loved",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/15291991",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+        "human_readable_role_for_display": "Editor",
+        "id": 15291991,
+        "iq": 227494,
+        "login": "axelcv",
+        "name": "Bob the Minion",
+        "role_for_display": "editor",
+        "url": "https://genius.com/axelcv",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=tKSRUjwMLxk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/534034",
+            "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+            "id": 534034,
+            "image_url": "https://images.genius.com/3b48e1b24b7a9f7c018accc18c6e4d46.317x317x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dave Cobb",
+            "url": "https://genius.com/artists/Dave-cobb"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11117852",
+                    "artist_names": "The Red Clay Strays",
+                    "full_title": "Wanna Be Loved (Live At The Ryman) by\u00a0The\u00a0Red Clay Strays",
+                    "header_image_thumbnail_url": "https://images.genius.com/c6a09976d9587d054bb656f9c56c566d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c6a09976d9587d054bb656f9c56c566d.1000x1000x1.png",
+                    "id": 11117852,
+                    "lyrics_owner_id": 93685,
+                    "lyrics_state": "complete",
+                    "path": "/The-red-clay-strays-wanna-be-loved-live-at-the-ryman-lyrics",
+                    "primary_artist_names": "The Red Clay Strays",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-red-clay-strays-wanna-be-loved-live-at-the-ryman-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c6a09976d9587d054bb656f9c56c566d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c6a09976d9587d054bb656f9c56c566d.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Wanna Be Loved (Live At The Ryman)",
+                    "title_with_featured": "Wanna Be Loved (Live At The Ryman)",
+                    "url": "https://genius.com/The-red-clay-strays-wanna-be-loved-live-at-the-ryman-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2105391",
+                        "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+                        "id": 2105391,
+                        "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Red Clay Strays",
+                        "url": "https://genius.com/artists/The-red-clay-strays"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2105391",
+                            "header_image_url": "https://images.genius.com/48b7e2b1980bdbc7ec5dfd51bf4c6020.1000x333x1.jpg",
+                            "id": 2105391,
+                            "image_url": "https://images.genius.com/fb5f576c177bb0df577cde4b3b34aca9.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Red Clay Strays",
+                            "url": "https://genius.com/artists/The-red-clay-strays"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3962398",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3962398,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dakota Coleman",
+            "url": "https://genius.com/artists/Dakota-coleman"
+        },
+        {
+            "api_path": "/artists/3963033",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3963033,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Matthew Coleman (Country)",
+            "url": "https://genius.com/artists/Matthew-coleman-country"
+        }
+    ],
+    "artist": "The Red Clay Strays",
+    "lyrics": "5 ContributorsWanna Be Loved Lyrics\nEverybody's waitin' for a break\nLike \"Fast Cars and Freedom\"\nEverybody wants the same old things\nTell me what will it bring?\nMy friend, I'm tired of being this way\nI'm tired of runnin' astray\nOh, God, I need to know you're still above\n\nI just wanna be loved\nI just wanna be loved\nCan you tell me I'm worthy or important\nAm I workin' hard enough?\nOh, I just wanna be loved\nI just wanna be loved\n\nThey say that faith can move a mountain\nBut I'm built for the climb\nSo tell me am I faithful or just too stubborn\nTell me what will I find\nAt the peak, at the top, at the end of the line\nAnd at the end of my life\nOh, tell me how my climb will be judged\n\nI just wanna be loved\nI just wanna be loved\nCan you tell me I'm worthy or important\nAm I workin' hard enough?\nOh, I just wanna be loved\nI just wanna be loved\n\nI've been afraid\nAnd I've been alone\nSometimes I need someone to pick up the phone\nI'm tired of the leavin'\nI need a home\n\nOh, I just wanna be loved\nI just wanna be loved\nCan you tell me I'm worthy or important\nAm I workin' hard enough?\nOh, I just wanna be loved\nI just wanna be loved\n\nAnd I want someone to want me\nI want somebody there\nAnd I need someone to need me\nI need someone who cares"
+}

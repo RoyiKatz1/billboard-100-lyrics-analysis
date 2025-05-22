@@ -1,0 +1,856 @@
+{
+    "_type": "song",
+    "annotation_count": 31,
+    "api_path": "/songs/10245173",
+    "artist_names": "J. Cole",
+    "full_title": "Stickz N Stonez by\u00a0J.\u00a0Cole",
+    "header_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+    "id": 10245173,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1742915012,
+    "path": "/J-cole-stickz-n-stonez-lyrics",
+    "primary_artist_names": "J. Cole",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/J-cole-stickz-n-stonez-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 5
+    },
+    "release_date_for_display": "April 5, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 3,
+        "contributors": 84,
+        "iq_earners": 84,
+        "transcribers": 3,
+        "unreviewed_annotations": 28,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 80160
+    },
+    "title": "Stickz N Stonez",
+    "title_with_featured": "Stickz N Stonez",
+    "updated_by_human_at": 1742915012,
+    "url": "https://genius.com/J-cole-stickz-n-stonez-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/69",
+        "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+        "id": 69,
+        "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "J. Cole",
+        "url": "https://genius.com/artists/J-cole",
+        "iq": 505
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        }
+    ],
+    "apple_music_id": "1739698425",
+    "apple_music_player_url": "https://genius.com/songs/10245173/apple_music_player",
+    "description": {
+        "plain": "The 7th track on Cole\u2019s 2024 mixtape \u2018Might Delete Later\u2019. The mixtape is the first of Cole\u2019s in over a decade since 2010\u2019s \u2018Friday Night Lights\u2019.\n\nThe track title comes from the phrase \u2018sticks & stones can break my bones, but words will never hurt me\u2019."
+    },
+    "embed_content": "<div id='rg_embed_link_10245173' class='rg_embed_link' data-song-id='10245173'>Read <a href='https://genius.com/J-cole-stickz-n-stonez-lyrics'>\u201cStickz N Stonez\u201d by J.\u00a0Cole</a> on Genius</div> <script crossorigin src='//genius.com/songs/10245173/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "",
+    "release_date": "2024-04-05",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ed5f14",
+    "song_art_secondary_color": "#98230d",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1165883",
+        "cover_art_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+        "full_title": "Might Delete Later by J. Cole",
+        "id": 1165883,
+        "name": "Might Delete Later",
+        "primary_artist_names": "J. Cole",
+        "release_date_for_display": "April 5, 2024",
+        "url": "https://genius.com/albums/J-cole/Might-delete-later",
+        "artist": {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/69",
+                "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+                "id": 69,
+                "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "J. Cole",
+                "url": "https://genius.com/artists/J-cole",
+                "iq": 505
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1277132",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1277132,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kuldeep Chudasama",
+                    "url": "https://genius.com/artists/Kuldeep-chudasama"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/642578",
+                    "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+                    "id": 642578,
+                    "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Juro \u201cMez\u201d Davis",
+                    "url": "https://genius.com/artists/Juro-mez-davis"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3903256",
+                    "header_image_url": "https://images.genius.com/c72496e3bc3655da97877618eb3f2b9b.838x838x1.jpg",
+                    "id": 3903256,
+                    "image_url": "https://images.genius.com/da5dd721092c8b72d3e3ecb44f2fc44d.838x838x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole World, Inc.",
+                    "url": "https://genius.com/artists/Cole-world-inc"
+                },
+                {
+                    "api_path": "/artists/143490",
+                    "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+                    "id": 143490,
+                    "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Interscope Records",
+                    "url": "https://genius.com/artists/Interscope-records",
+                    "iq": 175
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3903256",
+                    "header_image_url": "https://images.genius.com/c72496e3bc3655da97877618eb3f2b9b.838x838x1.jpg",
+                    "id": 3903256,
+                    "image_url": "https://images.genius.com/da5dd721092c8b72d3e3ecb44f2fc44d.838x838x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole World, Inc.",
+                    "url": "https://genius.com/artists/Cole-world-inc"
+                },
+                {
+                    "api_path": "/artists/143490",
+                    "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+                    "id": 143490,
+                    "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Interscope Records",
+                    "url": "https://genius.com/artists/Interscope-records",
+                    "iq": 175
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3714285",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3714285,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Bilodeau",
+                    "url": "https://genius.com/artists/Steve-bilodeau"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6061819,
+        "annotator_login": "ewallace26",
+        "api_path": "/referents/31350116",
+        "classification": "unreviewed",
+        "fragment": "Stickz N Stonez",
+        "id": 31350116,
+        "is_description": true,
+        "path": "/31350116/J-cole-stickz-n-stonez/Stickz-n-stonez",
+        "range": {
+            "content": "Stickz N Stonez"
+        },
+        "song_id": 10245173,
+        "url": "https://genius.com/31350116/J-cole-stickz-n-stonez/Stickz-n-stonez",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10245173",
+            "client_timestamps": {
+                "updated_by_human_at": 1742915012,
+                "lyrics_updated_at": 1742915012
+            },
+            "context": "J. Cole",
+            "id": 10245173,
+            "image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+            "link_title": "Stickz N Stonez by\u00a0J.\u00a0Cole",
+            "title": "Stickz N Stonez",
+            "type": "Song",
+            "url": "https://genius.com/J-cole-stickz-n-stonez-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31350116",
+                "body": {
+                    "plain": "The 7th track on Cole\u2019s 2024 mixtape \u2018Might Delete Later\u2019. The mixtape is the first of Cole\u2019s in over a decade since 2010\u2019s \u2018Friday Night Lights\u2019.\n\nThe track title comes from the phrase \u2018sticks & stones can break my bones, but words will never hurt me\u2019."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31350116,
+                "pinned": false,
+                "share_url": "https://genius.com/31350116",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31350116/J-cole-stickz-n-stonez/Stickz-n-stonez",
+                "verified": false,
+                "votes_total": 12,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6061819",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c8564efe5faf3eae278a6bd5acc47090",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c8564efe5faf3eae278a6bd5acc47090",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c8564efe5faf3eae278a6bd5acc47090",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c8564efe5faf3eae278a6bd5acc47090",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/c8564efe5faf3eae278a6bd5acc47090",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 6061819,
+                            "iq": 6002,
+                            "login": "ewallace26",
+                            "name": "ewallace26",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/ewallace26",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=e_jU7rK4qMo"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1553",
+            "header_image_url": "https://images.genius.com/10f890ce8f507a79ca72d610092cd12e.1000x333x1.jpg",
+            "id": 1553,
+            "image_url": "https://images.genius.com/6e67cdf1b023d123b7f0cb00b85d5d38.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Alchemist",
+            "url": "https://genius.com/artists/The-alchemist"
+        },
+        {
+            "api_path": "/artists/3714285",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3714285,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Steve Bilodeau",
+            "url": "https://genius.com/artists/Steve-bilodeau"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10248833",
+                    "artist_names": "Comus",
+                    "full_title": "To Keep From Crying, After the Dream by\u00a0Comus",
+                    "header_image_thumbnail_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                    "id": 10248833,
+                    "lyrics_owner_id": 4443265,
+                    "lyrics_state": "complete",
+                    "path": "/Comus-to-keep-from-crying-after-the-dream-lyrics",
+                    "primary_artist_names": "Comus",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Comus-to-keep-from-crying-after-the-dream-sample",
+                    "release_date_components": {
+                        "year": 1974,
+                        "month": 1,
+                        "day": 1
+                    },
+                    "release_date_for_display": "January 1, 1974",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 1, 1974",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "To Keep From Crying, After the Dream",
+                    "title_with_featured": "To Keep From Crying, After the Dream",
+                    "url": "https://genius.com/Comus-to-keep-from-crying-after-the-dream-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/359204",
+                        "header_image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                        "id": 359204,
+                        "image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Comus",
+                        "url": "https://genius.com/artists/Comus"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/359204",
+                            "header_image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                            "id": 359204,
+                            "image_url": "https://images.genius.com/b7adacaa84c4c7b4a3a51aa644cce09e.482x482x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Comus",
+                            "url": "https://genius.com/artists/Comus"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10248829",
+                    "artist_names": "George Gruntz",
+                    "full_title": "Hal-Lucy-'n-o'-One Step by\u00a0George\u00a0Gruntz",
+                    "header_image_thumbnail_url": "https://images.genius.com/3f2dd7642596d7f3d300e45e507001a7.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3f2dd7642596d7f3d300e45e507001a7.600x600x1.jpg",
+                    "id": 10248829,
+                    "lyrics_owner_id": 4443265,
+                    "lyrics_state": "complete",
+                    "path": "/George-gruntz-hal-lucy-n-o-one-step-lyrics",
+                    "primary_artist_names": "George Gruntz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/George-gruntz-hal-lucy-n-o-one-step-sample",
+                    "release_date_components": {
+                        "year": 1975,
+                        "month": 1,
+                        "day": 1
+                    },
+                    "release_date_for_display": "January 1, 1975",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 1, 1975",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3f2dd7642596d7f3d300e45e507001a7.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3f2dd7642596d7f3d300e45e507001a7.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Hal-Lucy-\u2019n-o\u2019-One Step",
+                    "title_with_featured": "Hal-Lucy-'n-o'-One Step",
+                    "url": "https://genius.com/George-gruntz-hal-lucy-n-o-one-step-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3033439",
+                        "header_image_url": "https://images.genius.com/00cf60576d9d563f48e0ac4e8d12a30b.264x264x1.jpg",
+                        "id": 3033439,
+                        "image_url": "https://images.genius.com/00cf60576d9d563f48e0ac4e8d12a30b.264x264x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "George Gruntz",
+                        "url": "https://genius.com/artists/George-gruntz"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3033439",
+                            "header_image_url": "https://images.genius.com/00cf60576d9d563f48e0ac4e8d12a30b.264x264x1.jpg",
+                            "id": 3033439,
+                            "image_url": "https://images.genius.com/00cf60576d9d563f48e0ac4e8d12a30b.264x264x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "George Gruntz",
+                            "url": "https://genius.com/artists/George-gruntz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10251412",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "J. Cole - Stickz N Stonez (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/77218fa5d09c92a5d069b32f54630122.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/77218fa5d09c92a5d069b32f54630122.536x536x1.png",
+                    "id": 10251412,
+                    "lyrics_owner_id": 9318193,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-j-cole-stickz-n-stonez-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-j-cole-stickz-n-stonez-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 5
+                    },
+                    "release_date_for_display": "April 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/77218fa5d09c92a5d069b32f54630122.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/77218fa5d09c92a5d069b32f54630122.536x536x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "J. Cole - Stickz N Stonez (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "J. Cole - Stickz N Stonez (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-j-cole-stickz-n-stonez-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10251412",
+            "id": 10251412,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-j-cole-stickz-n-stonez-traducao-em-portugues-lyrics",
+            "title": "J. Cole - Stickz N Stonez (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-j-cole-stickz-n-stonez-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        }
+    ],
+    "artist": "J. Cole",
+    "lyrics": "84 ContributorsTranslationsPortugu\u00easStickz N Stonez Lyrics\nAre you guys ready to party tonight?\nAre you sure?\nYeah\nI'm fuckin' with you, right? Okay\nLadies and gentlemen, ladies and gentlemen, can I get a\u2014\nLadies and gentlemen\nHunger\nHunger\nYeah\nUh\n\nThey gotta hide they face\nThey was predictin' a nigga to fail, turns out that was not the case\nI'm rockin' a mask with lots of cash, I look like I robbed a bank\nCan't even rob the bank that I use, my money is not with Chase\nForeign deposit safes, I'm writin' this shit on a private plane\nSom\u0435times I be flyin' commercial still\nTh\u0435se niggas get rich and become so detached, they music start havin' that surface feel\nNot a subliminal, speakin' in general, feelings get hurt when words get spilled\nSticks and stones may break your bones, but sayin' my name in a verse will kill\nWord to the wise, nigga, we heard all them lies before\nMy number ones come from albums, theirs is burgers and fries to go\nGo against me, your odds is low\nI don't even got no opps for real\nNigga, just give me my props for real\nI done did everything, I'm 'bout to chill\nCount the mills in cribs on top of hills\nMad chips, cash rich, my stash thick, I'm Dr. Phil\nStash thick, I'm Steve Harvey\nBad bitch, two friends, hat trick, caught three bodies\nAnd tell 'em to go like they E-40, uh\n\nNigga don't want no smoke with me, I'm one of them ones\nTiptoein' through the slums, duckin' a hundred-round drum\nI took my lumps way out in Cumberland, niggas ain't hung where I hung\nShit, I'm up, stomach still rumblin', niggas ain't done what I done\nNigga don't want no smoke with me, I'm one of them ones\nHop on a song with whoever, I ain't duckin' no one-on-ones\nAyy, pull up the track, I'm 'bout to black, I'm goin' on a whole 'nother run\n\nYeah\nLadies and gentlemen\nUh\n\nSo much drama on the street, feel like the beef is random\nMurder galore, turn into Thor, I gotta keep a hammer\nCase weather get inclement, shots rain on the innocent\nThe neighbors still don't know who sent them shits, it's like a secret Santa\nMe, I'm out here reachin' for a higher frequency, I plan to\nRest my feet in presidential suites or sleep in beach cabanas\nSkeetin' on thousand-count sheets, I'm hittin' freaks in tandems\nBust 'em down, then throw 'em in the cab like they from East Atlanta (Tonight)\nHow it feel to see the flyest bitch and know that he can land 'em? (Are you sure?)\nEvery word I speak on beats, it's guaranteed to feed the fandom (I'm fuckin' with you, right? Okay)\nWeaklings wanna walk inside my sneakers, watchin' from the bleachers\nOnly time they'll see the roles reversed is if they lease a Phantom (Ladies and gentlemen, ladies and gentlemen, can I get a\u2014)\nBad investment, but what else you had expected?\nMoms was broke my whole adolescence, never had a lesson\n'Cept for pawn shop hustles to times collections, had her stressin'\nBitches couldn't tell if I was poor or just bad at dressin'\nIt was a bit of both, when I took it up top, I took an oath, huh\nI was gon' hit a lick, break bread with my dogs, and split a loaf, huh\nAnd take over the game, make sure that my name's considered GOAT\nNow I'm back home as the best in the world, The Fall Off, come and hear the growth\nOn God, nigga\n\nNigga don't want no smoke with me, I'm one of them ones\nTiptoein' through the slums, duckin' a hundred round-drum\nI took my lumps way out in Cumberland, niggas ain't hung where I hung\nShit, I'm up, stomach still rumblin', niggas ain't done what I done\nNigga don't want no smoke with me, I'm one of them ones\nHop on a song with whoever, I ain't duckin' no one-on-ones\nAyy, pull up the track, I'm 'bout to black, I'm goin' on a whole 'nother run\n\nLadies and gentlemen\nLadies and\u2014"
+}

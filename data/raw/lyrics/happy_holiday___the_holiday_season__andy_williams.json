@@ -1,0 +1,752 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1939244",
+    "artist_names": "Andy Williams",
+    "full_title": "Happy Holiday / The Holiday Season by\u00a0Andy\u00a0Williams",
+    "header_image_thumbnail_url": "https://images.genius.com/8c98b9199987a8a85dc72d668ed51c17.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8c98b9199987a8a85dc72d668ed51c17.1000x1000x1.png",
+    "id": 1939244,
+    "instrumental": false,
+    "lyrics_owner_id": 3264970,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1734367862,
+    "path": "/Andy-williams-happy-holiday-the-holiday-season-lyrics",
+    "primary_artist_names": "Andy Williams",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Andy-williams-happy-holiday-the-holiday-season-sample",
+    "release_date_components": {
+        "year": 1963,
+        "month": 10,
+        "day": 14
+    },
+    "release_date_for_display": "October 14, 1963",
+    "release_date_with_abbreviated_month_for_display": "Oct. 14, 1963",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8c98b9199987a8a85dc72d668ed51c17.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8c98b9199987a8a85dc72d668ed51c17.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 10,
+        "iq_earners": 8,
+        "transcribers": 5,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 51906
+    },
+    "title": "Happy Holiday / The Holiday Season",
+    "title_with_featured": "Happy Holiday / The Holiday Season",
+    "updated_by_human_at": 1734367862,
+    "url": "https://genius.com/Andy-williams-happy-holiday-the-holiday-season-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/526003",
+        "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+        "id": 526003,
+        "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Andy Williams",
+        "url": "https://genius.com/artists/Andy-williams"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/526003",
+            "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+            "id": 526003,
+            "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Andy Williams",
+            "url": "https://genius.com/artists/Andy-williams"
+        }
+    ],
+    "apple_music_id": "171434558",
+    "apple_music_player_url": "https://genius.com/songs/1939244/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_1939244' class='rg_embed_link' data-song-id='1939244'>Read <a href='https://genius.com/Andy-williams-happy-holiday-the-holiday-season-lyrics'>\u201cHappy Holiday / The Holiday Season\u201d by Andy\u00a0Williams</a> on Genius</div> <script crossorigin src='//genius.com/songs/1939244/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "1963-10-14",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d4172f",
+    "song_art_secondary_color": "#bc1c2c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/969701",
+        "cover_art_url": "https://images.genius.com/3e4faa2c3449d428f95cb696cfdb456b.1000x1000x1.png",
+        "full_title": "40 Christmas Classics by Andy Williams",
+        "id": 969701,
+        "name": "40 Christmas Classics",
+        "primary_artist_names": "Andy Williams",
+        "release_date_for_display": "October 31, 2014",
+        "url": "https://genius.com/albums/Andy-williams/40-christmas-classics",
+        "artist": {
+            "api_path": "/artists/526003",
+            "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+            "id": 526003,
+            "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Andy Williams",
+            "url": "https://genius.com/artists/Andy-williams"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/526003",
+                "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+                "id": 526003,
+                "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Andy Williams",
+                "url": "https://genius.com/artists/Andy-williams"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 1549345,
+        "annotator_login": "pressburg",
+        "api_path": "/referents/6624971",
+        "classification": "needs_exegesis",
+        "fragment": "Happy Holiday / The Holiday Season",
+        "id": 6624971,
+        "is_description": true,
+        "path": "/6624971/Andy-williams-happy-holiday-the-holiday-season/Happy-holiday-the-holiday-season",
+        "range": {
+            "content": "Happy Holiday / The Holiday Season"
+        },
+        "song_id": 1939244,
+        "url": "https://genius.com/6624971/Andy-williams-happy-holiday-the-holiday-season/Happy-holiday-the-holiday-season",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/1939244",
+            "client_timestamps": {
+                "updated_by_human_at": 1734367862,
+                "lyrics_updated_at": 1734367862
+            },
+            "context": "Andy Williams",
+            "id": 1939244,
+            "image_url": "https://images.genius.com/8c98b9199987a8a85dc72d668ed51c17.1000x1000x1.png",
+            "link_title": "Happy Holiday / The Holiday Season by\u00a0Andy\u00a0Williams",
+            "title": "Happy Holiday / The Holiday Season",
+            "type": "Song",
+            "url": "https://genius.com/Andy-williams-happy-holiday-the-holiday-season-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/6624971",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 6624971,
+                "pinned": false,
+                "share_url": "https://genius.com/6624971",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/6624971/Andy-williams-happy-holiday-the-holiday-season/Happy-holiday-the-holiday-season",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1549345",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+                            "human_readable_role_for_display": null,
+                            "id": 1549345,
+                            "iq": 0,
+                            "login": "pressburg",
+                            "name": "pressburg",
+                            "role_for_display": null,
+                            "url": "https://genius.com/pressburg",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=oZ5cmrz-mrU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1022473",
+            "header_image_url": "https://images.genius.com/4d6c0b8234902c7f6a3919dee2bf7d50.239x239x1.jpg",
+            "id": 1022473,
+            "image_url": "https://images.genius.com/4d6c0b8234902c7f6a3919dee2bf7d50.239x239x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Robert Mersey",
+            "url": "https://genius.com/artists/Robert-mersey"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 25,
+                    "api_path": "/songs/7521405",
+                    "artist_names": "\u200bxxylvii (Ft. Andy Williams)",
+                    "full_title": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle) by\u00a0\u200bxxylvii (Ft.\u00a0Andy\u00a0Williams)",
+                    "header_image_thumbnail_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.640x640x1.jpg",
+                    "id": 7521405,
+                    "lyrics_owner_id": 5571768,
+                    "lyrics_state": "complete",
+                    "path": "/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-lyrics",
+                    "primary_artist_names": "\u200bxxylvii",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 22
+                    },
+                    "release_date_for_display": "December 22, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 22, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 16,
+                        "hot": false
+                    },
+                    "title": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle)",
+                    "title_with_featured": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle) (Ft.\u00a0Andy\u00a0Williams)",
+                    "url": "https://genius.com/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/526003",
+                            "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+                            "id": 526003,
+                            "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Andy Williams",
+                            "url": "https://genius.com/artists/Andy-williams"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/2372552",
+                        "header_image_url": "https://images.genius.com/6d3a718faab9de5dd2b0fda3734b3c79.1000x1000x1.jpg",
+                        "id": 2372552,
+                        "image_url": "https://images.genius.com/cac99d79aa5bcfb8f537632f7734d227.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bxxylvii",
+                        "url": "https://genius.com/artists/Xxylvii",
+                        "iq": 11586
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2372552",
+                            "header_image_url": "https://images.genius.com/6d3a718faab9de5dd2b0fda3734b3c79.1000x1000x1.jpg",
+                            "id": 2372552,
+                            "image_url": "https://images.genius.com/cac99d79aa5bcfb8f537632f7734d227.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bxxylvii",
+                            "url": "https://genius.com/artists/Xxylvii",
+                            "iq": 11586
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11177023",
+                    "artist_names": "jschlatt",
+                    "full_title": "Happy Holiday by\u00a0jschlatt",
+                    "header_image_thumbnail_url": "https://images.genius.com/55a821291ff36df54cc23972cc5fb67e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/55a821291ff36df54cc23972cc5fb67e.1000x1000x1.png",
+                    "id": 11177023,
+                    "lyrics_owner_id": 16394319,
+                    "lyrics_state": "complete",
+                    "path": "/Jschlatt-happy-holiday-lyrics",
+                    "primary_artist_names": "jschlatt",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jschlatt-happy-holiday-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/55a821291ff36df54cc23972cc5fb67e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/55a821291ff36df54cc23972cc5fb67e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Happy Holiday",
+                    "title_with_featured": "Happy Holiday",
+                    "url": "https://genius.com/Jschlatt-happy-holiday-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1947430",
+                        "header_image_url": "https://images.genius.com/6b268fb8094be15b693bbcc2f6f2a620.1000x563x1.jpg",
+                        "id": 1947430,
+                        "image_url": "https://filepicker-images.genius.com/1a6d67974d5782d218af08a26632a92d00471c510a0bb9cb3f8af606ad632272%2Foi7ef5vygic",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "jschlatt",
+                        "url": "https://genius.com/artists/Jschlatt"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1947430",
+                            "header_image_url": "https://images.genius.com/6b268fb8094be15b693bbcc2f6f2a620.1000x563x1.jpg",
+                            "id": 1947430,
+                            "image_url": "https://filepicker-images.genius.com/1a6d67974d5782d218af08a26632a92d00471c510a0bb9cb3f8af606ad632272%2Foi7ef5vygic",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "jschlatt",
+                            "url": "https://genius.com/artists/Jschlatt"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7178137",
+                    "artist_names": "Darren Criss",
+                    "full_title": "Happy Holidays / The Holiday Season by\u00a0Darren\u00a0Criss",
+                    "header_image_thumbnail_url": "https://images.genius.com/37f65d88f902572211e431448d5e4f11.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/37f65d88f902572211e431448d5e4f11.862x862x1.jpg",
+                    "id": 7178137,
+                    "lyrics_owner_id": 5353056,
+                    "lyrics_state": "complete",
+                    "path": "/Darren-criss-happy-holidays-the-holiday-season-lyrics",
+                    "primary_artist_names": "Darren Criss",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Darren-criss-happy-holidays-the-holiday-season-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/37f65d88f902572211e431448d5e4f11.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/37f65d88f902572211e431448d5e4f11.862x862x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Happy Holidays / The Holiday Season",
+                    "title_with_featured": "Happy Holidays / The Holiday Season",
+                    "url": "https://genius.com/Darren-criss-happy-holidays-the-holiday-season-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/66624",
+                        "header_image_url": "https://images.genius.com/4fbcc687ce3408c64a0ace5dfee3b5ec.1000x380x1.jpg",
+                        "id": 66624,
+                        "image_url": "https://images.genius.com/b42ecf30058b5170b45e0c0e31cccda8.599x599x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Darren Criss",
+                        "url": "https://genius.com/artists/Darren-criss"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/66624",
+                            "header_image_url": "https://images.genius.com/4fbcc687ce3408c64a0ace5dfee3b5ec.1000x380x1.jpg",
+                            "id": 66624,
+                            "image_url": "https://images.genius.com/b42ecf30058b5170b45e0c0e31cccda8.599x599x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Darren Criss",
+                            "url": "https://genius.com/artists/Darren-criss"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6162534",
+                    "artist_names": "Pentatonix",
+                    "full_title": "Happy Holiday / The Holiday Season by\u00a0Pentatonix",
+                    "header_image_thumbnail_url": "https://images.genius.com/3c985d1069d22b91f137f91c5e535b7a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3c985d1069d22b91f137f91c5e535b7a.1000x1000x1.png",
+                    "id": 6162534,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Pentatonix-happy-holiday-the-holiday-season-lyrics",
+                    "primary_artist_names": "Pentatonix",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Pentatonix-happy-holiday-the-holiday-season-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 11,
+                        "day": 13
+                    },
+                    "release_date_for_display": "November 13, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 13, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3c985d1069d22b91f137f91c5e535b7a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3c985d1069d22b91f137f91c5e535b7a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Happy Holiday / The Holiday Season",
+                    "title_with_featured": "Happy Holiday / The Holiday Season",
+                    "url": "https://genius.com/Pentatonix-happy-holiday-the-holiday-season-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/62578",
+                        "header_image_url": "https://images.genius.com/33296879885196d70d8200abaee21c7d.1000x437x1.jpg",
+                        "id": 62578,
+                        "image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Pentatonix",
+                        "url": "https://genius.com/artists/Pentatonix",
+                        "iq": 869
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/62578",
+                            "header_image_url": "https://images.genius.com/33296879885196d70d8200abaee21c7d.1000x437x1.jpg",
+                            "id": 62578,
+                            "image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Pentatonix",
+                            "url": "https://genius.com/artists/Pentatonix",
+                            "iq": 869
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 25,
+                    "api_path": "/songs/7521405",
+                    "artist_names": "\u200bxxylvii (Ft. Andy Williams)",
+                    "full_title": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle) by\u00a0\u200bxxylvii (Ft.\u00a0Andy\u00a0Williams)",
+                    "header_image_thumbnail_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.640x640x1.jpg",
+                    "id": 7521405,
+                    "lyrics_owner_id": 5571768,
+                    "lyrics_state": "complete",
+                    "path": "/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-lyrics",
+                    "primary_artist_names": "\u200bxxylvii",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 22
+                    },
+                    "release_date_for_display": "December 22, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 22, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/05e91e0bece9f7d34aded060357bd739.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 16,
+                        "hot": false
+                    },
+                    "title": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle)",
+                    "title_with_featured": "Happy Holidays/The Holiday Season Jersey Club Mix (Freestyle) (Ft.\u00a0Andy\u00a0Williams)",
+                    "url": "https://genius.com/Xxylvii-happy-holidays-the-holiday-season-jersey-club-mix-freestyle-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/526003",
+                            "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+                            "id": 526003,
+                            "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Andy Williams",
+                            "url": "https://genius.com/artists/Andy-williams"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/2372552",
+                        "header_image_url": "https://images.genius.com/6d3a718faab9de5dd2b0fda3734b3c79.1000x1000x1.jpg",
+                        "id": 2372552,
+                        "image_url": "https://images.genius.com/cac99d79aa5bcfb8f537632f7734d227.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bxxylvii",
+                        "url": "https://genius.com/artists/Xxylvii",
+                        "iq": 11586
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2372552",
+                            "header_image_url": "https://images.genius.com/6d3a718faab9de5dd2b0fda3734b3c79.1000x1000x1.jpg",
+                            "id": 2372552,
+                            "image_url": "https://images.genius.com/cac99d79aa5bcfb8f537632f7734d227.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bxxylvii",
+                            "url": "https://genius.com/artists/Xxylvii",
+                            "iq": 11586
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/388666",
+            "header_image_url": "https://images.genius.com/c7c610edc51f5b702306774e99ebcdc5.232x232x1.jpg",
+            "id": 388666,
+            "image_url": "https://images.genius.com/c7c610edc51f5b702306774e99ebcdc5.232x232x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kay Thompson",
+            "url": "https://genius.com/artists/Kay-thompson"
+        },
+        {
+            "api_path": "/artists/150051",
+            "header_image_url": "https://images.genius.com/8336b40d2e95518cc7e10f4d8de16e9d.1000x1000x1.png",
+            "id": 150051,
+            "image_url": "https://images.genius.com/8336b40d2e95518cc7e10f4d8de16e9d.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Irving Berlin",
+            "url": "https://genius.com/artists/Irving-berlin"
+        }
+    ],
+    "artist": "Andy Williams",
+    "lyrics": "10 ContributorsHappy Holiday / The Holiday Season Lyrics\nHappy holiday\nHappy holiday\nWhile the merry bells keep ringing\nHappy holidays to you\n\nIt's the holiday season\nAnd Santa Claus is coming 'round\nThe Christmas snow is white on the ground\nWhen ol' Santa gets into town\nHe'll be coming down the chimney, down\n(He'll be coming down the chimney, down)\n\nIt's the holiday season\nAnd Santa Claus has got a toy\nFor every good girl and good little boy\nSanta's a great big bundle of joy\nWhen he's coming down the chimney, down\n(When he's coming down the chimney, down)\n\nHe'll have a big fat pack upon his back\nAnd lots of goodies for you and for me\nSo leave a peppermint stick for old St. Nick\nHanging on the Christmas tree\n\nIt's the holiday season\n(The holiday season)\nSo hoop-dee-doo and dickory dock\nAnd don't forget to hang up your sock\n'Cause just exactly at 12 o'clock\nHe'll be coming down the chimney, down\n(He'll be coming down the chimney, down)\n\nHe'll have a big fat pack upon his back\nAnd lots of goodies for you and for me\nSo leave a peppermint stick for old St. Nick\nHanging on the Christmas tree\n\nIt's the holiday season\n(The holiday season)\nSo hoop-dee-doo and dickory dock\nAnd don't forget to hang up your sock\n'Cause at just exactly at 12 o'clock\nHe'll be coming down the chimney\nComing down the chimney\nComing down the chimney, down\n\nHe'll have a big fat pack upon his back\nAnd lots of goodies for you and me\nSo leave a peppermint stick for old St. Nick\nHanging on the Christmas tree\n\nIt's the holiday season\nSo hoop-dee-doo and hickory dock\nAnd don't forget to hang up your sock\n'Cause just exactly at 12 o'clock\nHe'll be coming down the chimney\nComing down the chimney\nComing down the chimney, down\n\nHe'll have a big fat pack upon his back\nAnd lots of goodies for you and me\nSo leave a peppermint stick for old St. Nick\nHanging on the Christmas tree\n\nHappy holiday\nHappy holiday\nWhile the merry bells keep ringing\nHappy holidays to you\nHappy holiday\nHappy holiday\nMay the calendar keep bringing\nHappy holidays to you\nTo you\nHappy holiday\nHappy holiday\nHappy holiday"
+}

@@ -1,0 +1,833 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/935765",
+    "artist_names": "Michael Bubl\u00e9",
+    "full_title": "Have Yourself a Merry Little Christmas by\u00a0Michael\u00a0Bubl\u00e9",
+    "header_image_thumbnail_url": "https://images.genius.com/3df90b419c626fc3e8ad9fe55cec718a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3df90b419c626fc3e8ad9fe55cec718a.1000x1000x1.png",
+    "id": 935765,
+    "instrumental": false,
+    "lyrics_owner_id": 7498925,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1575996744,
+    "path": "/Michael-buble-have-yourself-a-merry-little-christmas-lyrics",
+    "primary_artist_names": "Michael Bubl\u00e9",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-sample",
+    "release_date_components": {
+        "year": 2011,
+        "month": 10,
+        "day": 24
+    },
+    "release_date_for_display": "October 24, 2011",
+    "release_date_with_abbreviated_month_for_display": "Oct. 24, 2011",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3df90b419c626fc3e8ad9fe55cec718a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3df90b419c626fc3e8ad9fe55cec718a.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 9,
+        "iq_earners": 9,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 18086
+    },
+    "title": "Have Yourself a Merry Little Christmas",
+    "title_with_featured": "Have Yourself a Merry Little Christmas",
+    "updated_by_human_at": 1736139398,
+    "url": "https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/59801",
+        "header_image_url": "https://images.genius.com/e03d9b1c36da33933b9f284e18fc70a1.1000x563x1.jpg",
+        "id": 59801,
+        "image_url": "https://images.genius.com/46ec4fe77e17527afee618953ae1f335.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Michael Bubl\u00e9",
+        "url": "https://genius.com/artists/Michael-buble"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/59801",
+            "header_image_url": "https://images.genius.com/e03d9b1c36da33933b9f284e18fc70a1.1000x563x1.jpg",
+            "id": 59801,
+            "image_url": "https://images.genius.com/46ec4fe77e17527afee618953ae1f335.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Bubl\u00e9",
+            "url": "https://genius.com/artists/Michael-buble"
+        }
+    ],
+    "apple_music_id": "669854840",
+    "apple_music_player_url": "https://genius.com/songs/935765/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_935765' class='rg_embed_link' data-song-id='935765'>Read <a href='https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-lyrics'>\u201cHave Yourself a Merry Little Christmas\u201d by Michael\u00a0Bubl\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/935765/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2011-10-24",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#8d3e40",
+    "song_art_secondary_color": "#0c0405",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/838846",
+        "cover_art_url": "https://images.genius.com/844a4f22aaf0d4d5d93210abc3c74e4a.1000x1000x1.png",
+        "full_title": "Christmas (Deluxe 10th Anniversary Edition) by Michael Bubl\u00e9",
+        "id": 838846,
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "primary_artist_names": "Michael Bubl\u00e9",
+        "release_date_for_display": "November 19, 2021",
+        "url": "https://genius.com/albums/Michael-buble/Christmas-deluxe-10th-anniversary-edition",
+        "artist": {
+            "api_path": "/artists/59801",
+            "header_image_url": "https://images.genius.com/e03d9b1c36da33933b9f284e18fc70a1.1000x563x1.jpg",
+            "id": 59801,
+            "image_url": "https://images.genius.com/46ec4fe77e17527afee618953ae1f335.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Bubl\u00e9",
+            "url": "https://genius.com/artists/Michael-buble"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/59801",
+                "header_image_url": "https://images.genius.com/e03d9b1c36da33933b9f284e18fc70a1.1000x563x1.jpg",
+                "id": 59801,
+                "image_url": "https://images.genius.com/46ec4fe77e17527afee618953ae1f335.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Michael Bubl\u00e9",
+                "url": "https://genius.com/artists/Michael-buble"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/59801",
+                    "header_image_url": "https://images.genius.com/e03d9b1c36da33933b9f284e18fc70a1.1000x563x1.jpg",
+                    "id": 59801,
+                    "image_url": "https://images.genius.com/46ec4fe77e17527afee618953ae1f335.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Bubl\u00e9",
+                    "url": "https://genius.com/artists/Michael-buble"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1190613",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1190613,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "143 Records",
+                    "url": "https://genius.com/artists/143-records"
+                },
+                {
+                    "api_path": "/artists/1096096",
+                    "header_image_url": "https://images.genius.com/b5b095b59348c36d938bcb319390a612.1000x667x1.jpg",
+                    "id": 1096096,
+                    "image_url": "https://images.genius.com/d3c973d62837de36ff3e3caeaa0dfda9.324x324x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Reprise Records",
+                    "url": "https://genius.com/artists/Reprise-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1096096",
+                    "header_image_url": "https://images.genius.com/b5b095b59348c36d938bcb319390a612.1000x667x1.jpg",
+                    "id": 1096096,
+                    "image_url": "https://images.genius.com/d3c973d62837de36ff3e3caeaa0dfda9.324x324x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Reprise Records",
+                    "url": "https://genius.com/artists/Reprise-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1096096",
+                    "header_image_url": "https://images.genius.com/b5b095b59348c36d938bcb319390a612.1000x667x1.jpg",
+                    "id": 1096096,
+                    "image_url": "https://images.genius.com/d3c973d62837de36ff3e3caeaa0dfda9.324x324x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Reprise Records",
+                    "url": "https://genius.com/artists/Reprise-records"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/52765",
+                    "header_image_url": "https://images.genius.com/9acc3011bc8e16d7bb4e73913fa7e0a9.1000x667x1.jpg",
+                    "id": 52765,
+                    "image_url": "https://images.genius.com/a67e339e4b1c1e712f4fda56ecd93a4d.763x763x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Al Schmitt",
+                    "url": "https://genius.com/artists/Al-schmitt"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1166019",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1166019,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Graham Dechter",
+                    "url": "https://genius.com/artists/Graham-dechter"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1146978",
+                    "header_image_url": "https://images.genius.com/0913f8d6732411ca31ebf610c8c3e64c.400x400x1.jpg",
+                    "id": 1146978,
+                    "image_url": "https://images.genius.com/0913f8d6732411ca31ebf610c8c3e64c.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Clayton Cameron",
+                    "url": "https://genius.com/artists/Clayton-cameron"
+                }
+            ]
+        },
+        {
+            "label": "Conductor",
+            "artists": [
+                {
+                    "api_path": "/artists/1143144",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1143144,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bob Buckley",
+                    "url": "https://genius.com/artists/Bob-buckley"
+                }
+            ]
+        },
+        {
+            "label": "Celesta",
+            "artists": [
+                {
+                    "api_path": "/artists/465641",
+                    "header_image_url": "https://images.genius.com/d63e4254ecee72ad95ff49974fef89da.400x400x1.jpg",
+                    "id": 465641,
+                    "image_url": "https://images.genius.com/d63e4254ecee72ad95ff49974fef89da.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alan Chang",
+                    "url": "https://genius.com/artists/Alan-chang"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1652234",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1652234,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Craig Polasko",
+                    "url": "https://genius.com/artists/Craig-polasko"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 7498925,
+        "annotator_login": "aalrae",
+        "api_path": "/referents/27560861",
+        "classification": "needs_exegesis",
+        "fragment": "Have Yourself a Merry Little Christmas",
+        "id": 27560861,
+        "is_description": true,
+        "path": "/27560861/Michael-buble-have-yourself-a-merry-little-christmas/Have-yourself-a-merry-little-christmas",
+        "range": {
+            "content": "Have Yourself a Merry Little Christmas"
+        },
+        "song_id": 935765,
+        "url": "https://genius.com/27560861/Michael-buble-have-yourself-a-merry-little-christmas/Have-yourself-a-merry-little-christmas",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/935765",
+            "client_timestamps": {
+                "updated_by_human_at": 1736139398,
+                "lyrics_updated_at": 1575996744
+            },
+            "context": "Michael Bubl\u00e9",
+            "id": 935765,
+            "image_url": "https://images.genius.com/3df90b419c626fc3e8ad9fe55cec718a.1000x1000x1.png",
+            "link_title": "Have Yourself a Merry Little Christmas by\u00a0Michael\u00a0Bubl\u00e9",
+            "title": "Have Yourself a Merry Little Christmas",
+            "type": "Song",
+            "url": "https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/27560861",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27560861,
+                "pinned": false,
+                "share_url": "https://genius.com/27560861",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/27560861/Michael-buble-have-yourself-a-merry-little-christmas/Have-yourself-a-merry-little-christmas",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/7498925",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/ecb30beea41bfd77a08640ed6e4d6bfa",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/ecb30beea41bfd77a08640ed6e4d6bfa",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/ecb30beea41bfd77a08640ed6e4d6bfa",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/ecb30beea41bfd77a08640ed6e4d6bfa",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/a4541645194321fc1d8024dca37b8538.800x450x1.jpg",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 7498925,
+                            "iq": 169137,
+                            "login": "aalrae",
+                            "name": "\u200baalrae",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/aalrae",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=cp-gbMiQ8PM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/34423",
+            "header_image_url": "https://images.genius.com/326a5f8cd7c40426bf9cb2ced607392b.539x700x1.jpg",
+            "id": 34423,
+            "image_url": "https://images.genius.com/326a5f8cd7c40426bf9cb2ced607392b.539x700x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Bob Rock",
+            "url": "https://genius.com/artists/Bob-rock"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": "https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/1313277",
+                    "artist_names": "Judy Garland",
+                    "full_title": "Have Yourself a Merry Little Christmas by\u00a0Judy\u00a0Garland",
+                    "header_image_thumbnail_url": "https://images.genius.com/01711038d334213e6376720b6c1e1ce2.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/01711038d334213e6376720b6c1e1ce2.600x600x1.jpg",
+                    "id": 1313277,
+                    "lyrics_owner_id": 5667167,
+                    "lyrics_state": "complete",
+                    "path": "/Judy-garland-have-yourself-a-merry-little-christmas-lyrics",
+                    "primary_artist_names": "Judy Garland",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Judy-garland-have-yourself-a-merry-little-christmas-sample",
+                    "release_date_components": {
+                        "year": 1944,
+                        "month": 11,
+                        "day": 2
+                    },
+                    "release_date_for_display": "November 2, 1944",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 2, 1944",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/01711038d334213e6376720b6c1e1ce2.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/01711038d334213e6376720b6c1e1ce2.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 40952
+                    },
+                    "title": "Have Yourself a Merry Little Christmas",
+                    "title_with_featured": "Have Yourself a Merry Little Christmas",
+                    "url": "https://genius.com/Judy-garland-have-yourself-a-merry-little-christmas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/18193",
+                        "header_image_url": "https://images.genius.com/6fa9e1ef0eec09a268e2c6d3ae72e5ec.1000x661x1.jpg",
+                        "id": 18193,
+                        "image_url": "https://images.genius.com/870454c16b32b155545ecf8f78deb41b.992x992x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Judy Garland",
+                        "url": "https://genius.com/artists/Judy-garland"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/18193",
+                            "header_image_url": "https://images.genius.com/6fa9e1ef0eec09a268e2c6d3ae72e5ec.1000x661x1.jpg",
+                            "id": 18193,
+                            "image_url": "https://images.genius.com/870454c16b32b155545ecf8f78deb41b.992x992x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Judy Garland",
+                            "url": "https://genius.com/artists/Judy-garland"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": "https://genius.com/Michael-buble-have-yourself-a-merry-little-christmas-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6423929",
+                    "artist_names": "Jack Reynolds",
+                    "full_title": "Have Yourself a Merry Little Christmas by\u00a0Jack\u00a0Reynolds",
+                    "header_image_thumbnail_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.700x700x1.jpg",
+                    "id": 6423929,
+                    "lyrics_owner_id": 7918677,
+                    "lyrics_state": "complete",
+                    "path": "/Jack-reynolds-have-yourself-a-merry-little-christmas-lyrics",
+                    "primary_artist_names": "Jack Reynolds",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jack-reynolds-have-yourself-a-merry-little-christmas-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 11,
+                        "day": 13
+                    },
+                    "release_date_for_display": "November 13, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 13, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.700x700x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Have Yourself a Merry Little Christmas",
+                    "title_with_featured": "Have Yourself a Merry Little Christmas",
+                    "url": "https://genius.com/Jack-reynolds-have-yourself-a-merry-little-christmas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1534791",
+                        "header_image_url": "https://images.genius.com/0ad069d69e67da213507f59af23a8597.1000x333x1.jpg",
+                        "id": 1534791,
+                        "image_url": "https://images.genius.com/aa277e8ee1a6b471cb71893b420fbbec.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jack Reynolds",
+                        "url": "https://genius.com/artists/Jack-reynolds",
+                        "iq": 7968
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1534791",
+                            "header_image_url": "https://images.genius.com/0ad069d69e67da213507f59af23a8597.1000x333x1.jpg",
+                            "id": 1534791,
+                            "image_url": "https://images.genius.com/aa277e8ee1a6b471cb71893b420fbbec.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jack Reynolds",
+                            "url": "https://genius.com/artists/Jack-reynolds",
+                            "iq": 7968
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6400862",
+                    "artist_names": "M\u00e1ria \u010c\u00edrov\u00e1",
+                    "full_title": "Have Yourself A Merry Little Christmas by\u00a0M\u00e1ria\u00a0\u010c\u00edrov\u00e1",
+                    "header_image_thumbnail_url": "https://images.genius.com/78940ae50c50fa32ffd2fd19be92c9d4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/78940ae50c50fa32ffd2fd19be92c9d4.597x597x1.jpg",
+                    "id": 6400862,
+                    "lyrics_owner_id": 12616040,
+                    "lyrics_state": "complete",
+                    "path": "/Maria-cirova-have-yourself-a-merry-little-christmas-lyrics",
+                    "primary_artist_names": "M\u00e1ria \u010c\u00edrov\u00e1",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Maria-cirova-have-yourself-a-merry-little-christmas-sample",
+                    "release_date_components": {
+                        "year": 2015,
+                        "month": 11,
+                        "day": 20
+                    },
+                    "release_date_for_display": "November 20, 2015",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 20, 2015",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/78940ae50c50fa32ffd2fd19be92c9d4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/78940ae50c50fa32ffd2fd19be92c9d4.597x597x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Have Yourself A Merry Little Christmas",
+                    "title_with_featured": "Have Yourself A Merry Little Christmas",
+                    "url": "https://genius.com/Maria-cirova-have-yourself-a-merry-little-christmas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/657126",
+                        "header_image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+                        "id": 657126,
+                        "image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "M\u00e1ria \u010c\u00edrov\u00e1",
+                        "url": "https://genius.com/artists/Maria-cirova"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/657126",
+                            "header_image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+                            "id": 657126,
+                            "image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "M\u00e1ria \u010c\u00edrov\u00e1",
+                            "url": "https://genius.com/artists/Maria-cirova"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5090217",
+                    "artist_names": "Riley Clemmons",
+                    "full_title": "Have Yourself A Merry Little Christmas by\u00a0Riley\u00a0Clemmons",
+                    "header_image_thumbnail_url": "https://images.genius.com/5240ce8bb78f5db69a7a6613e5e94663.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5240ce8bb78f5db69a7a6613e5e94663.1000x1000x1.jpg",
+                    "id": 5090217,
+                    "lyrics_owner_id": 8519909,
+                    "lyrics_state": "complete",
+                    "path": "/Riley-clemmons-have-yourself-a-merry-little-christmas-lyrics",
+                    "primary_artist_names": "Riley Clemmons",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Riley-clemmons-have-yourself-a-merry-little-christmas-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 11,
+                        "day": 2
+                    },
+                    "release_date_for_display": "November 2, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5240ce8bb78f5db69a7a6613e5e94663.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5240ce8bb78f5db69a7a6613e5e94663.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Have Yourself A Merry Little Christmas",
+                    "title_with_featured": "Have Yourself A Merry Little Christmas",
+                    "url": "https://genius.com/Riley-clemmons-have-yourself-a-merry-little-christmas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1046142",
+                        "header_image_url": "https://images.genius.com/0e9c0a92f7ecd0224fe1722b1bb41d45.960x541x1.jpg",
+                        "id": 1046142,
+                        "image_url": "https://images.genius.com/2cbb002fdf868bad8b1c02c8e26ec4e6.176x176x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Riley Clemmons",
+                        "url": "https://genius.com/artists/Riley-clemmons"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1046142",
+                            "header_image_url": "https://images.genius.com/0e9c0a92f7ecd0224fe1722b1bb41d45.960x541x1.jpg",
+                            "id": 1046142,
+                            "image_url": "https://images.genius.com/2cbb002fdf868bad8b1c02c8e26ec4e6.176x176x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Riley Clemmons",
+                            "url": "https://genius.com/artists/Riley-clemmons"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/517662",
+            "header_image_url": "https://images.genius.com/7562a445660da9d7113ae52016659a51.168x168x1.jpg",
+            "id": 517662,
+            "image_url": "https://images.genius.com/7562a445660da9d7113ae52016659a51.168x168x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ralph Blane",
+            "url": "https://genius.com/artists/Ralph-blane"
+        },
+        {
+            "api_path": "/artists/517661",
+            "header_image_url": "https://images.genius.com/40d6326585b1d46c18b3ec0b0cade39d.277x277x1.png",
+            "id": 517661,
+            "image_url": "https://images.genius.com/40d6326585b1d46c18b3ec0b0cade39d.277x277x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Hugh Martin",
+            "url": "https://genius.com/artists/Hugh-martin"
+        }
+    ],
+    "artist": "Michael Bubl\u00e9",
+    "lyrics": "9 ContributorsHave Yourself a Merry Little Christmas Lyrics\nHave yourself a merry little Christmas\nLet your heart be light\nFrom now on\nOur troubles will be out of sight\n\nHave yourself a merry little Christmas\nMake the Yuletide gay\nFrom now on\nOur troubles will be miles away\n\nHere we are as in olden days\nHappy golden days of yore\nFaithful friends who are dear to us\nGather near to us once more\n\nThrough the years\nWe all will be together\nIf the fates allow\nHang a shining star upon the highest bough\nAnd have yourself a merry little Christmas now\n\nFaithful friends who are dear to us\nGather near to us once more\n\nThrough the years\nWe all will be together\nIf the fates allow\nSo hang a shining star upon the highest bough\nAnd have yourself a merry little Christmas now"
+}

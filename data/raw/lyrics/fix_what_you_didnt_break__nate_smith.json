@@ -1,0 +1,754 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10795657",
+    "artist_names": "Nate Smith",
+    "full_title": "Fix What You Didn't Break by\u00a0Nate\u00a0Smith",
+    "header_image_thumbnail_url": "https://images.genius.com/0e7514561352a10bf2cc385742316795.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0e7514561352a10bf2cc385742316795.1000x1000x1.png",
+    "id": 10795657,
+    "instrumental": false,
+    "lyrics_owner_id": 3499648,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726045035,
+    "path": "/Nate-smith-fix-what-you-didnt-break-lyrics",
+    "primary_artist_names": "Nate Smith",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Nate-smith-fix-what-you-didnt-break-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 23
+    },
+    "release_date_for_display": "August 23, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0e7514561352a10bf2cc385742316795.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0e7514561352a10bf2cc385742316795.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 5,
+        "iq_earners": 5,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 24507
+    },
+    "title": "Fix What You Didn\u2019t Break",
+    "title_with_featured": "Fix What You Didn't Break",
+    "updated_by_human_at": 1741743960,
+    "url": "https://genius.com/Nate-smith-fix-what-you-didnt-break-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2612526",
+        "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+        "id": 2612526,
+        "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nate Smith",
+        "url": "https://genius.com/artists/Nate-smith"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        }
+    ],
+    "apple_music_id": "1762499049",
+    "apple_music_player_url": "https://genius.com/songs/10795657/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10795657' class='rg_embed_link' data-song-id='10795657'>Read <a href='https://genius.com/Nate-smith-fix-what-you-didnt-break-lyrics'>\u201cFix What You Didn't Break\u201d by Nate\u00a0Smith</a> on Genius</div> <script crossorigin src='//genius.com/songs/10795657/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-23",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bd7d45",
+    "song_art_secondary_color": "#673f24",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1228762",
+        "cover_art_url": "https://images.genius.com/480f525836b325c7db1132baccbfef45.1000x1000x1.png",
+        "full_title": "California Gold by Nate Smith",
+        "id": 1228762,
+        "name": "California Gold",
+        "primary_artist_names": "Nate Smith",
+        "release_date_for_display": "October 4, 2024",
+        "url": "https://genius.com/albums/Nate-smith/California-gold",
+        "artist": {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2612526",
+                "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                "id": 2612526,
+                "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Nate Smith",
+                "url": "https://genius.com/artists/Nate-smith"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2612526",
+                    "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                    "id": 2612526,
+                    "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nate Smith",
+                    "url": "https://genius.com/artists/Nate-smith"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2612526",
+                    "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                    "id": 2612526,
+                    "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nate Smith",
+                    "url": "https://genius.com/artists/Nate-smith"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/662411",
+                    "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "id": 662411,
+                    "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Wells",
+                    "url": "https://genius.com/artists/Derek-wells"
+                }
+            ]
+        },
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1176502",
+                    "header_image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "id": 1176502,
+                    "image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Schipper",
+                    "url": "https://genius.com/artists/Justin-schipper"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1209339",
+                    "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "id": 1209339,
+                    "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ilya Toshinskiy",
+                    "url": "https://genius.com/artists/Ilya-toshinskiy"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/3291986",
+                    "header_image_url": "https://images.genius.com/a9b0c03e326b3988fc680079c4cc0799.958x357x1.jpg",
+                    "id": 3291986,
+                    "image_url": "https://images.genius.com/211522c43d98d66d882f55bfccfcee89.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Hill (Bass)",
+                    "url": "https://genius.com/artists/Mark-hill-bass"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/1716192",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1716192,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Wright",
+                    "url": "https://genius.com/artists/Alex-wright"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2465025",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2465025,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Evan Hutchins",
+                    "url": "https://genius.com/artists/Evan-hutchins"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638278",
+                    "header_image_url": "https://images.genius.com/1e62c53bdcb451a1f0bb12bfe2cbf003.500x500x1.png",
+                    "id": 638278,
+                    "image_url": "https://images.genius.com/47d96abc8d728344fcefc1ef9f9ba63f.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Dantzler",
+                    "url": "https://genius.com/artists/Nathan-dantzler"
+                },
+                {
+                    "api_path": "/artists/3296505",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3296505,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Harrison Tate",
+                    "url": "https://genius.com/artists/Harrison-tate"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                },
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3549103",
+                    "header_image_url": "https://images.genius.com/2fc6e6729a519585f323b19e547c5417.1000x1000x1.jpg",
+                    "id": 3549103,
+                    "image_url": "https://images.genius.com/2fc6e6729a519585f323b19e547c5417.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Brown",
+                    "url": "https://genius.com/artists/Austin-brown"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                }
+            ]
+        },
+        {
+            "label": "Overdub Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 126836,
+        "annotator_login": "Chloe",
+        "api_path": "/referents/32744169",
+        "classification": "needs_exegesis",
+        "fragment": "Fix What You Didn\u2019t Break",
+        "id": 32744169,
+        "is_description": true,
+        "path": "/32744169/Nate-smith-fix-what-you-didnt-break/Fix-what-you-didnt-break",
+        "range": {
+            "content": "Fix What You Didn't Break"
+        },
+        "song_id": 10795657,
+        "url": "https://genius.com/32744169/Nate-smith-fix-what-you-didnt-break/Fix-what-you-didnt-break",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10795657",
+            "client_timestamps": {
+                "updated_by_human_at": 1741743960,
+                "lyrics_updated_at": 1726045035
+            },
+            "context": "Nate Smith",
+            "id": 10795657,
+            "image_url": "https://images.genius.com/0e7514561352a10bf2cc385742316795.1000x1000x1.png",
+            "link_title": "Fix What You Didn\u2019t Break by\u00a0Nate\u00a0Smith",
+            "title": "Fix What You Didn't Break",
+            "type": "Song",
+            "url": "https://genius.com/Nate-smith-fix-what-you-didnt-break-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32744169",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 32744169,
+                "pinned": false,
+                "share_url": "https://genius.com/32744169",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/32744169/Nate-smith-fix-what-you-didnt-break/Fix-what-you-didnt-break",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/126836",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/658334e9b7a0751e1edb7656ce397a55",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/658334e9b7a0751e1edb7656ce397a55",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/658334e9b7a0751e1edb7656ce397a55",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/658334e9b7a0751e1edb7656ce397a55",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/fbd112d652ee2db7cbc6c4c7d81f2a41.1000x563x1.jpg",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 126836,
+                            "iq": 4964802,
+                            "login": "Chloe",
+                            "name": "\u1d04\u029c\u029f\u1d0f\u1d07 (eolhC)",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/Chloe",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/11279157",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/fd70e83cb1577e8c8933ccebb73e810d.272x272x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/fd70e83cb1577e8c8933ccebb73e810d.272x272x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/fd70e83cb1577e8c8933ccebb73e810d.272x272x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/fd70e83cb1577e8c8933ccebb73e810d.272x272x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/980db6aa4f57e466bdf22a0cbbb69719.1000x750x1.png",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 11279157,
+        "iq": 372988,
+        "login": "Static101",
+        "name": "Static 101",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/Static101",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=ONF2VQpm_Ks"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/562561",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 562561,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lindsay Rimes",
+            "url": "https://genius.com/artists/Lindsay-rimes"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/562561",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 562561,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lindsay Rimes",
+            "url": "https://genius.com/artists/Lindsay-rimes"
+        },
+        {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        }
+    ],
+    "artist": "Nate Smith",
+    "lyrics": "5 ContributorsFix What You Didn\u2019t Break Lyrics\nI was a ten-year train wreck\nWith a last-call longneck\nI was searchin', I'd been hurt real bad\nMovin' on, gettin' sidetracked\nOne step forward and five back\nNot your fault, I was scared to fall\n\nAnd\u205fI\u205fdon't\u205fknow why\nWhy you\u205fsaw somethin' in\u205fme, baby\nGirl, but you saw right through\nAll the pain, and you came and saved me\n\nYeah, I know you didn't leave me lonely\nWeren't the one that put the heartbreak on me\nPicked up the pieces\nIt wasn't the mess that you made\nCould've left me just the way you found me\nBut you came and put your wings around me\nGirl, you went out of your way\nTo fix what you didn't break\n\nYou were the star in the pitch black\nShine the way on the way back\nOut of nowhere, answered all my prayers\nPicked up the towel that I threw in\nTook in a heart that was ruined\nShowed me the past ain't a tattoo\nLoved me, even when you didn't have to\n\nYeah, I know you didn't leave me lonely\nWeren't the one that put the heartbreak on me\nPicked up the pieces\nIt wasn't the mess that you made\nCould've left me just the way you found me\nBut you came and put your wings around me\nGirl, you went out of your way\nTo fix what you didn't break\nTo fix what you didn't break\n\nAnd I don't know why\nWhy you saw somethin' in me, baby\nGirl, but you saw right through\nAll the pain, and you came and saved me\n\nYeah, I know you didn't leave me lonely\nWeren't the one that put the heartbreak on me\nPicked up the pieces\nIt wasn't the mess that you made\nCould've left me just the way you found me\nBut you came and put your wings around me\nGirl, you went out of your way\nTo fix what you didn't break\nTo fix what you didn't break"
+}

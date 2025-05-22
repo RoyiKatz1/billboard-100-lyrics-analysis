@@ -1,0 +1,821 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/11098618",
+    "artist_names": "Tito Double P",
+    "full_title": "ROSONES by\u00a0Tito\u00a0Double P",
+    "header_image_thumbnail_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.300x300x1.png",
+    "header_image_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.1000x1000x1.png",
+    "id": 11098618,
+    "instrumental": false,
+    "lyrics_owner_id": 13324426,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1738864939,
+    "path": "/Tito-double-p-rosones-lyrics",
+    "primary_artist_names": "Tito Double P",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Tito-double-p-rosones-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 12,
+        "day": 5
+    },
+    "release_date_for_display": "December 5, 2024",
+    "release_date_with_abbreviated_month_for_display": "Dec. 5, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 8,
+        "iq_earners": 8,
+        "transcribers": 3,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 66402
+    },
+    "title": "ROSONES",
+    "title_with_featured": "ROSONES",
+    "updated_by_human_at": 1738864939,
+    "url": "https://genius.com/Tito-double-p-rosones-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3572197",
+        "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+        "id": 3572197,
+        "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tito Double P",
+        "url": "https://genius.com/artists/Tito-double-p"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        }
+    ],
+    "apple_music_id": "1783211314",
+    "apple_music_player_url": "https://genius.com/songs/11098618/apple_music_player",
+    "description": {
+        "plain": "\u201cROSONES\u201d es un corrido tumbado de Tito Double P que mezcla lujos, fama y mujeres con un estilo directo y atrevido. Originalmente interpretada por Jorsshh y Fuerza Regida, la canci\u00f3n destaca por su letra provocadora y su vibra callejera, representando el estilo de vida excesivo que muchos asocian con la nueva ola del regional mexicano."
+    },
+    "embed_content": "<div id='rg_embed_link_11098618' class='rg_embed_link' data-song-id='11098618'>Read <a href='https://genius.com/Tito-double-p-rosones-lyrics'>\u201cROSONES\u201d by Tito\u00a0Double P</a> on Genius</div> <script crossorigin src='//genius.com/songs/11098618/embed.js'></script>",
+    "featured_video": false,
+    "language": "es",
+    "recording_location": null,
+    "release_date": "2024-12-05",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dc3624",
+    "song_art_secondary_color": "#766119",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1281712",
+        "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1747858710",
+        "full_title": "TDP2* by Tito Double P",
+        "id": 1281712,
+        "name": "TDP2*",
+        "primary_artist_names": "Tito Double P",
+        "release_date_for_display": "2025",
+        "url": "https://genius.com/albums/Tito-double-p/Tdp2",
+        "artist": {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3572197",
+                "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+                "id": 3572197,
+                "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Tito Double P",
+                "url": "https://genius.com/artists/Tito-double-p"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/613023",
+                    "header_image_url": "https://images.genius.com/3e35a8223ecd656825afd594d3f04582.750x502x25.gif",
+                    "id": 613023,
+                    "image_url": "https://images.genius.com/b902d2724ec5b2a7756c5642cdd8b8b8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orchard",
+                    "url": "https://genius.com/artists/The-orchard"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22708005,
+        "annotator_login": "ATBD",
+        "api_path": "/referents/33569687",
+        "classification": "unreviewed",
+        "fragment": "ROSONES",
+        "id": 33569687,
+        "is_description": true,
+        "path": "/33569687/Tito-double-p-rosones/Rosones",
+        "range": {
+            "content": "ROSONES"
+        },
+        "song_id": 11098618,
+        "url": "https://genius.com/33569687/Tito-double-p-rosones/Rosones",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/11098618",
+            "client_timestamps": {
+                "updated_by_human_at": 1738864939,
+                "lyrics_updated_at": 1738864939
+            },
+            "context": "Tito Double P",
+            "id": 11098618,
+            "image_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.1000x1000x1.png",
+            "link_title": "ROSONES by\u00a0Tito\u00a0Double P",
+            "title": "ROSONES",
+            "type": "Song",
+            "url": "https://genius.com/Tito-double-p-rosones-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33569687",
+                "body": {
+                    "plain": "\u201cROSONES\u201d es un corrido tumbado de Tito Double P que mezcla lujos, fama y mujeres con un estilo directo y atrevido. Originalmente interpretada por Jorsshh y Fuerza Regida, la canci\u00f3n destaca por su letra provocadora y su vibra callejera, representando el estilo de vida excesivo que muchos asocian con la nueva ola del regional mexicano."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33569687,
+                "pinned": false,
+                "share_url": "https://genius.com/33569687",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33569687/Tito-double-p-rosones/Rosones",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22708005",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/591b2c7453c223a607728038791aa637",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/591b2c7453c223a607728038791aa637",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/591b2c7453c223a607728038791aa637",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/591b2c7453c223a607728038791aa637",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/591b2c7453c223a607728038791aa637",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 22708005,
+                            "iq": 349,
+                            "login": "ATBD",
+                            "name": "ATBD",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/ATBD",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/18674465",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/aa7a6d464fe07d2733a445ce688c34fb.820x312x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 18674465,
+        "iq": 351678,
+        "login": "LilRey507",
+        "name": "El Rey De La Buena Vida\ud83d\udc51",
+        "role_for_display": "editor",
+        "url": "https://genius.com/LilRey507",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=hrhu8OE4WMM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        {
+            "api_path": "/artists/2674846",
+            "header_image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "id": 2674846,
+            "image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ernesto Fern\u00e1ndez",
+            "url": "https://genius.com/artists/Ernesto-fernandez"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11524396",
+                    "artist_names": "Pandemia 702",
+                    "full_title": "Miel De Oso by\u00a0Pandemia\u00a0702",
+                    "header_image_thumbnail_url": "https://images.genius.com/2912804719f775fae8787ffec07b6a16.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/2912804719f775fae8787ffec07b6a16.1000x1000x1.png",
+                    "id": 11524396,
+                    "lyrics_owner_id": 13324426,
+                    "lyrics_state": "complete",
+                    "path": "/Pandemia-702-miel-de-oso-lyrics",
+                    "primary_artist_names": "Pandemia 702",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Pandemia-702-miel-de-oso-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 2,
+                        "day": 21
+                    },
+                    "release_date_for_display": "February 21, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 21, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2912804719f775fae8787ffec07b6a16.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/2912804719f775fae8787ffec07b6a16.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Miel De Oso",
+                    "title_with_featured": "Miel De Oso",
+                    "url": "https://genius.com/Pandemia-702-miel-de-oso-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3521668",
+                        "header_image_url": "https://images.genius.com/e3e63abc944cebcfc6877281267d3959.530x530x1.jpg",
+                        "id": 3521668,
+                        "image_url": "https://images.genius.com/e3e63abc944cebcfc6877281267d3959.530x530x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pandemia 702",
+                        "url": "https://genius.com/artists/Pandemia-702"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3521668",
+                            "header_image_url": "https://images.genius.com/e3e63abc944cebcfc6877281267d3959.530x530x1.jpg",
+                            "id": 3521668,
+                            "image_url": "https://images.genius.com/e3e63abc944cebcfc6877281267d3959.530x530x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Pandemia 702",
+                            "url": "https://genius.com/artists/Pandemia-702"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11079069",
+                    "artist_names": "Fuerza Regida & Jorsshh",
+                    "full_title": "ROSONES by\u00a0Fuerza\u00a0Regida & Jorsshh",
+                    "header_image_thumbnail_url": "https://images.genius.com/0520aa870dc09e42e4b7c667bb9a09d1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0520aa870dc09e42e4b7c667bb9a09d1.1000x1000x1.png",
+                    "id": 11079069,
+                    "lyrics_owner_id": 13324426,
+                    "lyrics_state": "complete",
+                    "path": "/Fuerza-regida-and-jorsshh-rosones-lyrics",
+                    "primary_artist_names": "Fuerza Regida & Jorsshh",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Fuerza-regida-and-jorsshh-rosones-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0520aa870dc09e42e4b7c667bb9a09d1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0520aa870dc09e42e4b7c667bb9a09d1.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 70565
+                    },
+                    "title": "ROSONES",
+                    "title_with_featured": "ROSONES",
+                    "url": "https://genius.com/Fuerza-regida-and-jorsshh-rosones-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1475628",
+                        "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+                        "id": 1475628,
+                        "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fuerza Regida",
+                        "url": "https://genius.com/artists/Fuerza-regida"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1475628",
+                            "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+                            "id": 1475628,
+                            "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Fuerza Regida",
+                            "url": "https://genius.com/artists/Fuerza-regida"
+                        },
+                        {
+                            "api_path": "/artists/3688982",
+                            "header_image_url": "https://images.genius.com/2f44fd908fc2b09568890cdc49da688f.1000x1000x1.png",
+                            "id": 3688982,
+                            "image_url": "https://images.genius.com/2f44fd908fc2b09568890cdc49da688f.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jorsshh",
+                            "url": "https://genius.com/artists/Jorsshh"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11415323",
+                    "artist_names": "Estilo Diferente",
+                    "full_title": "ROSONES by\u00a0Estilo\u00a0Diferente",
+                    "header_image_thumbnail_url": "https://images.genius.com/da774c522747133841a57941c03bee40.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/da774c522747133841a57941c03bee40.1000x1000x1.jpg",
+                    "id": 11415323,
+                    "lyrics_owner_id": 12971309,
+                    "lyrics_state": "complete",
+                    "path": "/Estilo-diferente-rosones-lyrics",
+                    "primary_artist_names": "Estilo Diferente",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Estilo-diferente-rosones-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/da774c522747133841a57941c03bee40.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/da774c522747133841a57941c03bee40.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "ROSONES",
+                    "title_with_featured": "ROSONES",
+                    "url": "https://genius.com/Estilo-diferente-rosones-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2612304",
+                        "header_image_url": "https://images.genius.com/afe1790c7737887533c83c2549f55f0b.1000x378x1.jpg",
+                        "id": 2612304,
+                        "image_url": "https://images.genius.com/b762185d402c9c0a4d6e5c11f269bbd8.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Estilo Diferente",
+                        "url": "https://genius.com/artists/Estilo-diferente"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2612304",
+                            "header_image_url": "https://images.genius.com/afe1790c7737887533c83c2549f55f0b.1000x378x1.jpg",
+                            "id": 2612304,
+                            "image_url": "https://images.genius.com/b762185d402c9c0a4d6e5c11f269bbd8.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Estilo Diferente",
+                            "url": "https://genius.com/artists/Estilo-diferente"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11195532",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "Tito Double P - ROSONES (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.1000x1000x1.png",
+                    "id": 11195532,
+                    "lyrics_owner_id": 16909483,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-tito-double-p-rosones-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-tito-double-p-rosones-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 5
+                    },
+                    "release_date_for_display": "December 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/1e0932df2e71f01baf03d0ba0bfc9e05.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 37608
+                    },
+                    "title": "Tito Double P - ROSONES (English Translation)",
+                    "title_with_featured": "Tito Double P - ROSONES (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-tito-double-p-rosones-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11195532",
+            "id": 11195532,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-tito-double-p-rosones-english-translation-lyrics",
+            "title": "Tito Double P - ROSONES (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-tito-double-p-rosones-english-translation-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3688982",
+            "header_image_url": "https://images.genius.com/2f44fd908fc2b09568890cdc49da688f.1000x1000x1.png",
+            "id": 3688982,
+            "image_url": "https://images.genius.com/2f44fd908fc2b09568890cdc49da688f.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jorsshh",
+            "url": "https://genius.com/artists/Jorsshh"
+        },
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        {
+            "api_path": "/artists/389160",
+            "header_image_url": "https://images.genius.com/e12ad5b202704a3c04891f7071a854f0.1000x764x1.jpg",
+            "id": 389160,
+            "image_url": "https://images.genius.com/65336f6a99db820989aa71c4a8afc07f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "JOP",
+            "url": "https://genius.com/artists/Jop"
+        },
+        {
+            "api_path": "/artists/4195243",
+            "header_image_url": "https://images.genius.com/df710b881a9c54732ec4c1845d1303b0.1000x1000x1.jpg",
+            "id": 4195243,
+            "image_url": "https://images.genius.com/df710b881a9c54732ec4c1845d1303b0.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pablo Jesus Gastelum Olivares",
+            "url": "https://genius.com/artists/Pablo-jesus-gastelum-olivares"
+        }
+    ],
+    "artist": "Tito Double P",
+    "lyrics": "8 ContributorsTranslationsEnglishROSONES Lyrics\n\nAy\nTito Double P\nAy, mam\u00e1\n\u00a1Uh!\n\nPutas, lavada, botellas de cristal\nLa paca llega, la quiero reventar\nTraigo a la m\u00e1s buena de todo Instagram\nCuerpo bonito, ese culo es natural\nT\u00fa quieres un novio, chocolate y flores\nYo te regalo, mija, hasta unos rosones\nPero no cuentes que prendimos los blones\nPorque tus amigas van a envidiarte\n\nLas putas, lavada, c\u00f3mo me encanta lo que hace la fama\nParezco de la ma\u00f1a, me veo bien placoso de Dolce & Gabbana\nTraigo buen respaldo y un chingo de morras conocen mi cama\nMi amor, no soy celoso\nMija, no te preocupes, que aqu\u00ed no hay falla\n\nQue aqu\u00ed no hay falla\n\u00a1Uh!\nAy, mam\u00e1\n\nVuelo privado, de motita las flores\nV\u00e9ngase, mami, ven, dame unos sentones\nAmanecido, ya van dos loquerones\nNo es mi culpa si ella solita se pone\nLe piso la cuadrada y unos gallones\nPisteando, a la verga, suenan los corridones\nMi bandolera est\u00e1 llena de pacones\nTraigo pa' cualquier putero mamarme\n\nLas putas, lavada, c\u00f3mo me encanta lo que hace la fama\nParezco de la ma\u00f1a, me veo bien placoso de Dolce & Gabbana\nTraigo buen respaldo y un chingo de morras conocen mi cama\nMi amor, no soy celoso\nMija, no te preocupes, que aqu\u00ed no hay falla\n\nAh-ja-jay\nQue aqu\u00ed no hay falla\nAqu\u00ed no hay falla, mija"
+}

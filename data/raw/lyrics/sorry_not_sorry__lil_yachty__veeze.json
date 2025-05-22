@@ -1,0 +1,960 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10658822",
+    "artist_names": "Lil Yachty & Veeze",
+    "full_title": "Sorry Not Sorry by\u00a0Lil\u00a0Yachty & Veeze",
+    "header_image_thumbnail_url": "https://images.genius.com/5103e1187b12c71644c8414f294fe7d7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5103e1187b12c71644c8414f294fe7d7.1000x1000x1.png",
+    "id": 10658822,
+    "instrumental": false,
+    "lyrics_owner_id": 21990288,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1739036234,
+    "path": "/Lil-yachty-and-veeze-sorry-not-sorry-lyrics",
+    "primary_artist_names": "Lil Yachty & Veeze",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Lil-yachty-and-veeze-sorry-not-sorry-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 16
+    },
+    "release_date_for_display": "August 16, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5103e1187b12c71644c8414f294fe7d7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5103e1187b12c71644c8414f294fe7d7.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 37,
+        "iq_earners": 37,
+        "transcribers": 5,
+        "unreviewed_annotations": 9,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 66958
+    },
+    "title": "Sorry Not Sorry",
+    "title_with_featured": "Sorry Not Sorry",
+    "updated_by_human_at": 1747172675,
+    "url": "https://genius.com/Lil-yachty-and-veeze-sorry-not-sorry-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/610968",
+        "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+        "id": 610968,
+        "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Yachty",
+        "url": "https://genius.com/artists/Lil-yachty",
+        "iq": 14297
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/610968",
+            "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+            "id": 610968,
+            "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Yachty",
+            "url": "https://genius.com/artists/Lil-yachty",
+            "iq": 14297
+        },
+        {
+            "api_path": "/artists/1847232",
+            "header_image_url": "https://images.genius.com/0b7fad095790e75941676fc4bfecbd0c.1000x490x1.jpg",
+            "id": 1847232,
+            "image_url": "https://images.genius.com/1e749adf60fae835d771754d9e945810.490x490x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Veeze",
+            "url": "https://genius.com/artists/Veeze"
+        }
+    ],
+    "apple_music_id": "1763104787",
+    "apple_music_player_url": "https://genius.com/songs/10658822/apple_music_player",
+    "description": {
+        "plain": "The song \u201cSorry Not Sorry\u201d by Lil Yachty and Veeze is the 10th track on LY6 which is a compilation of Lil Yachty\u2019s singles and snippets although it is not a confirmed project."
+    },
+    "embed_content": "<div id='rg_embed_link_10658822' class='rg_embed_link' data-song-id='10658822'>Read <a href='https://genius.com/Lil-yachty-and-veeze-sorry-not-sorry-lyrics'>\u201cSorry Not Sorry\u201d by Lil\u00a0Yachty & Veeze</a> on Genius</div> <script crossorigin src='//genius.com/songs/10658822/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-16",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#9c7023",
+    "song_art_secondary_color": "#8e5c1c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1185828",
+        "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1747928562",
+        "full_title": "LY6* by Lil Yachty",
+        "id": 1185828,
+        "name": "LY6*",
+        "primary_artist_names": "Lil Yachty",
+        "release_date_for_display": "2025",
+        "url": "https://genius.com/albums/Lil-yachty/Ly6",
+        "artist": {
+            "api_path": "/artists/610968",
+            "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+            "id": 610968,
+            "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Yachty",
+            "url": "https://genius.com/artists/Lil-yachty",
+            "iq": 14297
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/610968",
+                "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+                "id": 610968,
+                "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lil Yachty",
+                "url": "https://genius.com/artists/Lil-yachty",
+                "iq": 14297
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3435152",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3435152,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Mathew",
+                    "url": "https://genius.com/artists/Benjamin-mathew"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3435152",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3435152,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Mathew",
+                    "url": "https://genius.com/artists/Benjamin-mathew"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2346565",
+                    "header_image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "id": 2346565,
+                    "image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AMD Visuals",
+                    "url": "https://genius.com/artists/Amd-visuals"
+                },
+                {
+                    "api_path": "/artists/610968",
+                    "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+                    "id": 610968,
+                    "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Lil Yachty",
+                    "url": "https://genius.com/artists/Lil-yachty",
+                    "iq": 14297
+                }
+            ]
+        },
+        {
+            "label": "Video Production Company",
+            "artists": [
+                {
+                    "api_path": "/artists/2178444",
+                    "header_image_url": "https://images.genius.com/e01f2119c26b487635dfe096dd59767b.1000x333x1.jpg",
+                    "id": 2178444,
+                    "image_url": "https://images.genius.com/85c7e51b1bd524eb10ca1a2b7b8dcf38.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lyrical Lemonade",
+                    "url": "https://genius.com/artists/Lyrical-lemonade"
+                }
+            ]
+        },
+        {
+            "label": "Video Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1119481",
+                    "header_image_url": "https://images.genius.com/241abcecb21b56ef74572f15c766fa83.1000x666x1.webp",
+                    "id": 1119481,
+                    "image_url": "https://images.genius.com/d6fc8441a71d2802e78c5e7da6f07025.448x448x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole Bennett",
+                    "url": "https://genius.com/artists/Cole-bennett"
+                }
+            ]
+        },
+        {
+            "label": "Video Focus Puller",
+            "artists": [
+                {
+                    "api_path": "/artists/3533788",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3533788,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sylvester Silver III",
+                    "url": "https://genius.com/artists/Sylvester-silver-iii"
+                }
+            ]
+        },
+        {
+            "label": "Video Gaffer",
+            "artists": [
+                {
+                    "api_path": "/artists/4071238",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4071238,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danil Pervukhin",
+                    "url": "https://genius.com/artists/Danil-pervukhin"
+                }
+            ]
+        },
+        {
+            "label": "Video Grip",
+            "artists": [
+                {
+                    "api_path": "/artists/4071236",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4071236,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hans Kenemer",
+                    "url": "https://genius.com/artists/Hans-kenemer"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/2346565",
+                    "header_image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "id": 2346565,
+                    "image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AMD Visuals",
+                    "url": "https://genius.com/artists/Amd-visuals"
+                }
+            ]
+        },
+        {
+            "label": "Video Colorist",
+            "artists": [
+                {
+                    "api_path": "/artists/2346565",
+                    "header_image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "id": 2346565,
+                    "image_url": "https://images.genius.com/8a293817760c700aa3ed4bb20bfc11a2.625x625x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AMD Visuals",
+                    "url": "https://genius.com/artists/Amd-visuals"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/2933514",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2933514,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Yossi Mairena-Dannon",
+                    "url": "https://genius.com/artists/Yossi-mairena-dannon"
+                }
+            ]
+        },
+        {
+            "label": "Video VFX Supervisor",
+            "artists": [
+                {
+                    "api_path": "/artists/2627074",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2627074,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Dylan Selkirk",
+                    "url": "https://genius.com/artists/Ryan-dylan-selkirk"
+                }
+            ]
+        },
+        {
+            "label": "Video VFX Department",
+            "artists": [
+                {
+                    "api_path": "/artists/3825789",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3825789,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Side-eye (VFX)",
+                    "url": "https://genius.com/artists/Side-eye-vfx"
+                }
+            ]
+        },
+        {
+            "label": "Video Graphic Designer",
+            "artists": [
+                {
+                    "api_path": "/artists/4071235",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4071235,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Riley Fish",
+                    "url": "https://genius.com/artists/Riley-fish"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/995189",
+                    "header_image_url": "https://images.genius.com/2b21f6acec432972f3a023774f66e8f5.1000x563x1.jpg",
+                    "id": 995189,
+                    "image_url": "https://images.genius.com/01c2668cb558306281d73ba43b9d6749.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quality Control",
+                    "url": "https://genius.com/artists/Quality-control"
+                },
+                {
+                    "api_path": "/artists/661090",
+                    "header_image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "id": 661090,
+                    "image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Motown Records",
+                    "url": "https://genius.com/artists/Motown-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/995189",
+                    "header_image_url": "https://images.genius.com/2b21f6acec432972f3a023774f66e8f5.1000x563x1.jpg",
+                    "id": 995189,
+                    "image_url": "https://images.genius.com/01c2668cb558306281d73ba43b9d6749.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quality Control",
+                    "url": "https://genius.com/artists/Quality-control"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/995189",
+                    "header_image_url": "https://images.genius.com/2b21f6acec432972f3a023774f66e8f5.1000x563x1.jpg",
+                    "id": 995189,
+                    "image_url": "https://images.genius.com/01c2668cb558306281d73ba43b9d6749.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quality Control",
+                    "url": "https://genius.com/artists/Quality-control"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22548304,
+        "annotator_login": "qwertghgfd",
+        "api_path": "/referents/32390055",
+        "classification": "unreviewed",
+        "fragment": "Sorry Not Sorry",
+        "id": 32390055,
+        "is_description": true,
+        "path": "/32390055/Lil-yachty-and-veeze-sorry-not-sorry/Sorry-not-sorry",
+        "range": {
+            "content": "Sorry Not Sorry"
+        },
+        "song_id": 10658822,
+        "url": "https://genius.com/32390055/Lil-yachty-and-veeze-sorry-not-sorry/Sorry-not-sorry",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10658822",
+            "client_timestamps": {
+                "updated_by_human_at": 1747172675,
+                "lyrics_updated_at": 1739036234
+            },
+            "context": "Lil Yachty & Veeze",
+            "id": 10658822,
+            "image_url": "https://images.genius.com/5103e1187b12c71644c8414f294fe7d7.1000x1000x1.png",
+            "link_title": "Sorry Not Sorry by\u00a0Lil\u00a0Yachty & Veeze",
+            "title": "Sorry Not Sorry",
+            "type": "Song",
+            "url": "https://genius.com/Lil-yachty-and-veeze-sorry-not-sorry-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32390055",
+                "body": {
+                    "plain": "The song \u201cSorry Not Sorry\u201d by Lil Yachty and Veeze is the 10th track on LY6 which is a compilation of Lil Yachty\u2019s singles and snippets although it is not a confirmed project."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 32390055,
+                "pinned": false,
+                "share_url": "https://genius.com/32390055",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32390055/Lil-yachty-and-veeze-sorry-not-sorry/Sorry-not-sorry",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22548304",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e8d4248e457e6807c4904e65a8a87174",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e8d4248e457e6807c4904e65a8a87174",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e8d4248e457e6807c4904e65a8a87174",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e8d4248e457e6807c4904e65a8a87174",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/e8d4248e457e6807c4904e65a8a87174",
+                            "human_readable_role_for_display": null,
+                            "id": 22548304,
+                            "iq": 118,
+                            "login": "qwertghgfd",
+                            "name": "qwertghgfd",
+                            "role_for_display": null,
+                            "url": "https://genius.com/qwertghgfd",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=ny-IxcS7Yb4"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3572174",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3572174,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "183zman",
+            "url": "https://genius.com/artists/183zman"
+        },
+        {
+            "api_path": "/artists/3707749",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3707749,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "K4 (Producer)",
+            "url": "https://genius.com/artists/K4-producer"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11273519",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Lil Yatchy & Veeze - Sorry Not Sorry (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/7cf8c7dc705d37bec3c3976033abb8a9.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7cf8c7dc705d37bec3c3976033abb8a9.340x340x1.png",
+                    "id": 11273519,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-lil-yatchy-and-veeze-sorry-not-sorry-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-lil-yatchy-and-veeze-sorry-not-sorry-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 16
+                    },
+                    "release_date_for_display": "August 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7cf8c7dc705d37bec3c3976033abb8a9.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7cf8c7dc705d37bec3c3976033abb8a9.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lil Yatchy & Veeze - Sorry Not Sorry (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Lil Yatchy & Veeze - Sorry Not Sorry (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-lil-yatchy-and-veeze-sorry-not-sorry-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11273519",
+            "id": 11273519,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-lil-yatchy-and-veeze-sorry-not-sorry-traducao-em-portugues-lyrics",
+            "title": "Lil Yatchy & Veeze - Sorry Not Sorry (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-lil-yatchy-and-veeze-sorry-not-sorry-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1847232",
+            "header_image_url": "https://images.genius.com/0b7fad095790e75941676fc4bfecbd0c.1000x490x1.jpg",
+            "id": 1847232,
+            "image_url": "https://images.genius.com/1e749adf60fae835d771754d9e945810.490x490x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Veeze",
+            "url": "https://genius.com/artists/Veeze"
+        },
+        {
+            "api_path": "/artists/610968",
+            "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+            "id": 610968,
+            "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Yachty",
+            "url": "https://genius.com/artists/Lil-yachty",
+            "iq": 14297
+        },
+        {
+            "api_path": "/artists/386890",
+            "header_image_url": "https://images.genius.com/813e89e9ef928e6b2f40e2a595af4018.1000x667x1.jpg",
+            "id": 386890,
+            "image_url": "https://images.genius.com/01786fc9d28027750d662fb50a12756d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "K4",
+            "url": "https://genius.com/artists/K4",
+            "iq": 609
+        },
+        {
+            "api_path": "/artists/3572174",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3572174,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "183zman",
+            "url": "https://genius.com/artists/183zman"
+        }
+    ],
+    "artist": "Lil Yachty",
+    "lyrics": "37 ContributorsTranslationsPortugu\u00easSorry Not Sorry Lyrics\nYeah, gang gang (Can we have the check please?)\n\nToday, I ain't even in the mood\nI don't want your pussy, I'm cool\nGot a hundred mil' on my to-do list\nGot killed with a bitch, he stupid\nNigga slide this way, just don't miss\nGon' hit when we come back shootin'\nNigga talkin' 'bout everybody know him\nNigga, everybody know you a goofy\nI done popped out feelin' like Odd Future\nTyler, the Creator my Louis\nThem boys done smoked like five opps\nThat's a whole pack of LooseLeaf\nThis eighth came straight from auntie\nWe pink-slip boys, no car lease\nMy cup all pink lik\u0435 a Barbie\nI'm sorry, not sorry like Beyonc\u0435\nCan't go to the mall, I'm too paid\nToo high, pourin' lean on the jet plane\nShe'll smuggle my drugs for a vacay\nFree Rio, pourin' up in the chain gang\nRolls truck all brown like shit stain\nAnd my wrist all green like my watch fake\nMy bankroll blue, it's a crybaby\nAnd my outfit uppin' the crime rate (Us)\n\nDiamonds give the bitch a headache\nSwitchin' lanes, I'm scarin' the bitch\nDamn near tearin' the bitch\nMe and my bitch, we sharin' the bitch\nUh, uh, done ran up 'bout fifty mil', I feel like Ric Flair in this bitch (Hoo)\nAin't got a care in this bitch\nThey up it on me, I'm darin' the bitch (Brrt)\nPretty-ass ho pourin' up my drink, I just stare at the bitch\nI got several homes filled with clothes, sauce on the way in this bitch (Yeah)\nAin't talkin' 'bout no TV show when I say I got Bear in this bitch (Uh-huh)\nI had to figure it out the hard way, no, I don't care, lil' bitch (Let's get it)\nAyy, I know they talk shit online, but check it, in real life, I'll never struggle again\nI done helped out my mans, I put my mom in a brand-new Benz\nNiggas is grown, with they bitch askin' for pics like a fan\nYou my dog, I'll do what I can\nBrand-new fishbowl look like Saran\n\nNot my type, I'ma still smash\nRich off rap, I still trap\nAin't no pressure, nigga, I'm still relaxed\nStill slime, still finesse\nI'm so rich, when I cheat on my bitch, she still gon' take me back\nI can talk that shit, but backin' it up, that's what I'm better at\nPull up in the Wraith, the seats so orange, look like a leather crab\nPull up in the Wraith, the seats so orange, look like a Herm\u00e8s bag\nKiss your bitch goodbye, she come with us, 'cause she ain't even comin' back\nGettin' high like Scarface, smokin' dope inside a bubble bath\n\nMany men wish death on me, one button, I can get many men dead (Brrt)\nI put you on, I could take you out, get that shit through your head (Go)\nI-T-S-U-S around the globe, think all these niggas fed (Us)\nI don't give no fuck, I'm with whatever, however they wanna play it\nLike Bam Bam, I went through the flame, I met the bitch at the bodega (Huh)\nTook the bitch out to Bottega (Huh), big stick on me like Al-Qaeda (Grrat)\nMy brothers keep a hottie, bitch, it's up if you say, no questions either\nHope no ho think I need her\nI'm still mad at Bieber"
+}

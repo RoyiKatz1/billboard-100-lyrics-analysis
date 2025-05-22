@@ -1,0 +1,2258 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/1422051",
+    "artist_names": "Dean Martin",
+    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Dean\u00a0Martin",
+    "header_image_thumbnail_url": "https://images.genius.com/1cbc28e51c1fd75eb20b71d99d26d37c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/1cbc28e51c1fd75eb20b71d99d26d37c.1000x1000x1.png",
+    "id": 1422051,
+    "instrumental": false,
+    "lyrics_owner_id": 8080152,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1701284117,
+    "path": "/Dean-martin-let-it-snow-let-it-snow-let-it-snow-lyrics",
+    "primary_artist_names": "Dean Martin",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-sample",
+    "release_date_components": {
+        "year": 1959,
+        "month": 10,
+        "day": null
+    },
+    "release_date_for_display": "October 1959",
+    "release_date_with_abbreviated_month_for_display": "Oct. 1959",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1cbc28e51c1fd75eb20b71d99d26d37c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/1cbc28e51c1fd75eb20b71d99d26d37c.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 23,
+        "iq_earners": 23,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 329429
+    },
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+    "updated_by_human_at": 1741465074,
+    "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/29189",
+        "header_image_url": "https://images.genius.com/ac942cb1418cc5526296d7dd4416db05.1000x240x1.jpg",
+        "id": 29189,
+        "image_url": "https://images.genius.com/c85a9d14a8127f26fbb027abc682d096.617x617x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dean Martin",
+        "url": "https://genius.com/artists/Dean-martin"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/29189",
+            "header_image_url": "https://images.genius.com/ac942cb1418cc5526296d7dd4416db05.1000x240x1.jpg",
+            "id": 29189,
+            "image_url": "https://images.genius.com/c85a9d14a8127f26fbb027abc682d096.617x617x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dean Martin",
+            "url": "https://genius.com/artists/Dean-martin"
+        }
+    ],
+    "apple_music_id": "736798619",
+    "apple_music_player_url": "https://genius.com/songs/1422051/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_1422051' class='rg_embed_link' data-song-id='1422051'>Read <a href='https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-lyrics'>\u201cLet It Snow! Let It Snow! Let It Snow!\u201d by Dean\u00a0Martin</a> on Genius</div> <script crossorigin src='//genius.com/songs/1422051/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": null,
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#4080c1",
+    "song_art_secondary_color": "#a92a2c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1043831",
+        "cover_art_url": "https://images.genius.com/68e4a4318207bf56f7e7e2757464066c.1000x1000x1.png",
+        "full_title": "Jingle Bells by Dean Martin",
+        "id": 1043831,
+        "name": "Jingle Bells",
+        "primary_artist_names": "Dean Martin",
+        "release_date_for_display": "December 1, 2021",
+        "url": "https://genius.com/albums/Dean-martin/Jingle-bells",
+        "artist": {
+            "api_path": "/artists/29189",
+            "header_image_url": "https://images.genius.com/ac942cb1418cc5526296d7dd4416db05.1000x240x1.jpg",
+            "id": 29189,
+            "image_url": "https://images.genius.com/c85a9d14a8127f26fbb027abc682d096.617x617x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dean Martin",
+            "url": "https://genius.com/artists/Dean-martin"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/29189",
+                "header_image_url": "https://images.genius.com/ac942cb1418cc5526296d7dd4416db05.1000x240x1.jpg",
+                "id": 29189,
+                "image_url": "https://images.genius.com/c85a9d14a8127f26fbb027abc682d096.617x617x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Dean Martin",
+                "url": "https://genius.com/artists/Dean-martin"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 7963819,
+        "annotator_login": "ioana-6",
+        "api_path": "/referents/24313232",
+        "classification": "needs_exegesis",
+        "fragment": "Let It Snow! Let It Snow! Let It Snow!",
+        "id": 24313232,
+        "is_description": true,
+        "path": "/24313232/Dean-martin-let-it-snow-let-it-snow-let-it-snow/Let-it-snow-let-it-snow-let-it-snow",
+        "range": {
+            "content": "Let It Snow! Let It Snow! Let It Snow!"
+        },
+        "song_id": 1422051,
+        "url": "https://genius.com/24313232/Dean-martin-let-it-snow-let-it-snow-let-it-snow/Let-it-snow-let-it-snow-let-it-snow",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/1422051",
+            "client_timestamps": {
+                "updated_by_human_at": 1741465074,
+                "lyrics_updated_at": 1701284117
+            },
+            "context": "Dean Martin",
+            "id": 1422051,
+            "image_url": "https://images.genius.com/1cbc28e51c1fd75eb20b71d99d26d37c.1000x1000x1.png",
+            "link_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Dean\u00a0Martin",
+            "title": "Let It Snow! Let It Snow! Let It Snow!",
+            "type": "Song",
+            "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/24313232",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 24313232,
+                "pinned": false,
+                "share_url": "https://genius.com/24313232",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/24313232/Dean-martin-let-it-snow-let-it-snow-let-it-snow/Let-it-snow-let-it-snow-let-it-snow",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/7963819",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/614ed1f324de53099e4ba80e6e592149",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/614ed1f324de53099e4ba80e6e592149",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/614ed1f324de53099e4ba80e6e592149",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/614ed1f324de53099e4ba80e6e592149",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/a3ca9cd0719bc472723479056f96fb30.1000x500x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 7963819,
+                            "iq": 269088,
+                            "login": "ioana-6",
+                            "name": "Ioana",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/ioana-6",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "dean martin official",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/dean-martin-official/let-it-snow-let-it-snow-let-4"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=Rnil5LyK_B0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/44869",
+            "header_image_url": "https://images.genius.com/ac5e55ad16d3c79181ad05c0bae5b5c6.220x220x1.jpg",
+            "id": 44869,
+            "image_url": "https://images.genius.com/ac5e55ad16d3c79181ad05c0bae5b5c6.220x220x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jimmy Bowen",
+            "url": "https://genius.com/artists/Jimmy-bowen"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-sample/samples",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6319578",
+                    "artist_names": "\u00c1ngela Aguilar",
+                    "full_title": "Let It Snow  Let It Snow Let It Snow by\u00a0\u00c1ngela\u00a0Aguilar",
+                    "header_image_thumbnail_url": "https://images.genius.com/33b2f09441f804d6370170bc9957ac73.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/33b2f09441f804d6370170bc9957ac73.999x999x1.jpg",
+                    "id": 6319578,
+                    "lyrics_owner_id": 7259910,
+                    "lyrics_state": "complete",
+                    "path": "/Angela-aguilar-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "\u00c1ngela Aguilar",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Angela-aguilar-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2013,
+                        "month": 11,
+                        "day": 12
+                    },
+                    "release_date_for_display": "November 12, 2013",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 12, 2013",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/33b2f09441f804d6370170bc9957ac73.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/33b2f09441f804d6370170bc9957ac73.999x999x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow  Let It Snow Let It Snow",
+                    "title_with_featured": "Let It Snow  Let It Snow Let It Snow",
+                    "url": "https://genius.com/Angela-aguilar-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/346347",
+                        "header_image_url": "https://images.genius.com/58b9c1c214a8ce09d84079196f0e862d.1000x439x1.jpg",
+                        "id": 346347,
+                        "image_url": "https://images.genius.com/42554ae900ff800771648692a14d59d4.805x805x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u00c1ngela Aguilar",
+                        "url": "https://genius.com/artists/Angela-aguilar"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/346347",
+                            "header_image_url": "https://images.genius.com/58b9c1c214a8ce09d84079196f0e862d.1000x439x1.jpg",
+                            "id": 346347,
+                            "image_url": "https://images.genius.com/42554ae900ff800771648692a14d59d4.805x805x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u00c1ngela Aguilar",
+                            "url": "https://genius.com/artists/Angela-aguilar"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10223971",
+                    "artist_names": "There I Ruined It",
+                    "full_title": "Man It Blows by\u00a0There\u00a0I Ruined It",
+                    "header_image_thumbnail_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                    "header_image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                    "id": 10223971,
+                    "lyrics_owner_id": 15798322,
+                    "lyrics_state": "complete",
+                    "path": "/There-i-ruined-it-man-it-blows-lyrics",
+                    "primary_artist_names": "There I Ruined It",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/There-i-ruined-it-man-it-blows-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Man It Blows",
+                    "title_with_featured": "Man It Blows",
+                    "url": "https://genius.com/There-i-ruined-it-man-it-blows-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3485866",
+                        "header_image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                        "id": 3485866,
+                        "image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "There I Ruined It",
+                        "url": "https://genius.com/artists/There-i-ruined-it"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3485866",
+                            "header_image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                            "id": 3485866,
+                            "image_url": "https://images.genius.com/5600e47217a1b59fb83d7c7e9c531f1b.176x176x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "There I Ruined It",
+                            "url": "https://genius.com/artists/There-i-ruined-it"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/8658110",
+                    "artist_names": "K Quarn",
+                    "full_title": "MRS. CLAUS\u2019 ONLY FANS (SoundCloud Version) by\u00a0K\u00a0Quarn",
+                    "header_image_thumbnail_url": "https://images.genius.com/2e4284e13d44680c95480902238cbd8c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/2e4284e13d44680c95480902238cbd8c.1000x1000x1.jpg",
+                    "id": 8658110,
+                    "lyrics_owner_id": 11766189,
+                    "lyrics_state": "complete",
+                    "path": "/K-quarn-mrs-claus-only-fans-soundcloud-version-lyrics",
+                    "primary_artist_names": "K Quarn",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/K-quarn-mrs-claus-only-fans-soundcloud-version-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 12,
+                        "day": 18
+                    },
+                    "release_date_for_display": "December 18, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 18, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2e4284e13d44680c95480902238cbd8c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/2e4284e13d44680c95480902238cbd8c.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "MRS. CLAUS\u2019 ONLY FANS (SoundCloud Version)",
+                    "title_with_featured": "MRS. CLAUS\u2019 ONLY FANS (SoundCloud Version)",
+                    "url": "https://genius.com/K-quarn-mrs-claus-only-fans-soundcloud-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2308251",
+                        "header_image_url": "https://images.genius.com/9c2fdcf3b87d0ad5b2b52503c0fecc28.1000x667x1.jpg",
+                        "id": 2308251,
+                        "image_url": "https://images.genius.com/b1a50173bd0effb17e26d7a87ab9f91a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "K Quarn",
+                        "url": "https://genius.com/artists/K-quarn",
+                        "iq": 4145
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2308251",
+                            "header_image_url": "https://images.genius.com/9c2fdcf3b87d0ad5b2b52503c0fecc28.1000x667x1.jpg",
+                            "id": 2308251,
+                            "image_url": "https://images.genius.com/b1a50173bd0effb17e26d7a87ab9f91a.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "K Quarn",
+                            "url": "https://genius.com/artists/K-quarn",
+                            "iq": 4145
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8646443",
+                    "artist_names": "Yvng Danny",
+                    "full_title": "ST. STONE (LET IT GLOW) by\u00a0Yvng\u00a0Danny",
+                    "header_image_thumbnail_url": "https://images.genius.com/f64fde3fc4bcd506b757331384a0bfe2.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f64fde3fc4bcd506b757331384a0bfe2.700x700x1.jpg",
+                    "id": 8646443,
+                    "lyrics_owner_id": 17764575,
+                    "lyrics_state": "complete",
+                    "path": "/Yvng-danny-st-stone-let-it-glow-lyrics",
+                    "primary_artist_names": "Yvng Danny",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Yvng-danny-st-stone-let-it-glow-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 12,
+                        "day": 16
+                    },
+                    "release_date_for_display": "December 16, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 16, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f64fde3fc4bcd506b757331384a0bfe2.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f64fde3fc4bcd506b757331384a0bfe2.700x700x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "ST. STONE (LET IT GLOW)",
+                    "title_with_featured": "ST. STONE (LET IT GLOW)",
+                    "url": "https://genius.com/Yvng-danny-st-stone-let-it-glow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3271754",
+                        "header_image_url": "https://images.genius.com/fc341a0512436c1cbec4923a6a9fb751.1000x1000x1.png",
+                        "id": 3271754,
+                        "image_url": "https://images.genius.com/fc341a0512436c1cbec4923a6a9fb751.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yvng Danny",
+                        "url": "https://genius.com/artists/Yvng-danny"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3271754",
+                            "header_image_url": "https://images.genius.com/fc341a0512436c1cbec4923a6a9fb751.1000x1000x1.png",
+                            "id": 3271754,
+                            "image_url": "https://images.genius.com/fc341a0512436c1cbec4923a6a9fb751.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yvng Danny",
+                            "url": "https://genius.com/artists/Yvng-danny"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/11251650",
+                    "artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "full_title": "Let It Snow (Remix) by\u00a0Tom\u00a0MacDonald, Tom\u00a0MacDonald & Tom\u00a0MacDonald",
+                    "header_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "id": 11251650,
+                    "lyrics_owner_id": 20656023,
+                    "lyrics_state": "complete",
+                    "path": "/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "primary_artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tom-macdonald-let-it-snow-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Let It Snow (Remix)",
+                    "title_with_featured": "Let It Snow (Remix)",
+                    "url": "https://genius.com/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1191624",
+                        "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                        "id": 1191624,
+                        "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tom MacDonald",
+                        "url": "https://genius.com/artists/Tom-macdonald"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-sample/interpolations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8603265",
+                    "artist_names": "Stella Jang (\uc2a4\ud154\ub77c\uc7a5)",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Stella\u00a0Jang (\uc2a4\ud154\ub77c\uc7a5)",
+                    "header_image_thumbnail_url": "https://images.genius.com/1a90463a4edd867d710199cece6c737c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/1a90463a4edd867d710199cece6c737c.1000x1000x1.png",
+                    "id": 8603265,
+                    "lyrics_owner_id": 17270590,
+                    "lyrics_state": "complete",
+                    "path": "/Stella-jang-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Stella Jang (\uc2a4\ud154\ub77c\uc7a5)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Stella-jang-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/1a90463a4edd867d710199cece6c737c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/1a90463a4edd867d710199cece6c737c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Stella-jang-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1139312",
+                        "header_image_url": "https://images.genius.com/7e0525df2b1ece8333ef0f4907b3dedb.268x135x88.gif",
+                        "id": 1139312,
+                        "image_url": "https://images.genius.com/3f039d6864b5d1711f53dd49954125db.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Stella Jang (\uc2a4\ud154\ub77c\uc7a5)",
+                        "url": "https://genius.com/artists/Stella-jang"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1139312",
+                            "header_image_url": "https://images.genius.com/7e0525df2b1ece8333ef0f4907b3dedb.268x135x88.gif",
+                            "id": 1139312,
+                            "image_url": "https://images.genius.com/3f039d6864b5d1711f53dd49954125db.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Stella Jang (\uc2a4\ud154\ub77c\uc7a5)",
+                            "url": "https://genius.com/artists/Stella-jang"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7090083",
+                    "artist_names": "Jaboody Dubs",
+                    "full_title": "Let It Snow [Jerry Curl] by\u00a0Jaboody\u00a0Dubs",
+                    "header_image_thumbnail_url": "https://images.genius.com/d809f8e599ae574649a5222825e0012f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/d809f8e599ae574649a5222825e0012f.718x718x1.jpg",
+                    "id": 7090083,
+                    "lyrics_owner_id": 11067035,
+                    "lyrics_state": "complete",
+                    "path": "/Jaboody-dubs-let-it-snow-jerry-curl-lyrics",
+                    "primary_artist_names": "Jaboody Dubs",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jaboody-dubs-let-it-snow-jerry-curl-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 12,
+                        "day": 16
+                    },
+                    "release_date_for_display": "December 16, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 16, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d809f8e599ae574649a5222825e0012f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/d809f8e599ae574649a5222825e0012f.718x718x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow [Jerry Curl]",
+                    "title_with_featured": "Let It Snow [Jerry Curl]",
+                    "url": "https://genius.com/Jaboody-dubs-let-it-snow-jerry-curl-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1541839",
+                        "header_image_url": "https://images.genius.com/91537a13b9b7c400c961be3b2df27e5e.1000x333x1.jpg",
+                        "id": 1541839,
+                        "image_url": "https://images.genius.com/8eaec31a73e3ec8813e61458e896476a.256x256x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jaboody Dubs",
+                        "url": "https://genius.com/artists/Jaboody-dubs"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1541839",
+                            "header_image_url": "https://images.genius.com/91537a13b9b7c400c961be3b2df27e5e.1000x333x1.jpg",
+                            "id": 1541839,
+                            "image_url": "https://images.genius.com/8eaec31a73e3ec8813e61458e896476a.256x256x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jaboody Dubs",
+                            "url": "https://genius.com/artists/Jaboody-dubs"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5693487",
+                    "artist_names": "Andy Ditzler",
+                    "full_title": "Just the Six of Us by\u00a0Andy\u00a0Ditzler",
+                    "header_image_thumbnail_url": "https://images.genius.com/50888c1f101879d712accf3f7caf15aa.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/50888c1f101879d712accf3f7caf15aa.499x499x1.jpg",
+                    "id": 5693487,
+                    "lyrics_owner_id": 10262088,
+                    "lyrics_state": "complete",
+                    "path": "/Andy-ditzler-just-the-six-of-us-lyrics",
+                    "primary_artist_names": "Andy Ditzler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Andy-ditzler-just-the-six-of-us-sample",
+                    "release_date_components": {
+                        "year": 2005,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "2005",
+                    "release_date_with_abbreviated_month_for_display": "2005",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/50888c1f101879d712accf3f7caf15aa.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/50888c1f101879d712accf3f7caf15aa.499x499x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Just the Six of Us",
+                    "title_with_featured": "Just the Six of Us",
+                    "url": "https://genius.com/Andy-ditzler-just-the-six-of-us-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2291163",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 2291163,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Andy Ditzler",
+                        "url": "https://genius.com/artists/Andy-ditzler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2291163",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 2291163,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Andy Ditzler",
+                            "url": "https://genius.com/artists/Andy-ditzler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/4160113",
+                    "artist_names": "Mariah Carey",
+                    "full_title": "Christmas in New York by\u00a0Mariah\u00a0Carey",
+                    "header_image_thumbnail_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.400x400x1.jpg",
+                    "id": 4160113,
+                    "lyrics_owner_id": 4914178,
+                    "lyrics_state": "complete",
+                    "path": "/Mariah-carey-christmas-in-new-york-lyrics",
+                    "primary_artist_names": "Mariah Carey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Mariah-carey-christmas-in-new-york-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.400x400x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Christmas in New York",
+                    "title_with_featured": "Christmas in New York",
+                    "url": "https://genius.com/Mariah-carey-christmas-in-new-york-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1205",
+                        "header_image_url": "https://images.genius.com/ab908661fe503a528b618fe20aa4f573.1000x562x1.jpg",
+                        "id": 1205,
+                        "image_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Mariah Carey",
+                        "url": "https://genius.com/artists/Mariah-carey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1205",
+                            "header_image_url": "https://images.genius.com/ab908661fe503a528b618fe20aa4f573.1000x562x1.jpg",
+                            "id": 1205,
+                            "image_url": "https://images.genius.com/363cb87a456c5f33eab04f994c97c804.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Mariah Carey",
+                            "url": "https://genius.com/artists/Mariah-carey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 19,
+                    "api_path": "/songs/6268635",
+                    "artist_names": "CG5",
+                    "full_title": "30 Christmas Songs in 1 Minute by\u00a0CG5",
+                    "header_image_thumbnail_url": "https://images.genius.com/183ca7206230a23c5be29626b31ea918.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/183ca7206230a23c5be29626b31ea918.1000x1000x1.jpg",
+                    "id": 6268635,
+                    "lyrics_owner_id": 10743785,
+                    "lyrics_state": "complete",
+                    "path": "/Cg5-30-christmas-songs-in-1-minute-lyrics",
+                    "primary_artist_names": "CG5",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Cg5-30-christmas-songs-in-1-minute-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/183ca7206230a23c5be29626b31ea918.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/183ca7206230a23c5be29626b31ea918.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 19,
+                        "hot": false
+                    },
+                    "title": "30 Christmas Songs in 1 Minute",
+                    "title_with_featured": "30 Christmas Songs in 1 Minute",
+                    "url": "https://genius.com/Cg5-30-christmas-songs-in-1-minute-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1140651",
+                        "header_image_url": "https://images.genius.com/738702bb2bc1608c87f4ebe0029dfab3.1000x429x1.png",
+                        "id": 1140651,
+                        "image_url": "https://images.genius.com/7f745d387143a84f87f5caca80db6f9c.800x800x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "CG5",
+                        "url": "https://genius.com/artists/Cg5"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1140651",
+                            "header_image_url": "https://images.genius.com/738702bb2bc1608c87f4ebe0029dfab3.1000x429x1.png",
+                            "id": 1140651,
+                            "image_url": "https://images.genius.com/7f745d387143a84f87f5caca80db6f9c.800x800x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "CG5",
+                            "url": "https://genius.com/artists/Cg5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/1770219",
+                    "artist_names": "Vaughn Monroe (Ft. The Norton Sisters)",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Vaughn\u00a0Monroe (Ft.\u00a0The\u00a0Norton Sisters)",
+                    "header_image_thumbnail_url": "https://images.genius.com/52a667dee4bc870d4af84f54bdc2b8a9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/52a667dee4bc870d4af84f54bdc2b8a9.476x476x1.jpg",
+                    "id": 1770219,
+                    "lyrics_owner_id": 5934018,
+                    "lyrics_state": "complete",
+                    "path": "/Vaughn-monroe-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Vaughn Monroe",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Vaughn-monroe-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 1945,
+                        "month": 11,
+                        "day": null
+                    },
+                    "release_date_for_display": "November 1945",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1945",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/52a667dee4bc870d4af84f54bdc2b8a9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/52a667dee4bc870d4af84f54bdc2b8a9.476x476x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow! (Ft.\u00a0The\u00a0Norton Sisters)",
+                    "url": "https://genius.com/Vaughn-monroe-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/3374076",
+                            "header_image_url": "https://images.genius.com/7a37c4590b42ae9a0a7a21431a216ba2.182x182x1.jpg",
+                            "id": 3374076,
+                            "image_url": "https://images.genius.com/7a37c4590b42ae9a0a7a21431a216ba2.182x182x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Norton Sisters",
+                            "url": "https://genius.com/artists/The-norton-sisters"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/360865",
+                        "header_image_url": "https://images.genius.com/e7bff2e737e6b9e083aeea1d43418b9e.600x600x1.jpg",
+                        "id": 360865,
+                        "image_url": "https://images.genius.com/e7bff2e737e6b9e083aeea1d43418b9e.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vaughn Monroe",
+                        "url": "https://genius.com/artists/Vaughn-monroe"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/360865",
+                            "header_image_url": "https://images.genius.com/e7bff2e737e6b9e083aeea1d43418b9e.600x600x1.jpg",
+                            "id": 360865,
+                            "image_url": "https://images.genius.com/e7bff2e737e6b9e083aeea1d43418b9e.600x600x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Vaughn Monroe",
+                            "url": "https://genius.com/artists/Vaughn-monroe"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": "https://genius.com/Dean-martin-let-it-snow-let-it-snow-let-it-snow-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8494861",
+                    "artist_names": "First to Eleven",
+                    "full_title": "Let It Snow by\u00a0First\u00a0to Eleven",
+                    "header_image_thumbnail_url": "https://images.genius.com/b6fed32acf9344bea14e4b881f9dd8e7.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b6fed32acf9344bea14e4b881f9dd8e7.1000x1000x1.jpg",
+                    "id": 8494861,
+                    "lyrics_owner_id": 9666843,
+                    "lyrics_state": "complete",
+                    "path": "/First-to-eleven-let-it-snow-lyrics",
+                    "primary_artist_names": "First to Eleven",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/First-to-eleven-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 11,
+                        "day": 30
+                    },
+                    "release_date_for_display": "November 30, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 30, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b6fed32acf9344bea14e4b881f9dd8e7.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b6fed32acf9344bea14e4b881f9dd8e7.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/First-to-eleven-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/670219",
+                        "header_image_url": "https://images.genius.com/73a7e51017d87225b626adee184cadd4.1000x667x1.png",
+                        "id": 670219,
+                        "image_url": "https://images.genius.com/f1d18a2fc747d92fb2ff6223a5d08fc7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "First to Eleven",
+                        "url": "https://genius.com/artists/First-to-eleven"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/670219",
+                            "header_image_url": "https://images.genius.com/73a7e51017d87225b626adee184cadd4.1000x667x1.png",
+                            "id": 670219,
+                            "image_url": "https://images.genius.com/f1d18a2fc747d92fb2ff6223a5d08fc7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "First to Eleven",
+                            "url": "https://genius.com/artists/First-to-eleven"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/11251650",
+                    "artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "full_title": "Let It Snow (Remix) by\u00a0Tom\u00a0MacDonald, Tom\u00a0MacDonald & Tom\u00a0MacDonald",
+                    "header_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "id": 11251650,
+                    "lyrics_owner_id": 20656023,
+                    "lyrics_state": "complete",
+                    "path": "/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "primary_artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tom-macdonald-let-it-snow-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Let It Snow (Remix)",
+                    "title_with_featured": "Let It Snow (Remix)",
+                    "url": "https://genius.com/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1191624",
+                        "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                        "id": 1191624,
+                        "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tom MacDonald",
+                        "url": "https://genius.com/artists/Tom-macdonald"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        },
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/1048083",
+                    "artist_names": "Bing Crosby",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Bing\u00a0Crosby",
+                    "header_image_thumbnail_url": "https://images.genius.com/5256bf8620de06aa2830d9098688e3ec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5256bf8620de06aa2830d9098688e3ec.1000x1000x1.jpg",
+                    "id": 1048083,
+                    "lyrics_owner_id": 6120660,
+                    "lyrics_state": "complete",
+                    "path": "/Bing-crosby-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Bing Crosby",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bing-crosby-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5256bf8620de06aa2830d9098688e3ec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5256bf8620de06aa2830d9098688e3ec.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Bing-crosby-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/30989",
+                        "header_image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+                        "id": 30989,
+                        "image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bing Crosby",
+                        "url": "https://genius.com/artists/Bing-crosby"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/30989",
+                            "header_image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+                            "id": 30989,
+                            "image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bing Crosby",
+                            "url": "https://genius.com/artists/Bing-crosby"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7662819",
+                    "artist_names": "ISSBROKIE",
+                    "full_title": "Let It Snow by\u00a0ISSBROKIE",
+                    "header_image_thumbnail_url": "https://images.genius.com/d870dfa67b6f9b746fc8db81ef929df0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/d870dfa67b6f9b746fc8db81ef929df0.826x826x1.jpg",
+                    "id": 7662819,
+                    "lyrics_owner_id": 7914283,
+                    "lyrics_state": "complete",
+                    "path": "/Issbrokie-let-it-snow-lyrics",
+                    "primary_artist_names": "ISSBROKIE",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Issbrokie-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 12,
+                        "day": 21
+                    },
+                    "release_date_for_display": "December 21, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 21, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d870dfa67b6f9b746fc8db81ef929df0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/d870dfa67b6f9b746fc8db81ef929df0.826x826x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/Issbrokie-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2600765",
+                        "header_image_url": "https://images.genius.com/bf7643a02ded0707a8b78c2ef5deda7c.1000x210x1.jpg",
+                        "id": 2600765,
+                        "image_url": "https://images.genius.com/a28fb2be11036c519078fcd39f9dc0fa.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "ISSBROKIE",
+                        "url": "https://genius.com/artists/Issbrokie"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2600765",
+                            "header_image_url": "https://images.genius.com/bf7643a02ded0707a8b78c2ef5deda7c.1000x210x1.jpg",
+                            "id": 2600765,
+                            "image_url": "https://images.genius.com/a28fb2be11036c519078fcd39f9dc0fa.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "ISSBROKIE",
+                            "url": "https://genius.com/artists/Issbrokie"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7496383",
+                    "artist_names": "Tender Central",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Tender\u00a0Central",
+                    "header_image_thumbnail_url": "https://images.genius.com/7038beb460214acb052962b361190b7d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7038beb460214acb052962b361190b7d.1000x1000x1.png",
+                    "id": 7496383,
+                    "lyrics_owner_id": 6268779,
+                    "lyrics_state": "complete",
+                    "path": "/Tender-central-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Tender Central",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tender-central-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2021,
+                        "month": 12,
+                        "day": 17
+                    },
+                    "release_date_for_display": "December 17, 2021",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 17, 2021",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7038beb460214acb052962b361190b7d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7038beb460214acb052962b361190b7d.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Tender-central-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1870090",
+                        "header_image_url": "https://images.genius.com/711ed9a8f8732b44b74d4215efc8174a.1000x632x1.jpg",
+                        "id": 1870090,
+                        "image_url": "https://images.genius.com/1b42ab517b54e3340cddb28d93dc51f0.426x426x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tender Central",
+                        "url": "https://genius.com/artists/Tender-central"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1870090",
+                            "header_image_url": "https://images.genius.com/711ed9a8f8732b44b74d4215efc8174a.1000x632x1.jpg",
+                            "id": 1870090,
+                            "image_url": "https://images.genius.com/1b42ab517b54e3340cddb28d93dc51f0.426x426x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tender Central",
+                            "url": "https://genius.com/artists/Tender-central"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6308830",
+                    "artist_names": "SuperMega",
+                    "full_title": "Let It Snow (Take 2) by\u00a0SuperMega",
+                    "header_image_thumbnail_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.720x720x1.jpg",
+                    "id": 6308830,
+                    "lyrics_owner_id": 3343130,
+                    "lyrics_state": "complete",
+                    "path": "/Supermega-let-it-snow-take-2-lyrics",
+                    "primary_artist_names": "SuperMega",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Supermega-let-it-snow-take-2-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow (Take 2)",
+                    "title_with_featured": "Let It Snow (Take 2)",
+                    "url": "https://genius.com/Supermega-let-it-snow-take-2-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1210820",
+                        "header_image_url": "https://images.genius.com/f804c8619d104dfcfe4aa49a0e9801ec.1000x524x1.jpg",
+                        "id": 1210820,
+                        "image_url": "https://images.genius.com/9b521a701cbd9db8d30c508a359a2d8f.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SuperMega",
+                        "url": "https://genius.com/artists/Supermega"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1210820",
+                            "header_image_url": "https://images.genius.com/f804c8619d104dfcfe4aa49a0e9801ec.1000x524x1.jpg",
+                            "id": 1210820,
+                            "image_url": "https://images.genius.com/9b521a701cbd9db8d30c508a359a2d8f.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SuperMega",
+                            "url": "https://genius.com/artists/Supermega"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6308256",
+                    "artist_names": "SuperMega",
+                    "full_title": "Let It Snow (Take 1) by\u00a0SuperMega",
+                    "header_image_thumbnail_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.720x720x1.jpg",
+                    "id": 6308256,
+                    "lyrics_owner_id": 3343130,
+                    "lyrics_state": "complete",
+                    "path": "/Supermega-let-it-snow-take-1-lyrics",
+                    "primary_artist_names": "SuperMega",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Supermega-let-it-snow-take-1-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4c3e7df783dd208b8d3e3b4a2f20b64d.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow (Take 1)",
+                    "title_with_featured": "Let It Snow (Take 1)",
+                    "url": "https://genius.com/Supermega-let-it-snow-take-1-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1210820",
+                        "header_image_url": "https://images.genius.com/f804c8619d104dfcfe4aa49a0e9801ec.1000x524x1.jpg",
+                        "id": 1210820,
+                        "image_url": "https://images.genius.com/9b521a701cbd9db8d30c508a359a2d8f.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SuperMega",
+                        "url": "https://genius.com/artists/Supermega"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1210820",
+                            "header_image_url": "https://images.genius.com/f804c8619d104dfcfe4aa49a0e9801ec.1000x524x1.jpg",
+                            "id": 1210820,
+                            "image_url": "https://images.genius.com/9b521a701cbd9db8d30c508a359a2d8f.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SuperMega",
+                            "url": "https://genius.com/artists/Supermega"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6013806",
+                    "artist_names": "The Goo Goo Dolls",
+                    "full_title": "Let It Snow by\u00a0The\u00a0Goo Goo Dolls",
+                    "header_image_thumbnail_url": "https://images.genius.com/5c30ef31e0acec69b33973d8ae12a88a.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5c30ef31e0acec69b33973d8ae12a88a.1000x1000x1.jpg",
+                    "id": 6013806,
+                    "lyrics_owner_id": 7779402,
+                    "lyrics_state": "complete",
+                    "path": "/The-goo-goo-dolls-let-it-snow-lyrics",
+                    "primary_artist_names": "The Goo Goo Dolls",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-goo-goo-dolls-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2020,
+                        "month": 10,
+                        "day": 16
+                    },
+                    "release_date_for_display": "October 16, 2020",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 16, 2020",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5c30ef31e0acec69b33973d8ae12a88a.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5c30ef31e0acec69b33973d8ae12a88a.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/The-goo-goo-dolls-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/23517",
+                        "header_image_url": "https://images.genius.com/0d2b58128346b00fe39e2e6aeade78e7.1000x750x1.jpg",
+                        "id": 23517,
+                        "image_url": "https://images.genius.com/2fedfe071bd6eb2069cebc6ba1f94968.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Goo Goo Dolls",
+                        "url": "https://genius.com/artists/The-goo-goo-dolls"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/23517",
+                            "header_image_url": "https://images.genius.com/0d2b58128346b00fe39e2e6aeade78e7.1000x750x1.jpg",
+                            "id": 23517,
+                            "image_url": "https://images.genius.com/2fedfe071bd6eb2069cebc6ba1f94968.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Goo Goo Dolls",
+                            "url": "https://genius.com/artists/The-goo-goo-dolls"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5744000",
+                    "artist_names": "Mandy Barnett",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Mandy\u00a0Barnett",
+                    "header_image_thumbnail_url": "https://images.genius.com/02550b04cd77b1c4249c197cd8d157f4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/02550b04cd77b1c4249c197cd8d157f4.1000x1000x1.jpg",
+                    "id": 5744000,
+                    "lyrics_owner_id": 11271301,
+                    "lyrics_state": "complete",
+                    "path": "/Mandy-barnett-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Mandy Barnett",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Mandy-barnett-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/02550b04cd77b1c4249c197cd8d157f4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/02550b04cd77b1c4249c197cd8d157f4.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Mandy-barnett-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/366778",
+                        "header_image_url": "https://images.genius.com/f917ca5a412b4aac6f1491172331677e.1000x750x1.jpg",
+                        "id": 366778,
+                        "image_url": "https://images.genius.com/3b9916224bc1505667834117770418e3.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mandy Barnett",
+                        "url": "https://genius.com/artists/Mandy-barnett",
+                        "iq": 2380
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/366778",
+                            "header_image_url": "https://images.genius.com/f917ca5a412b4aac6f1491172331677e.1000x750x1.jpg",
+                            "id": 366778,
+                            "image_url": "https://images.genius.com/3b9916224bc1505667834117770418e3.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Mandy Barnett",
+                            "url": "https://genius.com/artists/Mandy-barnett",
+                            "iq": 2380
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/5020752",
+                    "artist_names": "Clean Pete",
+                    "full_title": "Oh het Sneeuwt by\u00a0Clean\u00a0Pete",
+                    "header_image_thumbnail_url": "https://images.genius.com/8cc22a9f9a92afbf4dcb03c02d9e853e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8cc22a9f9a92afbf4dcb03c02d9e853e.800x800x1.jpg",
+                    "id": 5020752,
+                    "lyrics_owner_id": 4352727,
+                    "lyrics_state": "complete",
+                    "path": "/Clean-pete-oh-het-sneeuwt-lyrics",
+                    "primary_artist_names": "Clean Pete",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Clean-pete-oh-het-sneeuwt-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8cc22a9f9a92afbf4dcb03c02d9e853e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8cc22a9f9a92afbf4dcb03c02d9e853e.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Oh het Sneeuwt",
+                    "title_with_featured": "Oh het Sneeuwt",
+                    "url": "https://genius.com/Clean-pete-oh-het-sneeuwt-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/485032",
+                        "header_image_url": "https://images.genius.com/2dc95501eb5d45331abead4e0b2e4f38.533x533x1.jpg",
+                        "id": 485032,
+                        "image_url": "https://images.genius.com/2dc95501eb5d45331abead4e0b2e4f38.533x533x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Clean Pete",
+                        "url": "https://genius.com/artists/Clean-pete"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/485032",
+                            "header_image_url": "https://images.genius.com/2dc95501eb5d45331abead4e0b2e4f38.533x533x1.jpg",
+                            "id": 485032,
+                            "image_url": "https://images.genius.com/2dc95501eb5d45331abead4e0b2e4f38.533x533x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Clean Pete",
+                            "url": "https://genius.com/artists/Clean-pete"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/11237371",
+                    "artist_names": "Vlogmations",
+                    "full_title": "They Want More by\u00a0Vlogmations",
+                    "header_image_thumbnail_url": "https://ibb.co/y0QRx1f",
+                    "header_image_url": "https://ibb.co/y0QRx1f",
+                    "id": 11237371,
+                    "lyrics_owner_id": 22626901,
+                    "lyrics_state": "complete",
+                    "path": "/Vlogmations-they-want-more-lyrics",
+                    "primary_artist_names": "Vlogmations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Vlogmations-they-want-more-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 3
+                    },
+                    "release_date_for_display": "December 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 3, 2024",
+                    "song_art_image_thumbnail_url": "https://ibb.co/y0QRx1f",
+                    "song_art_image_url": "https://ibb.co/y0QRx1f",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false
+                    },
+                    "title": "They Want More",
+                    "title_with_featured": "They Want More",
+                    "url": "https://genius.com/Vlogmations-they-want-more-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4238683",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 4238683,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Vlogmations",
+                        "url": "https://genius.com/artists/Vlogmations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4238683",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4238683,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Vlogmations",
+                            "url": "https://genius.com/artists/Vlogmations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11140357",
+                    "artist_names": "jschlatt",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0jschlatt",
+                    "header_image_thumbnail_url": "https://images.genius.com/c36a9d2cb7357be6cf320c38c0141a6a.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/c36a9d2cb7357be6cf320c38c0141a6a.847x847x1.jpg",
+                    "id": 11140357,
+                    "lyrics_owner_id": 16394319,
+                    "lyrics_state": "complete",
+                    "path": "/Jschlatt-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "jschlatt",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jschlatt-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 21
+                    },
+                    "release_date_for_display": "November 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c36a9d2cb7357be6cf320c38c0141a6a.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/c36a9d2cb7357be6cf320c38c0141a6a.847x847x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Jschlatt-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1947430",
+                        "header_image_url": "https://images.genius.com/6b268fb8094be15b693bbcc2f6f2a620.1000x563x1.jpg",
+                        "id": 1947430,
+                        "image_url": "https://filepicker-images.genius.com/1a6d67974d5782d218af08a26632a92d00471c510a0bb9cb3f8af606ad632272%2Foi7ef5vygic",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "jschlatt",
+                        "url": "https://genius.com/artists/Jschlatt"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1947430",
+                            "header_image_url": "https://images.genius.com/6b268fb8094be15b693bbcc2f6f2a620.1000x563x1.jpg",
+                            "id": 1947430,
+                            "image_url": "https://filepicker-images.genius.com/1a6d67974d5782d218af08a26632a92d00471c510a0bb9cb3f8af606ad632272%2Foi7ef5vygic",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "jschlatt",
+                            "url": "https://genius.com/artists/Jschlatt"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9882931",
+                    "artist_names": "Angelina Jordan",
+                    "full_title": "Let It Snow by\u00a0Angelina\u00a0Jordan",
+                    "header_image_thumbnail_url": "https://images.genius.com/61da16a034fcaab25a556acb770349c7.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/61da16a034fcaab25a556acb770349c7.600x600x1.jpg",
+                    "id": 9882931,
+                    "lyrics_owner_id": 13176179,
+                    "lyrics_state": "complete",
+                    "path": "/Angelina-jordan-let-it-snow-lyrics",
+                    "primary_artist_names": "Angelina Jordan",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Angelina-jordan-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 8
+                    },
+                    "release_date_for_display": "December 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/61da16a034fcaab25a556acb770349c7.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/61da16a034fcaab25a556acb770349c7.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/Angelina-jordan-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/454127",
+                        "header_image_url": "https://images.genius.com/7448e5024cf82c0377e6b353620e5aa5.851x315x1.jpg",
+                        "id": 454127,
+                        "image_url": "https://images.genius.com/836c5063c69c5883a2cfe844156470c0.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Angelina Jordan",
+                        "url": "https://genius.com/artists/Angelina-jordan"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/454127",
+                            "header_image_url": "https://images.genius.com/7448e5024cf82c0377e6b353620e5aa5.851x315x1.jpg",
+                            "id": 454127,
+                            "image_url": "https://images.genius.com/836c5063c69c5883a2cfe844156470c0.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Angelina Jordan",
+                            "url": "https://genius.com/artists/Angelina-jordan"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9567967",
+                    "artist_names": "Michael Bolton",
+                    "full_title": "Let It Snow, Let It Snow, Let It Snow (2023) by\u00a0Michael\u00a0Bolton",
+                    "header_image_thumbnail_url": "https://images.genius.com/6d6275986ad0f9cd4600bd0258e82bce.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6d6275986ad0f9cd4600bd0258e82bce.1000x1000x1.png",
+                    "id": 9567967,
+                    "lyrics_owner_id": 17534747,
+                    "lyrics_state": "complete",
+                    "path": "/Michael-bolton-let-it-snow-let-it-snow-let-it-snow-2023-lyrics",
+                    "primary_artist_names": "Michael Bolton",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Michael-bolton-let-it-snow-let-it-snow-let-it-snow-2023-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 3
+                    },
+                    "release_date_for_display": "November 3, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 3, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6d6275986ad0f9cd4600bd0258e82bce.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6d6275986ad0f9cd4600bd0258e82bce.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow, Let It Snow, Let It Snow (2023)",
+                    "title_with_featured": "Let It Snow, Let It Snow, Let It Snow (2023)",
+                    "url": "https://genius.com/Michael-bolton-let-it-snow-let-it-snow-let-it-snow-2023-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/11634",
+                        "header_image_url": "https://images.genius.com/18e0cf2ceb690d51f8ef074c881bdf85.664x1000x1.jpg",
+                        "id": 11634,
+                        "image_url": "https://images.genius.com/18e0cf2ceb690d51f8ef074c881bdf85.664x1000x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Michael Bolton",
+                        "url": "https://genius.com/artists/Michael-bolton",
+                        "iq": 1408
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/11634",
+                            "header_image_url": "https://images.genius.com/18e0cf2ceb690d51f8ef074c881bdf85.664x1000x1.jpg",
+                            "id": 11634,
+                            "image_url": "https://images.genius.com/18e0cf2ceb690d51f8ef074c881bdf85.664x1000x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Michael Bolton",
+                            "url": "https://genius.com/artists/Michael-bolton",
+                            "iq": 1408
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/763881",
+                    "artist_names": "Steven Curtis Chapman",
+                    "full_title": "Let It Snow! Let It Snow! Let It Snow! by\u00a0Steven\u00a0Curtis Chapman",
+                    "header_image_thumbnail_url": "https://images.genius.com/34cbd117ce4ef1f97b4d73e975731f43.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/34cbd117ce4ef1f97b4d73e975731f43.800x800x1.png",
+                    "id": 763881,
+                    "lyrics_owner_id": 21067333,
+                    "lyrics_state": "complete",
+                    "path": "/Steven-curtis-chapman-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Steven Curtis Chapman",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Steven-curtis-chapman-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2012,
+                        "month": 10,
+                        "day": 16
+                    },
+                    "release_date_for_display": "October 16, 2012",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 16, 2012",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/34cbd117ce4ef1f97b4d73e975731f43.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/34cbd117ce4ef1f97b4d73e975731f43.800x800x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Let It Snow! Let It Snow! Let It Snow!",
+                    "title_with_featured": "Let It Snow! Let It Snow! Let It Snow!",
+                    "url": "https://genius.com/Steven-curtis-chapman-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/8172",
+                        "header_image_url": "https://images.genius.com/3bb73be400064c9eac543378820fe115.1000x428x1.jpg",
+                        "id": 8172,
+                        "image_url": "https://images.genius.com/48c8a688990da8d2374598028b3003c9.683x683x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Steven Curtis Chapman",
+                        "url": "https://genius.com/artists/Steven-curtis-chapman"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/8172",
+                            "header_image_url": "https://images.genius.com/3bb73be400064c9eac543378820fe115.1000x428x1.jpg",
+                            "id": 8172,
+                            "image_url": "https://images.genius.com/48c8a688990da8d2374598028b3003c9.683x683x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Steven Curtis Chapman",
+                            "url": "https://genius.com/artists/Steven-curtis-chapman"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7032647",
+                    "artist_names": "Adrianne Lenker & Buck Meek",
+                    "full_title": "Let it Snow by\u00a0Adrianne\u00a0Lenker & Buck\u00a0Meek",
+                    "header_image_thumbnail_url": "https://images.genius.com/24a246de07f9326d7c1b265f942f77d9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/24a246de07f9326d7c1b265f942f77d9.700x700x1.jpg",
+                    "id": 7032647,
+                    "lyrics_owner_id": 13804286,
+                    "lyrics_state": "complete",
+                    "path": "/Adrianne-lenker-and-buck-meek-let-it-snow-lyrics",
+                    "primary_artist_names": "Adrianne Lenker & Buck Meek",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Adrianne-lenker-and-buck-meek-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2012,
+                        "month": 12,
+                        "day": 25
+                    },
+                    "release_date_for_display": "December 25, 2012",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 25, 2012",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/24a246de07f9326d7c1b265f942f77d9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/24a246de07f9326d7c1b265f942f77d9.700x700x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let it Snow",
+                    "title_with_featured": "Let it Snow",
+                    "url": "https://genius.com/Adrianne-lenker-and-buck-meek-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/678153",
+                        "header_image_url": "https://images.genius.com/1667381f64b3c92c328b20fa6534901e.1000x600x1.jpg",
+                        "id": 678153,
+                        "image_url": "https://images.genius.com/d2d769c5d43e02ab7d88e7c81711e677.796x796x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Adrianne Lenker",
+                        "url": "https://genius.com/artists/Adrianne-lenker"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/678153",
+                            "header_image_url": "https://images.genius.com/1667381f64b3c92c328b20fa6534901e.1000x600x1.jpg",
+                            "id": 678153,
+                            "image_url": "https://images.genius.com/d2d769c5d43e02ab7d88e7c81711e677.796x796x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Adrianne Lenker",
+                            "url": "https://genius.com/artists/Adrianne-lenker"
+                        },
+                        {
+                            "api_path": "/artists/1180320",
+                            "header_image_url": "https://images.genius.com/94a885db7a1e77c976cb4de746768dcf.1000x811x1.jpg",
+                            "id": 1180320,
+                            "image_url": "https://images.genius.com/6fd7e527938a1b78f28501be0e582101.526x526x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Buck Meek",
+                            "url": "https://genius.com/artists/Buck-meek"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8628088",
+                    "artist_names": "UNSECRET & UNSECRET String Quartet",
+                    "full_title": "Let It Snow by\u00a0UNSECRET & UNSECRET\u00a0String Quartet",
+                    "header_image_thumbnail_url": "https://images.genius.com/357b1b7445e58dabcc5be16eb760189b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/357b1b7445e58dabcc5be16eb760189b.1000x1000x1.jpg",
+                    "id": 8628088,
+                    "lyrics_owner_id": 12822942,
+                    "lyrics_state": "complete",
+                    "path": "/Unsecret-and-unsecret-string-quartet-let-it-snow-lyrics",
+                    "primary_artist_names": "UNSECRET & UNSECRET String Quartet",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Unsecret-and-unsecret-string-quartet-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 12,
+                        "day": 9
+                    },
+                    "release_date_for_display": "December 9, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/357b1b7445e58dabcc5be16eb760189b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/357b1b7445e58dabcc5be16eb760189b.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/Unsecret-and-unsecret-string-quartet-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/635151",
+                        "header_image_url": "https://images.genius.com/2050ff4cff996d95399391adb63f455f.1000x165x1.jpg",
+                        "id": 635151,
+                        "image_url": "https://images.genius.com/136d5b7e11d223d630761b7655d543dd.960x960x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "UNSECRET",
+                        "url": "https://genius.com/artists/Unsecret"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/635151",
+                            "header_image_url": "https://images.genius.com/2050ff4cff996d95399391adb63f455f.1000x165x1.jpg",
+                            "id": 635151,
+                            "image_url": "https://images.genius.com/136d5b7e11d223d630761b7655d543dd.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "UNSECRET",
+                            "url": "https://genius.com/artists/Unsecret"
+                        },
+                        {
+                            "api_path": "/artists/2897047",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 2897047,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "UNSECRET String Quartet",
+                            "url": "https://genius.com/artists/Unsecret-string-quartet"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/771989",
+                    "artist_names": "Carly Rae Jepsen",
+                    "full_title": "Let It Snow by\u00a0Carly\u00a0Rae Jepsen",
+                    "header_image_thumbnail_url": "https://images.genius.com/244b890cea49105422379654d67661de.300x287x1.jpg",
+                    "header_image_url": "https://images.genius.com/244b890cea49105422379654d67661de.600x573x1.jpg",
+                    "id": 771989,
+                    "lyrics_owner_id": 1549345,
+                    "lyrics_state": "complete",
+                    "path": "/Carly-rae-jepsen-let-it-snow-lyrics",
+                    "primary_artist_names": "Carly Rae Jepsen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Carly-rae-jepsen-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2011,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2011",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2011",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/244b890cea49105422379654d67661de.300x287x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/244b890cea49105422379654d67661de.600x573x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow",
+                    "title_with_featured": "Let It Snow",
+                    "url": "https://genius.com/Carly-rae-jepsen-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/21150",
+                        "header_image_url": "https://images.genius.com/22f1ba609cb2ea2f3843c27aae9477fc.1000x800x1.jpg",
+                        "id": 21150,
+                        "image_url": "https://images.genius.com/b879fdb5b83b238e945c71a093fd16f7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Carly Rae Jepsen",
+                        "url": "https://genius.com/artists/Carly-rae-jepsen",
+                        "iq": 566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/21150",
+                            "header_image_url": "https://images.genius.com/22f1ba609cb2ea2f3843c27aae9477fc.1000x800x1.jpg",
+                            "id": 21150,
+                            "image_url": "https://images.genius.com/b879fdb5b83b238e945c71a093fd16f7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Carly Rae Jepsen",
+                            "url": "https://genius.com/artists/Carly-rae-jepsen",
+                            "iq": 566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/1861905",
+                    "artist_names": "Isabella Garcia-Shapiro",
+                    "full_title": "Let It Snow, Let It Snow, Let It Snow by\u00a0Isabella\u00a0Garcia-Shapiro",
+                    "header_image_thumbnail_url": "https://images.genius.com/6bdd87b5749a1856d3a108ead0525a0f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6bdd87b5749a1856d3a108ead0525a0f.900x900x1.png",
+                    "id": 1861905,
+                    "lyrics_owner_id": 19820265,
+                    "lyrics_state": "complete",
+                    "path": "/Isabella-garcia-shapiro-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "primary_artist_names": "Isabella Garcia-Shapiro",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Isabella-garcia-shapiro-let-it-snow-let-it-snow-let-it-snow-sample",
+                    "release_date_components": {
+                        "year": 2010,
+                        "month": 9,
+                        "day": 21
+                    },
+                    "release_date_for_display": "September 21, 2010",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 21, 2010",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6bdd87b5749a1856d3a108ead0525a0f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6bdd87b5749a1856d3a108ead0525a0f.900x900x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Let It Snow, Let It Snow, Let It Snow",
+                    "title_with_featured": "Let It Snow, Let It Snow, Let It Snow",
+                    "url": "https://genius.com/Isabella-garcia-shapiro-let-it-snow-let-it-snow-let-it-snow-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1576978",
+                        "header_image_url": "https://images.genius.com/9eb4ba0f0d7bcbc3b451a046e1f5a535.1000x563x1.jpg",
+                        "id": 1576978,
+                        "image_url": "https://images.genius.com/9c1c93422404ad1a673e88c00da8a39d.224x224x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Isabella Garcia-Shapiro",
+                        "url": "https://genius.com/artists/Isabella-garcia-shapiro"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1576978",
+                            "header_image_url": "https://images.genius.com/9eb4ba0f0d7bcbc3b451a046e1f5a535.1000x563x1.jpg",
+                            "id": 1576978,
+                            "image_url": "https://images.genius.com/9c1c93422404ad1a673e88c00da8a39d.224x224x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Isabella Garcia-Shapiro",
+                            "url": "https://genius.com/artists/Isabella-garcia-shapiro"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11617901",
+                    "artist_names": "Brainrot Music (Ft. Jewboiii)",
+                    "full_title": "The Weather Outside Is Rizzy by\u00a0Brainrot\u00a0Music (Ft.\u00a0Jewboiii)",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747858710",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1747858710",
+                    "id": 11617901,
+                    "lyrics_owner_id": 21259218,
+                    "lyrics_state": "complete",
+                    "path": "/Brainrot-music-the-weather-outside-is-rizzy-lyrics",
+                    "primary_artist_names": "Brainrot Music",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Brainrot-music-the-weather-outside-is-rizzy-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 28
+                    },
+                    "release_date_for_display": "October 28, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 28, 2024",
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747858710",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1747858710",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "The Weather Outside Is Rizzy",
+                    "title_with_featured": "The Weather Outside Is Rizzy (Ft.\u00a0Jewboiii)",
+                    "url": "https://genius.com/Brainrot-music-the-weather-outside-is-rizzy-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/4359818",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4359818,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jewboiii",
+                            "url": "https://genius.com/artists/Jewboiii"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/4359820",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 4359820,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Brainrot Music",
+                        "url": "https://genius.com/artists/Brainrot-music"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4359820",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4359820,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brainrot Music",
+                            "url": "https://genius.com/artists/Brainrot-music"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/11251650",
+                    "artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "full_title": "Let It Snow (Remix) by\u00a0Tom\u00a0MacDonald, Tom\u00a0MacDonald & Tom\u00a0MacDonald",
+                    "header_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "id": 11251650,
+                    "lyrics_owner_id": 20656023,
+                    "lyrics_state": "complete",
+                    "path": "/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "primary_artist_names": "Tom MacDonald, Tom MacDonald & Tom MacDonald",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tom-macdonald-let-it-snow-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/390359048c9a4d42dffa4990f8ededc3.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Let It Snow (Remix)",
+                    "title_with_featured": "Let It Snow (Remix)",
+                    "url": "https://genius.com/Tom-macdonald-let-it-snow-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1191624",
+                        "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                        "id": 1191624,
+                        "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tom MacDonald",
+                        "url": "https://genius.com/artists/Tom-macdonald"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        },
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        },
+                        {
+                            "api_path": "/artists/1191624",
+                            "header_image_url": "https://images.genius.com/c34ba67ab67869fc451a216e67e7ed07.640x640x1.jpg",
+                            "id": 1191624,
+                            "image_url": "https://images.genius.com/14b86269a15413207fcfcca6918ddcd9.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tom MacDonald",
+                            "url": "https://genius.com/artists/Tom-macdonald"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/391625",
+            "header_image_url": "https://images.genius.com/417c2887aa6b928eabf258065ead5086.402x402x1.jpg",
+            "id": 391625,
+            "image_url": "https://images.genius.com/417c2887aa6b928eabf258065ead5086.402x402x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jule Styne",
+            "url": "https://genius.com/artists/Jule-styne"
+        },
+        {
+            "api_path": "/artists/517592",
+            "header_image_url": "https://images.genius.com/d9afa6ab8eb7263bc980948b65b48ca7.236x300x1.jpg",
+            "id": 517592,
+            "image_url": "https://images.genius.com/d9afa6ab8eb7263bc980948b65b48ca7.236x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sammy Cahn",
+            "url": "https://genius.com/artists/Sammy-cahn"
+        }
+    ],
+    "artist": "Dean Martin",
+    "lyrics": "23 ContributorsLet It Snow! Let It Snow! Let It Snow! Lyrics\nOh, the weather outside is frightful\nBut the fire is so delightful\nAnd since we've no place to go\nLet it snow, let it snow, let it snow\n\nMan, it doesn't show signs of stopping\nAnd I've brought me some corn for popping\nThe lights are turned way down low\nLet it snow, let it snow\n\nWhen we finally kiss goodnight\nHow I'll hate going out in the storm\nBut if you really hold me tight\nAll the way home I'll be warm\n\nAnd the fire is slowly dying\nAnd, my dear, we're still goodbyeing\nBut as long as you love me so\nLet it snow, let it snow, and snow\n\nWhen we finally kiss goodnight\nHow I'll hate going out in the storm\nBut if you really grab me tight\nAll the way home I'll be warm\n\nOh, the fire is slowly dying\nAnd, my dear, we're still goodbyeing\nBut as long as you love me so\nLet it snow, let it snow, let it snow"
+}

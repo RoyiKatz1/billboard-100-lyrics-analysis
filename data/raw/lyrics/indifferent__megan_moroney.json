@@ -1,0 +1,826 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10214235",
+    "artist_names": "Megan Moroney",
+    "full_title": "Indifferent by\u00a0Megan\u00a0Moroney",
+    "header_image_thumbnail_url": "https://images.genius.com/936286cf678fb39d6cf698cac6592976.300x300x1.png",
+    "header_image_url": "https://images.genius.com/936286cf678fb39d6cf698cac6592976.1000x1000x1.png",
+    "id": 10214235,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1720886106,
+    "path": "/Megan-moroney-indifferent-lyrics",
+    "primary_artist_names": "Megan Moroney",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Megan-moroney-indifferent-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 3
+    },
+    "release_date_for_display": "May 3, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/936286cf678fb39d6cf698cac6592976.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/936286cf678fb39d6cf698cac6592976.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 7,
+        "iq_earners": 6,
+        "transcribers": 2,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 27609
+    },
+    "title": "Indifferent",
+    "title_with_featured": "Indifferent",
+    "updated_by_human_at": 1724516472,
+    "url": "https://genius.com/Megan-moroney-indifferent-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2641780",
+        "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+        "id": 2641780,
+        "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Megan Moroney",
+        "url": "https://genius.com/artists/Megan-moroney"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2641780",
+            "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+            "id": 2641780,
+            "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Megan Moroney",
+            "url": "https://genius.com/artists/Megan-moroney"
+        }
+    ],
+    "apple_music_id": "1743233479",
+    "apple_music_player_url": "https://genius.com/songs/10214235/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10214235' class='rg_embed_link' data-song-id='10214235'>Read <a href='https://genius.com/Megan-moroney-indifferent-lyrics'>\u201cIndifferent\u201d by Megan\u00a0Moroney</a> on Genius</div> <script crossorigin src='//genius.com/songs/10214235/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-03",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#072a94",
+    "song_art_secondary_color": "#00114f",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1252226",
+        "cover_art_url": "https://images.genius.com/28c863bce2377f14229d0cda75e612e4.1000x1000x1.png",
+        "full_title": "Am I Okay? (I\u2019ll Be Fine) by Megan Moroney",
+        "id": 1252226,
+        "name": "Am I Okay? (I\u2019ll Be Fine)",
+        "primary_artist_names": "Megan Moroney",
+        "release_date_for_display": "October 4, 2024",
+        "url": "https://genius.com/albums/Megan-moroney/Am-i-okay-ill-be-fine",
+        "artist": {
+            "api_path": "/artists/2641780",
+            "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+            "id": 2641780,
+            "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Megan Moroney",
+            "url": "https://genius.com/artists/Megan-moroney"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2641780",
+                "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+                "id": 2641780,
+                "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Megan Moroney",
+                "url": "https://genius.com/artists/Megan-moroney"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638278",
+                    "header_image_url": "https://images.genius.com/1e62c53bdcb451a1f0bb12bfe2cbf003.500x500x1.png",
+                    "id": 638278,
+                    "image_url": "https://images.genius.com/47d96abc8d728344fcefc1ef9f9ba63f.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Dantzler",
+                    "url": "https://genius.com/artists/Nathan-dantzler"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                },
+                {
+                    "api_path": "/artists/1463076",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1463076,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luke Campolieta",
+                    "url": "https://genius.com/artists/Luke-campolieta"
+                },
+                {
+                    "api_path": "/artists/644115",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 644115,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seth Morton",
+                    "url": "https://genius.com/artists/Seth-morton"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3549103",
+                    "header_image_url": "https://images.genius.com/2fc6e6729a519585f323b19e547c5417.1000x1000x1.jpg",
+                    "id": 3549103,
+                    "image_url": "https://images.genius.com/2fc6e6729a519585f323b19e547c5417.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Brown",
+                    "url": "https://genius.com/artists/Austin-brown"
+                },
+                {
+                    "api_path": "/artists/3296505",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3296505,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Harrison Tate",
+                    "url": "https://genius.com/artists/Harrison-tate"
+                }
+            ]
+        },
+        {
+            "label": "Project Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/643889",
+                    "header_image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "id": 643889,
+                    "image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike \u201cFrog\u201d Griffith",
+                    "url": "https://genius.com/artists/Mike-frog-griffith"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/1023164",
+                    "header_image_url": "https://images.genius.com/fda057850cb1c40b02f802e6a82df464.277x182x1.jpg",
+                    "id": 1023164,
+                    "image_url": "https://images.genius.com/652df62a30394fafceeaab97cdf51a89.189x189x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Bush",
+                    "url": "https://genius.com/artists/Brandon-bush"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/1023164",
+                    "header_image_url": "https://images.genius.com/fda057850cb1c40b02f802e6a82df464.277x182x1.jpg",
+                    "id": 1023164,
+                    "image_url": "https://images.genius.com/652df62a30394fafceeaab97cdf51a89.189x189x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Bush",
+                    "url": "https://genius.com/artists/Brandon-bush"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/3935294",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3935294,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hayley Corbett",
+                    "url": "https://genius.com/artists/Hayley-corbett"
+                },
+                {
+                    "api_path": "/artists/1046063",
+                    "header_image_url": "https://images.genius.com/86a187b7722930526df1229632ff18b9.770x547x1.jpg",
+                    "id": 1046063,
+                    "image_url": "https://images.genius.com/52a7d61afb58c18b640553cdee3cc0db.547x547x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julie Griffin",
+                    "url": "https://genius.com/artists/Julie-griffin"
+                }
+            ]
+        },
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1176502",
+                    "header_image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "id": 1176502,
+                    "image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Schipper",
+                    "url": "https://genius.com/artists/Justin-schipper"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2722032",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2722032,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benji Shanks",
+                    "url": "https://genius.com/artists/Benji-shanks"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/325632",
+                    "header_image_url": "https://images.genius.com/602a735a5a34d555114924dd2cba141a.900x900x1.jpg",
+                    "id": 325632,
+                    "image_url": "https://images.genius.com/602a735a5a34d555114924dd2cba141a.900x900x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Kristian Bush",
+                    "url": "https://genius.com/artists/Kristian-bush",
+                    "iq": 15777
+                },
+                {
+                    "api_path": "/artists/2722032",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2722032,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benji Shanks",
+                    "url": "https://genius.com/artists/Benji-shanks"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2307417",
+                    "header_image_url": "https://images.genius.com/736c8a330ac093b2ad6ceaef7a427380.292x292x1.png",
+                    "id": 2307417,
+                    "image_url": "https://images.genius.com/736c8a330ac093b2ad6ceaef7a427380.292x292x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ted Pecchio",
+                    "url": "https://genius.com/artists/Ted-pecchio"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/1547370",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1547370,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis McNabb",
+                    "url": "https://genius.com/artists/Travis-mcnabb"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1547370",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1547370,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis McNabb",
+                    "url": "https://genius.com/artists/Travis-mcnabb"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1515624",
+                    "header_image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "id": 1515624,
+                    "image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Columbia Nashville",
+                    "url": "https://genius.com/artists/Columbia-nashville"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2641780",
+                    "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+                    "id": 2641780,
+                    "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Megan Moroney",
+                    "url": "https://genius.com/artists/Megan-moroney"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1515624",
+                    "header_image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "id": 1515624,
+                    "image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Columbia Nashville",
+                    "url": "https://genius.com/artists/Columbia-nashville"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/31273632",
+        "classification": "needs_exegesis",
+        "fragment": "Indifferent",
+        "id": 31273632,
+        "is_description": true,
+        "path": "/31273632/Megan-moroney-indifferent/Indifferent",
+        "range": {
+            "content": "Indifferent"
+        },
+        "song_id": 10214235,
+        "url": "https://genius.com/31273632/Megan-moroney-indifferent/Indifferent",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10214235",
+            "client_timestamps": {
+                "updated_by_human_at": 1724516472,
+                "lyrics_updated_at": 1720886106
+            },
+            "context": "Megan Moroney",
+            "id": 10214235,
+            "image_url": "https://images.genius.com/936286cf678fb39d6cf698cac6592976.1000x1000x1.png",
+            "link_title": "Indifferent by\u00a0Megan\u00a0Moroney",
+            "title": "Indifferent",
+            "type": "Song",
+            "url": "https://genius.com/Megan-moroney-indifferent-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31273632",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31273632,
+                "pinned": false,
+                "share_url": "https://genius.com/31273632",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31273632/Megan-moroney-indifferent/Indifferent",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/15291991",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+        "human_readable_role_for_display": "Editor",
+        "id": 15291991,
+        "iq": 227494,
+        "login": "axelcv",
+        "name": "Bob the Minion",
+        "role_for_display": "editor",
+        "url": "https://genius.com/axelcv",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=RwbSy6Wr0kE"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/325632",
+            "header_image_url": "https://images.genius.com/602a735a5a34d555114924dd2cba141a.900x900x1.jpg",
+            "id": 325632,
+            "image_url": "https://images.genius.com/602a735a5a34d555114924dd2cba141a.900x900x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Kristian Bush",
+            "url": "https://genius.com/artists/Kristian-bush",
+            "iq": 15777
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1043442",
+            "header_image_url": "https://images.genius.com/0a75fbc715b1918f50c6981c643a2b7e.1000x525x1.jpg",
+            "id": 1043442,
+            "image_url": "https://images.genius.com/d1467cbcb88464367991becde008c16d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ben Williams",
+            "url": "https://genius.com/artists/Ben-williams"
+        },
+        {
+            "api_path": "/artists/2644691",
+            "header_image_url": "https://images.genius.com/e48309b0817d4e5ea10de5321ddfe2e5.1000x1000x1.jpg",
+            "id": 2644691,
+            "image_url": "https://images.genius.com/e48309b0817d4e5ea10de5321ddfe2e5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mackenzie Carpenter",
+            "url": "https://genius.com/artists/Mackenzie-carpenter"
+        },
+        {
+            "api_path": "/artists/2641780",
+            "header_image_url": "https://images.genius.com/9de77d1b4b1e05efa5050de046ee5de3.1000x333x1.jpg",
+            "id": 2641780,
+            "image_url": "https://images.genius.com/015017c15a920e8d3791aaf7a0ff0f95.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Megan Moroney",
+            "url": "https://genius.com/artists/Megan-moroney"
+        },
+        {
+            "api_path": "/artists/1481660",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1481660,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Micah Carpenter",
+            "url": "https://genius.com/artists/Micah-carpenter"
+        }
+    ],
+    "artist": "Megan Moroney",
+    "lyrics": "7 ContributorsIndifferent Lyrics\nThrowback to how I used to care about\nWhere you went, where you've been, who you're with\nLosin' my patience and checkin' locations\nAnd rereadin' texts that you sent\n\nI-I would cry one, two, three too many times\nJust wastin' my prime on a guy who was more wrong than right\n\nNow I don't even know what I'm missin'\nDon't care what it is or it isn't\nDon't need your attention (No), or your time\nThey say, \"Did you hear?\"\nI say, \"No thanks I'm fine\"\nI think I could wish you the best\nThe truth is I couldn't care less\nHow sweet it is to be so (So), so indifferent\n\nJune came and went\nWhen's your birthday again? Did I miss it? My bad, that's on me\nI see your truck and I don't give a \u2014\nAnd it don't make my heart skip a beat\n\nI-I like not wonderin' where you are tonight\nIt feels so nice finally being on the other side\n\nNow I don't even know what I'm missin'\nDon't care what it is or it isn't\nDon't need your attention (No), or your time\nThey say, \"Did you hear?\"\nI say, \"No thanks I'm fine\"\nI think I could wish you the best\nThe truth is I couldn't care less\nHow sweet it is to be so (So), so indifferent\n\nI'm indifferent, I'm just livin'\nWhen your mama calls I'm reminded you exist\nAnd I wish that she didn't\n'Cause all my \"give-a-damns\", they've already been given\n\nNow I don't even know what I'm missin'\nDon't care what it is or it isn't\nDon't need your attention (No), or your time\nThey say, \"Did you hear?\"\nI say, \"No thanks I'm fine\" (No thanks I'm fine)\nI think I could wish you the best\nThe truth is I couldn't care less (Couldn't care less)\nHow sweet it is to be so (So), so indifferent"
+}

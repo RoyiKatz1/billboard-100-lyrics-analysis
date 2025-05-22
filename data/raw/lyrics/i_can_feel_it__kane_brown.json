@@ -1,0 +1,851 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/9542013",
+    "artist_names": "Kane Brown",
+    "full_title": "I Can Feel It by\u00a0Kane\u00a0Brown",
+    "header_image_thumbnail_url": "https://images.genius.com/9c028596387ffc8cae6031a2d47021b8.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/9c028596387ffc8cae6031a2d47021b8.1000x1000x1.jpg",
+    "id": 9542013,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1737770015,
+    "path": "/Kane-brown-i-can-feel-it-lyrics",
+    "primary_artist_names": "Kane Brown",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Kane-brown-i-can-feel-it-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 9,
+        "day": 21
+    },
+    "release_date_for_display": "September 21, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 21, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9c028596387ffc8cae6031a2d47021b8.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9c028596387ffc8cae6031a2d47021b8.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 9,
+        "iq_earners": 9,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 8781
+    },
+    "title": "I Can Feel It",
+    "title_with_featured": "I Can Feel It",
+    "updated_by_human_at": 1737770015,
+    "url": "https://genius.com/Kane-brown-i-can-feel-it-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/524190",
+        "header_image_url": "https://images.genius.com/d46a2db5d000ee3d0d1483071cfed327.1000x333x1.jpg",
+        "id": 524190,
+        "image_url": "https://images.genius.com/f4e9cfab36398d951151d4034eb8f868.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Kane Brown",
+        "url": "https://genius.com/artists/Kane-brown",
+        "iq": 108
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/524190",
+            "header_image_url": "https://images.genius.com/d46a2db5d000ee3d0d1483071cfed327.1000x333x1.jpg",
+            "id": 524190,
+            "image_url": "https://images.genius.com/f4e9cfab36398d951151d4034eb8f868.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Kane Brown",
+            "url": "https://genius.com/artists/Kane-brown",
+            "iq": 108
+        }
+    ],
+    "apple_music_id": "1706415676",
+    "apple_music_player_url": "https://genius.com/songs/9542013/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9542013' class='rg_embed_link' data-song-id='9542013'>Read <a href='https://genius.com/Kane-brown-i-can-feel-it-lyrics'>\u201cI Can Feel It\u201d by Kane\u00a0Brown</a> on Genius</div> <script crossorigin src='//genius.com/songs/9542013/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-09-21",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b1945c",
+    "song_art_secondary_color": "#ddc4b1",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1256719",
+        "cover_art_url": "https://images.genius.com/25d3fccfda0a5e9bcf55b4f9a35dc0c7.600x600x1.png",
+        "full_title": "The High Road by Kane Brown",
+        "id": 1256719,
+        "name": "The High Road",
+        "primary_artist_names": "Kane Brown",
+        "release_date_for_display": "January 24, 2025",
+        "url": "https://genius.com/albums/Kane-brown/The-high-road",
+        "artist": {
+            "api_path": "/artists/524190",
+            "header_image_url": "https://images.genius.com/d46a2db5d000ee3d0d1483071cfed327.1000x333x1.jpg",
+            "id": 524190,
+            "image_url": "https://images.genius.com/f4e9cfab36398d951151d4034eb8f868.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Kane Brown",
+            "url": "https://genius.com/artists/Kane-brown",
+            "iq": 108
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/524190",
+                "header_image_url": "https://images.genius.com/d46a2db5d000ee3d0d1483071cfed327.1000x333x1.jpg",
+                "id": 524190,
+                "image_url": "https://images.genius.com/f4e9cfab36398d951151d4034eb8f868.320x320x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Kane Brown",
+                "url": "https://genius.com/artists/Kane-brown",
+                "iq": 108
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Project Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/643889",
+                    "header_image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "id": 643889,
+                    "image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike \u201cFrog\u201d Griffith",
+                    "url": "https://genius.com/artists/Mike-frog-griffith"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/3790467",
+                    "header_image_url": "https://images.genius.com/be391bca4e42c634a912f26a8eb379ab.250x250x1.jpg",
+                    "id": 3790467,
+                    "image_url": "https://images.genius.com/be391bca4e42c634a912f26a8eb379ab.250x250x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Rucker",
+                    "url": "https://genius.com/artists/Dylan-rucker"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1786824",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1786824,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Alvga",
+                    "url": "https://genius.com/artists/Alex-alvga"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1003630",
+                    "header_image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "id": 1003630,
+                    "image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Ayan",
+                    "url": "https://genius.com/artists/Adam-ayan"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3672301",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3672301,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joseph Trentacosti",
+                    "url": "https://genius.com/artists/Joseph-trentacosti"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1180575",
+                    "header_image_url": "https://images.genius.com/191365521de28e5b6f8260bcae9462a5.150x150x1.jpg",
+                    "id": 1180575,
+                    "image_url": "https://images.genius.com/191365521de28e5b6f8260bcae9462a5.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Buckley Miller",
+                    "url": "https://genius.com/artists/Buckley-miller"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/643910",
+                    "header_image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+                    "id": 643910,
+                    "image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Sterling",
+                    "url": "https://genius.com/artists/Aaron-sterling"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/515186",
+                    "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "id": 515186,
+                    "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Niebank",
+                    "url": "https://genius.com/artists/Justin-niebank"
+                },
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/644120",
+                    "header_image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "id": 644120,
+                    "image_url": "https://images.genius.com/816d755c9aee695dda88b6ccf9946f2d.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charlie Judge",
+                    "url": "https://genius.com/artists/Charlie-judge"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/409433",
+                    "header_image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "id": 409433,
+                    "image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Huff",
+                    "url": "https://genius.com/artists/David-huff"
+                },
+                {
+                    "api_path": "/artists/1022746",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1022746,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Small",
+                    "url": "https://genius.com/artists/Chris-small"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/409433",
+                    "header_image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "id": 409433,
+                    "image_url": "https://images.genius.com/345ae4ea854b2e7db0951c588a927ae9.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Huff",
+                    "url": "https://genius.com/artists/David-huff"
+                },
+                {
+                    "api_path": "/artists/515186",
+                    "header_image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "id": 515186,
+                    "image_url": "https://images.genius.com/06b3c4b525fe335ae0e2c63f5e23ebfe.224x224x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Niebank",
+                    "url": "https://genius.com/artists/Justin-niebank"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/40850",
+                    "header_image_url": "https://images.genius.com/6e1b43a06221d66feefe4be47c8c25a5.720x239x1.jpg",
+                    "id": 40850,
+                    "image_url": "https://images.genius.com/4107c617ba7c1709d787d17099c3df28.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Hill",
+                    "url": "https://genius.com/artists/Mark-hill"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1895941",
+                    "header_image_url": "https://images.genius.com/9a577a2f36fb0079ce53c3b75ee22107.499x499x1.jpg",
+                    "id": 1895941,
+                    "image_url": "https://images.genius.com/9a577a2f36fb0079ce53c3b75ee22107.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jaxson Free",
+                    "url": "https://genius.com/artists/Jaxson-free"
+                },
+                {
+                    "api_path": "/artists/1914641",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1914641,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Reedy",
+                    "url": "https://genius.com/artists/Josh-reedy"
+                }
+            ]
+        },
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/644117",
+                    "header_image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+                    "id": 644117,
+                    "image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Franklin",
+                    "url": "https://genius.com/artists/Paul-franklin"
+                }
+            ]
+        },
+        {
+            "label": "Overdub Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2886092",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2886092,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gabe Foust",
+                    "url": "https://genius.com/artists/Gabe-foust"
+                },
+                {
+                    "api_path": "/artists/1914641",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1914641,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Reedy",
+                    "url": "https://genius.com/artists/Josh-reedy"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1043256",
+                    "header_image_url": "https://images.genius.com/e6dd7072c5d7e01aabc7b3d763154cea.1000x1000x1.jpg",
+                    "id": 1043256,
+                    "image_url": "https://images.genius.com/e6dd7072c5d7e01aabc7b3d763154cea.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kris Donegan",
+                    "url": "https://genius.com/artists/Kris-donegan"
+                },
+                {
+                    "api_path": "/artists/123538",
+                    "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "id": 123538,
+                    "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dann Huff",
+                    "url": "https://genius.com/artists/Dann-huff"
+                },
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 1599419,
+        "annotator_login": "ibmac26",
+        "api_path": "/referents/29595254",
+        "classification": "needs_exegesis",
+        "fragment": "I Can Feel It",
+        "id": 29595254,
+        "is_description": true,
+        "path": "/29595254/Kane-brown-i-can-feel-it/I-can-feel-it",
+        "range": {
+            "content": "I Can Feel It"
+        },
+        "song_id": 9542013,
+        "url": "https://genius.com/29595254/Kane-brown-i-can-feel-it/I-can-feel-it",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9542013",
+            "client_timestamps": {
+                "updated_by_human_at": 1737770015,
+                "lyrics_updated_at": 1737770015
+            },
+            "context": "Kane Brown",
+            "id": 9542013,
+            "image_url": "https://images.genius.com/9c028596387ffc8cae6031a2d47021b8.1000x1000x1.jpg",
+            "link_title": "I Can Feel It by\u00a0Kane\u00a0Brown",
+            "title": "I Can Feel It",
+            "type": "Song",
+            "url": "https://genius.com/Kane-brown-i-can-feel-it-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29595254",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 29595254,
+                "pinned": false,
+                "share_url": "https://genius.com/29595254",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/29595254/Kane-brown-i-can-feel-it/I-can-feel-it",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1599419",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/a5865f8b1b18fa91e41b14ef0b799bb0",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/a5865f8b1b18fa91e41b14ef0b799bb0",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/a5865f8b1b18fa91e41b14ef0b799bb0",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/a5865f8b1b18fa91e41b14ef0b799bb0",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/473c6e5fc57e588fccc4b8789a718ca7.892x500x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 1599419,
+                            "iq": 989562,
+                            "login": "ibmac26",
+                            "name": "\u200bibmac26 | #BlackLivesMatter",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/ibmac26",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 52,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=3X4Ghpsb3QM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/123538",
+            "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+            "id": 123538,
+            "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dann Huff",
+            "url": "https://genius.com/artists/Dann-huff"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": [
+                {
+                    "annotation_count": 8,
+                    "api_path": "/songs/110034",
+                    "artist_names": "Phil Collins",
+                    "full_title": "In the Air Tonight by\u00a0Phil\u00a0Collins",
+                    "header_image_thumbnail_url": "https://images.genius.com/e8ebf336ace3c27ee6813e1332a05f3b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e8ebf336ace3c27ee6813e1332a05f3b.1000x1000x1.jpg",
+                    "id": 110034,
+                    "lyrics_owner_id": 46871,
+                    "lyrics_state": "complete",
+                    "path": "/Phil-collins-in-the-air-tonight-lyrics",
+                    "primary_artist_names": "Phil Collins",
+                    "pyongs_count": 75,
+                    "relationships_index_url": "https://genius.com/Phil-collins-in-the-air-tonight-sample",
+                    "release_date_components": {
+                        "year": 1981,
+                        "month": 1,
+                        "day": 9
+                    },
+                    "release_date_for_display": "January 9, 1981",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 9, 1981",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e8ebf336ace3c27ee6813e1332a05f3b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e8ebf336ace3c27ee6813e1332a05f3b.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 999753
+                    },
+                    "title": "In the Air Tonight",
+                    "title_with_featured": "In the Air Tonight",
+                    "url": "https://genius.com/Phil-collins-in-the-air-tonight-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3927",
+                        "header_image_url": "https://images.genius.com/d08a5b66866e03ab06ec8c70a4bc9ba9.480x270x32.gif",
+                        "id": 3927,
+                        "image_url": "https://images.genius.com/6f02841f38709872b9cf1afde843e5b8.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Phil Collins",
+                        "url": "https://genius.com/artists/Phil-collins"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3927",
+                            "header_image_url": "https://images.genius.com/d08a5b66866e03ab06ec8c70a4bc9ba9.480x270x32.gif",
+                            "id": 3927,
+                            "image_url": "https://images.genius.com/6f02841f38709872b9cf1afde843e5b8.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Phil Collins",
+                            "url": "https://genius.com/artists/Phil-collins"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3927",
+            "header_image_url": "https://images.genius.com/d08a5b66866e03ab06ec8c70a4bc9ba9.480x270x32.gif",
+            "id": 3927,
+            "image_url": "https://images.genius.com/6f02841f38709872b9cf1afde843e5b8.900x900x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Phil Collins",
+            "url": "https://genius.com/artists/Phil-collins"
+        },
+        {
+            "api_path": "/artists/2886092",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2886092,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gabe Foust",
+            "url": "https://genius.com/artists/Gabe-foust"
+        },
+        {
+            "api_path": "/artists/1895941",
+            "header_image_url": "https://images.genius.com/9a577a2f36fb0079ce53c3b75ee22107.499x499x1.jpg",
+            "id": 1895941,
+            "image_url": "https://images.genius.com/9a577a2f36fb0079ce53c3b75ee22107.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jaxson Free",
+            "url": "https://genius.com/artists/Jaxson-free"
+        }
+    ],
+    "artist": "Kane Brown",
+    "lyrics": "9 ContributorsI Can Feel It Lyrics\nI can see you by the bar\nSkinny margarita with a broken heart\nSo I slid over like a steel guitar\nWe started talkin' 'til I\nSaw your boots bounce to the beat\nYou said, \"Do you dance? Wanna dance with me?\"\nNext thing I know, I started to think\nThat we might be onto somethin'\n\nYou're puttin' on a show\nNo need to take it slow\nThere's something here, I know\n\nI can feel it in the air, feel it in the whiskey in my hand\nIn your hips, your body tells me when you start to dance\nMaybe this is turning to a \"We should probably get up out of here\"\nOh, baby, I swear, I can feel it in the air (I can feel it)\nI can feel it, mm\n\nYou got everybody lookin'\nLookin' at you, lookin' at me\nTh\u0435m words you're whisperin' in my ear\nGirl, th\u0435y're as smooth as Tennessee\n\nWe got all night to go\nThis flame ain't burnin' low\nThere's something here, I know\n\n'Cause I can feel it in the air, feel it in the whiskey in my hand\nIn your hips, your body tells me when you start to dance\nMaybe this is turnin' to a \"We should probably get up out of here\"\nOh, baby, I swear, I can feel it in the air\n\nI can feel it\nI can feel it in the air\nI can feel it comin' in the air tonight\nOh, Lord\n\n'Cause I can feel it in the air, feel it in the whiskey in my hand\nIn your hips, your body tells me when you start to dance\nMaybe this is turnin' to a \"we should probably get up out of here\"\nOh, baby, I swear, I can feel it in the air (I can feel it)\n(I can feel it)\n\nI can feel it in the air (I can feel it)\n(I can feel it)\nSay, I can feel it in the air\nI can feel it\nI can feel it"
+}

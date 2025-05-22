@@ -1,0 +1,1297 @@
+{
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/10180074",
+    "artist_names": "Don Toliver",
+    "full_title": "TORE UP by\u00a0Don\u00a0Toliver",
+    "header_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+    "header_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+    "id": 10180074,
+    "instrumental": false,
+    "lyrics_owner_id": 9277468,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1739748255,
+    "path": "/Don-toliver-tore-up-lyrics",
+    "primary_artist_names": "Don Toliver",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Don-toliver-tore-up-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 14
+    },
+    "release_date_for_display": "June 14, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 77,
+        "iq_earners": 75,
+        "transcribers": 9,
+        "unreviewed_annotations": 12,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 162206
+    },
+    "title": "TORE UP",
+    "title_with_featured": "TORE UP",
+    "updated_by_human_at": 1741776717,
+    "url": "https://genius.com/Don-toliver-tore-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1523930",
+        "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+        "id": 1523930,
+        "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Don Toliver",
+        "url": "https://genius.com/artists/Don-toliver"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1523930",
+            "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+            "id": 1523930,
+            "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Don Toliver",
+            "url": "https://genius.com/artists/Don-toliver"
+        }
+    ],
+    "apple_music_id": "1747612964",
+    "apple_music_player_url": "https://genius.com/songs/10180074/apple_music_player",
+    "description": {
+        "plain": "\u201cTORE UP\u201d embraces a less-explored side of Don Toliver\u2019s music, being centered around a bass-heavy instrumental and paired with a prevalent guitar riff sampled from She Died Real Pretty. Don lyrically highlights his fast life, open to drug use and sex, as he actively pursues a new aesthetic for his fourth studio album, HARDSTONE PSYCHO.\n\nThe track was debuted at his 2024 Rolling Loud California set on March 17, 2024 alongside a live guitar player. Additionally, Don affirmed HARDSTONE PSYCHO\u2019s summer 2024 release after performing."
+    },
+    "embed_content": "<div id='rg_embed_link_10180074' class='rg_embed_link' data-song-id='10180074'>Read <a href='https://genius.com/Don-toliver-tore-up-lyrics'>\u201cTORE UP\u201d by Don\u00a0Toliver</a> on Genius</div> <script crossorigin src='//genius.com/songs/10180074/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-14",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#1d4b58",
+    "song_art_secondary_color": "#04151a",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1127372",
+        "cover_art_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+        "full_title": "HARDSTONE PSYCHO by Don Toliver",
+        "id": 1127372,
+        "name": "HARDSTONE PSYCHO",
+        "primary_artist_names": "Don Toliver",
+        "release_date_for_display": "June 14, 2024",
+        "url": "https://genius.com/albums/Don-toliver/Hardstone-psycho",
+        "artist": {
+            "api_path": "/artists/1523930",
+            "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+            "id": 1523930,
+            "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Don Toliver",
+            "url": "https://genius.com/artists/Don-toliver"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1523930",
+                "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+                "id": 1523930,
+                "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Don Toliver",
+                "url": "https://genius.com/artists/Don-toliver"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Typography",
+            "artists": [
+                {
+                    "api_path": "/artists/1953857",
+                    "header_image_url": "https://images.genius.com/708009d051a40f83c66badf9f19b05dd.1000x333x1.jpg",
+                    "id": 1953857,
+                    "image_url": "https://images.genius.com/72d423325183e3e2bfa764efce7829e4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0422\u0420\u0410\u0423\u0420 (TRAUR)",
+                    "url": "https://genius.com/artists/Traur"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1458366",
+                    "header_image_url": "https://images.genius.com/9132cd7d123acfa663141e34cec7bf06.1000x563x1.jpg",
+                    "id": 1458366,
+                    "image_url": "https://images.genius.com/9e4a0d6a62bae4466a8e6449b81b6f2d.444x444x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyler Ross (Director)",
+                    "url": "https://genius.com/artists/Tyler-ross-director"
+                },
+                {
+                    "api_path": "/artists/2816340",
+                    "header_image_url": "https://images.genius.com/832a95585b0cf2cfce3d4e837d75f896.960x960x1.jpg",
+                    "id": 2816340,
+                    "image_url": "https://images.genius.com/832a95585b0cf2cfce3d4e837d75f896.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shapxo",
+                    "url": "https://genius.com/artists/Shapxo"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1112276",
+                    "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+                    "id": 1112276,
+                    "image_url": "https://images.genius.com/7b2cc19148a80214302b30a5dd7f173b.960x960x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music Group",
+                    "url": "https://genius.com/artists/Warner-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/672750",
+                    "header_image_url": "https://images.genius.com/e05fc2c8d3522cc6fba4dbb50015c68f.922x922x1.jpg",
+                    "id": 672750,
+                    "image_url": "https://images.genius.com/e05fc2c8d3522cc6fba4dbb50015c68f.922x922x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "206Derek",
+                    "url": "https://genius.com/artists/206derek"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1436543",
+                    "header_image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "id": 1436543,
+                    "image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Era",
+                    "url": "https://genius.com/artists/Young-era"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3991827",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3991827,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Spikes (Guitarist)",
+                    "url": "https://genius.com/artists/Spikes-guitarist"
+                }
+            ]
+        },
+        {
+            "label": "Additional Production",
+            "artists": [
+                {
+                    "api_path": "/artists/3991827",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3991827,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Spikes (Guitarist)",
+                    "url": "https://genius.com/artists/Spikes-guitarist"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1523930",
+                    "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+                    "id": 1523930,
+                    "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Don Toliver",
+                    "url": "https://genius.com/artists/Don-toliver"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1523930",
+                    "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+                    "id": 1523930,
+                    "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Don Toliver",
+                    "url": "https://genius.com/artists/Don-toliver"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1278086",
+                    "header_image_url": "https://images.genius.com/99b6504c789ef38ec7b18332b7552642.640x629x1.jpg",
+                    "id": 1278086,
+                    "image_url": "https://images.genius.com/f78a61c4fe722c2fefabbababfba6da4.617x617x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cactus Jack Records",
+                    "url": "https://genius.com/artists/Cactus-jack-records"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1278086",
+                    "header_image_url": "https://images.genius.com/99b6504c789ef38ec7b18332b7552642.640x629x1.jpg",
+                    "id": 1278086,
+                    "image_url": "https://images.genius.com/f78a61c4fe722c2fefabbababfba6da4.617x617x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cactus Jack Records",
+                    "url": "https://genius.com/artists/Cactus-jack-records"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1278086",
+                    "header_image_url": "https://images.genius.com/99b6504c789ef38ec7b18332b7552642.640x629x1.jpg",
+                    "id": 1278086,
+                    "image_url": "https://images.genius.com/f78a61c4fe722c2fefabbababfba6da4.617x617x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cactus Jack Records",
+                    "url": "https://genius.com/artists/Cactus-jack-records"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 19437515,
+        "annotator_login": "eleventh_dimension",
+        "api_path": "/referents/31202290",
+        "classification": "accepted",
+        "fragment": "TORE UP",
+        "id": 31202290,
+        "is_description": true,
+        "path": "/31202290/Don-toliver-tore-up/Tore-up",
+        "range": {
+            "content": "TORE UP"
+        },
+        "song_id": 10180074,
+        "url": "https://genius.com/31202290/Don-toliver-tore-up/Tore-up",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10180074",
+            "client_timestamps": {
+                "updated_by_human_at": 1741776717,
+                "lyrics_updated_at": 1739748255
+            },
+            "context": "Don Toliver",
+            "id": 10180074,
+            "image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+            "link_title": "TORE UP by\u00a0Don\u00a0Toliver",
+            "title": "TORE UP",
+            "type": "Song",
+            "url": "https://genius.com/Don-toliver-tore-up-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31202290",
+                "body": {
+                    "plain": "\u201cTORE UP\u201d embraces a less-explored side of Don Toliver\u2019s music, being centered around a bass-heavy instrumental and paired with a prevalent guitar riff sampled from She Died Real Pretty. Don lyrically highlights his fast life, open to drug use and sex, as he actively pursues a new aesthetic for his fourth studio album, HARDSTONE PSYCHO.\n\nThe track was debuted at his 2024 Rolling Loud California set on March 17, 2024 alongside a live guitar player. Additionally, Don affirmed HARDSTONE PSYCHO\u2019s summer 2024 release after performing."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31202290,
+                "pinned": false,
+                "share_url": "https://genius.com/31202290",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31202290/Don-toliver-tore-up/Tore-up",
+                "verified": false,
+                "votes_total": 41,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/19437515",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/ccv33nehsoe",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 19437515,
+                            "iq": 50850,
+                            "login": "eleventh_dimension",
+                            "name": "eleventh_dimension",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/eleventh_dimension",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/11677218",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+        "human_readable_role_for_display": "Contributor",
+        "id": 11677218,
+        "iq": 87227,
+        "login": "leemcintosh",
+        "name": "leemcintosh",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/leemcintosh",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/11677218",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+        "human_readable_role_for_display": "Contributor",
+        "id": 11677218,
+        "iq": 87227,
+        "login": "leemcintosh",
+        "name": "leemcintosh",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/leemcintosh",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=PvtQwxZJmL8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3569989",
+            "header_image_url": "https://images.genius.com/dc474650cc282b50792c0915d825745d.840x840x1.jpg",
+            "id": 3569989,
+            "image_url": "https://images.genius.com/0c9e3fdea2825b3ae95627f407969e3e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BBYKOBE",
+            "url": "https://genius.com/artists/Bbykobe"
+        },
+        {
+            "api_path": "/artists/1036816",
+            "header_image_url": "https://images.genius.com/bb6f7ebfbf18e3878c9d0fa4ff802517.580x580x1.jpg",
+            "id": 1036816,
+            "image_url": "https://images.genius.com/bb6f7ebfbf18e3878c9d0fa4ff802517.580x580x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Matt Spatola",
+            "url": "https://genius.com/artists/Matt-spatola"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10180003",
+                    "artist_names": "She Died Real Pretty",
+                    "full_title": "Industry Sets In by\u00a0She\u00a0Died Real Pretty",
+                    "header_image_thumbnail_url": "https://images.genius.com/214bb1cdca03a84df46166113eb16acc.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/214bb1cdca03a84df46166113eb16acc.421x421x1.png",
+                    "id": 10180003,
+                    "lyrics_owner_id": 9277468,
+                    "lyrics_state": "unreleased",
+                    "path": "/She-died-real-pretty-industry-sets-in-lyrics",
+                    "primary_artist_names": "She Died Real Pretty",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/She-died-real-pretty-industry-sets-in-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 20
+                    },
+                    "release_date_for_display": "June 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/214bb1cdca03a84df46166113eb16acc.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/214bb1cdca03a84df46166113eb16acc.421x421x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Industry Sets In",
+                    "title_with_featured": "Industry Sets In",
+                    "url": "https://genius.com/She-died-real-pretty-industry-sets-in-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3882438",
+                        "header_image_url": "https://images.genius.com/06dbede3a3fcb31f05156fb64235b065.220x220x1.jpg",
+                        "id": 3882438,
+                        "image_url": "https://images.genius.com/06dbede3a3fcb31f05156fb64235b065.220x220x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "She Died Real Pretty",
+                        "url": "https://genius.com/artists/She-died-real-pretty"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3882438",
+                            "header_image_url": "https://images.genius.com/06dbede3a3fcb31f05156fb64235b065.220x220x1.jpg",
+                            "id": 3882438,
+                            "image_url": "https://images.genius.com/06dbede3a3fcb31f05156fb64235b065.220x220x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "She Died Real Pretty",
+                            "url": "https://genius.com/artists/She-died-real-pretty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11103711",
+                    "artist_names": "SALUKI (Ft. SABU)",
+                    "full_title": "MOTOR CLUB by\u00a0SALUKI (Ft.\u00a0SABU)",
+                    "header_image_thumbnail_url": "https://images.genius.com/204da60fefb23cec6dd807b2db598905.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/204da60fefb23cec6dd807b2db598905.1000x1000x1.png",
+                    "id": 11103711,
+                    "lyrics_owner_id": 12870642,
+                    "lyrics_state": "complete",
+                    "path": "/Saluki-motor-club-lyrics",
+                    "primary_artist_names": "SALUKI",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Saluki-motor-club-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/204da60fefb23cec6dd807b2db598905.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/204da60fefb23cec6dd807b2db598905.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 26907
+                    },
+                    "title": "MOTOR CLUB",
+                    "title_with_featured": "MOTOR CLUB (Ft.\u00a0SABU)",
+                    "url": "https://genius.com/Saluki-motor-club-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/3505412",
+                            "header_image_url": "https://images.genius.com/900bf7c03b120705bfe43ab576792c37.1000x240x1.png",
+                            "id": 3505412,
+                            "image_url": "https://images.genius.com/d4ad52e05272fc01404526791bb73d1f.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SABU",
+                            "url": "https://genius.com/artists/Sabu",
+                            "iq": 150
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/516658",
+                        "header_image_url": "https://images.genius.com/e5a904c0e520eaf412363bf4c587cc95.600x240x238.gif",
+                        "id": 516658,
+                        "image_url": "https://images.genius.com/927336e56f30fbae6041953b59359541.864x864x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "SALUKI",
+                        "url": "https://genius.com/artists/Saluki",
+                        "iq": 9438
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/516658",
+                            "header_image_url": "https://images.genius.com/e5a904c0e520eaf412363bf4c587cc95.600x240x238.gif",
+                            "id": 516658,
+                            "image_url": "https://images.genius.com/927336e56f30fbae6041953b59359541.864x864x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "SALUKI",
+                            "url": "https://genius.com/artists/Saluki",
+                            "iq": 9438
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10529235",
+                    "artist_names": "Sinneyy",
+                    "full_title": "TORE by\u00a0Sinneyy",
+                    "header_image_thumbnail_url": "https://images.genius.com/67fd3129b235d61c0eacc309251b84e0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/67fd3129b235d61c0eacc309251b84e0.800x800x1.jpg",
+                    "id": 10529235,
+                    "lyrics_owner_id": 3484315,
+                    "lyrics_state": "complete",
+                    "path": "/Sinneyy-tore-lyrics",
+                    "primary_artist_names": "Sinneyy",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sinneyy-tore-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 17
+                    },
+                    "release_date_for_display": "June 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/67fd3129b235d61c0eacc309251b84e0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/67fd3129b235d61c0eacc309251b84e0.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "TORE",
+                    "title_with_featured": "TORE",
+                    "url": "https://genius.com/Sinneyy-tore-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/977630",
+                        "header_image_url": "https://images.genius.com/be0aee8937b6d77870eb8d77fdf014cd.1000x563x1.png",
+                        "id": 977630,
+                        "image_url": "https://images.genius.com/5872b65b2965fdc3d01acd7f1d5f2324.579x579x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sinneyy",
+                        "url": "https://genius.com/artists/Sinneyy",
+                        "iq": 18445
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/977630",
+                            "header_image_url": "https://images.genius.com/be0aee8937b6d77870eb8d77fdf014cd.1000x563x1.png",
+                            "id": 977630,
+                            "image_url": "https://images.genius.com/5872b65b2965fdc3d01acd7f1d5f2324.579x579x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sinneyy",
+                            "url": "https://genius.com/artists/Sinneyy",
+                            "iq": 18445
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Don-toliver-tore-up-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10535234",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Don Toliver - TORE UP (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "id": 10535234,
+                    "lyrics_owner_id": 21971681,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-don-toliver-tore-up-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-don-toliver-tore-up-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 14
+                    },
+                    "release_date_for_display": "June 14, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Don Toliver - TORE UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Don Toliver - TORE UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-don-toliver-tore-up-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10555279",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Don Toliver - TORE UP (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "id": 10555279,
+                    "lyrics_owner_id": 11484166,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-don-toliver-tore-up-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-don-toliver-tore-up-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 14
+                    },
+                    "release_date_for_display": "June 14, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Don Toliver - TORE UP (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Don Toliver - TORE UP (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-don-toliver-tore-up-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/10533137",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Don Toliver - TORE UP (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "id": 10533137,
+                    "lyrics_owner_id": 21690454,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-don-toliver-tore-up-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-don-toliver-tore-up-turkce-ceviri-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/536789345610c9f70510170a9fed1c79.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false
+                    },
+                    "title": "Don Toliver - TORE UP (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Don Toliver - TORE UP (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-don-toliver-tore-up-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11787501",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Don Toliver - TORE UP (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/e0f4e8699b701854c2df1711b2d2f691.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e0f4e8699b701854c2df1711b2d2f691.1000x1000x1.png",
+                    "id": 11787501,
+                    "lyrics_owner_id": 22973840,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-don-toliver-tore-up-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-don-toliver-tore-up-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 14
+                    },
+                    "release_date_for_display": "June 14, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e0f4e8699b701854c2df1711b2d2f691.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e0f4e8699b701854c2df1711b2d2f691.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Don Toliver - TORE UP (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Don Toliver - TORE UP (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-don-toliver-tore-up-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10535234",
+            "id": 10535234,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-don-toliver-tore-up-traducao-em-portugues-lyrics",
+            "title": "Don Toliver - TORE UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-don-toliver-tore-up-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10555279",
+            "id": 10555279,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-don-toliver-tore-up-traduccion-al-espanol-lyrics",
+            "title": "Don Toliver - TORE UP (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-don-toliver-tore-up-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10533137",
+            "id": 10533137,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-don-toliver-tore-up-turkce-ceviri-lyrics",
+            "title": "Don Toliver - TORE UP (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-don-toliver-tore-up-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/11787501",
+            "id": 11787501,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-don-toliver-tore-up-deutsche-ubersetzung-lyrics",
+            "title": "Don Toliver - TORE UP (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-don-toliver-tore-up-deutsche-ubersetzung-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1523930",
+            "header_image_url": "https://images.genius.com/06e44d58faea37a149a35da4b529e865.600x338x270.gif",
+            "id": 1523930,
+            "image_url": "https://images.genius.com/b344b407332e2114a685147bf792cc1e.675x675x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Don Toliver",
+            "url": "https://genius.com/artists/Don-toliver"
+        },
+        {
+            "api_path": "/artists/3569989",
+            "header_image_url": "https://images.genius.com/dc474650cc282b50792c0915d825745d.840x840x1.jpg",
+            "id": 3569989,
+            "image_url": "https://images.genius.com/0c9e3fdea2825b3ae95627f407969e3e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BBYKOBE",
+            "url": "https://genius.com/artists/Bbykobe"
+        },
+        {
+            "api_path": "/artists/3991836",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991836,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Brian Nyberg",
+            "url": "https://genius.com/artists/Brian-nyberg"
+        },
+        {
+            "api_path": "/artists/3991837",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991837,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Bryan Donovan",
+            "url": "https://genius.com/artists/Bryan-donovan"
+        },
+        {
+            "api_path": "/artists/3991838",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991838,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Derek Lamonica",
+            "url": "https://genius.com/artists/Derek-lamonica"
+        },
+        {
+            "api_path": "/artists/3991839",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991839,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Donny Moore",
+            "url": "https://genius.com/artists/Donny-moore"
+        },
+        {
+            "api_path": "/artists/3991841",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991841,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Justin Vailliere",
+            "url": "https://genius.com/artists/Justin-vailliere"
+        },
+        {
+            "api_path": "/artists/3991827",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3991827,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Spikes (Guitarist)",
+            "url": "https://genius.com/artists/Spikes-guitarist"
+        },
+        {
+            "api_path": "/artists/1036816",
+            "header_image_url": "https://images.genius.com/bb6f7ebfbf18e3878c9d0fa4ff802517.580x580x1.jpg",
+            "id": 1036816,
+            "image_url": "https://images.genius.com/bb6f7ebfbf18e3878c9d0fa4ff802517.580x580x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Matt Spatola",
+            "url": "https://genius.com/artists/Matt-spatola"
+        }
+    ],
+    "artist": "Don Toliver",
+    "lyrics": "77 ContributorsTranslationsPortugu\u00easEspa\u00f1olT\u00fcrk\u00e7eDeutschTORE UP Lyrics\u201cTORE UP\u201d embraces a less-explored side of Don Toliver\u2019s music, being centered around a bass-heavy instrumental and paired with a prevalent guitar riff sampled from She Died Real Pretty. Don lyrically\u2026 Read More\u00a0\n(We're not changing now)\n\nIn the club with some ones and I'm piped up\nShawty got me high, too high\nI be steppin' on a bitch in some white 1s\nCan't control me, I think I'm too fly\n\nTore up, tore up, tore up, tore up\nTore up, tore up (High), tore up, tore up\nTore up, tore up (Ah), tore up, tore up\nTore up, tore up (High), tore up, tore up\n\nShe back to back, oh, she in that mode (Woo)\nI rip her tracks out, she gotta go\nI hop up on my bike, it's \"peace\" and \"adi\u00f3s\"\nIt's not about where you're at, it's where you go\n\n(We're not changing now)\nIf you believe in yourself\nIt will get you through it\nOh, I believed in myself\nWell, can you see what I'm doin'?\n\nIn the club with some ones and I'm piped up\nShawty got me high, too high\nI be steppin' on a bitch in some white 1s\nCan't control me, I think I'm too fly\n\nTore up, tore up, tore up, tore up\nTore up, tore up (High), tore up, tore up\nTore up, tore up (Ah), tore up, tore up\nTore up, tore up (High), tore up, tore up"
+}

@@ -1,0 +1,1021 @@
+{
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/10372950",
+    "artist_names": "Gunna",
+    "full_title": "back in the a by\u00a0Gunna",
+    "header_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "header_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "id": 10372950,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719801279,
+    "path": "/Gunna-back-in-the-a-lyrics",
+    "primary_artist_names": "Gunna",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Gunna-back-in-the-a-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 10
+    },
+    "release_date_for_display": "May 10, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 24,
+        "iq_earners": 24,
+        "transcribers": 1,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 1,
+        "hot": false,
+        "pageviews": 25589
+    },
+    "title": "back in the a",
+    "title_with_featured": "back in the a",
+    "updated_by_human_at": 1736969305,
+    "url": "https://genius.com/Gunna-back-in-the-a-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/91049",
+        "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+        "id": 91049,
+        "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Gunna",
+        "url": "https://genius.com/artists/Gunna",
+        "iq": 1069
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        }
+    ],
+    "apple_music_id": "1745392104",
+    "apple_music_player_url": "https://genius.com/songs/10372950/apple_music_player",
+    "description": {
+        "plain": "The song \u201c\u200b\u200bback in the a\u201d by Gunna revolves around the artist\u2019s return to Atlanta, commonly referred to as \u201cthe A,\u201d and his success and lavish lifestyle in the city. The lyrics showcase Gunna\u2019s confidence and flaunting of wealth, as well as a sense of nostalgia for his roots and recognition of his journey to success.\n\nThe track serves as the ninth song off of Gunna\u2019s fifth project album, \u201cOne of Wun\u201d."
+    },
+    "embed_content": "<div id='rg_embed_link_10372950' class='rg_embed_link' data-song-id='10372950'>Read <a href='https://genius.com/Gunna-back-in-the-a-lyrics'>\u201cback in the a\u201d by Gunna</a> on Genius</div> <script crossorigin src='//genius.com/songs/10372950/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-10",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#0449ba",
+    "song_art_secondary_color": "#0c315e",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1144396",
+        "cover_art_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+        "full_title": "One of Wun by Gunna",
+        "id": 1144396,
+        "name": "One of Wun",
+        "primary_artist_names": "Gunna",
+        "release_date_for_display": "May 10, 2024",
+        "url": "https://genius.com/albums/Gunna/One-of-wun",
+        "artist": {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/91049",
+                "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+                "id": 91049,
+                "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Gunna",
+                "url": "https://genius.com/artists/Gunna",
+                "iq": 1069
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/305939",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 305939,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DVNK",
+                    "url": "https://genius.com/artists/Dvnk"
+                },
+                {
+                    "api_path": "/artists/2211774",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2211774,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Nielsen",
+                    "url": "https://genius.com/artists/Alex-nielsen"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22208600,
+        "annotator_login": "NoKapKp",
+        "api_path": "/referents/31678321",
+        "classification": "unreviewed",
+        "fragment": "back in the a",
+        "id": 31678321,
+        "is_description": true,
+        "path": "/31678321/Gunna-back-in-the-a/Back-in-the-a",
+        "range": {
+            "content": "back in the a"
+        },
+        "song_id": 10372950,
+        "url": "https://genius.com/31678321/Gunna-back-in-the-a/Back-in-the-a",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10372950",
+            "client_timestamps": {
+                "updated_by_human_at": 1736969305,
+                "lyrics_updated_at": 1719801279
+            },
+            "context": "Gunna",
+            "id": 10372950,
+            "image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+            "link_title": "back in the a by\u00a0Gunna",
+            "title": "back in the a",
+            "type": "Song",
+            "url": "https://genius.com/Gunna-back-in-the-a-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31678321",
+                "body": {
+                    "plain": "The song \u201c\u200b\u200bback in the a\u201d by Gunna revolves around the artist\u2019s return to Atlanta, commonly referred to as \u201cthe A,\u201d and his success and lavish lifestyle in the city. The lyrics showcase Gunna\u2019s confidence and flaunting of wealth, as well as a sense of nostalgia for his roots and recognition of his journey to success.\n\nThe track serves as the ninth song off of Gunna\u2019s fifth project album, \u201cOne of Wun\u201d."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31678321,
+                "pinned": false,
+                "share_url": "https://genius.com/31678321",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31678321/Gunna-back-in-the-a/Back-in-the-a",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22208600",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/e3e5tjydurv",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/e3e5tjydurv",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/e3e5tjydurv",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/e3e5tjydurv",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/wtnjrh26zcc",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 22208600,
+                            "iq": 27102,
+                            "login": "NoKapKp",
+                            "name": "NoKapKp",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/NoKapKp",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/126836",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/fbd112d652ee2db7cbc6c4c7d81f2a41.1000x563x1.jpg",
+        "human_readable_role_for_display": "Moderator",
+        "id": 126836,
+        "iq": 4964984,
+        "login": "Chloe",
+        "name": "\u1d04\u029c\u029f\u1d0f\u1d07 (eolhC)",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/Chloe",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=oBrbejOHjLw"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1616526",
+            "header_image_url": "https://images.genius.com/084529f9f29acf512a6247bbd3053e45.1000x1000x1.jpg",
+            "id": 1616526,
+            "image_url": "https://images.genius.com/2496837bc9eaf7277726f891ef40ee5c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "EVRGRN",
+            "url": "https://genius.com/artists/Evrgrn",
+            "iq": 120
+        },
+        {
+            "api_path": "/artists/1659307",
+            "header_image_url": "https://images.genius.com/9bdf3e9020c58a00d85fbbf38953190b.460x460x1.png",
+            "id": 1659307,
+            "image_url": "https://images.genius.com/9bdf3e9020c58a00d85fbbf38953190b.460x460x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lord Capp",
+            "url": "https://genius.com/artists/Lord-capp"
+        },
+        {
+            "api_path": "/artists/2300349",
+            "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+            "id": 2300349,
+            "image_url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lucas Padulo",
+            "url": "https://genius.com/artists/Lucas-padulo",
+            "iq": 236
+        },
+        {
+            "api_path": "/artists/2882324",
+            "header_image_url": "https://images.genius.com/48dd78beee43a76195844d33fc24cc8c.828x828x1.jpg",
+            "id": 2882324,
+            "image_url": "https://images.genius.com/48dd78beee43a76195844d33fc24cc8c.828x828x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bcacija",
+            "url": "https://genius.com/artists/Cacija"
+        },
+        {
+            "api_path": "/artists/1096475",
+            "header_image_url": "https://images.genius.com/b773520fd1413e04b93629c8f299cda3.1000x563x1.jpg",
+            "id": 1096475,
+            "image_url": "https://images.genius.com/500ee459c3a5124910730194fd9ee36b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aaron Bow",
+            "url": "https://genius.com/artists/Aaron-bow",
+            "iq": 158
+        },
+        {
+            "api_path": "/artists/138998",
+            "header_image_url": "https://images.genius.com/2c7ceed4000920e647ad1c4d6de7eb37.1000x333x1.jpg",
+            "id": 138998,
+            "image_url": "https://images.genius.com/23cbdcf4a6e05d40bc60e8046e8307cc.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Teddy Walton",
+            "url": "https://genius.com/artists/Teddy-walton",
+            "iq": 243
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 6,
+                    "api_path": "/songs/11350038",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Gunna - back in the a (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.536x536x1.jpg",
+                    "id": 11350038,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-gunna-back-in-the-a-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-gunna-back-in-the-a-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 10
+                    },
+                    "release_date_for_display": "May 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.536x536x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 6,
+                        "hot": false
+                    },
+                    "title": "Gunna - back in the a (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Gunna - back in the a (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-gunna-back-in-the-a-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11350038",
+            "id": 11350038,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-gunna-back-in-the-a-traducao-em-portugues-lyrics",
+            "title": "Gunna - back in the a (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-gunna-back-in-the-a-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [
+        {
+            "api_path": "/users/11211406",
+            "avatar": {
+                "tiny": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                "thumb": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                "small": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "medium": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                    }
+                }
+            },
+            "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+            "human_readable_role_for_display": "Verified Artist",
+            "id": 11211406,
+            "iq": 236,
+            "login": "LucasPadulo",
+            "name": "Lucas Padulo",
+            "role_for_display": "verified_artist",
+            "url": "https://genius.com/LucasPadulo",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "follow"
+                ],
+                "interactions": {
+                    "following": false
+                }
+            }
+        }
+    ],
+    "verified_contributors": [
+        {
+            "contributions": [
+                "annotations",
+                "lyrics"
+            ],
+            "artist": {
+                "api_path": "/artists/2300349",
+                "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+                "id": 2300349,
+                "image_url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lucas Padulo",
+                "url": "https://genius.com/artists/Lucas-padulo",
+                "iq": 236
+            },
+            "user": {
+                "api_path": "/users/11211406",
+                "avatar": {
+                    "tiny": {
+                        "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                        }
+                    },
+                    "thumb": {
+                        "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                        }
+                    },
+                    "small": {
+                        "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                        }
+                    },
+                    "medium": {
+                        "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                        }
+                    }
+                },
+                "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+                "human_readable_role_for_display": "Verified Artist",
+                "id": 11211406,
+                "iq": 236,
+                "login": "LucasPadulo",
+                "name": "Lucas Padulo",
+                "role_for_display": "verified_artist",
+                "url": "https://genius.com/LucasPadulo",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "follow"
+                    ],
+                    "interactions": {
+                        "following": false
+                    }
+                }
+            }
+        }
+    ],
+    "verified_lyrics_by": [
+        {
+            "api_path": "/users/11211406",
+            "avatar": {
+                "tiny": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                "thumb": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                "small": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "medium": {
+                    "url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+                    "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                    }
+                }
+            },
+            "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+            "human_readable_role_for_display": "Verified Artist",
+            "id": 11211406,
+            "iq": 236,
+            "login": "LucasPadulo",
+            "name": "Lucas Padulo",
+            "role_for_display": "verified_artist",
+            "url": "https://genius.com/LucasPadulo",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "follow"
+                ],
+                "interactions": {
+                    "following": false
+                }
+            }
+        }
+    ],
+    "writer_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        {
+            "api_path": "/artists/1616526",
+            "header_image_url": "https://images.genius.com/084529f9f29acf512a6247bbd3053e45.1000x1000x1.jpg",
+            "id": 1616526,
+            "image_url": "https://images.genius.com/2496837bc9eaf7277726f891ef40ee5c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "EVRGRN",
+            "url": "https://genius.com/artists/Evrgrn",
+            "iq": 120
+        },
+        {
+            "api_path": "/artists/1659307",
+            "header_image_url": "https://images.genius.com/9bdf3e9020c58a00d85fbbf38953190b.460x460x1.png",
+            "id": 1659307,
+            "image_url": "https://images.genius.com/9bdf3e9020c58a00d85fbbf38953190b.460x460x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lord Capp",
+            "url": "https://genius.com/artists/Lord-capp"
+        },
+        {
+            "api_path": "/artists/2300349",
+            "header_image_url": "https://images.genius.com/032a3d914b0b892f7e4682eb4059da7c.1000x500x1.png",
+            "id": 2300349,
+            "image_url": "https://images.genius.com/72432e47d7e34538f9530f9c75c16766.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lucas Padulo",
+            "url": "https://genius.com/artists/Lucas-padulo",
+            "iq": 236
+        },
+        {
+            "api_path": "/artists/2882324",
+            "header_image_url": "https://images.genius.com/48dd78beee43a76195844d33fc24cc8c.828x828x1.jpg",
+            "id": 2882324,
+            "image_url": "https://images.genius.com/48dd78beee43a76195844d33fc24cc8c.828x828x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bcacija",
+            "url": "https://genius.com/artists/Cacija"
+        },
+        {
+            "api_path": "/artists/1096475",
+            "header_image_url": "https://images.genius.com/b773520fd1413e04b93629c8f299cda3.1000x563x1.jpg",
+            "id": 1096475,
+            "image_url": "https://images.genius.com/500ee459c3a5124910730194fd9ee36b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aaron Bow",
+            "url": "https://genius.com/artists/Aaron-bow",
+            "iq": 158
+        },
+        {
+            "api_path": "/artists/138998",
+            "header_image_url": "https://images.genius.com/2c7ceed4000920e647ad1c4d6de7eb37.1000x333x1.jpg",
+            "id": 138998,
+            "image_url": "https://images.genius.com/23cbdcf4a6e05d40bc60e8046e8307cc.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Teddy Walton",
+            "url": "https://genius.com/artists/Teddy-walton",
+            "iq": 243
+        }
+    ],
+    "artist": "Gunna",
+    "lyrics": "24 ContributorsTranslationsPortugu\u00easback in the a Lyrics\nA\n\nAnd I'm right back in the A\nSmooth, I ain't leavin' no trace (Smooth)\nRacks on me (Racks), racks on me, fresh out the Chase\nYou got it off the display ('Splay), I got it from the runway\nI got it (I got it), fuck it, I go Arthur Blank\nI don't do this shit for the fame, uh\nStackin' these Benjamin Franks (Stackin' 'em)\nYou rich, they don't give you no rank (Nah)\nYou thinkin' it's that, but it ain't (It ain't)\nThat four-door Maybach in the A (The A)\nPullin' up all kinds of ways\nA, A, A, A (Okay)\n\nI got these hoes on the score (On the score)\nBitches like Marilyn Monroe (It's on)\nCan't beat me, I'm standin' ten toes (Uh)\nI'ma get my dogs back in the row (Back in the row)\nAP all factory gold (Gold)\nI been gettin' back in that mode (I'm back in it)\nBaby got a drip like Gunna (Gunna)\nI see how you mixin' designer (Designer)\nMy car is half a million dollars\nI came a long way from Impalas\nI still got some snakes and iguanas\nI'm in the chase, on the way to these commas\nI hold the bank, ain't no way I could fumble\nA long way, but I'm gettin' out this tunnel\n\nA, A, A, A\nAnd I'm right back in the A\nSmooth, I ain't leavin' no trace (Smooth)\nRacks on me (Racks), racks on me, fresh out the chase\nYou got it off the display ('Splay), I got it from the runway\nI got it (I got it), fuck it, I go Arthur Blank\nI don't do this shit for the fame, uh\nStackin' these Benjamin Franks (Stackin' 'em)\nYou rich, they don't give you no rank (Nah)\nYou thinkin' it's that, but it ain't (It ain't)\nThat four-door Maybach in the A (The A)\nPullin' up all kinds of ways\nA, A, A, A (Okay)\n\nLand at the port, I'm back (I'm back)\n85 south to the flat (Yeah)\nTake that bitch, take the Maybach down the nat (Take that bitch)\nI put the drip on the map (Map)\nPlatinum on all of the plaques\nWunna got millionaire status\nSunday Onyx and Monday at Magic (Magic)\nThrow it back, throw it back on a baddie (Baddie)\nAll black, put the matte on the Caddy (Matte on the Caddy)\nI'ma get paid automatic ('Matic)\nI ain't askin' you niggas for credit (Askin' you niggas for credit)\nI'm in the town, I don't need no addy (Addy)\nIt's goin' down and we always ready (Ready)\n\nA, A, A, A\nAnd I'm right back in the A\nSmooth, I ain't leavin' no trace (Smooth)\nRacks on me (Racks), racks on me, fresh out the chase\nYou got it off the display ('Splay), I got it from the runway\nI got it (I got it), fuck it, I go Arthur Blank\nI don't do this shit for the fame, uh\nStackin' these Benjamin Franks (Stackin' 'em)\nYou rich, they don't give you no rank (Nah)\nYou thinkin' it's that, but it ain't (It ain't)\nThat four-door Maybach in the A (The A)\nPullin' up all kinds of ways\nA, A, A, A"
+}

@@ -1,0 +1,778 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9676756",
+    "artist_names": "Peso Pluma & Ivan Cornejo",
+    "full_title": "RELOJ by\u00a0Peso\u00a0Pluma & Ivan\u00a0Cornejo",
+    "header_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+    "header_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+    "id": 9676756,
+    "instrumental": false,
+    "lyrics_owner_id": 18674465,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1718987281,
+    "path": "/Peso-pluma-and-ivan-cornejo-reloj-lyrics",
+    "primary_artist_names": "Peso Pluma & Ivan Cornejo",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Peso-pluma-and-ivan-cornejo-reloj-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 20
+    },
+    "release_date_for_display": "June 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 4,
+        "iq_earners": 4,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 164488
+    },
+    "title": "RELOJ",
+    "title_with_featured": "RELOJ",
+    "updated_by_human_at": 1734717258,
+    "url": "https://genius.com/Peso-pluma-and-ivan-cornejo-reloj-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3329756",
+        "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+        "id": 3329756,
+        "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Peso Pluma",
+        "url": "https://genius.com/artists/Peso-pluma"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3329756",
+            "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+            "id": 3329756,
+            "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Peso Pluma",
+            "url": "https://genius.com/artists/Peso-pluma"
+        },
+        {
+            "api_path": "/artists/2702497",
+            "header_image_url": "https://images.genius.com/5642573aad5f30c2adc969d315a09d24.800x450x320.gif",
+            "id": 2702497,
+            "image_url": "https://images.genius.com/738587f0631f952ac603e40e59cf2d58.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ivan Cornejo",
+            "url": "https://genius.com/artists/Ivan-cornejo"
+        }
+    ],
+    "apple_music_id": "1748016030",
+    "apple_music_player_url": "https://genius.com/songs/9676756/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9676756' class='rg_embed_link' data-song-id='9676756'>Read <a href='https://genius.com/Peso-pluma-and-ivan-cornejo-reloj-lyrics'>\u201cRELOJ\u201d by Peso\u00a0Pluma & Ivan\u00a0Cornejo</a> on Genius</div> <script crossorigin src='//genius.com/songs/9676756/embed.js'></script>",
+    "featured_video": false,
+    "language": "es",
+    "recording_location": null,
+    "release_date": "2024-06-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ae7f50",
+    "song_art_secondary_color": "#5a4229",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1149214",
+        "cover_art_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+        "full_title": "\u00c9XODO by Peso Pluma",
+        "id": 1149214,
+        "name": "\u00c9XODO",
+        "primary_artist_names": "Peso Pluma",
+        "release_date_for_display": "June 20, 2024",
+        "url": "https://genius.com/albums/Peso-pluma/Exodo",
+        "artist": {
+            "api_path": "/artists/3329756",
+            "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+            "id": 3329756,
+            "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Peso Pluma",
+            "url": "https://genius.com/artists/Peso-pluma"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3329756",
+                "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+                "id": 3329756,
+                "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Peso Pluma",
+                "url": "https://genius.com/artists/Peso-pluma"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/613023",
+                    "header_image_url": "https://images.genius.com/3e35a8223ecd656825afd594d3f04582.750x502x25.gif",
+                    "id": 613023,
+                    "image_url": "https://images.genius.com/b902d2724ec5b2a7756c5642cdd8b8b8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orchard",
+                    "url": "https://genius.com/artists/The-orchard"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Primary Artists",
+            "artists": [
+                {
+                    "api_path": "/artists/3329756",
+                    "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+                    "id": 3329756,
+                    "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peso Pluma",
+                    "url": "https://genius.com/artists/Peso-pluma"
+                },
+                {
+                    "api_path": "/artists/2702497",
+                    "header_image_url": "https://images.genius.com/5642573aad5f30c2adc969d315a09d24.800x450x320.gif",
+                    "id": 2702497,
+                    "image_url": "https://images.genius.com/738587f0631f952ac603e40e59cf2d58.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ivan Cornejo",
+                    "url": "https://genius.com/artists/Ivan-cornejo"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 18674465,
+        "annotator_login": "LilRey507",
+        "api_path": "/referents/29933721",
+        "classification": "needs_exegesis",
+        "fragment": "RELOJ",
+        "id": 29933721,
+        "is_description": true,
+        "path": "/29933721/Peso-pluma-and-ivan-cornejo-reloj/Reloj",
+        "range": {
+            "content": "RELOJ"
+        },
+        "song_id": 9676756,
+        "url": "https://genius.com/29933721/Peso-pluma-and-ivan-cornejo-reloj/Reloj",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9676756",
+            "client_timestamps": {
+                "updated_by_human_at": 1734717258,
+                "lyrics_updated_at": 1718987281
+            },
+            "context": "Peso Pluma & Ivan Cornejo",
+            "id": 9676756,
+            "image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+            "link_title": "RELOJ by\u00a0Peso\u00a0Pluma & Ivan\u00a0Cornejo",
+            "title": "RELOJ",
+            "type": "Song",
+            "url": "https://genius.com/Peso-pluma-and-ivan-cornejo-reloj-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29933721",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 29933721,
+                "pinned": false,
+                "share_url": "https://genius.com/29933721",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/29933721/Peso-pluma-and-ivan-cornejo-reloj/Reloj",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/18674465",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/aa7a6d464fe07d2733a445ce688c34fb.820x312x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 18674465,
+                            "iq": 351678,
+                            "login": "LilRey507",
+                            "name": "El Rey De La Buena Vida\ud83d\udc51",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/LilRey507",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/18674465",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/4205d11b5e21e43d0e9f78409443038d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/aa7a6d464fe07d2733a445ce688c34fb.820x312x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 18674465,
+        "iq": 351678,
+        "login": "LilRey507",
+        "name": "El Rey De La Buena Vida\ud83d\udc51",
+        "role_for_display": "editor",
+        "url": "https://genius.com/LilRey507",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=c23Vc4CTbT8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2145614",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2145614,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Frank Rio",
+            "url": "https://genius.com/artists/Frank-rio"
+        },
+        {
+            "api_path": "/artists/3329756",
+            "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+            "id": 3329756,
+            "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Peso Pluma",
+            "url": "https://genius.com/artists/Peso-pluma"
+        },
+        {
+            "api_path": "/artists/1515117",
+            "header_image_url": "https://images.genius.com/2b33fde287ad0a2bedcc2b589ac5a94f.480x480x1.png",
+            "id": 1515117,
+            "image_url": "https://images.genius.com/2b33fde287ad0a2bedcc2b589ac5a94f.480x480x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Iv\u00e1n Leal \u201cParka\u201d",
+            "url": "https://genius.com/artists/Ivan-leal-parka"
+        },
+        {
+            "api_path": "/artists/2674846",
+            "header_image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "id": 2674846,
+            "image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ernesto Fern\u00e1ndez",
+            "url": "https://genius.com/artists/Ernesto-fernandez"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10638150",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Peso Pluma & Ivan Cornejo - RELOJ (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+                    "id": 10638150,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-peso-pluma-and-ivan-cornejo-reloj-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-peso-pluma-and-ivan-cornejo-reloj-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 20
+                    },
+                    "release_date_for_display": "June 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Peso Pluma & Ivan Cornejo - RELOJ (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Peso Pluma & Ivan Cornejo - RELOJ (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-peso-pluma-and-ivan-cornejo-reloj-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10448094",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "Peso Pluma & Ivan Cornejo - RELOJ (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+                    "id": 10448094,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-peso-pluma-and-ivan-cornejo-reloj-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-peso-pluma-and-ivan-cornejo-reloj-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 20
+                    },
+                    "release_date_for_display": "June 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/83a765c979c4ca39050b01d5fb79a305.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 79795
+                    },
+                    "title": "Peso Pluma & Ivan Cornejo - RELOJ (English Translation)",
+                    "title_with_featured": "Peso Pluma & Ivan Cornejo - RELOJ (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-peso-pluma-and-ivan-cornejo-reloj-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10638150",
+            "id": 10638150,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-peso-pluma-and-ivan-cornejo-reloj-deutsche-ubersetzung-lyrics",
+            "title": "Peso Pluma & Ivan Cornejo - RELOJ (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-peso-pluma-and-ivan-cornejo-reloj-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10448094",
+            "id": 10448094,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-peso-pluma-and-ivan-cornejo-reloj-english-translation-lyrics",
+            "title": "Peso Pluma & Ivan Cornejo - RELOJ (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-peso-pluma-and-ivan-cornejo-reloj-english-translation-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3329756",
+            "header_image_url": "https://images.genius.com/ebe0fe004f7d1ea18acbff1b0cae6f56.1000x1000x1.jpg",
+            "id": 3329756,
+            "image_url": "https://images.genius.com/ed82e6fc3ea7fb8e24eea06a1088fa15.266x266x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Peso Pluma",
+            "url": "https://genius.com/artists/Peso-pluma"
+        },
+        {
+            "api_path": "/artists/3384007",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3384007,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Alfredo Manzo",
+            "url": "https://genius.com/artists/Alfredo-manzo"
+        },
+        {
+            "api_path": "/artists/2702497",
+            "header_image_url": "https://images.genius.com/5642573aad5f30c2adc969d315a09d24.800x450x320.gif",
+            "id": 2702497,
+            "image_url": "https://images.genius.com/738587f0631f952ac603e40e59cf2d58.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ivan Cornejo",
+            "url": "https://genius.com/artists/Ivan-cornejo"
+        }
+    ],
+    "artist": "Peso Pluma",
+    "lyrics": "4 ContributorsTranslationsDeutschEnglishRELOJ Lyrics\n\nYa no quedan minutos del reloj, mi amor\nMe paso noches enteras buscando en el phone\nLeo tus mensajes y me pongo a sonre\u00edr\n\n\nYa no quedan minutos del reloj, mi amor\nMe paso noches enteras buscando en el phone\nLeo tus mensajes y me pongo a sonre\u00edr\nDe este dolor que tengo no hay explicaci\u00f3n\nSer detallista para ti no era funci\u00f3n\nQue t\u00fa me amabas, me tragu\u00e9 ese cuento yo\nYa no hay motivos por el cual llorarte a ti\nFiesta, amigos y unas morras pa' salir\nYa no me importa con qui\u00e9n salgas\nMi pasado no me da\u00f1a\nQuieres celarme, pero, tranqui, estoy tranqui\nYa tus reproches no me importan y es as\u00ed\nYa te borr\u00e9 de todos lados\n\u00bfPor qu\u00e9 la vida es as\u00ed?\n\n\nSigo sinti\u00e9ndome as\u00ed, no s\u00e9 el motivo\nEl tiempo pasa y no se pasa este dolor\nDe cuando eras la raz\u00f3n de mi amor\nNo entiendo por qu\u00e9 el tic-tac del reloj par\u00f3\nEl tiempo nulo, mi alma atrapada qued\u00f3\nEn cuanto sane, tal vez otro ser\u00e9 yo\n\u00bfEn cu\u00e1nto tiempo pasar\u00e1? No lo entiendo\nUna aventura para ti solo qued\u00f3\nY pa' m\u00ed, unos tragos amargos pa' sanarme el coraz\u00f3n\nDespu\u00e9s de que me dejaste tan da\u00f1ado\nAy, por las noches me recuerdas del dolor\nLagunas en mis pensamientos\nMe hunden en una depresi\u00f3n\n\nOh-oh, oh-oh, oh-oh, oh\nOh-oh, oh-oh, oh-oh, oh"
+}

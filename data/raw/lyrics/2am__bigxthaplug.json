@@ -1,0 +1,903 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10964237",
+    "artist_names": "BigXthaPlug",
+    "full_title": "2AM by\u00a0BigXthaPlug",
+    "header_image_thumbnail_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+    "id": 10964237,
+    "instrumental": false,
+    "lyrics_owner_id": 5028553,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747923891,
+    "path": "/Bigxthaplug-2am-lyrics",
+    "primary_artist_names": "BigXthaPlug",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Bigxthaplug-2am-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 10,
+        "day": 11
+    },
+    "release_date_for_display": "October 11, 2024",
+    "release_date_with_abbreviated_month_for_display": "Oct. 11, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 19,
+        "iq_earners": 19,
+        "transcribers": 3,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 41790
+    },
+    "title": "2AM",
+    "title_with_featured": "2AM",
+    "updated_by_human_at": 1747923891,
+    "url": "https://genius.com/Bigxthaplug-2am-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2991490",
+        "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "id": 2991490,
+        "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BigXthaPlug",
+        "url": "https://genius.com/artists/Bigxthaplug"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        }
+    ],
+    "apple_music_id": "1771890370",
+    "apple_music_player_url": "https://genius.com/songs/10964237/apple_music_player",
+    "description": {
+        "plain": "BigX is singing about a dream he had in which he cheated on his girl with a one night stand but when his girl found out, she cheated on him as a form of revenge. However, BigX caught his girlfriend getting clapped red handed. As he was about to kill both of them, he woke up."
+    },
+    "embed_content": "<div id='rg_embed_link_10964237' class='rg_embed_link' data-song-id='10964237'>Read <a href='https://genius.com/Bigxthaplug-2am-lyrics'>\u201c2AM\u201d by BigXthaPlug</a> on Genius</div> <script crossorigin src='//genius.com/songs/10964237/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-10-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c68657",
+    "song_art_secondary_color": "#5c241c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1322515",
+        "cover_art_url": "https://images.genius.com/4db088e40bd68ed1e4e6406c5940bcef.1000x1000x1.png",
+        "full_title": "TAKE CARE (DELUXE) by BigXthaPlug",
+        "id": 1322515,
+        "name": "TAKE CARE (DELUXE)",
+        "primary_artist_names": "BigXthaPlug",
+        "release_date_for_display": "January 24, 2025",
+        "url": "https://genius.com/albums/Bigxthaplug/Take-care-deluxe",
+        "artist": {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2991490",
+                "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "id": 2991490,
+                "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BigXthaPlug",
+                "url": "https://genius.com/artists/Bigxthaplug"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Audio Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21654657,
+        "annotator_login": "cartiglazer009",
+        "api_path": "/referents/33211275",
+        "classification": "unreviewed",
+        "fragment": "2AM",
+        "id": 33211275,
+        "is_description": true,
+        "path": "/33211275/Bigxthaplug-2am/2am",
+        "range": {
+            "content": "2AM"
+        },
+        "song_id": 10964237,
+        "url": "https://genius.com/33211275/Bigxthaplug-2am/2am",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10964237",
+            "client_timestamps": {
+                "updated_by_human_at": 1747923891,
+                "lyrics_updated_at": 1747923891
+            },
+            "context": "BigXthaPlug",
+            "id": 10964237,
+            "image_url": "https://images.genius.com/8b9d788848a91835b369a5525663de54.1000x1000x1.png",
+            "link_title": "2AM by\u00a0BigXthaPlug",
+            "title": "2AM",
+            "type": "Song",
+            "url": "https://genius.com/Bigxthaplug-2am-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33211275",
+                "body": {
+                    "plain": "BigX is singing about a dream he had in which he cheated on his girl with a one night stand but when his girl found out, she cheated on him as a form of revenge. However, BigX caught his girlfriend getting clapped red handed. As he was about to kill both of them, he woke up."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33211275,
+                "pinned": false,
+                "share_url": "https://genius.com/33211275",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33211275/Bigxthaplug-2am/2am",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21654657",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/dotdkn7s21n",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/dotdkn7s21n",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/dotdkn7s21n",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/dotdkn7s21n",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/qa90p87gx1",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21654657,
+                            "iq": 508,
+                            "login": "cartiglazer009",
+                            "name": "cartiglazer009",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/cartiglazer009",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bigxdaplug",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bigxdaplug/2am"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=JVDUsaqgSq0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2888278",
+            "header_image_url": "https://images.genius.com/ada615b23cc4a85da8a0da8ebb426c75.700x525x1.jpg",
+            "id": 2888278,
+            "image_url": "https://images.genius.com/92cde4b8e682b0b071d19a4a209db468.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aimonmyneck",
+            "url": "https://genius.com/artists/Aimonmyneck",
+            "iq": 245
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 10,
+                    "api_path": "/songs/58611",
+                    "artist_names": "The Isley Brothers (Ft. Chant\u00e9 Moore & R. Kelly)",
+                    "full_title": "Contagious by\u00a0The\u00a0Isley Brothers (Ft.\u00a0Chant\u00e9\u00a0Moore & R.\u00a0Kelly)",
+                    "header_image_thumbnail_url": "https://images.genius.com/8c711c7dfffedbcc0faf9692a8ffd8ba.220x218x1.jpg",
+                    "header_image_url": "https://images.genius.com/8c711c7dfffedbcc0faf9692a8ffd8ba.220x218x1.jpg",
+                    "id": 58611,
+                    "lyrics_owner_id": 7,
+                    "lyrics_state": "complete",
+                    "path": "/The-isley-brothers-contagious-lyrics",
+                    "primary_artist_names": "The Isley Brothers",
+                    "pyongs_count": 6,
+                    "relationships_index_url": "https://genius.com/The-isley-brothers-contagious-sample",
+                    "release_date_components": {
+                        "year": 2001,
+                        "month": 4,
+                        "day": 24
+                    },
+                    "release_date_for_display": "April 24, 2001",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 24, 2001",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8c711c7dfffedbcc0faf9692a8ffd8ba.220x218x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8c711c7dfffedbcc0faf9692a8ffd8ba.220x218x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 375181
+                    },
+                    "title": "Contagious",
+                    "title_with_featured": "Contagious (Ft.\u00a0Chant\u00e9\u00a0Moore & R.\u00a0Kelly)",
+                    "url": "https://genius.com/The-isley-brothers-contagious-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/535",
+                            "header_image_url": "https://images.genius.com/e382b814b00c7da090057bd23e499075.400x400x1.jpg",
+                            "id": 535,
+                            "image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "R. Kelly",
+                            "url": "https://genius.com/artists/R-kelly",
+                            "iq": 1958
+                        },
+                        {
+                            "api_path": "/artists/20485",
+                            "header_image_url": "https://images.genius.com/45a00e848e03906f75579ade25790e38.770x640x1.jpg",
+                            "id": 20485,
+                            "image_url": "https://images.genius.com/e227f376dba3bc9883cc855805b2aa36.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Chant\u00e9 Moore",
+                            "url": "https://genius.com/artists/Chante-moore"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/8400",
+                        "header_image_url": "https://images.genius.com/76f0a74ad8df6f8fc6efe86cd5425778.1000x563x1.jpg",
+                        "id": 8400,
+                        "image_url": "https://images.genius.com/cb26d2c239b3692a6ec7f6de1db57180.597x597x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Isley Brothers",
+                        "url": "https://genius.com/artists/The-isley-brothers"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/8400",
+                            "header_image_url": "https://images.genius.com/76f0a74ad8df6f8fc6efe86cd5425778.1000x563x1.jpg",
+                            "id": 8400,
+                            "image_url": "https://images.genius.com/cb26d2c239b3692a6ec7f6de1db57180.597x597x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Isley Brothers",
+                            "url": "https://genius.com/artists/The-isley-brothers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11315219",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "BigXthaPlug - 2AM (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/105f4749749e1af94ce37043839d1686.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/105f4749749e1af94ce37043839d1686.882x882x1.png",
+                    "id": 11315219,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-bigxthaplug-2am-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-2am-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 11
+                    },
+                    "release_date_for_display": "October 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/105f4749749e1af94ce37043839d1686.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/105f4749749e1af94ce37043839d1686.882x882x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "BigXthaPlug - 2AM (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "BigXthaPlug - 2AM (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-2am-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11315219",
+            "id": 11315219,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-bigxthaplug-2am-traducao-em-portugues-lyrics",
+            "title": "BigXthaPlug - 2AM (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-2am-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        {
+            "api_path": "/artists/3518530",
+            "header_image_url": "https://images.genius.com/3dbf358e26d719f9d48efb754586adba.952x952x1.png",
+            "id": 3518530,
+            "image_url": "https://images.genius.com/3dbf358e26d719f9d48efb754586adba.952x952x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "DeShaun Williams",
+            "url": "https://genius.com/artists/Deshaun-williams"
+        },
+        {
+            "api_path": "/artists/2888278",
+            "header_image_url": "https://images.genius.com/ada615b23cc4a85da8a0da8ebb426c75.700x525x1.jpg",
+            "id": 2888278,
+            "image_url": "https://images.genius.com/92cde4b8e682b0b071d19a4a209db468.960x960x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Aimonmyneck",
+            "url": "https://genius.com/artists/Aimonmyneck",
+            "iq": 245
+        },
+        {
+            "api_path": "/artists/535",
+            "header_image_url": "https://images.genius.com/e382b814b00c7da090057bd23e499075.400x400x1.jpg",
+            "id": 535,
+            "image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "R. Kelly",
+            "url": "https://genius.com/artists/R-kelly",
+            "iq": 1958
+        }
+    ],
+    "artist": "BigXthaPlug",
+    "lyrics": "19 ContributorsTranslationsPortugu\u00eas2AM Lyrics\nAs I get closer to the stairways, all I hear\nAnd then I hear my baby's voice in my ear, screaming out (Aimonmyneck made it)\nAyy\n\n2 a.m. and I'm live\nI just left out the club with the gang and a hot yellow bitch that's real thick in the thighs\nYou know me, I be shootin' my shot\nWhen I got the lil' bitch, I wasn't even surprised\nIn the club, looked her deep in her eyes\nSaid, \"You comin' with me, if you with it, let's ride\"\nGot a text, \"When you comin' inside?\"\nOff the liquor, didn't know what to say, so I lied\nI text back like, \"I'm late at th\u0435 stu' tryna cook somethin' new, it's just me and th\u0435 guys\"\nShe text, \"Hmm,\" I ain't even reply\nThen I rolled up a 'Wood while I gripped on her thighs\nStarted to kiss on her neck, know this bitch feelin' high\nAin't gon' lie, shit, her pussy and head kinda fie\nEnded at hotel somewhere off 35\nFucked her good and rolled over, said, \"Wake me in five\"\nGotta piss, I wake up, man, it's 6:39\nOutta time, now I'm on the highway and I'm flyin'\nLook at my phones, not a soul on my line\nNow I'm deep in my thoughts, I'm just knowin' she cryin'\nI'm trippin', I'm tryna straight out all the lies\n'Cause I know if I slip, it's gon' damage our ties\nI done did it before, I can't do all this cryin'\n\nIt's 2 a.m., I'm just getting in, about to check my message\nNo one has called but my homies and some bill collectors\nCellular rings, somebody wants to borrow money\nI two-way her, she don't hit me back, something is funny (Ayy)\n\nShe gon' ask where I was, I'ma answer, \"What time?\"\n\"Where was you around 3?\" \"I think I was outside\"\n\"But you told me the stu'?\" \"We got through at like 5\"\n\"But it's 7,\" \"Shit, Dion had asked for a ride\"\nNow I got it together, I pull up outside\nIt's three cars in this lot and one of 'em ain't mine\nNow I'm clutchin', I unlock the door, creep inside\nI hear thumpin' upstairs, so I cock the bitch quiet\nHit the top of the stairs, think I hear my girl cryin'\nNow I'm thinkin', \"Should I kick the door and kill everything in it except for what's mine?\"\nI don't know, but now I'm at the door\nAnd she screamin', \"Go deeper,\" he tell her, \"Be quiet\"\nI walk in, tell the bitch that she wild\nTell the nigga he move, then it's 'bout to go down\nTell 'em both to shut up and don't even make a sound\nShe say, \"But,\" I say, \"Shut the fuck up and lay down\"\nNext person move, I'ma let off a round\nNow I'm pacin', I'm tryna see how I'm gettin' down\nIf I kill 'em both, then that make me a clown\nMama told me don't trust 'em, but look at me now\nOne in the chamber, two faced on the ground\nGot me like, \"Should I leave or just burn this bitch down?\"\nI wake up, it's a dream, I'm outside of my house\n\nIt's 2 a.m., I'm just getting in, about to check my message\nNo one has called but my homies and some bill collectors\nCellular rings, somebody wants to borrow money\nI two-way her, she don't hit me back, something is funny"
+}

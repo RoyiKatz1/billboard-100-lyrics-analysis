@@ -1,0 +1,695 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9005727",
+    "artist_names": "Parker McCollum",
+    "full_title": "Burn It Down by\u00a0Parker\u00a0McCollum",
+    "header_image_thumbnail_url": "https://images.genius.com/72dd0ccce8de2aee17da6d97895cd897.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/72dd0ccce8de2aee17da6d97895cd897.563x563x1.jpg",
+    "id": 9005727,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710300684,
+    "path": "/Parker-mccollum-burn-it-down-lyrics",
+    "primary_artist_names": "Parker McCollum",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Parker-mccollum-burn-it-down-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 5,
+        "day": 12
+    },
+    "release_date_for_display": "May 12, 2023",
+    "release_date_with_abbreviated_month_for_display": "May 12, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/72dd0ccce8de2aee17da6d97895cd897.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/72dd0ccce8de2aee17da6d97895cd897.563x563x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 24753
+    },
+    "title": "Burn It Down",
+    "title_with_featured": "Burn It Down",
+    "updated_by_human_at": 1745701244,
+    "url": "https://genius.com/Parker-mccollum-burn-it-down-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1223839",
+        "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+        "id": 1223839,
+        "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Parker McCollum",
+        "url": "https://genius.com/artists/Parker-mccollum"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1223839",
+            "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+            "id": 1223839,
+            "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Parker McCollum",
+            "url": "https://genius.com/artists/Parker-mccollum"
+        }
+    ],
+    "apple_music_id": "1677828678",
+    "apple_music_player_url": "https://genius.com/songs/9005727/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9005727' class='rg_embed_link' data-song-id='9005727'>Read <a href='https://genius.com/Parker-mccollum-burn-it-down-lyrics'>\u201cBurn It Down\u201d by Parker\u00a0McCollum</a> on Genius</div> <script crossorigin src='//genius.com/songs/9005727/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-05-12",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b07049",
+    "song_art_secondary_color": "#9c6749",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/882334",
+        "cover_art_url": "https://images.genius.com/86e4a351df821211114779f8d2de66b9.1000x1000x1.png",
+        "full_title": "Never Enough by Parker McCollum",
+        "id": 882334,
+        "name": "Never Enough",
+        "primary_artist_names": "Parker McCollum",
+        "release_date_for_display": "May 12, 2023",
+        "url": "https://genius.com/albums/Parker-mccollum/Never-enough",
+        "artist": {
+            "api_path": "/artists/1223839",
+            "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+            "id": 1223839,
+            "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Parker McCollum",
+            "url": "https://genius.com/artists/Parker-mccollum"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1223839",
+                "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+                "id": 1223839,
+                "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Parker McCollum",
+                "url": "https://genius.com/artists/Parker-mccollum"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/2274933",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2274933,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmy Wallace",
+                    "url": "https://genius.com/artists/Jimmy-wallace"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/365181",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 365181,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jedd Hughes",
+                    "url": "https://genius.com/artists/Jedd-hughes"
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/671065",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 671065,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Craig Young",
+                    "url": "https://genius.com/artists/Craig-young"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/823552",
+                    "header_image_url": "https://images.genius.com/e16e4c84d967827a4b818926b18f508c.600x505x1.jpg",
+                    "id": 823552,
+                    "image_url": "https://images.genius.com/09a9fe292a8000f8f3d542c3806800da.505x505x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chad Cromwell",
+                    "url": "https://genius.com/artists/Chad-cromwell"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/993746",
+                    "header_image_url": "https://images.genius.com/3d8b7315fc0fd0d563e65ec66d14f634.958x958x1.jpg",
+                    "id": 993746,
+                    "image_url": "https://images.genius.com/ecead8df67795add42b317bc7e35d9ba.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "F. Reid Shippen",
+                    "url": "https://genius.com/artists/F-reid-shippen"
+                },
+                {
+                    "api_path": "/artists/823552",
+                    "header_image_url": "https://images.genius.com/e16e4c84d967827a4b818926b18f508c.600x505x1.jpg",
+                    "id": 823552,
+                    "image_url": "https://images.genius.com/09a9fe292a8000f8f3d542c3806800da.505x505x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chad Cromwell",
+                    "url": "https://genius.com/artists/Chad-cromwell"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/365760",
+                    "header_image_url": "https://images.genius.com/75a4c1f94b1bf4dbbf83902e9a4dfd91.1000x1000x1.jpg",
+                    "id": 365760,
+                    "image_url": "https://images.genius.com/470e8f5a7614cea61a7ec75936ef161e.804x804x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Randall",
+                    "url": "https://genius.com/artists/Jon-randall"
+                },
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/365760",
+                    "header_image_url": "https://images.genius.com/75a4c1f94b1bf4dbbf83902e9a4dfd91.1000x1000x1.jpg",
+                    "id": 365760,
+                    "image_url": "https://images.genius.com/470e8f5a7614cea61a7ec75936ef161e.804x804x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Randall",
+                    "url": "https://genius.com/artists/Jon-randall"
+                },
+                {
+                    "api_path": "/artists/398449",
+                    "header_image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+                    "id": 398449,
+                    "image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hillary Lindsey",
+                    "url": "https://genius.com/artists/Hillary-lindsey"
+                }
+            ]
+        },
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1223839",
+                    "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+                    "id": 1223839,
+                    "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parker McCollum",
+                    "url": "https://genius.com/artists/Parker-mccollum"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/4084957",
+                    "header_image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "id": 4084957,
+                    "image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dustin Haney",
+                    "url": "https://genius.com/artists/Dustin-haney"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1191665",
+                    "header_image_url": "https://images.genius.com/e369807ebcfab7c770e16315f128a688.298x132x1.jpg",
+                    "id": 1191665,
+                    "image_url": "https://images.genius.com/3750b70a27059d64b1bb4e12e170b944.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MCA Nashville",
+                    "url": "https://genius.com/artists/Mca-nashville"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6879870,
+        "annotator_login": "LyndonPotter",
+        "api_path": "/referents/28249695",
+        "classification": "needs_exegesis",
+        "fragment": "Burn It Down",
+        "id": 28249695,
+        "is_description": true,
+        "path": "/28249695/Parker-mccollum-burn-it-down/Burn-it-down",
+        "range": {
+            "content": "Burn It Down"
+        },
+        "song_id": 9005727,
+        "url": "https://genius.com/28249695/Parker-mccollum-burn-it-down/Burn-it-down",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9005727",
+            "client_timestamps": {
+                "updated_by_human_at": 1745701244,
+                "lyrics_updated_at": 1710300684
+            },
+            "context": "Parker McCollum",
+            "id": 9005727,
+            "image_url": "https://images.genius.com/72dd0ccce8de2aee17da6d97895cd897.563x563x1.jpg",
+            "link_title": "Burn It Down by\u00a0Parker\u00a0McCollum",
+            "title": "Burn It Down",
+            "type": "Song",
+            "url": "https://genius.com/Parker-mccollum-burn-it-down-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28249695",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 28249695,
+                "pinned": false,
+                "share_url": "https://genius.com/28249695",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/28249695/Parker-mccollum-burn-it-down/Burn-it-down",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6879870",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e83b95e526fc8cd4929a2ebaba731a30",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e83b95e526fc8cd4929a2ebaba731a30",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e83b95e526fc8cd4929a2ebaba731a30",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e83b95e526fc8cd4929a2ebaba731a30",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/e83b95e526fc8cd4929a2ebaba731a30",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 6879870,
+                            "iq": 5072,
+                            "login": "LyndonPotter",
+                            "name": "LyndonPotter",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/LyndonPotter",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=qbHu2Y7rnNM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/365760",
+            "header_image_url": "https://images.genius.com/75a4c1f94b1bf4dbbf83902e9a4dfd91.1000x1000x1.jpg",
+            "id": 365760,
+            "image_url": "https://images.genius.com/470e8f5a7614cea61a7ec75936ef161e.804x804x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jon Randall",
+            "url": "https://genius.com/artists/Jon-randall"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9410429",
+                    "artist_names": "Parker McCollum",
+                    "full_title": "Burn It Down (Radio Edit) by\u00a0Parker\u00a0McCollum",
+                    "header_image_thumbnail_url": "https://images.genius.com/b31ac40ee82063c99c606303330588c8.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b31ac40ee82063c99c606303330588c8.1000x1000x1.jpg",
+                    "id": 9410429,
+                    "lyrics_owner_id": 15291991,
+                    "lyrics_state": "complete",
+                    "path": "/Parker-mccollum-burn-it-down-radio-edit-lyrics",
+                    "primary_artist_names": "Parker McCollum",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Parker-mccollum-burn-it-down-radio-edit-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 8,
+                        "day": 11
+                    },
+                    "release_date_for_display": "August 11, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 11, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b31ac40ee82063c99c606303330588c8.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b31ac40ee82063c99c606303330588c8.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Burn It Down (Radio Edit)",
+                    "title_with_featured": "Burn It Down (Radio Edit)",
+                    "url": "https://genius.com/Parker-mccollum-burn-it-down-radio-edit-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1223839",
+                        "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+                        "id": 1223839,
+                        "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Parker McCollum",
+                        "url": "https://genius.com/artists/Parker-mccollum"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1223839",
+                            "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+                            "id": 1223839,
+                            "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Parker McCollum",
+                            "url": "https://genius.com/artists/Parker-mccollum"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/360060",
+            "header_image_url": "https://images.genius.com/0cda2730dde1620943747b3c6f2ff16f.1000x525x1.jpg",
+            "id": 360060,
+            "image_url": "https://images.genius.com/37826ffcd9aff7ebcf63dbfc168eb232.800x800x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lori McKenna",
+            "url": "https://genius.com/artists/Lori-mckenna"
+        },
+        {
+            "api_path": "/artists/409642",
+            "header_image_url": "https://images.genius.com/2054678b47d30eb18f36d51fda626f48.391x227x1.jpg",
+            "id": 409642,
+            "image_url": "https://images.genius.com/1ba8567521525635c3415c5658f35588.274x274x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Liz Rose",
+            "url": "https://genius.com/artists/Liz-rose"
+        },
+        {
+            "api_path": "/artists/398449",
+            "header_image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+            "id": 398449,
+            "image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Hillary Lindsey",
+            "url": "https://genius.com/artists/Hillary-lindsey"
+        },
+        {
+            "api_path": "/artists/1223839",
+            "header_image_url": "https://images.genius.com/e4472bdbd39b8dca3fce799c4e4720e1.1000x333x1.jpg",
+            "id": 1223839,
+            "image_url": "https://images.genius.com/f9ff840248b62de3303b6e7eeb16799c.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Parker McCollum",
+            "url": "https://genius.com/artists/Parker-mccollum"
+        }
+    ],
+    "artist": "Parker McCollum",
+    "lyrics": "6 ContributorsBurn It Down Lyrics\nGoodbye, strung out on the lawn\nThe line between us was drawn\nAll I can see is you're gone and you left me here\nWith this house on this ground, burn it down\n\nI'll leave my memories inside\nIn that bed, we loved in all night\nEvery word, every fight\nEvery feelin', stone cold, not a sound\n\nBurn it down 'til it's ashes and smoke\nBurn it down to the smolderin' coals\nBurn it down 'til I don't want you no more\nBaby, burn it down\n\nEvery last song that I wrote\nAbout me and you growing old\nEvery sliver of hope everything I know\nPile it up right now\n\nBurn it down 'til it's ashes and smoke\nBurn it down to the smolderin' coals\nBurn it down 'til I don't want you no more\nBaby, burn it down\n\nBurn it down (Burn it, burn it, burn it)\nBurn it down (Burn it, burn it, burn it)\n\nBurn it down 'til it's ashes and smoke\nBurn it down to the smolderin' coals\nBurn it down 'til I don't want you no more\nBaby, burn it down (Burn it, burn it, burn it)\n\nBurn it down (Burn it, burn it, burn it)\nBurn it down (Burn it, burn it, burn it)\nBurn it down (Burn it, burn it, burn it)"
+}

@@ -1,0 +1,820 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10895191",
+    "artist_names": "Cody Johnson & Carrie Underwood",
+    "full_title": "I'm Gonna Love You by\u00a0Cody\u00a0Johnson & Carrie\u00a0Underwood",
+    "header_image_thumbnail_url": "https://images.genius.com/62076f05f7ffb9ec1d340e517eef06fd.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/62076f05f7ffb9ec1d340e517eef06fd.1000x1000x1.jpg",
+    "id": 10895191,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1731045139,
+    "path": "/Cody-johnson-and-carrie-underwood-im-gonna-love-you-lyrics",
+    "primary_artist_names": "Cody Johnson & Carrie Underwood",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Cody-johnson-and-carrie-underwood-im-gonna-love-you-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 27
+    },
+    "release_date_for_display": "September 27, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 27, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/62076f05f7ffb9ec1d340e517eef06fd.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/62076f05f7ffb9ec1d340e517eef06fd.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 8,
+        "iq_earners": 8,
+        "transcribers": 3,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 89313
+    },
+    "title": "I\u2019m Gonna Love You",
+    "title_with_featured": "I'm Gonna Love You",
+    "updated_by_human_at": 1734943462,
+    "url": "https://genius.com/Cody-johnson-and-carrie-underwood-im-gonna-love-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/333806",
+        "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+        "id": 333806,
+        "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cody Johnson",
+        "url": "https://genius.com/artists/Cody-johnson"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/333806",
+            "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+            "id": 333806,
+            "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cody Johnson",
+            "url": "https://genius.com/artists/Cody-johnson"
+        },
+        {
+            "api_path": "/artists/21014",
+            "header_image_url": "https://images.genius.com/86c2d4f99d8f8ac55542629d80bffdac.1000x333x1.jpg",
+            "id": 21014,
+            "image_url": "https://images.genius.com/9c1a631da5c56ee8ca04343a4f0ae471.499x499x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Carrie Underwood",
+            "url": "https://genius.com/artists/Carrie-underwood",
+            "iq": 119
+        }
+    ],
+    "apple_music_id": "1769025576",
+    "apple_music_player_url": "https://genius.com/songs/10895191/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10895191' class='rg_embed_link' data-song-id='10895191'>Read <a href='https://genius.com/Cody-johnson-and-carrie-underwood-im-gonna-love-you-lyrics'>\u201cI'm Gonna Love You\u201d by Cody\u00a0Johnson & Carrie\u00a0Underwood</a> on Genius</div> <script crossorigin src='//genius.com/songs/10895191/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-27",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bf4437",
+    "song_art_secondary_color": "#6c3b30",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1093918",
+        "cover_art_url": "https://images.genius.com/75549eb3276d02166db8c5f088e825ed.1000x1000x1.png",
+        "full_title": "Leather Deluxe Edition by Cody Johnson",
+        "id": 1093918,
+        "name": "Leather Deluxe Edition",
+        "primary_artist_names": "Cody Johnson",
+        "release_date_for_display": "November 1, 2024",
+        "url": "https://genius.com/albums/Cody-johnson/Leather-deluxe-edition",
+        "artist": {
+            "api_path": "/artists/333806",
+            "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+            "id": 333806,
+            "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cody Johnson",
+            "url": "https://genius.com/artists/Cody-johnson"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/333806",
+                "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+                "id": 333806,
+                "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Cody Johnson",
+                "url": "https://genius.com/artists/Cody-johnson"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/4084957",
+                    "header_image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "id": 4084957,
+                    "image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dustin Haney",
+                    "url": "https://genius.com/artists/Dustin-haney"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/662408",
+                    "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "id": 662408,
+                    "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Mendelson",
+                    "url": "https://genius.com/artists/Andrew-mendelson"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2292621",
+                    "header_image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "id": 2292621,
+                    "image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Clarke",
+                    "url": "https://genius.com/artists/Jack-clarke"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2292621",
+                    "header_image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "id": 2292621,
+                    "image_url": "https://images.genius.com/a5fb95bf239c2d6ef4ef5cf7927de58c.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Clarke",
+                    "url": "https://genius.com/artists/Jack-clarke"
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1022746",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1022746,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Small",
+                    "url": "https://genius.com/artists/Chris-small"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/333806",
+                    "header_image_url": "https://images.genius.com/c13c1f30ecea31d08753306f93589097.1000x333x1.jpg",
+                    "id": 333806,
+                    "image_url": "https://images.genius.com/2c87ef13f2b783fabd1aaba0d0644bfd.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cody Johnson",
+                    "url": "https://genius.com/artists/Cody-johnson"
+                },
+                {
+                    "api_path": "/artists/21014",
+                    "header_image_url": "https://images.genius.com/86c2d4f99d8f8ac55542629d80bffdac.1000x333x1.jpg",
+                    "id": 21014,
+                    "image_url": "https://images.genius.com/9c1a631da5c56ee8ca04343a4f0ae471.499x499x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Carrie Underwood",
+                    "url": "https://genius.com/artists/Carrie-underwood",
+                    "iq": 119
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2079246",
+                    "header_image_url": "https://images.genius.com/17f77b62fe61e909ba0b75536b89899d.371x371x1.jpg",
+                    "id": 2079246,
+                    "image_url": "https://images.genius.com/17f77b62fe61e909ba0b75536b89899d.371x371x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scotty Sanders",
+                    "url": "https://genius.com/artists/Scotty-sanders"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1445275",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1445275,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Galloway",
+                    "url": "https://genius.com/artists/Tim-galloway"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/158702",
+                    "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "id": 158702,
+                    "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmie Lee Sloas",
+                    "url": "https://genius.com/artists/Jimmie-lee-sloas"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1215413",
+                    "header_image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "id": 1215413,
+                    "image_url": "https://images.genius.com/78b37e74aba607c5fd8e3786c431fb7e.480x480x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim \u201cMoose\u201d Brown",
+                    "url": "https://genius.com/artists/Jim-moose-brown"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/562813",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 562813,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Mitchell",
+                    "url": "https://genius.com/artists/James-mitchell"
+                },
+                {
+                    "api_path": "/artists/1445280",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1445280,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Ostrander",
+                    "url": "https://genius.com/artists/Justin-ostrander"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1458570",
+                    "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "id": 1458570,
+                    "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Roe",
+                    "url": "https://genius.com/artists/Jerry-roe"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2756623",
+                    "header_image_url": "https://images.genius.com/0878c5ea88836b2d9d2e27d17ff904a1.1000x525x1.jpg",
+                    "id": 2756623,
+                    "image_url": "https://images.genius.com/b9572d4fd9ec14f61ef0596de0a52951.597x597x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music Nashville",
+                    "url": "https://genius.com/artists/Warner-music-nashville"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2756623",
+                    "header_image_url": "https://images.genius.com/0878c5ea88836b2d9d2e27d17ff904a1.1000x525x1.jpg",
+                    "id": 2756623,
+                    "image_url": "https://images.genius.com/b9572d4fd9ec14f61ef0596de0a52951.597x597x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music Nashville",
+                    "url": "https://genius.com/artists/Warner-music-nashville"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/33022567",
+        "classification": "needs_exegesis",
+        "fragment": "I\u2019m Gonna Love You",
+        "id": 33022567,
+        "is_description": true,
+        "path": "/33022567/Cody-johnson-and-carrie-underwood-im-gonna-love-you/Im-gonna-love-you",
+        "range": {
+            "content": "I'm Gonna Love You"
+        },
+        "song_id": 10895191,
+        "url": "https://genius.com/33022567/Cody-johnson-and-carrie-underwood-im-gonna-love-you/Im-gonna-love-you",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10895191",
+            "client_timestamps": {
+                "updated_by_human_at": 1734943462,
+                "lyrics_updated_at": 1731045139
+            },
+            "context": "Cody Johnson & Carrie Underwood",
+            "id": 10895191,
+            "image_url": "https://images.genius.com/62076f05f7ffb9ec1d340e517eef06fd.1000x1000x1.jpg",
+            "link_title": "I\u2019m Gonna Love You by\u00a0Cody\u00a0Johnson & Carrie\u00a0Underwood",
+            "title": "I'm Gonna Love You",
+            "type": "Song",
+            "url": "https://genius.com/Cody-johnson-and-carrie-underwood-im-gonna-love-you-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33022567",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33022567,
+                "pinned": false,
+                "share_url": "https://genius.com/33022567",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/33022567/Cody-johnson-and-carrie-underwood-im-gonna-love-you/Im-gonna-love-you",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/8326769",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/bf9dd721d57eddac3b50ec375fd6c3fc.1000x1000x1.png",
+        "human_readable_role_for_display": "Staff",
+        "id": 8326769,
+        "iq": 664758,
+        "login": "loveholic",
+        "name": "\u200bloveholic",
+        "role_for_display": "staff",
+        "url": "https://genius.com/loveholic",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/8326769",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/d4f49deac30bad3d0e365e1effa95aab",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/bf9dd721d57eddac3b50ec375fd6c3fc.1000x1000x1.png",
+        "human_readable_role_for_display": "Staff",
+        "id": 8326769,
+        "iq": 664758,
+        "login": "loveholic",
+        "name": "\u200bloveholic",
+        "role_for_display": "staff",
+        "url": "https://genius.com/loveholic",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=yy9PuYMU29g"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/354348",
+            "header_image_url": "https://images.genius.com/61839dc8a81613c6337b7a0f3b50300a.960x617x1.jpg",
+            "id": 354348,
+            "image_url": "https://images.genius.com/d40b5268dc77214374a89847f8d1f6f3.957x957x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Trent Willmon",
+            "url": "https://genius.com/artists/Trent-willmon"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1001417",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 1001417,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Stevens",
+            "url": "https://genius.com/artists/Chris-stevens"
+        },
+        {
+            "api_path": "/artists/987004",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 987004,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kelly Archer",
+            "url": "https://genius.com/artists/Kelly-archer"
+        },
+        {
+            "api_path": "/artists/1420992",
+            "header_image_url": "https://images.genius.com/fa3620474c74da41dba7a772b8e9aa4c.980x653x1.jpg",
+            "id": 1420992,
+            "image_url": "https://images.genius.com/3744c8c639a81649b914fecf51f43d5d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Travis Denning",
+            "url": "https://genius.com/artists/Travis-denning"
+        }
+    ],
+    "artist": "Cody Johnson",
+    "lyrics": "8 ContributorsI\u2019m Gonna Love You Lyrics\nStars are gonna light up the midnight sky\nThe sun's gonna burn on the fourth of July\nTides are gonna turn with the pull of the moon\nAnd I'm gonna love you\n\nBirds are flyin' south when the winter comes\nSnow's gonna fall, and rivers gonna run\nApril's gonna rain, and flowers gonna bloom\nAnd I'm gonna love you\n\nSo good that it almost hurts\nSteady and true as a Bible verse\nMy heart skips just thinkin' of you\nGo on and bet it all, baby, we can't lose\n\nEarth's gonna shake every now and then\nSome runaway roads are gonna dead end\nAnd on those days when the world feels cruel\nI'm gonna love you, yeah\n\nOoh-mmh\n\nSo good that it almost hurts\nSteady and true as a Bibl\u0435 verse\nMy heart skips just thinkin' of you\nGo on and b\u0435t it all, baby, we can't lose\n\nTime's gonna put a few lines on our face\nWe can cover it up, but hair's gonna gray\nLife's gonna fly and be gone too soon\nAnd I'm gonna love you\nBaby, I'm gonna love you"
+}

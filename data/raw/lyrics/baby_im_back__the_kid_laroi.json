@@ -1,0 +1,869 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10315694",
+    "artist_names": "The Kid LAROI",
+    "full_title": "BABY I'M BACK by\u00a0The\u00a0Kid LAROI",
+    "header_image_thumbnail_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.1000x1000x1.jpg",
+    "id": 10315694,
+    "instrumental": false,
+    "lyrics_owner_id": 6877117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747545270,
+    "path": "/The-kid-laroi-baby-im-back-lyrics",
+    "primary_artist_names": "The Kid LAROI",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/The-kid-laroi-baby-im-back-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 9
+    },
+    "release_date_for_display": "August 9, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 9, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 45,
+        "iq_earners": 44,
+        "transcribers": 3,
+        "unreviewed_annotations": 9,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 275586
+    },
+    "title": "BABY I\u2019M BACK",
+    "title_with_featured": "BABY I'M BACK",
+    "updated_by_human_at": 1747545270,
+    "url": "https://genius.com/The-kid-laroi-baby-im-back-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1546645",
+        "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+        "id": 1546645,
+        "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "The Kid LAROI",
+        "url": "https://genius.com/artists/The-kid-laroi",
+        "iq": 1384
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1546645",
+            "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+            "id": 1546645,
+            "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "The Kid LAROI",
+            "url": "https://genius.com/artists/The-kid-laroi",
+            "iq": 1384
+        }
+    ],
+    "apple_music_id": "1761439496",
+    "apple_music_player_url": "https://genius.com/songs/10315694/apple_music_player",
+    "description": {
+        "plain": "\u201cBABY I\u2019M BACK\u201d serves as the intro track to the deluxe version of The Kid LAROI\u2019s debut album, THE FIRST TIME.\n\nThe track sees Laroi reflecting on his life in the past year since the release of his debut studio album in November 2023.\n\nThis song\u2019s existence came to light on April 23rd, 2024 when Laroi posted a 38 second snippet of the song to Twitter. In a follow up tweet, Laroi revealed that it was the intro to the deluxe."
+    },
+    "embed_content": "<div id='rg_embed_link_10315694' class='rg_embed_link' data-song-id='10315694'>Read <a href='https://genius.com/The-kid-laroi-baby-im-back-lyrics'>\u201cBABY I'M BACK\u201d by The\u00a0Kid LAROI</a> on Genius</div> <script crossorigin src='//genius.com/songs/10315694/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-09",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#971f11",
+    "song_art_secondary_color": "#572515",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1109691",
+        "cover_art_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.1000x1000x1.jpg",
+        "full_title": "THE FIRST TIME (DELUXE VERSION) by The Kid LAROI",
+        "id": 1109691,
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "primary_artist_names": "The Kid LAROI",
+        "release_date_for_display": "August 9, 2024",
+        "url": "https://genius.com/albums/The-kid-laroi/The-first-time-deluxe-version",
+        "artist": {
+            "api_path": "/artists/1546645",
+            "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+            "id": 1546645,
+            "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "The Kid LAROI",
+            "url": "https://genius.com/artists/The-kid-laroi",
+            "iq": 1384
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1546645",
+                "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+                "id": 1546645,
+                "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "The Kid LAROI",
+                "url": "https://genius.com/artists/The-kid-laroi",
+                "iq": 1384
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1546645",
+                    "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+                    "id": 1546645,
+                    "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "The Kid LAROI",
+                    "url": "https://genius.com/artists/The-kid-laroi",
+                    "iq": 1384
+                }
+            ]
+        },
+        {
+            "label": "Video Colorist",
+            "artists": [
+                {
+                    "api_path": "/artists/4386585",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4386585,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor UG",
+                    "url": "https://genius.com/artists/Taylor-ug"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/2921393",
+                    "header_image_url": "https://images.genius.com/a580f40fae55430378035499dea12f04.400x400x1.jpg",
+                    "id": 2921393,
+                    "image_url": "https://images.genius.com/a580f40fae55430378035499dea12f04.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ayodeji",
+                    "url": "https://genius.com/artists/Ayodeji"
+                }
+            ]
+        },
+        {
+            "label": "Creative Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2288056",
+                    "header_image_url": "https://images.genius.com/4f424b3050609334acbb2645462b2aea.448x448x1.jpg",
+                    "id": 2288056,
+                    "image_url": "https://images.genius.com/4f424b3050609334acbb2645462b2aea.448x448x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Vernet",
+                    "url": "https://genius.com/artists/Nick-vernet"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2843039",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2843039,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Kargenian",
+                    "url": "https://genius.com/artists/Adam-kargenian"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/361298",
+                    "header_image_url": "https://images.genius.com/f5845e1dd3543ffe613aab597f4145dc.535x640x1.jpg",
+                    "id": 361298,
+                    "image_url": "https://images.genius.com/db75b0ce1ccb78d7f0251ece37a3279b.521x521x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dopamine",
+                    "url": "https://genius.com/artists/Dopamine"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2973849",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2973849,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Noah McCorkle",
+                    "url": "https://genius.com/artists/Noah-mccorkle"
+                },
+                {
+                    "api_path": "/artists/2960765",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2960765,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Katie Harvey",
+                    "url": "https://genius.com/artists/Katie-harvey"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/361298",
+                    "header_image_url": "https://images.genius.com/f5845e1dd3543ffe613aab597f4145dc.535x640x1.jpg",
+                    "id": 361298,
+                    "image_url": "https://images.genius.com/db75b0ce1ccb78d7f0251ece37a3279b.521x521x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dopamine",
+                    "url": "https://genius.com/artists/Dopamine"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640041",
+                    "header_image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "id": 640041,
+                    "image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dale Becker",
+                    "url": "https://genius.com/artists/Dale-becker"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6877117,
+        "annotator_login": "HunkerDown",
+        "api_path": "/referents/31528275",
+        "classification": "unreviewed",
+        "fragment": "BABY I\u2019M BACK",
+        "id": 31528275,
+        "is_description": true,
+        "path": "/31528275/The-kid-laroi-baby-im-back/Baby-im-back",
+        "range": {
+            "content": "BABY I'M BACK"
+        },
+        "song_id": 10315694,
+        "url": "https://genius.com/31528275/The-kid-laroi-baby-im-back/Baby-im-back",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10315694",
+            "client_timestamps": {
+                "updated_by_human_at": 1747545270,
+                "lyrics_updated_at": 1747545270
+            },
+            "context": "The Kid LAROI",
+            "id": 10315694,
+            "image_url": "https://images.genius.com/4d07ee5d8fdaa9f86853dba69385e795.1000x1000x1.jpg",
+            "link_title": "BABY I\u2019M BACK by\u00a0The\u00a0Kid LAROI",
+            "title": "BABY I'M BACK",
+            "type": "Song",
+            "url": "https://genius.com/The-kid-laroi-baby-im-back-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31528275",
+                "body": {
+                    "plain": "\u201cBABY I\u2019M BACK\u201d serves as the intro track to the deluxe version of The Kid LAROI\u2019s debut album, THE FIRST TIME.\n\nThe track sees Laroi reflecting on his life in the past year since the release of his debut studio album in November 2023.\n\nThis song\u2019s existence came to light on April 23rd, 2024 when Laroi posted a 38 second snippet of the song to Twitter. In a follow up tweet, Laroi revealed that it was the intro to the deluxe."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31528275,
+                "pinned": false,
+                "share_url": "https://genius.com/31528275",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31528275/The-kid-laroi-baby-im-back/Baby-im-back",
+                "verified": false,
+                "votes_total": 10,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.9753086419753086,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6877117",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/t97xkx78hep",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/t97xkx78hep",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/t97xkx78hep",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/t97xkx78hep",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/8dtllso2w5i",
+                            "human_readable_role_for_display": "Transcriber",
+                            "id": 6877117,
+                            "iq": 113126,
+                            "login": "HunkerDown",
+                            "name": "HunkerDown",
+                            "role_for_display": "transcriber",
+                            "url": "https://genius.com/HunkerDown",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.024691358024691357,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/7084656",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/d196373b992df0a8e351d38579a0f5f78ab414a6bfa7e5cd252af0c4a2b35ffa%2Fu8yjwi9r0e8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/d196373b992df0a8e351d38579a0f5f78ab414a6bfa7e5cd252af0c4a2b35ffa%2Fu8yjwi9r0e8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/d196373b992df0a8e351d38579a0f5f78ab414a6bfa7e5cd252af0c4a2b35ffa%2Fu8yjwi9r0e8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/d196373b992df0a8e351d38579a0f5f78ab414a6bfa7e5cd252af0c4a2b35ffa%2Fu8yjwi9r0e8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/79a7fd8e5d120633a857f854486445a1cff31a1f5cad10ff86bdb8783f3d64a9%2F577pus517x6",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 7084656,
+                            "iq": 38520,
+                            "login": "mceetu",
+                            "name": "mceetu",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/mceetu",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=R1MSH43zUSc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/643405",
+            "header_image_url": "https://images.genius.com/dfc96d08529a01aee8b2ee9ed28b0682.300x300x1.jpg",
+            "id": 643405,
+            "image_url": "https://images.genius.com/0ec7d86de5ad68aa2006d7707595ae7f.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rog\u00e9t Chahayed",
+            "url": "https://genius.com/artists/Roget-chahayed"
+        },
+        {
+            "api_path": "/artists/361298",
+            "header_image_url": "https://images.genius.com/f5845e1dd3543ffe613aab597f4145dc.535x640x1.jpg",
+            "id": 361298,
+            "image_url": "https://images.genius.com/db75b0ce1ccb78d7f0251ece37a3279b.521x521x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dopamine",
+            "url": "https://genius.com/artists/Dopamine"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/1223612",
+                    "artist_names": "Player",
+                    "full_title": "Baby Come Back by\u00a0Player",
+                    "header_image_thumbnail_url": "https://images.genius.com/7b323561e08e84323179e341f64bb45e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7b323561e08e84323179e341f64bb45e.720x720x1.png",
+                    "id": 1223612,
+                    "lyrics_owner_id": 930466,
+                    "lyrics_state": "complete",
+                    "path": "/Player-baby-come-back-lyrics",
+                    "primary_artist_names": "Player",
+                    "pyongs_count": 10,
+                    "relationships_index_url": "https://genius.com/Player-baby-come-back-sample",
+                    "release_date_components": {
+                        "year": 1977,
+                        "month": 9,
+                        "day": 1
+                    },
+                    "release_date_for_display": "September 1, 1977",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 1, 1977",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7b323561e08e84323179e341f64bb45e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7b323561e08e84323179e341f64bb45e.720x720x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 410399
+                    },
+                    "title": "Baby Come Back",
+                    "title_with_featured": "Baby Come Back",
+                    "url": "https://genius.com/Player-baby-come-back-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/265189",
+                        "header_image_url": "https://images.genius.com/16ac9c285aeb7b8774a29bc95db81712.460x480x1.jpg",
+                        "id": 265189,
+                        "image_url": "https://images.genius.com/e7a4455591ab6ade7b6a96c674c66641.433x433x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Player",
+                        "url": "https://genius.com/artists/Player"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/265189",
+                            "header_image_url": "https://images.genius.com/16ac9c285aeb7b8774a29bc95db81712.460x480x1.jpg",
+                            "id": 265189,
+                            "image_url": "https://images.genius.com/e7a4455591ab6ade7b6a96c674c66641.433x433x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Player",
+                            "url": "https://genius.com/artists/Player"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11593524",
+                    "artist_names": "Kkaydes",
+                    "full_title": "Yeah by\u00a0Kkaydes",
+                    "header_image_thumbnail_url": "https://images.genius.com/ad4410c8d1b8f8bf84443cfa8cce10f1.252x252x1.png",
+                    "header_image_url": "https://images.genius.com/ad4410c8d1b8f8bf84443cfa8cce10f1.252x252x1.png",
+                    "id": 11593524,
+                    "lyrics_owner_id": 22461352,
+                    "lyrics_state": "complete",
+                    "path": "/Kkaydes-yeah-lyrics",
+                    "primary_artist_names": "Kkaydes",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kkaydes-yeah-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 6,
+                        "day": 6
+                    },
+                    "release_date_for_display": "June 6, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 6, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ad4410c8d1b8f8bf84443cfa8cce10f1.252x252x1.png",
+                    "song_art_image_url": "https://images.genius.com/ad4410c8d1b8f8bf84443cfa8cce10f1.252x252x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Yeah",
+                    "title_with_featured": "Yeah",
+                    "url": "https://genius.com/Kkaydes-yeah-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4202569",
+                        "header_image_url": "https://images.genius.com/f1747c957bed2decb3da68f6d3e16825.736x414x1.jpg",
+                        "id": 4202569,
+                        "image_url": "https://images.genius.com/8915a036ce882c4668f583b8b43e07d8.610x610x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kkaydes",
+                        "url": "https://genius.com/artists/Kkaydes",
+                        "iq": 7738
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4202569",
+                            "header_image_url": "https://images.genius.com/f1747c957bed2decb3da68f6d3e16825.736x414x1.jpg",
+                            "id": 4202569,
+                            "image_url": "https://images.genius.com/8915a036ce882c4668f583b8b43e07d8.610x610x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kkaydes",
+                            "url": "https://genius.com/artists/Kkaydes",
+                            "iq": 7738
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10918992",
+                    "artist_names": "The Kid LAROI & Gunna",
+                    "full_title": "BABY I\u2019M BACK (Remix) by\u00a0The\u00a0Kid LAROI & Gunna",
+                    "header_image_thumbnail_url": "https://images.genius.com/a3059d3853907000e022cae09481123f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a3059d3853907000e022cae09481123f.1000x1000x1.jpg",
+                    "id": 10918992,
+                    "lyrics_owner_id": 126836,
+                    "lyrics_state": "complete",
+                    "path": "/The-kid-laroi-and-gunna-baby-im-back-remix-lyrics",
+                    "primary_artist_names": "The Kid LAROI & Gunna",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-kid-laroi-and-gunna-baby-im-back-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 27
+                    },
+                    "release_date_for_display": "September 27, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 27, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a3059d3853907000e022cae09481123f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a3059d3853907000e022cae09481123f.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 7583
+                    },
+                    "title": "BABY I\u2019M BACK (Remix)",
+                    "title_with_featured": "BABY I\u2019M BACK (Remix)",
+                    "url": "https://genius.com/The-kid-laroi-and-gunna-baby-im-back-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1546645",
+                        "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+                        "id": 1546645,
+                        "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "The Kid LAROI",
+                        "url": "https://genius.com/artists/The-kid-laroi",
+                        "iq": 1384
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1546645",
+                            "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+                            "id": 1546645,
+                            "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "The Kid LAROI",
+                            "url": "https://genius.com/artists/The-kid-laroi",
+                            "iq": 1384
+                        },
+                        {
+                            "api_path": "/artists/91049",
+                            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+                            "id": 91049,
+                            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Gunna",
+                            "url": "https://genius.com/artists/Gunna",
+                            "iq": 1069
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1546645",
+            "header_image_url": "https://images.genius.com/994f6bcfdc24bc6b1aa4984cc7b9bc9f.1000x385x1.jpg",
+            "id": 1546645,
+            "image_url": "https://images.genius.com/cf1eddfec6c07dea0425787a825dd6a0.999x999x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "The Kid LAROI",
+            "url": "https://genius.com/artists/The-kid-laroi",
+            "iq": 1384
+        },
+        {
+            "api_path": "/artists/634181",
+            "header_image_url": "https://images.genius.com/3856a45ccdf5532febe41030ca0ad272.232x232x1.jpg",
+            "id": 634181,
+            "image_url": "https://images.genius.com/3856a45ccdf5532febe41030ca0ad272.232x232x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "J.C. Crowley",
+            "url": "https://genius.com/artists/Jc-crowley"
+        },
+        {
+            "api_path": "/artists/361298",
+            "header_image_url": "https://images.genius.com/f5845e1dd3543ffe613aab597f4145dc.535x640x1.jpg",
+            "id": 361298,
+            "image_url": "https://images.genius.com/db75b0ce1ccb78d7f0251ece37a3279b.521x521x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dopamine",
+            "url": "https://genius.com/artists/Dopamine"
+        },
+        {
+            "api_path": "/artists/4061698",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 4061698,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "P Beckett",
+            "url": "https://genius.com/artists/P-beckett"
+        }
+    ],
+    "artist": "The Kid LAROI",
+    "lyrics": "45 ContributorsBABY I\u2019M BACK Lyrics\nBaby, come back\nAny kind of fool could see\nThere was somethin' in everything about you\nBaby, come back\nYou could blame it all on me\nI was wrong, and I just can't live without you\nBaby, come back\n\nIt's been a crazy last year, I'm tryna process still\nI don't even know how I should feel\nI got a couple big houses and some whips, maybe three\nAnd I got family members that got bigger egos than me\nAnd I got fans around the world whenever I'm overseas\nAnd I got friends who just pretend and say they love everything\nAnd yes, I fell in love again, I thought that shit was impossible\nAnd I promise it's too r\u0435al for me to care what they think\nI promis\u0435 I don't give a fuck because I know who I am\nHatin' on me undercover, I just won't understand\nSay we're brothers, call me family, but you act like a fan\n2 a.m. in Atlanta, screamin', \"Baby, I'm back\" (Aw, yeah)\n\nPlayed me like a fool, I see\nBut it's been so long since I've thought about you\nI swear, okay, baby, I'm back\nI guess you weren't the one for me\nBut it's been so long since I've thought about you\nI swear, okay, baby, I'm back\n\nI told my baby, \"Let them talk,\" that's the caption\nI don't even really like bein' online, that shit taxin'\nStarted off as an attraction, now it's turnin' to attachment\nOverseas, we relaxin', I ain't thinkin' 'bout the past tense, no\nNow everybody wanna say shit, all of a sudden y'all believed in me\nAll of a sudden you want a favor now, all of a sudden you wan' be with me\nAll of a sudden y'all always knew, but I remember you ain't see it in me\n\nAnd yes, I know I'm blessed, but sometimes I wish I could go back\nTo the way it used to be\nJust so I can feel what I've been missin' (Oh, baby, come back)\nYou can have it all, you see\nBut there's still somethin' that's not the same about you (Oh-oh, baby, come back)\n\nBaby, come back (Aw, yeah)\nAny kind of fool could see\nThere was somethin' in everything about you (I've thought about you)\nBaby, come back\nYou could blame it all on me (You weren't the one for me)\nI was wrong, and I just can't live without you\nBaby, come back"
+}

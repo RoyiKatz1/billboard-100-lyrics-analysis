@@ -1,0 +1,829 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/925584",
+    "artist_names": "The Jackson 5",
+    "full_title": "I Saw Mommy Kissing Santa Claus by\u00a0The\u00a0Jackson 5",
+    "header_image_thumbnail_url": "https://images.genius.com/4ee5ae9802b19f9c21b3d9f22ce1e977.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/4ee5ae9802b19f9c21b3d9f22ce1e977.1000x1000x1.jpg",
+    "id": 925584,
+    "instrumental": false,
+    "lyrics_owner_id": 4118964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1710977772,
+    "path": "/The-jackson-5-i-saw-mommy-kissing-santa-claus-lyrics",
+    "primary_artist_names": "The Jackson 5",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-sample",
+    "release_date_components": {
+        "year": 1970,
+        "month": 10,
+        "day": 15
+    },
+    "release_date_for_display": "October 15, 1970",
+    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1970",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4ee5ae9802b19f9c21b3d9f22ce1e977.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/4ee5ae9802b19f9c21b3d9f22ce1e977.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 24,
+        "iq_earners": 24,
+        "transcribers": 2,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 24696
+    },
+    "title": "I Saw Mommy Kissing Santa Claus",
+    "title_with_featured": "I Saw Mommy Kissing Santa Claus",
+    "updated_by_human_at": 1710977772,
+    "url": "https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/8662",
+        "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+        "id": 8662,
+        "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Jackson 5",
+        "url": "https://genius.com/artists/The-jackson-5"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/8662",
+            "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+            "id": 8662,
+            "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Jackson 5",
+            "url": "https://genius.com/artists/The-jackson-5"
+        }
+    ],
+    "apple_music_id": "1452949759",
+    "apple_music_player_url": "https://genius.com/songs/925584/apple_music_player",
+    "description": {
+        "plain": "This song was recorded in 1970. It tells a story about a boy who saw his mother kissing santa claus and he\u2019s about tell his father."
+    },
+    "embed_content": "<div id='rg_embed_link_925584' class='rg_embed_link' data-song-id='925584'>Read <a href='https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-lyrics'>\u201cI Saw Mommy Kissing Santa Claus\u201d by The\u00a0Jackson 5</a> on Genius</div> <script crossorigin src='//genius.com/songs/925584/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "1970-10-15",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d61e31",
+    "song_art_secondary_color": "#9b1629",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/665724",
+        "cover_art_url": "https://images.genius.com/0cb435f372448eedfcf40010accc7f26.1000x1000x1.jpg",
+        "full_title": "Ultimate Christmas Collection by The Jackson 5",
+        "id": 665724,
+        "name": "Ultimate Christmas Collection",
+        "primary_artist_names": "The Jackson 5",
+        "release_date_for_display": "October 13, 2009",
+        "url": "https://genius.com/albums/The-jackson-5/Ultimate-christmas-collection",
+        "artist": {
+            "api_path": "/artists/8662",
+            "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+            "id": 8662,
+            "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Jackson 5",
+            "url": "https://genius.com/artists/The-jackson-5"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/8662",
+                "header_image_url": "https://images.genius.com/2dc88c6e1ad7c45a366dc85c6d377afb.1000x661x1.jpg",
+                "id": 8662,
+                "image_url": "https://images.genius.com/cd59364eff025729c77558b6e00920ea.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "The Jackson 5",
+                "url": "https://genius.com/artists/The-jackson-5"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/835",
+                    "header_image_url": "https://images.genius.com/b5ade1416d2f3c989d65208f90f3905e.746x334x1.jpg",
+                    "id": 835,
+                    "image_url": "https://images.genius.com/00a04628053128dbb9188052b2a7d68b.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Jackson",
+                    "url": "https://genius.com/artists/Michael-jackson"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/39273",
+                    "header_image_url": "https://images.genius.com/7e81538781c0e7ee943fc5832b9045b5.1000x500x1.png",
+                    "id": 39273,
+                    "image_url": "https://images.genius.com/c68f62dfe68a3fdfd09170f82a4c5f9e.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jermaine Jackson",
+                    "url": "https://genius.com/artists/Jermaine-jackson"
+                },
+                {
+                    "api_path": "/artists/39272",
+                    "header_image_url": "https://images.genius.com/ea7d090dd6f5613421fd0e42b187955c.800x500x1.jpg",
+                    "id": 39272,
+                    "image_url": "https://images.genius.com/92946fbf390302e9213669253660ffe5.350x350x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jackie Jackson",
+                    "url": "https://genius.com/artists/Jackie-jackson"
+                },
+                {
+                    "api_path": "/artists/553648",
+                    "header_image_url": "https://images.genius.com/4a456f272e13392edc0f6d4ab54b60c0.1000x429x1.jpg",
+                    "id": 553648,
+                    "image_url": "https://images.genius.com/1bcbe347dcd7f90686e4428aef0f9e02.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tito Jackson",
+                    "url": "https://genius.com/artists/Tito-jackson",
+                    "iq": 161
+                },
+                {
+                    "api_path": "/artists/461200",
+                    "header_image_url": "https://images.genius.com/7e07ec865e03ab8de85d4a88505b1ec9.270x270x1.jpg",
+                    "id": 461200,
+                    "image_url": "https://images.genius.com/7e07ec865e03ab8de85d4a88505b1ec9.270x270x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marlon Jackson",
+                    "url": "https://genius.com/artists/Marlon-jackson"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/661090",
+                    "header_image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "id": 661090,
+                    "image_url": "https://images.genius.com/eb51938f6d3957a556f95d42424ed372.972x972x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Motown Records",
+                    "url": "https://genius.com/artists/Motown-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 12161798,
+        "annotator_login": "TitusTisdale_StudentLeesvilleRdHS",
+        "api_path": "/referents/21341997",
+        "classification": "unreviewed",
+        "fragment": "I Saw Mommy Kissing Santa Claus",
+        "id": 21341997,
+        "is_description": true,
+        "path": "/21341997/The-jackson-5-i-saw-mommy-kissing-santa-claus/I-saw-mommy-kissing-santa-claus",
+        "range": {
+            "content": "I Saw Mommy Kissing Santa Claus"
+        },
+        "song_id": 925584,
+        "url": "https://genius.com/21341997/The-jackson-5-i-saw-mommy-kissing-santa-claus/I-saw-mommy-kissing-santa-claus",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/925584",
+            "client_timestamps": {
+                "updated_by_human_at": 1710977772,
+                "lyrics_updated_at": 1710977772
+            },
+            "context": "The Jackson 5",
+            "id": 925584,
+            "image_url": "https://images.genius.com/4ee5ae9802b19f9c21b3d9f22ce1e977.1000x1000x1.jpg",
+            "link_title": "I Saw Mommy Kissing Santa Claus by\u00a0The\u00a0Jackson 5",
+            "title": "I Saw Mommy Kissing Santa Claus",
+            "type": "Song",
+            "url": "https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/21341997",
+                "body": {
+                    "plain": "This song was recorded in 1970. It tells a story about a boy who saw his mother kissing santa claus and he\u2019s about tell his father."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 21341997,
+                "pinned": false,
+                "share_url": "https://genius.com/21341997",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/21341997/The-jackson-5-i-saw-mommy-kissing-santa-claus/I-saw-mommy-kissing-santa-claus",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12161798",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/zvvdkyfv6h",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/zvvdkyfv6h",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/zvvdkyfv6h",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/zvvdkyfv6h",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/e7066pehcu",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 12161798,
+                            "iq": 856,
+                            "login": "TitusTisdale_StudentLeesvilleRdHS",
+                            "name": "TitusTisdale_StudentLeesvilleRdHS",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/TitusTisdale_StudentLeesvilleRdHS",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=O89sPooBhyE"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/65700",
+            "header_image_url": "https://images.genius.com/e5b7110f7d8174dc37fbb5c8ab33a7d4.500x170x1.jpg",
+            "id": 65700,
+            "image_url": "https://images.genius.com/e5b7110f7d8174dc37fbb5c8ab33a7d4.500x170x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The Corporation",
+            "url": "https://genius.com/artists/The-corporation"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": "https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/889448",
+                    "artist_names": "Jimmy Boyd",
+                    "full_title": "I Saw Mommy Kissing Santa Claus by\u00a0Jimmy\u00a0Boyd",
+                    "header_image_thumbnail_url": "https://images.genius.com/57972858873b27935b75c1b7e1a31490.300x301x1.jpg",
+                    "header_image_url": "https://images.genius.com/57972858873b27935b75c1b7e1a31490.498x500x1.jpg",
+                    "id": 889448,
+                    "lyrics_owner_id": 2457824,
+                    "lyrics_state": "complete",
+                    "path": "/Jimmy-boyd-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "primary_artist_names": "Jimmy Boyd",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Jimmy-boyd-i-saw-mommy-kissing-santa-claus-sample",
+                    "release_date_components": {
+                        "year": 1952,
+                        "month": 9,
+                        "day": 26
+                    },
+                    "release_date_for_display": "September 26, 1952",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 26, 1952",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/57972858873b27935b75c1b7e1a31490.300x301x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/57972858873b27935b75c1b7e1a31490.498x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 52159
+                    },
+                    "title": "I Saw Mommy Kissing Santa Claus",
+                    "title_with_featured": "I Saw Mommy Kissing Santa Claus",
+                    "url": "https://genius.com/Jimmy-boyd-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/362171",
+                        "header_image_url": "https://images.genius.com/7f7702f03e1618958a8f942fdc7868f7.266x266x1.jpg",
+                        "id": 362171,
+                        "image_url": "https://images.genius.com/7f7702f03e1618958a8f942fdc7868f7.266x266x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimmy Boyd",
+                        "url": "https://genius.com/artists/Jimmy-boyd"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/362171",
+                            "header_image_url": "https://images.genius.com/7f7702f03e1618958a8f942fdc7868f7.266x266x1.jpg",
+                            "id": 362171,
+                            "image_url": "https://images.genius.com/7f7702f03e1618958a8f942fdc7868f7.266x266x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimmy Boyd",
+                            "url": "https://genius.com/artists/Jimmy-boyd"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": "https://genius.com/The-jackson-5-i-saw-mommy-kissing-santa-claus-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8438648",
+                    "artist_names": "Sasha Estefan-Coppola (Ft. Lara Estefan-Coppola & Nayib Estefan)",
+                    "full_title": "I Saw Mommy Kissing Santa Claus (Sasha's Edit) by\u00a0Sasha\u00a0Estefan-Coppola (Ft.\u00a0Lara\u00a0Estefan-Coppola & Nayib\u00a0Estefan)",
+                    "header_image_thumbnail_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.1000x1000x1.jpg",
+                    "id": 8438648,
+                    "lyrics_owner_id": 8386480,
+                    "lyrics_state": "complete",
+                    "path": "/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-sashas-edit-lyrics",
+                    "primary_artist_names": "Sasha Estefan-Coppola",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-sashas-edit-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 10,
+                        "day": 13
+                    },
+                    "release_date_for_display": "October 13, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 13, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "I Saw Mommy Kissing Santa Claus (Sasha\u2019s Edit)",
+                    "title_with_featured": "I Saw Mommy Kissing Santa Claus (Sasha's Edit) (Ft.\u00a0Lara\u00a0Estefan-Coppola & Nayib\u00a0Estefan)",
+                    "url": "https://genius.com/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-sashas-edit-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/2052179",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 2052179,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Nayib Estefan",
+                            "url": "https://genius.com/artists/Nayib-estefan"
+                        },
+                        {
+                            "api_path": "/artists/3311619",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3311619,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lara Estefan-Coppola",
+                            "url": "https://genius.com/artists/Lara-estefan-coppola"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/3298896",
+                        "header_image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                        "id": 3298896,
+                        "image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sasha Estefan-Coppola",
+                        "url": "https://genius.com/artists/Sasha-estefan-coppola"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3298896",
+                            "header_image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                            "id": 3298896,
+                            "image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sasha Estefan-Coppola",
+                            "url": "https://genius.com/artists/Sasha-estefan-coppola"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8438124",
+                    "artist_names": "Sasha Estefan-Coppola (Ft. Lara Estefan-Coppola & Nayib Estefan)",
+                    "full_title": "I Saw Mommy Kissing Santa Claus by\u00a0Sasha\u00a0Estefan-Coppola (Ft.\u00a0Lara\u00a0Estefan-Coppola & Nayib\u00a0Estefan)",
+                    "header_image_thumbnail_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.1000x1000x1.jpg",
+                    "id": 8438124,
+                    "lyrics_owner_id": 8386480,
+                    "lyrics_state": "complete",
+                    "path": "/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "primary_artist_names": "Sasha Estefan-Coppola",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-sample",
+                    "release_date_components": {
+                        "year": 2022,
+                        "month": 10,
+                        "day": 13
+                    },
+                    "release_date_for_display": "October 13, 2022",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 13, 2022",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/123aa548668e7ff6b03f98a32e6aca32.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "I Saw Mommy Kissing Santa Claus",
+                    "title_with_featured": "I Saw Mommy Kissing Santa Claus (Ft.\u00a0Lara\u00a0Estefan-Coppola & Nayib\u00a0Estefan)",
+                    "url": "https://genius.com/Sasha-estefan-coppola-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/3311619",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3311619,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lara Estefan-Coppola",
+                            "url": "https://genius.com/artists/Lara-estefan-coppola"
+                        },
+                        {
+                            "api_path": "/artists/2052179",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 2052179,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Nayib Estefan",
+                            "url": "https://genius.com/artists/Nayib-estefan"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/3298896",
+                        "header_image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                        "id": 3298896,
+                        "image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sasha Estefan-Coppola",
+                        "url": "https://genius.com/artists/Sasha-estefan-coppola"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3298896",
+                            "header_image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                            "id": 3298896,
+                            "image_url": "https://images.genius.com/1c08312ecb2b3985c7afa0b0cf0ae932.1000x563x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sasha Estefan-Coppola",
+                            "url": "https://genius.com/artists/Sasha-estefan-coppola"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/3351537",
+                    "artist_names": "Celtic Thunder",
+                    "full_title": "Christmas Medley by\u00a0Celtic\u00a0Thunder",
+                    "header_image_thumbnail_url": "https://images.genius.com/eb581359db93142d0ffb0fc2620520e5.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/eb581359db93142d0ffb0fc2620520e5.1000x1000x1.png",
+                    "id": 3351537,
+                    "lyrics_owner_id": 2201951,
+                    "lyrics_state": "complete",
+                    "path": "/Celtic-thunder-christmas-medley-lyrics",
+                    "primary_artist_names": "Celtic Thunder",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Celtic-thunder-christmas-medley-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/eb581359db93142d0ffb0fc2620520e5.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/eb581359db93142d0ffb0fc2620520e5.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Christmas Medley",
+                    "title_with_featured": "Christmas Medley",
+                    "url": "https://genius.com/Celtic-thunder-christmas-medley-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/354048",
+                        "header_image_url": "https://images.genius.com/5c12a8c1229f4d84ca258200f7e68ac2.900x900x1.jpg",
+                        "id": 354048,
+                        "image_url": "https://images.genius.com/5c12a8c1229f4d84ca258200f7e68ac2.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Celtic Thunder",
+                        "url": "https://genius.com/artists/Celtic-thunder"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/354048",
+                            "header_image_url": "https://images.genius.com/5c12a8c1229f4d84ca258200f7e68ac2.900x900x1.jpg",
+                            "id": 354048,
+                            "image_url": "https://images.genius.com/5c12a8c1229f4d84ca258200f7e68ac2.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Celtic Thunder",
+                            "url": "https://genius.com/artists/Celtic-thunder"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/4454620",
+                    "artist_names": "En Vogue",
+                    "full_title": "I Saw Mommy Kissing Santa Claus by\u00a0En\u00a0Vogue",
+                    "header_image_thumbnail_url": "https://images.genius.com/a0382769532d571a30aa2f55b5cedd80.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a0382769532d571a30aa2f55b5cedd80.600x600x1.jpg",
+                    "id": 4454620,
+                    "lyrics_owner_id": 3492882,
+                    "lyrics_state": "complete",
+                    "path": "/En-vogue-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "primary_artist_names": "En Vogue",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/En-vogue-i-saw-mommy-kissing-santa-claus-sample",
+                    "release_date_components": {
+                        "year": 2002,
+                        "month": 10,
+                        "day": 8
+                    },
+                    "release_date_for_display": "October 8, 2002",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 8, 2002",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a0382769532d571a30aa2f55b5cedd80.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a0382769532d571a30aa2f55b5cedd80.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "I Saw Mommy Kissing Santa Claus",
+                    "title_with_featured": "I Saw Mommy Kissing Santa Claus",
+                    "url": "https://genius.com/En-vogue-i-saw-mommy-kissing-santa-claus-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/8571",
+                        "header_image_url": "https://images.genius.com/f11ee6a04ea09185070217ee06971f21.500x500x1.jpg",
+                        "id": 8571,
+                        "image_url": "https://images.genius.com/d43e85def20ebd1983ce7d83ded975c5.908x908x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "En Vogue",
+                        "url": "https://genius.com/artists/En-vogue"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/8571",
+                            "header_image_url": "https://images.genius.com/f11ee6a04ea09185070217ee06971f21.500x500x1.jpg",
+                            "id": 8571,
+                            "image_url": "https://images.genius.com/d43e85def20ebd1983ce7d83ded975c5.908x908x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "En Vogue",
+                            "url": "https://genius.com/artists/En-vogue"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/992785",
+            "header_image_url": "https://images.genius.com/4ef2363be21b1910994fc369857df6da.240x240x1.png",
+            "id": 992785,
+            "image_url": "https://images.genius.com/4ef2363be21b1910994fc369857df6da.240x240x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tommie Connor",
+            "url": "https://genius.com/artists/Tommie-connor"
+        }
+    ],
+    "artist": "The Jackson 5",
+    "lyrics": "24 ContributorsI Saw Mommy Kissing Santa Claus Lyrics\nWow! Mommy's kissing Santa Claus!\n\nI saw mommy kissing Santa Claus (Kissing, kissing, Santa Claus)\nUnderneath the mistletoe last night\nShe didn't see me creep\nDown the stairs to have a peep\nShe thought that I was tucked up\nIn my bedroom, fast asleep\n\nThen I saw mommy tickle Santa Claus (Tickle, tickle, Santa Claus)\nUnderneath his beard so snowy white\nOh, what a laugh it would have been\nIf Daddy had only seen\nMommy kissing Santa Claus last night\n\n(He saw mommy kissing, kissing, kissing, Santa Claus)\nI did! I really did see mommy kissing Santa Claus\nAnd I'm gonna tell my dad\n\nThen I saw mommy tickle Santa Claus (Tickle, tickle, Santa Claus)\nUnderneath his beard so snowy white\nOh, what a laugh it would have been\nIf Daddy had only seen\nMommy kissing Santa Claus last night\nOh, what a laugh it would have been\nIf Daddy had only seen\nMommy kissing Santa Claus last night\n\nI did! I did! I really did see mommy kissing Santa Claus\nYou gotta believe me! You just gotta believe me!\nCome on, fellas, believe me!\nYou just gotta believe me! (I told you, I told you)\nCome on, you gotta believe me!\nI did!"
+}

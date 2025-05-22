@@ -1,0 +1,917 @@
+{
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/10153815",
+    "artist_names": "$uicideboy$",
+    "full_title": "Burgundy by\u00a0$uicideboy$",
+    "header_image_thumbnail_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.1000x1000x1.png",
+    "id": 10153815,
+    "instrumental": false,
+    "lyrics_owner_id": 6877117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746699317,
+    "path": "/Uicideboy-burgundy-lyrics",
+    "primary_artist_names": "$uicideboy$",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Uicideboy-burgundy-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 14
+    },
+    "release_date_for_display": "June 14, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 5,
+        "contributors": 72,
+        "iq_earners": 71,
+        "transcribers": 9,
+        "unreviewed_annotations": 18,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 175119
+    },
+    "title": "Burgundy",
+    "title_with_featured": "Burgundy",
+    "updated_by_human_at": 1746699317,
+    "url": "https://genius.com/Uicideboy-burgundy-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/213444",
+        "header_image_url": "https://images.genius.com/8f7c4c8533b47cf2ef2e8af35167a0be.686x386x1.jpg",
+        "id": 213444,
+        "image_url": "https://images.genius.com/eb7afd9e098eaaaed916f8b84e72e092.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "$uicideboy$",
+        "url": "https://genius.com/artists/Uicideboy",
+        "iq": 71097
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/213444",
+            "header_image_url": "https://images.genius.com/8f7c4c8533b47cf2ef2e8af35167a0be.686x386x1.jpg",
+            "id": 213444,
+            "image_url": "https://images.genius.com/eb7afd9e098eaaaed916f8b84e72e092.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "$uicideboy$",
+            "url": "https://genius.com/artists/Uicideboy",
+            "iq": 71097
+        }
+    ],
+    "apple_music_id": "1737043138",
+    "apple_music_player_url": "https://genius.com/songs/10153815/apple_music_player",
+    "description": {
+        "plain": "Burgundy is the sixth track of the album New World Depression.\nThis track is the longest of the album and has the same sample as one of the oldest $uicideboy$ song. That song never got released on other platform than Soundcloud and Youtube.\n\nThe song uses the same sample as the song called Royal released in 2015.\n\nhttps://soundcloud.com/internet-hippy/uicideboy-royal-prod-uicideboy"
+    },
+    "embed_content": "<div id='rg_embed_link_10153815' class='rg_embed_link' data-song-id='10153815'>Read <a href='https://genius.com/Uicideboy-burgundy-lyrics'>\u201cBurgundy\u201d by $uicideboy$</a> on Genius</div> <script crossorigin src='//genius.com/songs/10153815/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-14",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dc2222",
+    "song_art_secondary_color": "#721212",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1121984",
+        "cover_art_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.1000x1000x1.png",
+        "full_title": "New World Depression by $uicideboy$",
+        "id": 1121984,
+        "name": "New World Depression",
+        "primary_artist_names": "$uicideboy$",
+        "release_date_for_display": "June 14, 2024",
+        "url": "https://genius.com/albums/Uicideboy/New-world-depression",
+        "artist": {
+            "api_path": "/artists/213444",
+            "header_image_url": "https://images.genius.com/8f7c4c8533b47cf2ef2e8af35167a0be.686x386x1.jpg",
+            "id": 213444,
+            "image_url": "https://images.genius.com/eb7afd9e098eaaaed916f8b84e72e092.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "$uicideboy$",
+            "url": "https://genius.com/artists/Uicideboy",
+            "iq": 71097
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/213444",
+                "header_image_url": "https://images.genius.com/8f7c4c8533b47cf2ef2e8af35167a0be.686x386x1.jpg",
+                "id": 213444,
+                "image_url": "https://images.genius.com/eb7afd9e098eaaaed916f8b84e72e092.500x500x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "$uicideboy$",
+                "url": "https://genius.com/artists/Uicideboy",
+                "iq": 71097
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/613023",
+                    "header_image_url": "https://images.genius.com/3e35a8223ecd656825afd594d3f04582.750x502x25.gif",
+                    "id": 613023,
+                    "image_url": "https://images.genius.com/b902d2724ec5b2a7756c5642cdd8b8b8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orchard",
+                    "url": "https://genius.com/artists/The-orchard"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/1548948",
+                    "header_image_url": "https://images.genius.com/8665d7dc92081f58209661c477e0d941.640x360x97.gif",
+                    "id": 1548948,
+                    "image_url": "https://images.genius.com/2785633fd291b9c203574fe516167095.396x396x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aristos Petrou",
+                    "url": "https://genius.com/artists/Aristos-petrou"
+                },
+                {
+                    "api_path": "/artists/1548949",
+                    "header_image_url": "https://images.genius.com/613cb3da5ef498cd55daf0877e8441fb.640x360x31.gif",
+                    "id": 1548949,
+                    "image_url": "https://images.genius.com/3b6d041a6cf991e04e2af498e4fa0cd4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Arceneaux Jr.",
+                    "url": "https://genius.com/artists/Scott-arceneaux-jr"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1548948",
+                    "header_image_url": "https://images.genius.com/8665d7dc92081f58209661c477e0d941.640x360x97.gif",
+                    "id": 1548948,
+                    "image_url": "https://images.genius.com/2785633fd291b9c203574fe516167095.396x396x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aristos Petrou",
+                    "url": "https://genius.com/artists/Aristos-petrou"
+                },
+                {
+                    "api_path": "/artists/1548949",
+                    "header_image_url": "https://images.genius.com/613cb3da5ef498cd55daf0877e8441fb.640x360x31.gif",
+                    "id": 1548949,
+                    "image_url": "https://images.genius.com/3b6d041a6cf991e04e2af498e4fa0cd4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Arceneaux Jr.",
+                    "url": "https://genius.com/artists/Scott-arceneaux-jr"
+                },
+                {
+                    "api_path": "/artists/673220",
+                    "header_image_url": "https://images.genius.com/c412fa7f515355316ecdc7f902f3030d.400x224x23.gif",
+                    "id": 673220,
+                    "image_url": "https://images.genius.com/8d3cff9cc0e0f8245ec34628cce119bd.722x722x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ruby da Cherry",
+                    "url": "https://genius.com/artists/Ruby-da-cherry"
+                },
+                {
+                    "api_path": "/artists/400362",
+                    "header_image_url": "https://images.genius.com/476b2325d70141662be52bc10cf87df2.640x360x31.gif",
+                    "id": 400362,
+                    "image_url": "https://images.genius.com/44dfb2ac2dde5474528a94b3d7c6df90.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scrim",
+                    "url": "https://genius.com/artists/Scrim"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1548948",
+                    "header_image_url": "https://images.genius.com/8665d7dc92081f58209661c477e0d941.640x360x97.gif",
+                    "id": 1548948,
+                    "image_url": "https://images.genius.com/2785633fd291b9c203574fe516167095.396x396x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aristos Petrou",
+                    "url": "https://genius.com/artists/Aristos-petrou"
+                },
+                {
+                    "api_path": "/artists/1548949",
+                    "header_image_url": "https://images.genius.com/613cb3da5ef498cd55daf0877e8441fb.640x360x31.gif",
+                    "id": 1548949,
+                    "image_url": "https://images.genius.com/3b6d041a6cf991e04e2af498e4fa0cd4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Arceneaux Jr.",
+                    "url": "https://genius.com/artists/Scott-arceneaux-jr"
+                },
+                {
+                    "api_path": "/artists/673220",
+                    "header_image_url": "https://images.genius.com/c412fa7f515355316ecdc7f902f3030d.400x224x23.gif",
+                    "id": 673220,
+                    "image_url": "https://images.genius.com/8d3cff9cc0e0f8245ec34628cce119bd.722x722x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ruby da Cherry",
+                    "url": "https://genius.com/artists/Ruby-da-cherry"
+                },
+                {
+                    "api_path": "/artists/400362",
+                    "header_image_url": "https://images.genius.com/476b2325d70141662be52bc10cf87df2.640x360x31.gif",
+                    "id": 400362,
+                    "image_url": "https://images.genius.com/44dfb2ac2dde5474528a94b3d7c6df90.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scrim",
+                    "url": "https://genius.com/artists/Scrim"
+                },
+                {
+                    "api_path": "/artists/1486418",
+                    "header_image_url": "https://images.genius.com/054b9cfac3146ca565c2e2c7201d2590.1000x1000x1.jpg",
+                    "id": 1486418,
+                    "image_url": "https://images.genius.com/054b9cfac3146ca565c2e2c7201d2590.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mia Farrow",
+                    "url": "https://genius.com/artists/Mia-farrow"
+                },
+                {
+                    "api_path": "/artists/1520793",
+                    "header_image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+                    "id": 1520793,
+                    "image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KXVI",
+                    "url": "https://genius.com/artists/Kxvi"
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1520793",
+                    "header_image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+                    "id": 1520793,
+                    "image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KXVI",
+                    "url": "https://genius.com/artists/Kxvi"
+                }
+            ]
+        },
+        {
+            "label": "Sample Clearance",
+            "artists": [
+                {
+                    "api_path": "/artists/2349798",
+                    "header_image_url": "https://images.genius.com/34954c371cae62ca43378a650a91e869.1000x560x1.jpg",
+                    "id": 2349798,
+                    "image_url": "https://images.genius.com/ef5fda9ff9d5d7b5f8880a8c2d7bde5a.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Aasis Beats",
+                    "url": "https://genius.com/artists/Aasis-beats",
+                    "iq": 582
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/3015167",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3015167,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "$UICIDEBOY$ Publishing",
+                    "url": "https://genius.com/artists/Uicideboy-publishing"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/233167",
+                    "header_image_url": "https://images.genius.com/476b2325d70141662be52bc10cf87df2.640x360x31.gif",
+                    "id": 233167,
+                    "image_url": "https://images.genius.com/2fdea691f39e6534979a40b51498210d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Budd Dwyer",
+                    "url": "https://genius.com/artists/Budd-dwyer"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1155549",
+                    "header_image_url": "https://images.genius.com/1a04fd7a8efb0d4ece9be92a9e522b09.640x199x1.jpg",
+                    "id": 1155549,
+                    "image_url": "https://images.genius.com/92162225a50ac69121de869486e931d6.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "G*59 Records",
+                    "url": "https://genius.com/artists/G59-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1155549",
+                    "header_image_url": "https://images.genius.com/1a04fd7a8efb0d4ece9be92a9e522b09.640x199x1.jpg",
+                    "id": 1155549,
+                    "image_url": "https://images.genius.com/92162225a50ac69121de869486e931d6.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "G*59 Records",
+                    "url": "https://genius.com/artists/G59-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1155549",
+                    "header_image_url": "https://images.genius.com/1a04fd7a8efb0d4ece9be92a9e522b09.640x199x1.jpg",
+                    "id": 1155549,
+                    "image_url": "https://images.genius.com/92162225a50ac69121de869486e931d6.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "G*59 Records",
+                    "url": "https://genius.com/artists/G59-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 5943983,
+        "annotator_login": "tom1461",
+        "api_path": "/referents/31125465",
+        "classification": "unreviewed",
+        "fragment": "Burgundy",
+        "id": 31125465,
+        "is_description": true,
+        "path": "/31125465/Uicideboy-burgundy/Burgundy",
+        "range": {
+            "content": "Burgundy"
+        },
+        "song_id": 10153815,
+        "url": "https://genius.com/31125465/Uicideboy-burgundy/Burgundy",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10153815",
+            "client_timestamps": {
+                "updated_by_human_at": 1746699317,
+                "lyrics_updated_at": 1746699317
+            },
+            "context": "$uicideboy$",
+            "id": 10153815,
+            "image_url": "https://images.genius.com/983b17b9e771c8982a2da504d821a6f8.1000x1000x1.png",
+            "link_title": "Burgundy by\u00a0$uicideboy$",
+            "title": "Burgundy",
+            "type": "Song",
+            "url": "https://genius.com/Uicideboy-burgundy-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31125465",
+                "body": {
+                    "plain": "Burgundy is the sixth track of the album New World Depression.\nThis track is the longest of the album and has the same sample as one of the oldest $uicideboy$ song. That song never got released on other platform than Soundcloud and Youtube.\n\nThe song uses the same sample as the song called Royal released in 2015.\n\nhttps://soundcloud.com/internet-hippy/uicideboy-royal-prod-uicideboy"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31125465,
+                "pinned": false,
+                "share_url": "https://genius.com/31125465",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31125465/Uicideboy-burgundy/Burgundy",
+                "verified": false,
+                "votes_total": 21,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/5943983",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/fb36af6cbaf213e5d14692725af9cc95",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/fb36af6cbaf213e5d14692725af9cc95",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/fb36af6cbaf213e5d14692725af9cc95",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/fb36af6cbaf213e5d14692725af9cc95",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/fb36af6cbaf213e5d14692725af9cc95",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 5943983,
+                            "iq": 1027,
+                            "login": "tom1461",
+                            "name": "tom1461",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/tom1461",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=F60JsBA-fjA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/233167",
+            "header_image_url": "https://images.genius.com/476b2325d70141662be52bc10cf87df2.640x360x31.gif",
+            "id": 233167,
+            "image_url": "https://images.genius.com/2fdea691f39e6534979a40b51498210d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Budd Dwyer",
+            "url": "https://genius.com/artists/Budd-dwyer"
+        },
+        {
+            "api_path": "/artists/1450375",
+            "header_image_url": "https://images.genius.com/02eae2a6cf8182a1aeb8ac094cddc332.750x1000x1.jpg",
+            "id": 1450375,
+            "image_url": "https://images.genius.com/942f0c495f2f55c125946f28695a5450.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sam Bo Bachrack",
+            "url": "https://genius.com/artists/Sam-bo-bachrack",
+            "iq": 333
+        },
+        {
+            "api_path": "/artists/1520793",
+            "header_image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+            "id": 1520793,
+            "image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "KXVI",
+            "url": "https://genius.com/artists/Kxvi"
+        },
+        {
+            "api_path": "/artists/3492757",
+            "header_image_url": "https://images.genius.com/c9ba98d51635954c8fd9dec113d91ca6.474x474x1.jpg",
+            "id": 3492757,
+            "image_url": "https://images.genius.com/c600c6382af09c23785e4ac5edbf76d3.473x473x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "MILLY ROCK (Producer)",
+            "url": "https://genius.com/artists/Milly-rock-producer",
+            "iq": 116
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/3727963",
+                    "artist_names": "Krzysztof Komeda (Ft. Mia Farrow)",
+                    "full_title": "Lullaby, Part 1 by\u00a0Krzysztof\u00a0Komeda (Ft.\u00a0Mia\u00a0Farrow)",
+                    "header_image_thumbnail_url": "https://images.genius.com/47346044b07693c50b0e998328fe7fe9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/47346044b07693c50b0e998328fe7fe9.1000x1000x1.jpg",
+                    "id": 3727963,
+                    "lyrics_owner_id": 4905233,
+                    "lyrics_state": "complete",
+                    "path": "/Krzysztof-komeda-lullaby-part-1-lyrics",
+                    "primary_artist_names": "Krzysztof Komeda",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Krzysztof-komeda-lullaby-part-1-sample",
+                    "release_date_components": {
+                        "year": 1968,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "1968",
+                    "release_date_with_abbreviated_month_for_display": "1968",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/47346044b07693c50b0e998328fe7fe9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/47346044b07693c50b0e998328fe7fe9.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lullaby, Part 1",
+                    "title_with_featured": "Lullaby, Part 1 (Ft.\u00a0Mia\u00a0Farrow)",
+                    "url": "https://genius.com/Krzysztof-komeda-lullaby-part-1-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1486418",
+                            "header_image_url": "https://images.genius.com/054b9cfac3146ca565c2e2c7201d2590.1000x1000x1.jpg",
+                            "id": 1486418,
+                            "image_url": "https://images.genius.com/054b9cfac3146ca565c2e2c7201d2590.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Mia Farrow",
+                            "url": "https://genius.com/artists/Mia-farrow"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1478214",
+                        "header_image_url": "https://images.genius.com/26b7a098b9e0a20ce3cf74f1c8bef752.299x299x1.jpg",
+                        "id": 1478214,
+                        "image_url": "https://images.genius.com/26b7a098b9e0a20ce3cf74f1c8bef752.299x299x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Krzysztof Komeda",
+                        "url": "https://genius.com/artists/Krzysztof-komeda"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1478214",
+                            "header_image_url": "https://images.genius.com/26b7a098b9e0a20ce3cf74f1c8bef752.299x299x1.jpg",
+                            "id": 1478214,
+                            "image_url": "https://images.genius.com/26b7a098b9e0a20ce3cf74f1c8bef752.299x299x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Krzysztof Komeda",
+                            "url": "https://genius.com/artists/Krzysztof-komeda"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/10168240",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "$uicideboy$ - Burgundy (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/c35c124dd149857e3602f2c50fd4bd22.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/c35c124dd149857e3602f2c50fd4bd22.340x340x1.jpg",
+                    "id": 10168240,
+                    "lyrics_owner_id": 17456353,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-uicideboy-burgundy-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-uicideboy-burgundy-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 14
+                    },
+                    "release_date_for_display": "June 14, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 14, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c35c124dd149857e3602f2c50fd4bd22.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/c35c124dd149857e3602f2c50fd4bd22.340x340x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "$uicideboy$ - Burgundy (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "$uicideboy$ - Burgundy (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-uicideboy-burgundy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10168240",
+            "id": 10168240,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-uicideboy-burgundy-lyrics",
+            "title": "$uicideboy$ - Burgundy (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-uicideboy-burgundy-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1548948",
+            "header_image_url": "https://images.genius.com/8665d7dc92081f58209661c477e0d941.640x360x97.gif",
+            "id": 1548948,
+            "image_url": "https://images.genius.com/2785633fd291b9c203574fe516167095.396x396x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Aristos Petrou",
+            "url": "https://genius.com/artists/Aristos-petrou"
+        },
+        {
+            "api_path": "/artists/1548949",
+            "header_image_url": "https://images.genius.com/613cb3da5ef498cd55daf0877e8441fb.640x360x31.gif",
+            "id": 1548949,
+            "image_url": "https://images.genius.com/3b6d041a6cf991e04e2af498e4fa0cd4.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Scott Arceneaux Jr.",
+            "url": "https://genius.com/artists/Scott-arceneaux-jr"
+        },
+        {
+            "api_path": "/artists/1450375",
+            "header_image_url": "https://images.genius.com/02eae2a6cf8182a1aeb8ac094cddc332.750x1000x1.jpg",
+            "id": 1450375,
+            "image_url": "https://images.genius.com/942f0c495f2f55c125946f28695a5450.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sam Bo Bachrack",
+            "url": "https://genius.com/artists/Sam-bo-bachrack",
+            "iq": 333
+        },
+        {
+            "api_path": "/artists/1520793",
+            "header_image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+            "id": 1520793,
+            "image_url": "https://images.genius.com/4ef51337bf3f4ca58b17fa8f3aacc7cc.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "KXVI",
+            "url": "https://genius.com/artists/Kxvi"
+        },
+        {
+            "api_path": "/artists/3492757",
+            "header_image_url": "https://images.genius.com/c9ba98d51635954c8fd9dec113d91ca6.474x474x1.jpg",
+            "id": 3492757,
+            "image_url": "https://images.genius.com/c600c6382af09c23785e4ac5edbf76d3.473x473x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "MILLY ROCK (Producer)",
+            "url": "https://genius.com/artists/Milly-rock-producer",
+            "iq": 116
+        }
+    ],
+    "artist": "$uicideboy$",
+    "lyrics": "72 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Burgundy Lyrics\nLa\u2014 (Y-y-y-y)\nLa\u2014 (Y-y-y-y)\nLa\u2014 (Y), la (Y-y), la-la-la-la (Y-y-y-y-y-y)\n(You did good, $lick)\nLa-la-la-la (It's a smash)\nLa-la-la-la-la-la-la-la-la\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la\nBoy, you better run, 'fore I get my Glock and let it go (Ha, hahaha)\nBoy, you better run, 'fore I get my Glock and let it blow (Ha, hahaha)\nOh, you better run, boy, get those fuckin' legs goin' (Ha, hahaha)\nBoy, you better run, 'fore I get my Glock and let it blow (Ha, hahaha)\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la (Let's go, let's go, let's go)\n\nI was runnin' up the dope before the dough (North)\nYou can check the records\nEver since I got conscious, dyin' was obvious, countin' down the seconds\nI was left with no options, snortin' Oxys off a Smith & Wesson\nBody filled with narcotics, fuck the optics (Pow), bitch, next question (Get the fuck outta here)\nSmokin' like I been stressin' (Smoke)\nHoes tryna read me, leave 'em dyslexic (Ho)\nGet this weight off my chest like I'm bench pressin', ho, I'm big steppin' (Wetto)\nJordan Clarkson with the Narcan\nI shoot for thirty and that's with my off-hand\nWalk in, they like, \"Who let the dogs in?\"\nKill myself 'fore I let an opp win (Yeah)\nBitches beggin' me to get toxic, okay, let me go and pour a cup\nMom and dad would if they could, I ain't even mad they ain't showin' up (Yeah, yeah)\nThinkin' 'bout it got me chokin' up, if I love her, time to blow it up (Skrrt)\nPop on some Percs 'til I'm throwin' up\nThen refresh on X like I'm scrollin' up (Yeah, yeah, yeah, yeah)\nYeah, I got some wounds that ain't closin' up (Let's get it)\nCuts on my body, no tonin' up (Let's get it)\nGhost that there ain't no disposin' of (Let's go), huh, yeah (Let's go, ayy), ayy\nEmotionless, but the dose is up (Let's get it)\nFuck affection, I don't cozy up (Fuck)\nYou in my house, and that's close enough (Yeah)\nI got problems with trust (Yeah), I got problems with lust (Yeah)\nBitch, that's powder, not dust\nWhole gang brain fucked, G*59, we the cult\nThey ain't nothin' like us (Grey), they say, \"Huh?\" I say, \"What?\"\nI drink Tuss', they drink nut, they all pussies, get touched (Yeah)\nTurn a opp to a slut (Yeah), turn his block to a blunt (Grrah)\nWatch my dog, he got flushed, lookin' at his first dead body (Fuck outta here)\nLife too painful and the game will change you\nHave you sayin', \"Fuck everybody\" (Fuck 'em)\nI don't give a fuck what they hear about me (Fuck)\nGot a couple killers includin' Dre 'round me\nBetter think twice 'fore you play 'round me (Yeah, uh, oh)\nGot more guns on me than a red county\n\nCopped the Porsche 911, now I'm gettin' randomly selected (What the fuck?)\nSearched for drugs and bombs and weapons\nWait a second (Huh), no need for aggression (Nope)\nJust a common misconception bettin' that they'll threaten my profession (Probably)\nTheir perception of who I am won't make me question who I am, damn\nRose gold and morganite lookin' like a suicidal gesture (Who)\nKnocked her ex-boyfriend the fuck out, just so I could impress her (Fuck him)\nJust so I could undress her (Yeah)\nNow I'm payin' for the fall semester (Goddamn)\nTold her to call me professor after winter break I'ma hand her off to my successor\nStrive for the greater and never the lesser\nMe and $crim made it without an investor (Ayy)\nYeah, we survived suicidal adventures (Ayy)\nMade a pact that we would never surrender (Huh?)\nNever surrender (Say it again)\nMade a pact that we would never surrender\nSellin' my soul to my dreams and my goals but I won't ever stop until I'm on the stretcher\nThere's a demon in me and I think it might've overstayed its welcome (Uhh)\nThere's a demon in me and it's helpin' me to reach a state of bedlam (Uh-oh)\nSnortin' these pills like I'm tryin' to smell 'em (Ayy)\nI'm declarin' war on my cerebellum (Ayy)\nMy worst enemy is the version of me that I can't even fuckin' remember (Ayy, ayy, ayy)\nUh, yeah, Ruby been destined for the looney bin\n'Round my finger the Uzi spins\nWhile I'm chuggin' some bougie gin, lose or win\nI'm never slowin' down like, we losin' wind, I'm groomin' them for death\n'Cause my lifestyle, will have you choosin' limbs, the moon is dim\nTonight I'll have to remain locked up in my tomb again\nTook too many Xans I started askin', \"Who is $crim?,\"the knot is loose again\nSomeone tied the noose too thin\nLivin' life like pullin' teeth, I'll die with a toothless grin\n\nBoy, you better run, 'fore I get my Glock and let it go\nBoy, you better run, 'fore I get my Glock and let it blow\nBoy, you better run, 'fore I get my Glock and let it go\nBoy, you better run, 'fore I get my Glock and let it blow\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la\nLa-la-la-la\nLa-la-la-la-la-la-la-la-la"
+}

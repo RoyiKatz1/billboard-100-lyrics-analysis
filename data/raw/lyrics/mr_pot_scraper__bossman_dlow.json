@@ -1,0 +1,828 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10083318",
+    "artist_names": "BossMan Dlow",
+    "full_title": "Mr Pot Scraper by\u00a0BossMan\u00a0Dlow",
+    "header_image_thumbnail_url": "https://images.genius.com/949c3a49cf3cd7712af38e3213227898.300x300x1.png",
+    "header_image_url": "https://images.genius.com/949c3a49cf3cd7712af38e3213227898.1000x1000x1.png",
+    "id": 10083318,
+    "instrumental": false,
+    "lyrics_owner_id": 54639,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1738482466,
+    "path": "/Bossman-dlow-mr-pot-scraper-lyrics",
+    "primary_artist_names": "BossMan Dlow",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Bossman-dlow-mr-pot-scraper-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 2,
+        "day": 19
+    },
+    "release_date_for_display": "February 19, 2024",
+    "release_date_with_abbreviated_month_for_display": "Feb. 19, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/949c3a49cf3cd7712af38e3213227898.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/949c3a49cf3cd7712af38e3213227898.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 18,
+        "iq_earners": 18,
+        "transcribers": 1,
+        "unreviewed_annotations": 10,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 48387
+    },
+    "title": "Mr Pot Scraper",
+    "title_with_featured": "Mr Pot Scraper",
+    "updated_by_human_at": 1738482466,
+    "url": "https://genius.com/Bossman-dlow-mr-pot-scraper-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3574079",
+        "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+        "id": 3574079,
+        "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BossMan Dlow",
+        "url": "https://genius.com/artists/Bossman-dlow"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        }
+    ],
+    "apple_music_id": "1729685108",
+    "apple_music_player_url": "https://genius.com/songs/10083318/apple_music_player",
+    "description": {
+        "plain": "Mr pot scraper"
+    },
+    "embed_content": "<div id='rg_embed_link_10083318' class='rg_embed_link' data-song-id='10083318'>Read <a href='https://genius.com/Bossman-dlow-mr-pot-scraper-lyrics'>\u201cMr Pot Scraper\u201d by BossMan\u00a0Dlow</a> on Genius</div> <script crossorigin src='//genius.com/songs/10083318/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-02-19",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fbe216",
+    "song_art_secondary_color": "#49acf6",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1156860",
+        "cover_art_url": "https://images.genius.com/ce1b9fa3015b58ebba655dde63e94d68.1000x1000x1.png",
+        "full_title": "Mr. Beat the Road by BossMan Dlow",
+        "id": 1156860,
+        "name": "Mr. Beat the Road",
+        "primary_artist_names": "BossMan Dlow",
+        "release_date_for_display": "March 15, 2024",
+        "url": "https://genius.com/albums/Bossman-dlow/Mr-beat-the-road",
+        "artist": {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3574079",
+                "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                "id": 3574079,
+                "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BossMan Dlow",
+                "url": "https://genius.com/artists/Bossman-dlow"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2731721",
+                    "header_image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "id": 2731721,
+                    "image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CottoOverDidIt",
+                    "url": "https://genius.com/artists/Cottooverdidit"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/2731721",
+                    "header_image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "id": 2731721,
+                    "image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CottoOverDidIt",
+                    "url": "https://genius.com/artists/Cottooverdidit"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 23047246,
+        "annotator_login": "DanahueDuncan",
+        "api_path": "/referents/32195163",
+        "classification": "unreviewed",
+        "fragment": "Mr Pot Scraper",
+        "id": 32195163,
+        "is_description": true,
+        "path": "/32195163/Bossman-dlow-mr-pot-scraper/Mr-pot-scraper",
+        "range": {
+            "content": "Mr Pot Scraper"
+        },
+        "song_id": 10083318,
+        "url": "https://genius.com/32195163/Bossman-dlow-mr-pot-scraper/Mr-pot-scraper",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10083318",
+            "client_timestamps": {
+                "updated_by_human_at": 1738482466,
+                "lyrics_updated_at": 1738482466
+            },
+            "context": "BossMan Dlow",
+            "id": 10083318,
+            "image_url": "https://images.genius.com/949c3a49cf3cd7712af38e3213227898.1000x1000x1.png",
+            "link_title": "Mr Pot Scraper by\u00a0BossMan\u00a0Dlow",
+            "title": "Mr Pot Scraper",
+            "type": "Song",
+            "url": "https://genius.com/Bossman-dlow-mr-pot-scraper-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32195163",
+                "body": {
+                    "plain": "Mr pot scraper"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 32195163,
+                "pinned": false,
+                "share_url": "https://genius.com/32195163",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32195163/Bossman-dlow-mr-pot-scraper/Mr-pot-scraper",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/23047246",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/bce3df95c7d191ebaf2b6b723c970e6a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/bce3df95c7d191ebaf2b6b723c970e6a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/bce3df95c7d191ebaf2b6b723c970e6a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/bce3df95c7d191ebaf2b6b723c970e6a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/bce3df95c7d191ebaf2b6b723c970e6a",
+                            "human_readable_role_for_display": null,
+                            "id": 23047246,
+                            "iq": 105,
+                            "login": "DanahueDuncan",
+                            "name": "DanahueDuncan",
+                            "role_for_display": null,
+                            "url": "https://genius.com/DanahueDuncan",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897271,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897271,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bossman dlow",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bossman-dlow/mr-pot-scraper"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=UxJeFrWYuB4"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/635250",
+            "header_image_url": "https://images.genius.com/dd9adeb70b639bcad2a2f05ed5946ea7.300x300x1.jpg",
+            "id": 635250,
+            "image_url": "https://images.genius.com/dd9adeb70b639bcad2a2f05ed5946ea7.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "King Nathan",
+            "url": "https://genius.com/artists/King-nathan"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": [
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/11267992",
+                    "artist_names": "Bando Dollaz",
+                    "full_title": "MADE NIGGAZ by\u00a0Bando\u00a0Dollaz",
+                    "header_image_thumbnail_url": "https://images.genius.com/db6ee62c180e5212e19576baf409d5ad.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/db6ee62c180e5212e19576baf409d5ad.464x464x1.jpg",
+                    "id": 11267992,
+                    "lyrics_owner_id": 22608489,
+                    "lyrics_state": "complete",
+                    "path": "/Bando-dollaz-made-niggaz-lyrics",
+                    "primary_artist_names": "Bando Dollaz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bando-dollaz-made-niggaz-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 25
+                    },
+                    "release_date_for_display": "December 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/db6ee62c180e5212e19576baf409d5ad.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/db6ee62c180e5212e19576baf409d5ad.464x464x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "MADE NIGGAZ",
+                    "title_with_featured": "MADE NIGGAZ",
+                    "url": "https://genius.com/Bando-dollaz-made-niggaz-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4230281",
+                        "header_image_url": "https://images.genius.com/2ef5898adfbed89551b624b5550f56e0.150x150x1.jpg",
+                        "id": 4230281,
+                        "image_url": "https://images.genius.com/2ef5898adfbed89551b624b5550f56e0.150x150x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bando Dollaz",
+                        "url": "https://genius.com/artists/Bando-dollaz"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4230281",
+                            "header_image_url": "https://images.genius.com/2ef5898adfbed89551b624b5550f56e0.150x150x1.jpg",
+                            "id": 4230281,
+                            "image_url": "https://images.genius.com/2ef5898adfbed89551b624b5550f56e0.150x150x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bando Dollaz",
+                            "url": "https://genius.com/artists/Bando-dollaz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10778971",
+                    "artist_names": "\u200breefuh",
+                    "full_title": "Carrera by\u00a0\u200breefuh",
+                    "header_image_thumbnail_url": "https://images.genius.com/161c5341c439bde11bf872fbe742ead7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/161c5341c439bde11bf872fbe742ead7.1000x1000x1.png",
+                    "id": 10778971,
+                    "lyrics_owner_id": 13688155,
+                    "lyrics_state": "complete",
+                    "path": "/Reefuh-carrera-lyrics",
+                    "primary_artist_names": "\u200breefuh",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Reefuh-carrera-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/161c5341c439bde11bf872fbe742ead7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/161c5341c439bde11bf872fbe742ead7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Carrera",
+                    "title_with_featured": "Carrera",
+                    "url": "https://genius.com/Reefuh-carrera-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2963983",
+                        "header_image_url": "https://images.genius.com/42f0865c6acc01929e6aae6238f984f2.800x1000x1.jpg",
+                        "id": 2963983,
+                        "image_url": "https://images.genius.com/256a122be5d248afc21cdaf42238fa73.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200breefuh",
+                        "url": "https://genius.com/artists/Reefuh"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2963983",
+                            "header_image_url": "https://images.genius.com/42f0865c6acc01929e6aae6238f984f2.800x1000x1.jpg",
+                            "id": 2963983,
+                            "image_url": "https://images.genius.com/256a122be5d248afc21cdaf42238fa73.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200breefuh",
+                            "url": "https://genius.com/artists/Reefuh"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10638353",
+                    "artist_names": "Brandon Jamal",
+                    "full_title": "Mr. Plan B by\u00a0Brandon\u00a0Jamal",
+                    "header_image_thumbnail_url": "https://images.genius.com/56e440f2cde0a37976c8286f1a5ec88d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/56e440f2cde0a37976c8286f1a5ec88d.500x500x1.jpg",
+                    "id": 10638353,
+                    "lyrics_owner_id": 21652253,
+                    "lyrics_state": "unreleased",
+                    "path": "/Brandon-jamal-mr-plan-b-lyrics",
+                    "primary_artist_names": "Brandon Jamal",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Brandon-jamal-mr-plan-b-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 19
+                    },
+                    "release_date_for_display": "June 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/56e440f2cde0a37976c8286f1a5ec88d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/56e440f2cde0a37976c8286f1a5ec88d.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Mr. Plan B",
+                    "title_with_featured": "Mr. Plan B",
+                    "url": "https://genius.com/Brandon-jamal-mr-plan-b-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3916674",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 3916674,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Brandon Jamal",
+                        "url": "https://genius.com/artists/Brandon-jamal"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3916674",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3916674,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brandon Jamal",
+                            "url": "https://genius.com/artists/Brandon-jamal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        },
+        {
+            "api_path": "/artists/635250",
+            "header_image_url": "https://images.genius.com/dd9adeb70b639bcad2a2f05ed5946ea7.300x300x1.jpg",
+            "id": 635250,
+            "image_url": "https://images.genius.com/dd9adeb70b639bcad2a2f05ed5946ea7.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "King Nathan",
+            "url": "https://genius.com/artists/King-nathan"
+        }
+    ],
+    "artist": "BossMan Dlow",
+    "lyrics": "18 ContributorsMr Pot Scraper Lyrics\nYeah\nYeah\n(King Nathan with another one)\nBig Za\n\nLeft pocket full of pink fifties, right pocket got blues in it (Beep, beep, beep)\nPlug sendin' them packs to me, I know what to do with it (Brrt)\nThousand-dollar shoes, I'm walkin' on a damn ounce (Nigga)\nHe ain't runnin' up a bag, he runnin' his damn mouth (Pussy)\nI'm Mr. Swang a Door (Yeah), Mr. Beat the Road, huh (Yeah)\nTwo thousand on a coat (Nigga), steppin' on they throat (Nigga)\nI'm Mr. Ride Foreign (Ride Foreign), I'm Mr. Ain't Goin' (No)\nHe Mr. Pump Faker, I'm Mr. Pot Scraper\n\nThe way I'm drivin' the\u2014, I just might wreck or somethin' (Yoom)\nWhy would I chase a bitch? I can go chase a check or somethin' (Nigga)\nYou ain't talkin' 'bout no money, nigga, burn up, nigga (Burn up, nigga)\nFuckin' with the yeah got me turnt up, nigga (Yeah)\nNigga too slippery, walk in the club and make a mess (Yeah)\nThey thought a nigga was sweatin', all this water on my chest (Bling)\nYeah, I want M's, nigga, I ain't settlin' for less (No)\nI ain't DJ Khaled, baby, but you know we the best (We the best, baby)\nNigga, I ain't fuckin' off, I done seen a hundred ball (Nigga)\nFlip phone\u2014, trap doin' somersaults (Trap)\nNigga, I ain't fuckin' off, I done seen a hundred ball (Nigga)\nFlip phone\u2014, trap doin' somersaults (Yeah)\nTrap doin' hurdles, nigga, your phone like a turtle, nigga\nYou is not no fuckin' boss, you know you a worker, nigga\nI'm a fuckin' splurger, nigga, I'm a dope server, nigga\nReal street nigga, foreign whip swerver, nigga (Yoom)\n\nLeft pocket full of pink fifties, right pocket got blues in it (Beep, beep, beep)\nPlug sendin' them packs to me, I know what to do with it (Brrt)\nThousand-dollar shoes, I'm walkin' on a damn ounce (Nigga)\nHe ain't runnin' up a bag, he runnin' his damn mouth (Pussy)\nI'm Mr. Swang a Door (Yeah), Mr. Beat the Road (Yeah)\nTwo thousand on a coat (Nigga), steppin' on they throat (Nigga)\nI'm Mr. Ride Foreign (Ride Foreign), I'm Mr. Ain't Goin' (No)\nHe Mr. Pump Faker, I'm Mr. Pot Scraper"
+}

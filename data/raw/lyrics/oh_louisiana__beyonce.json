@@ -1,0 +1,1322 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10212124",
+    "artist_names": "Beyonc\u00e9",
+    "full_title": "OH LOUISIANA by\u00a0Beyonc\u00e9",
+    "header_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "id": 10212124,
+    "instrumental": false,
+    "lyrics_owner_id": 14287967,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712476375,
+    "path": "/Beyonce-oh-louisiana-lyrics",
+    "primary_artist_names": "Beyonc\u00e9",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Beyonce-oh-louisiana-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 29
+    },
+    "release_date_for_display": "March 29, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 29,
+        "iq_earners": 29,
+        "transcribers": 4,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 59502
+    },
+    "title": "OH LOUISIANA",
+    "title_with_featured": "OH LOUISIANA",
+    "updated_by_human_at": 1745870967,
+    "url": "https://genius.com/Beyonce-oh-louisiana-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/498",
+        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+        "id": 498,
+        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beyonc\u00e9",
+        "url": "https://genius.com/artists/Beyonce"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        }
+    ],
+    "apple_music_id": "1738371151",
+    "apple_music_player_url": "https://genius.com/songs/10212124/apple_music_player",
+    "description": {
+        "plain": "\u201cOH LOUISIANA\u201d is a bridge between songs that interpolates the first verse from Chuck Berry\u2019s \u201cOh Louisiana\u201d. It reflects Beyonc\u00e9\u2019s heritage, as her mother Tina is Louisiana Creole. Beyonc\u00e9 has previously paid tribute to the state and her Southern roots on B'Day and Lemonade."
+    },
+    "embed_content": "<div id='rg_embed_link_10212124' class='rg_embed_link' data-song-id='10212124'>Read <a href='https://genius.com/Beyonce-oh-louisiana-lyrics'>\u201cOH LOUISIANA\u201d by Beyonc\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/10212124/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Westlake Recording Studios (Los Angeles, CA)",
+    "release_date": "2024-03-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dcdcd9",
+    "song_art_secondary_color": "#7e7d7c",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1043786",
+        "cover_art_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+        "full_title": "COWBOY CARTER by Beyonc\u00e9",
+        "id": 1043786,
+        "name": "COWBOY CARTER",
+        "primary_artist_names": "Beyonc\u00e9",
+        "release_date_for_display": "March 29, 2024",
+        "url": "https://genius.com/albums/Beyonce/Cowboy-carter",
+        "artist": {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/498",
+                "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                "id": 498,
+                "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Beyonc\u00e9",
+                "url": "https://genius.com/artists/Beyonce"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1189403",
+                    "header_image_url": "https://images.genius.com/92ffbd394fa7f8aa0894726b78dea144.1000x333x1.jpg",
+                    "id": 1189403,
+                    "image_url": "https://images.genius.com/e1c0053459c0a02dcf96e3b8a4f4c0b1.387x387x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SING Mastering",
+                    "url": "https://genius.com/artists/Sing-mastering"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/1039903",
+                    "header_image_url": "https://images.genius.com/6ca7c9cf5317239fc54193e5c5c8e661.744x744x1.jpg",
+                    "id": 1039903,
+                    "image_url": "https://images.genius.com/6ca7c9cf5317239fc54193e5c5c8e661.744x744x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Westlake Studios",
+                    "url": "https://genius.com/artists/Westlake-studios"
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1881023",
+                    "header_image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "id": 1881023,
+                    "image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrea Roberts",
+                    "url": "https://genius.com/artists/Andrea-roberts"
+                },
+                {
+                    "api_path": "/artists/661270",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661270,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Cranfield",
+                    "url": "https://genius.com/artists/John-cranfield"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2528038",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2528038,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Isalee Music",
+                    "url": "https://genius.com/artists/Isalee-music"
+                },
+                {
+                    "api_path": "/artists/4414476",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4414476,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dualtone Words And Songs",
+                    "url": "https://genius.com/artists/Dualtone-words-and-songs"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1013305",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1013305,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Harding",
+                    "url": "https://genius.com/artists/Brandon-harding"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                },
+                {
+                    "api_path": "/artists/3125989",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3125989,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Sutton",
+                    "url": "https://genius.com/artists/Nick-sutton"
+                },
+                {
+                    "api_path": "/artists/2892322",
+                    "header_image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "id": 2892322,
+                    "image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Lopez Garcia",
+                    "url": "https://genius.com/artists/Jonathan-lopez-garcia"
+                },
+                {
+                    "api_path": "/artists/2083255",
+                    "header_image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "id": 2083255,
+                    "image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick Gardner",
+                    "url": "https://genius.com/artists/Patrick-gardner"
+                },
+                {
+                    "api_path": "/artists/3275496",
+                    "header_image_url": "https://images.genius.com/21b4cece3f89f2a14d05a0a455714665.1000x667x1.jpg",
+                    "id": 3275496,
+                    "image_url": "https://images.genius.com/f4a89df30648b2ea8728a692eb618b6c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Garrett Duncan",
+                    "url": "https://genius.com/artists/Garrett-duncan"
+                },
+                {
+                    "api_path": "/artists/3750310",
+                    "header_image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "id": 3750310,
+                    "image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Terena Dawn",
+                    "url": "https://genius.com/artists/Terena-dawn"
+                },
+                {
+                    "api_path": "/artists/3896714",
+                    "header_image_url": "https://images.genius.com/1b7dd6c0827bdc4642f3f40db0f14306.1000x333x1.jpg",
+                    "id": 3896714,
+                    "image_url": "https://images.genius.com/cdba3cac4c8de75d45d6bff6daca9bc5.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200b\u200b\u200bconjust8",
+                    "url": "https://genius.com/artists/Conjust8"
+                },
+                {
+                    "api_path": "/artists/3899961",
+                    "header_image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "id": 3899961,
+                    "image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danforth Webster",
+                    "url": "https://genius.com/artists/Danforth-webster"
+                },
+                {
+                    "api_path": "/artists/3113960",
+                    "header_image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "id": 3113960,
+                    "image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Dilli",
+                    "url": "https://genius.com/artists/Jeremy-dilli"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                },
+                {
+                    "api_path": "/artists/19340",
+                    "header_image_url": "https://images.genius.com/f21824f0b94d37c44b387118d337bf43.640x421x1.jpg",
+                    "id": 19340,
+                    "image_url": "https://images.genius.com/af5bfacf7d280d1d9805c1bfbcf86d21.560x560x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chuck Berry",
+                    "url": "https://genius.com/artists/Chuck-berry"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 3498485,
+        "annotator_login": "MikeSelinker",
+        "api_path": "/referents/31268678",
+        "classification": "accepted",
+        "fragment": "OH LOUISIANA",
+        "id": 31268678,
+        "is_description": true,
+        "path": "/31268678/Beyonce-oh-louisiana/Oh-louisiana",
+        "range": {
+            "content": "OH LOUISIANA"
+        },
+        "song_id": 10212124,
+        "url": "https://genius.com/31268678/Beyonce-oh-louisiana/Oh-louisiana",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10212124",
+            "client_timestamps": {
+                "updated_by_human_at": 1745870967,
+                "lyrics_updated_at": 1712476375
+            },
+            "context": "Beyonc\u00e9",
+            "id": 10212124,
+            "image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+            "link_title": "OH LOUISIANA by\u00a0Beyonc\u00e9",
+            "title": "OH LOUISIANA",
+            "type": "Song",
+            "url": "https://genius.com/Beyonce-oh-louisiana-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31268678",
+                "body": {
+                    "plain": "\u201cOH LOUISIANA\u201d is a bridge between songs that interpolates the first verse from Chuck Berry\u2019s \u201cOh Louisiana\u201d. It reflects Beyonc\u00e9\u2019s heritage, as her mother Tina is Louisiana Creole. Beyonc\u00e9 has previously paid tribute to the state and her Southern roots on B'Day and Lemonade."
+                },
+                "comment_count": 1,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31268678,
+                "pinned": false,
+                "share_url": "https://genius.com/31268678",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31268678/Beyonce-oh-louisiana/Oh-louisiana",
+                "verified": false,
+                "votes_total": 18,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.5909090909090909,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/3498485",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/6e193ec8c5e02f4d2e6afac1171cea1a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/6e193ec8c5e02f4d2e6afac1171cea1a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/6e193ec8c5e02f4d2e6afac1171cea1a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/6e193ec8c5e02f4d2e6afac1171cea1a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/6e193ec8c5e02f4d2e6afac1171cea1a",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 3498485,
+                            "iq": 24353,
+                            "login": "MikeSelinker",
+                            "name": "MikeSelinker",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/MikeSelinker",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.40909090909090906,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14763594",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/pf5348d6weg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 14763594,
+                            "iq": 778,
+                            "login": "cjvallezg",
+                            "name": "cjvallezg",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/cjvallezg",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/14287967",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/301cff2ab6519052efcc3b13fe3fe1c8",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/301cff2ab6519052efcc3b13fe3fe1c8",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/301cff2ab6519052efcc3b13fe3fe1c8",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/301cff2ab6519052efcc3b13fe3fe1c8",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/7zyu0ggqtca",
+        "human_readable_role_for_display": "Contributor",
+        "id": 14287967,
+        "iq": 529502,
+        "login": "777TT",
+        "name": "777TT | #FreePalestine",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/777TT",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "beyonce",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/beyonce/beyonce-oh-louisiana"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=YAWjXmdq8gw"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/1181",
+            "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+            "id": 1181,
+            "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "The-Dream",
+            "url": "https://genius.com/artists/The-dream",
+            "iq": 14277
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/440295",
+                    "artist_names": "Chuck Berry",
+                    "full_title": "Oh Louisiana by\u00a0Chuck\u00a0Berry",
+                    "header_image_thumbnail_url": "https://images.genius.com/8fd08cc677371c0d1fe977599d454271.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8fd08cc677371c0d1fe977599d454271.1000x1000x1.jpg",
+                    "id": 440295,
+                    "lyrics_owner_id": 3492882,
+                    "lyrics_state": "complete",
+                    "path": "/Chuck-berry-oh-louisiana-lyrics",
+                    "primary_artist_names": "Chuck Berry",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Chuck-berry-oh-louisiana-sample",
+                    "release_date_components": {
+                        "year": 1971,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "1971",
+                    "release_date_with_abbreviated_month_for_display": "1971",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8fd08cc677371c0d1fe977599d454271.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8fd08cc677371c0d1fe977599d454271.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Oh Louisiana",
+                    "title_with_featured": "Oh Louisiana",
+                    "url": "https://genius.com/Chuck-berry-oh-louisiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/19340",
+                        "header_image_url": "https://images.genius.com/f21824f0b94d37c44b387118d337bf43.640x421x1.jpg",
+                        "id": 19340,
+                        "image_url": "https://images.genius.com/af5bfacf7d280d1d9805c1bfbcf86d21.560x560x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Chuck Berry",
+                        "url": "https://genius.com/artists/Chuck-berry"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/19340",
+                            "header_image_url": "https://images.genius.com/f21824f0b94d37c44b387118d337bf43.640x421x1.jpg",
+                            "id": 19340,
+                            "image_url": "https://images.genius.com/af5bfacf7d280d1d9805c1bfbcf86d21.560x560x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Chuck Berry",
+                            "url": "https://genius.com/artists/Chuck-berry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Beyonce-oh-louisiana-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10220627",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Beyonc\u00e9 - OH LOUISIANA (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10220627,
+                    "lyrics_owner_id": 253045,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-beyonce-oh-louisiana-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-oh-louisiana-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - OH LOUISIANA (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Beyonc\u00e9 - OH LOUISIANA (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-oh-louisiana-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10226201",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Beyonc\u00e9 - OH LOUISIANA (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10226201,
+                    "lyrics_owner_id": 14506753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-beyonce-oh-louisiana-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-beyonce-oh-louisiana-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - OH LOUISIANA (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Beyonc\u00e9 - OH LOUISIANA (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-beyonce-oh-louisiana-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10290460",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Beyonc\u00e9 - OH LOUISIANA (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "id": 10290460,
+                    "lyrics_owner_id": 1025804,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-beyonce-oh-louisiana-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-oh-louisiana-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - OH LOUISIANA (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Beyonc\u00e9 - OH LOUISIANA (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-oh-louisiana-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10260509",
+                    "artist_names": "Genius Nederlandse Vertalingen",
+                    "full_title": "Beyonc\u00e9 - OH LOUISIANA (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "id": 10260509,
+                    "lyrics_owner_id": 8909468,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-nederlandse-vertalingen-beyonce-oh-louisiana-nederlandse-vertaling-lyrics",
+                    "primary_artist_names": "Genius Nederlandse Vertalingen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-oh-louisiana-nederlandse-vertaling-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - OH LOUISIANA (Nederlandse Vertaling)",
+                    "title_with_featured": "Beyonc\u00e9 - OH LOUISIANA (Nederlandse Vertaling)",
+                    "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-oh-louisiana-nederlandse-vertaling-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1805866",
+                        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                        "id": 1805866,
+                        "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Nederlandse Vertalingen",
+                        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1805866",
+                            "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                            "id": 1805866,
+                            "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Nederlandse Vertalingen",
+                            "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10215705",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Beyonc\u00e9 - OH LOUISIANA (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.780x780x1.png",
+                    "id": 10215705,
+                    "lyrics_owner_id": 6646713,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-beyonce-oh-louisiana-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-beyonce-oh-louisiana-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - OH LOUISIANA (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Beyonc\u00e9 - OH LOUISIANA (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-beyonce-oh-louisiana-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10217034",
+            "id": 10217034,
+            "language": "ru",
+            "lyrics_state": "incomplete",
+            "path": "/Genius-russian-translations-beyonce-oh-louisiana-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-beyonce-oh-louisiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10220627",
+            "id": 10220627,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-beyonce-oh-louisiana-deutsche-ubersetzung-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-oh-louisiana-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10226201",
+            "id": 10226201,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-beyonce-oh-louisiana-traducao-em-portugues-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-beyonce-oh-louisiana-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10290460",
+            "id": 10290460,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-beyonce-oh-louisiana-polskie-tumaczenie-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-oh-louisiana-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10260509",
+            "id": 10260509,
+            "language": "nl",
+            "lyrics_state": "complete",
+            "path": "/Genius-nederlandse-vertalingen-beyonce-oh-louisiana-nederlandse-vertaling-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (Nederlandse Vertaling)",
+            "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-oh-louisiana-nederlandse-vertaling-lyrics"
+        },
+        {
+            "api_path": "/songs/10215705",
+            "id": 10215705,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-beyonce-oh-louisiana-turkce-ceviri-lyrics",
+            "title": "Beyonc\u00e9 - OH LOUISIANA (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-beyonce-oh-louisiana-turkce-ceviri-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/19340",
+            "header_image_url": "https://images.genius.com/f21824f0b94d37c44b387118d337bf43.640x421x1.jpg",
+            "id": 19340,
+            "image_url": "https://images.genius.com/af5bfacf7d280d1d9805c1bfbcf86d21.560x560x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chuck Berry",
+            "url": "https://genius.com/artists/Chuck-berry"
+        }
+    ],
+    "artist": "Beyonc\u00e9",
+    "lyrics": "29 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)DeutschPortugu\u00easPolskiNederlandsT\u00fcrk\u00e7eOH LOUISIANA Lyrics\u201cOH LOUISIANA\u201d is a bridge between songs that interpolates the first verse from Chuck Berry\u2019s \u201cOh Louisiana\u201d. It reflects Beyonc\u00e9\u2019s heritage, as her mother Tina is Louisiana Creole. Beyonc\u00e9 has previously\u2026 Read More\u00a0\nOh-woah, woah\nOh, Louisiana\nI stayed away from you too long\nOh, Louisiana\nHow can a true love go so wrong?\nShe put me in shame and in sorrow\nAnd I come home tomorrow\nOh, Louisiana"
+}

@@ -1,0 +1,547 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/8626520",
+    "artist_names": "Chase Matthew",
+    "full_title": "Love You Again by\u00a0Chase\u00a0Matthew",
+    "header_image_thumbnail_url": "https://images.genius.com/e1486477e904ab60ff633680ec9b9cd9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e1486477e904ab60ff633680ec9b9cd9.1000x1000x1.png",
+    "id": 8626520,
+    "instrumental": false,
+    "lyrics_owner_id": 93685,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1709100995,
+    "path": "/Chase-matthew-love-you-again-lyrics",
+    "primary_artist_names": "Chase Matthew",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Chase-matthew-love-you-again-sample",
+    "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 9
+    },
+    "release_date_for_display": "December 9, 2022",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e1486477e904ab60ff633680ec9b9cd9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e1486477e904ab60ff633680ec9b9cd9.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 6798
+    },
+    "title": "Love You Again",
+    "title_with_featured": "Love You Again",
+    "updated_by_human_at": 1745760228,
+    "url": "https://genius.com/Chase-matthew-love-you-again-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1969016",
+        "header_image_url": "https://images.genius.com/7c4002d7334fa1f7b4b28e82e5e8f987.803x803x1.jpg",
+        "id": 1969016,
+        "image_url": "https://images.genius.com/3934802526216a6e774c5c0a206f14fd.803x803x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chase Matthew",
+        "url": "https://genius.com/artists/Chase-matthew"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1969016",
+            "header_image_url": "https://images.genius.com/7c4002d7334fa1f7b4b28e82e5e8f987.803x803x1.jpg",
+            "id": 1969016,
+            "image_url": "https://images.genius.com/3934802526216a6e774c5c0a206f14fd.803x803x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chase Matthew",
+            "url": "https://genius.com/artists/Chase-matthew"
+        }
+    ],
+    "apple_music_id": "1679761203",
+    "apple_music_player_url": "https://genius.com/songs/8626520/apple_music_player",
+    "description": {
+        "plain": "\u201cLove You Again\u201d is a song recorded by American country music singer Chase Matthew, released on Decmber 9, 2022 as the lead single from his second studio album, Come Get Your Memory. The song reached No. 17 on the US Country Airplay chart in April 2023. Matthew co-wrote with Casey Brown and Taylor Phillips, and co-produced it with Austin Shawn."
+    },
+    "embed_content": "<div id='rg_embed_link_8626520' class='rg_embed_link' data-song-id='8626520'>Read <a href='https://genius.com/Chase-matthew-love-you-again-lyrics'>\u201cLove You Again\u201d by Chase\u00a0Matthew</a> on Genius</div> <script crossorigin src='//genius.com/songs/8626520/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2022-12-09",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#1b3eb6",
+    "song_art_secondary_color": "#0c227a",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1035588",
+        "cover_art_url": "https://images.genius.com/53a5e9913bcc11adbf4ac3597e92ec5f.1000x1000x1.png",
+        "full_title": "Come Get Your Memory by Chase Matthew",
+        "id": 1035588,
+        "name": "Come Get Your Memory",
+        "primary_artist_names": "Chase Matthew",
+        "release_date_for_display": "June 9, 2023",
+        "url": "https://genius.com/albums/Chase-matthew/Come-get-your-memory",
+        "artist": {
+            "api_path": "/artists/1969016",
+            "header_image_url": "https://images.genius.com/7c4002d7334fa1f7b4b28e82e5e8f987.803x803x1.jpg",
+            "id": 1969016,
+            "image_url": "https://images.genius.com/3934802526216a6e774c5c0a206f14fd.803x803x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chase Matthew",
+            "url": "https://genius.com/artists/Chase-matthew"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1969016",
+                "header_image_url": "https://images.genius.com/7c4002d7334fa1f7b4b28e82e5e8f987.803x803x1.jpg",
+                "id": 1969016,
+                "image_url": "https://images.genius.com/3934802526216a6e774c5c0a206f14fd.803x803x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Chase Matthew",
+                "url": "https://genius.com/artists/Chase-matthew"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8273289,
+        "annotator_login": "TheoFeliciano",
+        "api_path": "/referents/27306519",
+        "classification": "unreviewed",
+        "fragment": "Love You Again",
+        "id": 27306519,
+        "is_description": true,
+        "path": "/27306519/Chase-matthew-love-you-again/Love-you-again",
+        "range": {
+            "content": "Love You Again"
+        },
+        "song_id": 8626520,
+        "url": "https://genius.com/27306519/Chase-matthew-love-you-again/Love-you-again",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8626520",
+            "client_timestamps": {
+                "updated_by_human_at": 1745760228,
+                "lyrics_updated_at": 1709100995
+            },
+            "context": "Chase Matthew",
+            "id": 8626520,
+            "image_url": "https://images.genius.com/e1486477e904ab60ff633680ec9b9cd9.1000x1000x1.png",
+            "link_title": "Love You Again by\u00a0Chase\u00a0Matthew",
+            "title": "Love You Again",
+            "type": "Song",
+            "url": "https://genius.com/Chase-matthew-love-you-again-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/27306519",
+                "body": {
+                    "plain": "\u201cLove You Again\u201d is a song recorded by American country music singer Chase Matthew, released on Decmber 9, 2022 as the lead single from his second studio album, Come Get Your Memory. The song reached No. 17 on the US Country Airplay chart in April 2023. Matthew co-wrote with Casey Brown and Taylor Phillips, and co-produced it with Austin Shawn."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 27306519,
+                "pinned": false,
+                "share_url": "https://genius.com/27306519",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27306519/Chase-matthew-love-you-again/Love-you-again",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/8273289",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 8273289,
+                            "iq": 5746,
+                            "login": "TheoFeliciano",
+                            "name": "TheoFeliciano",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/TheoFeliciano",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=rjZlcSl_nno"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1525149",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1525149,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Austin Shawn",
+            "url": "https://genius.com/artists/Austin-shawn"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/330123",
+            "header_image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+            "id": 330123,
+            "image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Casey Brown",
+            "url": "https://genius.com/artists/Casey-brown"
+        },
+        {
+            "api_path": "/artists/1969016",
+            "header_image_url": "https://images.genius.com/7c4002d7334fa1f7b4b28e82e5e8f987.803x803x1.jpg",
+            "id": 1969016,
+            "image_url": "https://images.genius.com/3934802526216a6e774c5c0a206f14fd.803x803x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chase Matthew",
+            "url": "https://genius.com/artists/Chase-matthew"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        }
+    ],
+    "artist": "Chase Matthew",
+    "lyrics": "6 ContributorsLove You Again Lyrics\n(Gonna love you again, gonna love you again)\n(I'm gonna love you like I'm never gonna love you again)\n\nIt's been a hell of a week, been countin' every minute\nI know what's waitin' for me and I can't wait to get it\nLet's leave my truck in the drive 'cause, girl, I'm on a mission\nWe could stay in tonight, but I got one condition\nYeah, I know we made plans with the neons\nBut you're lookin' lights-out, turnin' me on\n\nThat black dress got your boy seein' red\nSlippin' off your shoulders, pullin' me into bed\nMake it last like it's the last time\nTonight, I'm gonna love you like I'm never gonna love you again\nLet the midnight go where it's gonna go\nLet the candlelight shadows put on a show\nTalkin' sunset, sunrise\nTonight, I'm gonna love you like I'm never gonna love you again\n\n(Like I'm never gonna love you again)\n\nYou got me drunk on your love, we're makin' every letter\nIf you gon' kiss me like you kiss me, make it last forever\n'Cause you're the king-size I wanna be on\nEverything about you baby's turnin' me on\n\nThat black dress got your boy seein' red\nSlippin' off your shoulders, pullin' me into bed\nMake it last like it's the last time\nTonight, I'm gonna love you like I'm never gonna love you again\nLet the midnight go where it's gonna go\nLet the candlelight shadows put on a show\nTalkin' sunset, sunrise\nTonight, I'm gonna love you like I'm never gonna love you again\n\n(Like I'm never gonna love you again)\n\nThat black dress got your boy seein' red\nSlippin' off your shoulders, pullin' me into bed\nMake it last like it's the last time\nTonight, I'm gonna love you like I'm never gonna love you again\nLet the midnight go where it's gonna go\nLet the candlelight shadows put on a show\nTalkin' sunset, sunrise\nTonight, I'm gonna love you like I'm never gonna love you again\n\n(Gonna love you again, gonna love you again)\nTonight, I'm gonna love you like I'm never gonna love you again\n(Gonna love you again, gonna love you again)\n(I'm gonna love you like I'm never gonna love you again)"
+}

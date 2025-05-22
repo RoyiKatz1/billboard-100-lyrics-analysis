@@ -1,0 +1,1850 @@
+{
+    "_type": "song",
+    "annotation_count": 8,
+    "api_path": "/songs/9959167",
+    "artist_names": "BossMan Dlow",
+    "full_title": "Get In With Me by\u00a0BossMan\u00a0Dlow",
+    "header_image_thumbnail_url": "https://images.genius.com/70201d1eba3a002cdd77773f58175619.300x300x1.png",
+    "header_image_url": "https://images.genius.com/70201d1eba3a002cdd77773f58175619.1000x1000x1.png",
+    "id": 9959167,
+    "instrumental": false,
+    "lyrics_owner_id": 548516,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736127860,
+    "path": "/Bossman-dlow-get-in-with-me-lyrics",
+    "primary_artist_names": "BossMan Dlow",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bossman-dlow-get-in-with-me-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 1,
+        "day": 19
+    },
+    "release_date_for_display": "January 19, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/70201d1eba3a002cdd77773f58175619.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/70201d1eba3a002cdd77773f58175619.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 25,
+        "iq_earners": 25,
+        "transcribers": 3,
+        "unreviewed_annotations": 7,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 191873
+    },
+    "title": "Get In With Me",
+    "title_with_featured": "Get In With Me",
+    "updated_by_human_at": 1747174125,
+    "url": "https://genius.com/Bossman-dlow-get-in-with-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3574079",
+        "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+        "id": 3574079,
+        "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BossMan Dlow",
+        "url": "https://genius.com/artists/Bossman-dlow"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        }
+    ],
+    "apple_music_id": "1725032987",
+    "apple_music_player_url": "https://genius.com/songs/9959167/apple_music_player",
+    "description": {
+        "plain": "\u201cGet in with Me\u201d is a song by American rapper BossMan Dlow, released on January 18, 2024, as a two-track single along with his song \u201cPiss Me Off\u201d. Considered his breakout hit, it gained traction on the video-sharing platform TikTok and became his first song to chart on the Billboard Hot 100, debuting at number 68."
+    },
+    "embed_content": "<div id='rg_embed_link_9959167' class='rg_embed_link' data-song-id='9959167'>Read <a href='https://genius.com/Bossman-dlow-get-in-with-me-lyrics'>\u201cGet In With Me\u201d by BossMan\u00a0Dlow</a> on Genius</div> <script crossorigin src='//genius.com/songs/9959167/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-01-19",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#e98d19",
+    "song_art_secondary_color": "#f2c892",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1156860",
+        "cover_art_url": "https://images.genius.com/ce1b9fa3015b58ebba655dde63e94d68.1000x1000x1.png",
+        "full_title": "Mr. Beat the Road by BossMan Dlow",
+        "id": 1156860,
+        "name": "Mr. Beat the Road",
+        "primary_artist_names": "BossMan Dlow",
+        "release_date_for_display": "March 15, 2024",
+        "url": "https://genius.com/albums/Bossman-dlow/Mr-beat-the-road",
+        "artist": {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3574079",
+                "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                "id": 3574079,
+                "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BossMan Dlow",
+                "url": "https://genius.com/artists/Bossman-dlow"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/2731721",
+                    "header_image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "id": 2731721,
+                    "image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CottoOverDidIt",
+                    "url": "https://genius.com/artists/Cottooverdidit"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2731721",
+                    "header_image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "id": 2731721,
+                    "image_url": "https://images.genius.com/bc5d2890d8262a99bc605489cb701269.174x174x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CottoOverDidIt",
+                    "url": "https://genius.com/artists/Cottooverdidit"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21698018,
+        "annotator_login": "thomas_edward_brady",
+        "api_path": "/referents/31267883",
+        "classification": "accepted",
+        "fragment": "Get In With Me",
+        "id": 31267883,
+        "is_description": true,
+        "path": "/31267883/Bossman-dlow-get-in-with-me/Get-in-with-me",
+        "range": {
+            "content": "Get In With Me"
+        },
+        "song_id": 9959167,
+        "url": "https://genius.com/31267883/Bossman-dlow-get-in-with-me/Get-in-with-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9959167",
+            "client_timestamps": {
+                "updated_by_human_at": 1747174125,
+                "lyrics_updated_at": 1736127860
+            },
+            "context": "BossMan Dlow",
+            "id": 9959167,
+            "image_url": "https://images.genius.com/70201d1eba3a002cdd77773f58175619.1000x1000x1.png",
+            "link_title": "Get In With Me by\u00a0BossMan\u00a0Dlow",
+            "title": "Get In With Me",
+            "type": "Song",
+            "url": "https://genius.com/Bossman-dlow-get-in-with-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31267883",
+                "body": {
+                    "plain": "\u201cGet in with Me\u201d is a song by American rapper BossMan Dlow, released on January 18, 2024, as a two-track single along with his song \u201cPiss Me Off\u201d. Considered his breakout hit, it gained traction on the video-sharing platform TikTok and became his first song to chart on the Billboard Hot 100, debuting at number 68."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31267883,
+                "pinned": false,
+                "share_url": "https://genius.com/31267883",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31267883/Bossman-dlow-get-in-with-me/Get-in-with-me",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21698018",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/77efe01008327029acf7b7b52d46b1e8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/77efe01008327029acf7b7b52d46b1e8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/77efe01008327029acf7b7b52d46b1e8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/77efe01008327029acf7b7b52d46b1e8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/77efe01008327029acf7b7b52d46b1e8",
+                            "human_readable_role_for_display": null,
+                            "id": 21698018,
+                            "iq": 176,
+                            "login": "thomas_edward_brady",
+                            "name": "thomas_edward_brady",
+                            "role_for_display": null,
+                            "url": "https://genius.com/thomas_edward_brady",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bossman dlow",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bossman-dlow/get-in-with-me"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=KmhAQJqOaIY"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3687846",
+            "header_image_url": "https://images.genius.com/b4e6166d3ae6d8e7a3b59caea7b2a42a.937x937x1.jpg",
+            "id": 3687846,
+            "image_url": "https://images.genius.com/b4e6166d3ae6d8e7a3b59caea7b2a42a.937x937x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "dxntemadeit",
+            "url": "https://genius.com/artists/Dxntemadeit"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10197132",
+                    "artist_names": "DThang",
+                    "full_title": "Get In With Me Remix* by\u00a0DThang",
+                    "header_image_thumbnail_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.690x690x1.png",
+                    "id": 10197132,
+                    "lyrics_owner_id": 21103107,
+                    "lyrics_state": "unreleased",
+                    "path": "/Dthang-get-in-with-me-remix-lyrics",
+                    "primary_artist_names": "DThang",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dthang-get-in-with-me-remix-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.690x690x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In With Me Remix*",
+                    "title_with_featured": "Get In With Me Remix*",
+                    "url": "https://genius.com/Dthang-get-in-with-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2473294",
+                        "header_image_url": "https://images.genius.com/0d8c9dfc8576332767253303ad2ef15e.498x281x111.gif",
+                        "id": 2473294,
+                        "image_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.690x690x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DThang",
+                        "url": "https://genius.com/artists/Dthang"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2473294",
+                            "header_image_url": "https://images.genius.com/0d8c9dfc8576332767253303ad2ef15e.498x281x111.gif",
+                            "id": 2473294,
+                            "image_url": "https://images.genius.com/499d0d17a72469e6edbdcd9b1d549a39.690x690x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DThang",
+                            "url": "https://genius.com/artists/Dthang"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11843657",
+                    "artist_names": "Ray Vaughn & Ray Vaughn",
+                    "full_title": "Ray Vaughn Freestyle | Justin Credible Freestyle #205 by\u00a0Ray\u00a0Vaughn & Ray\u00a0Vaughn",
+                    "header_image_thumbnail_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.686x386x1.jpg",
+                    "id": 11843657,
+                    "lyrics_owner_id": 7288496,
+                    "lyrics_state": "complete",
+                    "path": "/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-lyrics",
+                    "primary_artist_names": "Ray Vaughn & Ray Vaughn",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 5,
+                        "day": 7
+                    },
+                    "release_date_for_display": "May 7, 2025",
+                    "release_date_with_abbreviated_month_for_display": "May 7, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.686x386x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ray Vaughn Freestyle | Justin Credible Freestyle #205",
+                    "title_with_featured": "Ray Vaughn Freestyle | Justin Credible Freestyle #205",
+                    "url": "https://genius.com/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1140787",
+                        "header_image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                        "id": 1140787,
+                        "image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ray Vaughn",
+                        "url": "https://genius.com/artists/Ray-vaughn"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1140787",
+                            "header_image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "id": 1140787,
+                            "image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ray Vaughn",
+                            "url": "https://genius.com/artists/Ray-vaughn"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10164589",
+                    "artist_names": "Korelon",
+                    "full_title": "Oreo by\u00a0Korelon",
+                    "header_image_thumbnail_url": "https://images.genius.com/07e4ccfe00c9e2c0130f9692d277ad67.300x305x1.png",
+                    "header_image_url": "https://images.genius.com/07e4ccfe00c9e2c0130f9692d277ad67.498x507x1.png",
+                    "id": 10164589,
+                    "lyrics_owner_id": 21310134,
+                    "lyrics_state": "complete",
+                    "path": "/Korelon-oreo-lyrics",
+                    "primary_artist_names": "Korelon",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Korelon-oreo-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 15
+                    },
+                    "release_date_for_display": "March 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/07e4ccfe00c9e2c0130f9692d277ad67.300x305x1.png",
+                    "song_art_image_url": "https://images.genius.com/07e4ccfe00c9e2c0130f9692d277ad67.498x507x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 5764
+                    },
+                    "title": "Oreo",
+                    "title_with_featured": "Oreo",
+                    "url": "https://genius.com/Korelon-oreo-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3177538",
+                        "header_image_url": "https://images.genius.com/7413c9e6183e6e5b91b7e4706dc2b042.750x938x1.jpg",
+                        "id": 3177538,
+                        "image_url": "https://images.genius.com/350312aa8feca176bb3d4dd9df5eca08.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Korelon",
+                        "url": "https://genius.com/artists/Korelon"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3177538",
+                            "header_image_url": "https://images.genius.com/7413c9e6183e6e5b91b7e4706dc2b042.750x938x1.jpg",
+                            "id": 3177538,
+                            "image_url": "https://images.genius.com/350312aa8feca176bb3d4dd9df5eca08.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Korelon",
+                            "url": "https://genius.com/artists/Korelon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10065517",
+                    "artist_names": "Ralfy the Plug & Ralfy the Plug",
+                    "full_title": "Zoboomafoo by\u00a0Ralfy\u00a0the Plug & Ralfy\u00a0the Plug",
+                    "header_image_thumbnail_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.1000x1000x1.png",
+                    "id": 10065517,
+                    "lyrics_owner_id": 18715539,
+                    "lyrics_state": "complete",
+                    "path": "/Ralfy-the-plug-zoboomafoo-lyrics",
+                    "primary_artist_names": "Ralfy the Plug & Ralfy the Plug",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ralfy-the-plug-zoboomafoo-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 16
+                    },
+                    "release_date_for_display": "February 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Zoboomafoo",
+                    "title_with_featured": "Zoboomafoo",
+                    "url": "https://genius.com/Ralfy-the-plug-zoboomafoo-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1249360",
+                        "header_image_url": "https://images.genius.com/d420bee16c68248f3671df952c9ab3dc.800x1000x1.jpg",
+                        "id": 1249360,
+                        "image_url": "https://images.genius.com/ab74e455125a51824e835e459e0d9215.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ralfy the Plug",
+                        "url": "https://genius.com/artists/Ralfy-the-plug"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1249360",
+                            "header_image_url": "https://images.genius.com/d420bee16c68248f3671df952c9ab3dc.800x1000x1.jpg",
+                            "id": 1249360,
+                            "image_url": "https://images.genius.com/ab74e455125a51824e835e459e0d9215.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ralfy the Plug",
+                            "url": "https://genius.com/artists/Ralfy-the-plug"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11843657",
+                    "artist_names": "Ray Vaughn & Ray Vaughn",
+                    "full_title": "Ray Vaughn Freestyle | Justin Credible Freestyle #205 by\u00a0Ray\u00a0Vaughn & Ray\u00a0Vaughn",
+                    "header_image_thumbnail_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.686x386x1.jpg",
+                    "id": 11843657,
+                    "lyrics_owner_id": 7288496,
+                    "lyrics_state": "complete",
+                    "path": "/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-lyrics",
+                    "primary_artist_names": "Ray Vaughn & Ray Vaughn",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 5,
+                        "day": 7
+                    },
+                    "release_date_for_display": "May 7, 2025",
+                    "release_date_with_abbreviated_month_for_display": "May 7, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a0111f5bdddfb6e39b1a2ead8479a1a1.686x386x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ray Vaughn Freestyle | Justin Credible Freestyle #205",
+                    "title_with_featured": "Ray Vaughn Freestyle | Justin Credible Freestyle #205",
+                    "url": "https://genius.com/Ray-vaughn-ray-vaughn-freestyle-justin-credible-freestyle-205-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1140787",
+                        "header_image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                        "id": 1140787,
+                        "image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ray Vaughn",
+                        "url": "https://genius.com/artists/Ray-vaughn"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1140787",
+                            "header_image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "id": 1140787,
+                            "image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ray Vaughn",
+                            "url": "https://genius.com/artists/Ray-vaughn"
+                        },
+                        {
+                            "api_path": "/artists/1140787",
+                            "header_image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "id": 1140787,
+                            "image_url": "https://images.genius.com/fba1e3b9fec8876ecb98f9cebdedd9d6.995x995x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ray Vaughn",
+                            "url": "https://genius.com/artists/Ray-vaughn"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/10522352",
+                    "artist_names": "BossMan Dlow",
+                    "full_title": "SportsCenter by\u00a0BossMan\u00a0Dlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/16f7348940a09dedcb6b7b6537c68e05.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16f7348940a09dedcb6b7b6537c68e05.440x440x1.png",
+                    "id": 10522352,
+                    "lyrics_owner_id": 2389915,
+                    "lyrics_state": "complete",
+                    "path": "/Bossman-dlow-sportscenter-lyrics",
+                    "primary_artist_names": "BossMan Dlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bossman-dlow-sportscenter-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 13
+                    },
+                    "release_date_for_display": "June 13, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 13, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16f7348940a09dedcb6b7b6537c68e05.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16f7348940a09dedcb6b7b6537c68e05.440x440x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 21269
+                    },
+                    "title": "SportsCenter",
+                    "title_with_featured": "SportsCenter",
+                    "url": "https://genius.com/Bossman-dlow-sportscenter-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3574079",
+                        "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                        "id": 3574079,
+                        "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BossMan Dlow",
+                        "url": "https://genius.com/artists/Bossman-dlow"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3574079",
+                            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                            "id": 3574079,
+                            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "BossMan Dlow",
+                            "url": "https://genius.com/artists/Bossman-dlow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Bossman-dlow-get-in-with-me-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10139063",
+                    "artist_names": "Real Boston Richey",
+                    "full_title": "Get In With Me Freestyle by\u00a0Real\u00a0Boston Richey",
+                    "header_image_thumbnail_url": "https://images.genius.com/98063119b6296f008ecffd988a516f1d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/98063119b6296f008ecffd988a516f1d.500x500x1.jpg",
+                    "id": 10139063,
+                    "lyrics_owner_id": 54639,
+                    "lyrics_state": "unreleased",
+                    "path": "/Real-boston-richey-get-in-with-me-freestyle-lyrics",
+                    "primary_artist_names": "Real Boston Richey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Real-boston-richey-get-in-with-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 23
+                    },
+                    "release_date_for_display": "February 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/98063119b6296f008ecffd988a516f1d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/98063119b6296f008ecffd988a516f1d.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In With Me Freestyle",
+                    "title_with_featured": "Get In With Me Freestyle",
+                    "url": "https://genius.com/Real-boston-richey-get-in-with-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3029330",
+                        "header_image_url": "https://images.genius.com/3e1b999ef443b851d5e89ae8478aa1c7.640x640x1.jpg",
+                        "id": 3029330,
+                        "image_url": "https://images.genius.com/3e1b999ef443b851d5e89ae8478aa1c7.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Real Boston Richey",
+                        "url": "https://genius.com/artists/Real-boston-richey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3029330",
+                            "header_image_url": "https://images.genius.com/3e1b999ef443b851d5e89ae8478aa1c7.640x640x1.jpg",
+                            "id": 3029330,
+                            "image_url": "https://images.genius.com/3e1b999ef443b851d5e89ae8478aa1c7.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Real Boston Richey",
+                            "url": "https://genius.com/artists/Real-boston-richey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10134258",
+                    "artist_names": "Setitoff83",
+                    "full_title": "Get in Wit Me ( Freestyle ) by\u00a0Setitoff83",
+                    "header_image_thumbnail_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.896x896x1.jpg",
+                    "id": 10134258,
+                    "lyrics_owner_id": 9856377,
+                    "lyrics_state": "unreleased",
+                    "path": "/Setitoff83-get-in-wit-me-freestyle-lyrics",
+                    "primary_artist_names": "Setitoff83",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Setitoff83-get-in-wit-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 3
+                    },
+                    "release_date_for_display": "March 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.896x896x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get in Wit Me ( Freestyle )",
+                    "title_with_featured": "Get in Wit Me ( Freestyle )",
+                    "url": "https://genius.com/Setitoff83-get-in-wit-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1752241",
+                        "header_image_url": "https://images.genius.com/c992d38da93f4f14348067ce8910b68d.640x640x1.jpg",
+                        "id": 1752241,
+                        "image_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.896x896x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Setitoff83",
+                        "url": "https://genius.com/artists/Setitoff83"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1752241",
+                            "header_image_url": "https://images.genius.com/c992d38da93f4f14348067ce8910b68d.640x640x1.jpg",
+                            "id": 1752241,
+                            "image_url": "https://images.genius.com/a2b0a171afe66b8acefa5229d7dcb201.896x896x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Setitoff83",
+                            "url": "https://genius.com/artists/Setitoff83"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10105713",
+                    "artist_names": "50 Wiz",
+                    "full_title": "Get In With Me (Remix) by\u00a050\u00a0Wiz",
+                    "header_image_thumbnail_url": "https://images.genius.com/b2cb6b219ba0c942d11157c4acdee462.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b2cb6b219ba0c942d11157c4acdee462.1000x1000x1.png",
+                    "id": 10105713,
+                    "lyrics_owner_id": 9856377,
+                    "lyrics_state": "unreleased",
+                    "path": "/50-wiz-get-in-with-me-remix-lyrics",
+                    "primary_artist_names": "50 Wiz",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/50-wiz-get-in-with-me-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 26
+                    },
+                    "release_date_for_display": "February 26, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 26, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b2cb6b219ba0c942d11157c4acdee462.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b2cb6b219ba0c942d11157c4acdee462.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In With Me (Remix)",
+                    "title_with_featured": "Get In With Me (Remix)",
+                    "url": "https://genius.com/50-wiz-get-in-with-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1903988",
+                        "header_image_url": "https://images.genius.com/ce9aec875ca1dc1d3c880309c4e6b060.403x403x1.jpg",
+                        "id": 1903988,
+                        "image_url": "https://images.genius.com/ce9aec875ca1dc1d3c880309c4e6b060.403x403x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "50 Wiz",
+                        "url": "https://genius.com/artists/50-wiz"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1903988",
+                            "header_image_url": "https://images.genius.com/ce9aec875ca1dc1d3c880309c4e6b060.403x403x1.jpg",
+                            "id": 1903988,
+                            "image_url": "https://images.genius.com/ce9aec875ca1dc1d3c880309c4e6b060.403x403x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "50 Wiz",
+                            "url": "https://genius.com/artists/50-wiz"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10077622",
+                    "artist_names": "Prince Trey",
+                    "full_title": "Get In Wit Me by\u00a0Prince\u00a0Trey",
+                    "header_image_thumbnail_url": "https://images.genius.com/3c14900c8ed7288d98e66037fbccf0f4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3c14900c8ed7288d98e66037fbccf0f4.1000x1000x1.png",
+                    "id": 10077622,
+                    "lyrics_owner_id": 16184182,
+                    "lyrics_state": "unreleased",
+                    "path": "/Prince-trey-get-in-wit-me-lyrics",
+                    "primary_artist_names": "Prince Trey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Prince-trey-get-in-wit-me-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 18
+                    },
+                    "release_date_for_display": "February 18, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 18, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3c14900c8ed7288d98e66037fbccf0f4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3c14900c8ed7288d98e66037fbccf0f4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In Wit Me",
+                    "title_with_featured": "Get In Wit Me",
+                    "url": "https://genius.com/Prince-trey-get-in-wit-me-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1604203",
+                        "header_image_url": "https://images.genius.com/d191da49fedc5c2f1d0da310e39d6d7a.537x537x1.png",
+                        "id": 1604203,
+                        "image_url": "https://images.genius.com/d191da49fedc5c2f1d0da310e39d6d7a.537x537x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Prince Trey",
+                        "url": "https://genius.com/artists/Prince-trey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1604203",
+                            "header_image_url": "https://images.genius.com/d191da49fedc5c2f1d0da310e39d6d7a.537x537x1.png",
+                            "id": 1604203,
+                            "image_url": "https://images.genius.com/d191da49fedc5c2f1d0da310e39d6d7a.537x537x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Prince Trey",
+                            "url": "https://genius.com/artists/Prince-trey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10080778",
+                    "artist_names": "Big Opp",
+                    "full_title": "Get In With Me Remix by\u00a0Big\u00a0Opp",
+                    "header_image_thumbnail_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                    "id": 10080778,
+                    "lyrics_owner_id": 21640092,
+                    "lyrics_state": "complete",
+                    "path": "/Big-opp-get-in-with-me-remix-lyrics",
+                    "primary_artist_names": "Big Opp",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Big-opp-get-in-with-me-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 19
+                    },
+                    "release_date_for_display": "February 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In With Me Remix",
+                    "title_with_featured": "Get In With Me Remix",
+                    "url": "https://genius.com/Big-opp-get-in-with-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3241290",
+                        "header_image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                        "id": 3241290,
+                        "image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Big Opp",
+                        "url": "https://genius.com/artists/Big-opp"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3241290",
+                            "header_image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                            "id": 3241290,
+                            "image_url": "https://images.genius.com/e1eb4026f9566a8bd3ffce1e0c0e8777.628x628x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Big Opp",
+                            "url": "https://genius.com/artists/Big-opp"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10046087",
+                    "artist_names": "G Herbo",
+                    "full_title": "Get In Wit Me (Freestyle) by\u00a0G\u00a0Herbo",
+                    "header_image_thumbnail_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+                    "id": 10046087,
+                    "lyrics_owner_id": 18715539,
+                    "lyrics_state": "complete",
+                    "path": "/G-herbo-get-in-wit-me-freestyle-lyrics",
+                    "primary_artist_names": "G Herbo",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/G-herbo-get-in-wit-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 11
+                    },
+                    "release_date_for_display": "February 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 8428
+                    },
+                    "title": "Get In Wit Me (Freestyle)",
+                    "title_with_featured": "Get In Wit Me (Freestyle)",
+                    "url": "https://genius.com/G-herbo-get-in-wit-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/32397",
+                        "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+                        "id": 32397,
+                        "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "G Herbo",
+                        "url": "https://genius.com/artists/G-herbo",
+                        "iq": 1047
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/32397",
+                            "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+                            "id": 32397,
+                            "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "G Herbo",
+                            "url": "https://genius.com/artists/G-herbo",
+                            "iq": 1047
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 6,
+                    "api_path": "/songs/10176081",
+                    "artist_names": "Polo G",
+                    "full_title": "Get In With Me (Remix) by\u00a0Polo\u00a0G",
+                    "header_image_thumbnail_url": "https://images.genius.com/731093ab6b72741ce8629ad8f90f897d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/731093ab6b72741ce8629ad8f90f897d.500x500x1.jpg",
+                    "id": 10176081,
+                    "lyrics_owner_id": 15828076,
+                    "lyrics_state": "complete",
+                    "path": "/Polo-g-get-in-with-me-remix-lyrics",
+                    "primary_artist_names": "Polo G",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polo-g-get-in-with-me-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 17
+                    },
+                    "release_date_for_display": "March 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/731093ab6b72741ce8629ad8f90f897d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/731093ab6b72741ce8629ad8f90f897d.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 10961
+                    },
+                    "title": "Get In With Me (Remix)",
+                    "title_with_featured": "Get In With Me (Remix)",
+                    "url": "https://genius.com/Polo-g-get-in-with-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1553158",
+                        "header_image_url": "https://images.genius.com/1881772e6c6e8bae997d4643e4cc2fb2.1000x458x1.png",
+                        "id": 1553158,
+                        "image_url": "https://images.genius.com/0908c5255ec540ceeb10b0c9386424e9.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Polo G",
+                        "url": "https://genius.com/artists/Polo-g",
+                        "iq": 14803
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1553158",
+                            "header_image_url": "https://images.genius.com/1881772e6c6e8bae997d4643e4cc2fb2.1000x458x1.png",
+                            "id": 1553158,
+                            "image_url": "https://images.genius.com/0908c5255ec540ceeb10b0c9386424e9.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Polo G",
+                            "url": "https://genius.com/artists/Polo-g",
+                            "iq": 14803
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11455070",
+                    "artist_names": "intrg",
+                    "full_title": "French Montana by\u00a0intrg",
+                    "header_image_thumbnail_url": "https://images.genius.com/8efb70dd9c8b7e9a4e12188810b15f92.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8efb70dd9c8b7e9a4e12188810b15f92.640x640x1.jpg",
+                    "id": 11455070,
+                    "lyrics_owner_id": 21754614,
+                    "lyrics_state": "complete",
+                    "path": "/Intrg-french-montana-lyrics",
+                    "primary_artist_names": "intrg",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Intrg-french-montana-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 16
+                    },
+                    "release_date_for_display": "January 16, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 16, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8efb70dd9c8b7e9a4e12188810b15f92.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8efb70dd9c8b7e9a4e12188810b15f92.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "French Montana",
+                    "title_with_featured": "French Montana",
+                    "url": "https://genius.com/Intrg-french-montana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4274529",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 4274529,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "intrg",
+                        "url": "https://genius.com/artists/Intrg"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4274529",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 4274529,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "intrg",
+                            "url": "https://genius.com/artists/Intrg"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11381185",
+                    "artist_names": "Jwles",
+                    "full_title": "Bosszin Dlow Freestyle by\u00a0Jwles",
+                    "header_image_thumbnail_url": "https://images.genius.com/920d0960a79bc3576f50565f7aa8adff.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/920d0960a79bc3576f50565f7aa8adff.500x500x1.jpg",
+                    "id": 11381185,
+                    "lyrics_owner_id": 4765231,
+                    "lyrics_state": "complete",
+                    "path": "/Jwles-bosszin-dlow-freestyle-lyrics",
+                    "primary_artist_names": "Jwles",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jwles-bosszin-dlow-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 18
+                    },
+                    "release_date_for_display": "March 18, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 18, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/920d0960a79bc3576f50565f7aa8adff.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/920d0960a79bc3576f50565f7aa8adff.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Bosszin Dlow Freestyle",
+                    "title_with_featured": "Bosszin Dlow Freestyle",
+                    "url": "https://genius.com/Jwles-bosszin-dlow-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/576072",
+                        "header_image_url": "https://images.genius.com/a74264f45a4fc74fae81991f490ec88b.1000x1000x1.png",
+                        "id": 576072,
+                        "image_url": "https://images.genius.com/9ea33fb79f005c4bd9185a8e5a6759b1.427x427x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jwles",
+                        "url": "https://genius.com/artists/Jwles"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/576072",
+                            "header_image_url": "https://images.genius.com/a74264f45a4fc74fae81991f490ec88b.1000x1000x1.png",
+                            "id": 576072,
+                            "image_url": "https://images.genius.com/9ea33fb79f005c4bd9185a8e5a6759b1.427x427x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jwles",
+                            "url": "https://genius.com/artists/Jwles"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 46,
+                    "api_path": "/songs/10435831",
+                    "artist_names": "\u200bsaveaj",
+                    "full_title": "20 Beats vs 1 Rapper: SaveAJ by\u00a0\u200bsaveaj",
+                    "header_image_thumbnail_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.1000x1000x1.jpg",
+                    "id": 10435831,
+                    "lyrics_owner_id": 21195014,
+                    "lyrics_state": "complete",
+                    "path": "/Saveaj-20-beats-vs-1-rapper-saveaj-lyrics",
+                    "primary_artist_names": "\u200bsaveaj",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Saveaj-20-beats-vs-1-rapper-saveaj-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 21
+                    },
+                    "release_date_for_display": "May 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 46,
+                        "hot": false,
+                        "pageviews": 9705
+                    },
+                    "title": "20 Beats vs 1 Rapper: SaveAJ",
+                    "title_with_featured": "20 Beats vs 1 Rapper: SaveAJ",
+                    "url": "https://genius.com/Saveaj-20-beats-vs-1-rapper-saveaj-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3842782",
+                        "header_image_url": "https://images.genius.com/2cfd13f035b1eac7892c16f0449ffb96.621x645x1.webp",
+                        "id": 3842782,
+                        "image_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bsaveaj",
+                        "url": "https://genius.com/artists/Saveaj"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3842782",
+                            "header_image_url": "https://images.genius.com/2cfd13f035b1eac7892c16f0449ffb96.621x645x1.webp",
+                            "id": 3842782,
+                            "image_url": "https://images.genius.com/ec70027d6ef149c27267c9564e4ddc34.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bsaveaj",
+                            "url": "https://genius.com/artists/Saveaj"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 6,
+                    "api_path": "/songs/10633633",
+                    "artist_names": "Lil Baby, Rylo Rodriguez, 42 Dugg, Lil Dann & Lil Yachty",
+                    "full_title": "\"Get In Wit Me\" Freestyle by\u00a0Lil\u00a0Baby, Rylo\u00a0Rodriguez, 42\u00a0Dugg, Lil\u00a0Dann & Lil\u00a0Yachty",
+                    "header_image_thumbnail_url": "https://images.genius.com/445c7962541763dd167ad22f17592b53.300x169x1.png",
+                    "header_image_url": "https://images.genius.com/445c7962541763dd167ad22f17592b53.1000x563x1.png",
+                    "id": 10633633,
+                    "lyrics_owner_id": 14769206,
+                    "lyrics_state": "complete",
+                    "path": "/Lil-baby-rylo-rodriguez-42-dugg-lil-dann-and-lil-yachty-get-in-wit-me-freestyle-lyrics",
+                    "primary_artist_names": "Lil Baby, Rylo Rodriguez, 42 Dugg, Lil Dann & Lil Yachty",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lil-baby-rylo-rodriguez-42-dugg-lil-dann-and-lil-yachty-get-in-wit-me-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 10
+                    },
+                    "release_date_for_display": "July 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/445c7962541763dd167ad22f17592b53.300x169x1.png",
+                    "song_art_image_url": "https://images.genius.com/445c7962541763dd167ad22f17592b53.1000x563x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 6,
+                        "hot": false
+                    },
+                    "title": "\u201cGet In Wit Me\u201d Freestyle",
+                    "title_with_featured": "\"Get In Wit Me\" Freestyle",
+                    "url": "https://genius.com/Lil-baby-rylo-rodriguez-42-dugg-lil-dann-and-lil-yachty-get-in-wit-me-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1110328",
+                        "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+                        "id": 1110328,
+                        "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lil Baby",
+                        "url": "https://genius.com/artists/Lil-baby",
+                        "iq": 3834
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1110328",
+                            "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+                            "id": 1110328,
+                            "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lil Baby",
+                            "url": "https://genius.com/artists/Lil-baby",
+                            "iq": 3834
+                        },
+                        {
+                            "api_path": "/artists/1273022",
+                            "header_image_url": "https://images.genius.com/20d312de8d703a1cd1a91c2a46992085.1000x1000x1.jpg",
+                            "id": 1273022,
+                            "image_url": "https://images.genius.com/25d7286a97dafca1f2b5eaa6a57b8ff7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Rylo Rodriguez",
+                            "url": "https://genius.com/artists/Rylo-rodriguez"
+                        },
+                        {
+                            "api_path": "/artists/1426415",
+                            "header_image_url": "https://images.genius.com/ad65c5ff7b1f6ddd915ff5655c1e4f6d.1000x561x1.jpg",
+                            "id": 1426415,
+                            "image_url": "https://images.genius.com/c2cd8f36e6f5b8b0774e31dc1c5bd245.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "42 Dugg",
+                            "url": "https://genius.com/artists/42-dugg"
+                        },
+                        {
+                            "api_path": "/artists/2476047",
+                            "header_image_url": "https://images.genius.com/6f312cf1fa36a3244a561aaa47630f6c.910x910x1.png",
+                            "id": 2476047,
+                            "image_url": "https://images.genius.com/6f312cf1fa36a3244a561aaa47630f6c.910x910x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lil Dann",
+                            "url": "https://genius.com/artists/Lil-dann"
+                        },
+                        {
+                            "api_path": "/artists/610968",
+                            "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+                            "id": 610968,
+                            "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lil Yachty",
+                            "url": "https://genius.com/artists/Lil-yachty",
+                            "iq": 14297
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10546874",
+                    "artist_names": "\u200bboyband",
+                    "full_title": "\u200bget in with me by bossman dlow but it's goth by\u00a0\u200bboyband",
+                    "header_image_thumbnail_url": "https://images.genius.com/89bd209dbe0d244f092a948581cbe6a5.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/89bd209dbe0d244f092a948581cbe6a5.500x500x1.jpg",
+                    "id": 10546874,
+                    "lyrics_owner_id": 9387139,
+                    "lyrics_state": "complete",
+                    "path": "/Boyband-get-in-with-me-by-bossman-dlow-but-its-goth-lyrics",
+                    "primary_artist_names": "\u200bboyband",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Boyband-get-in-with-me-by-bossman-dlow-but-its-goth-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 23
+                    },
+                    "release_date_for_display": "May 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/89bd209dbe0d244f092a948581cbe6a5.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/89bd209dbe0d244f092a948581cbe6a5.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u200bget in with me by bossman dlow but it\u2019s goth",
+                    "title_with_featured": "\u200bget in with me by bossman dlow but it's goth",
+                    "url": "https://genius.com/Boyband-get-in-with-me-by-bossman-dlow-but-its-goth-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/168449",
+                        "header_image_url": "https://images.genius.com/1a4b72c2397bcca0d384027f675e6637.667x1000x1.jpg",
+                        "id": 168449,
+                        "image_url": "https://images.genius.com/1a393b02d38a8032d51446a56da89819.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "\u200bboyband",
+                        "url": "https://genius.com/artists/Boyband",
+                        "iq": 812
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/168449",
+                            "header_image_url": "https://images.genius.com/1a4b72c2397bcca0d384027f675e6637.667x1000x1.jpg",
+                            "id": 168449,
+                            "image_url": "https://images.genius.com/1a393b02d38a8032d51446a56da89819.320x320x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "\u200bboyband",
+                            "url": "https://genius.com/artists/Boyband",
+                            "iq": 812
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10474067",
+                    "artist_names": "Kdot 600",
+                    "full_title": "Get In With Me SnailMix by\u00a0Kdot\u00a0600",
+                    "header_image_thumbnail_url": "https://images.genius.com/ade870464501c8eeff356401a5cd827f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ade870464501c8eeff356401a5cd827f.1000x1000x1.png",
+                    "id": 10474067,
+                    "lyrics_owner_id": 9856377,
+                    "lyrics_state": "unreleased",
+                    "path": "/Kdot-600-get-in-with-me-snailmix-lyrics",
+                    "primary_artist_names": "Kdot 600",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Kdot-600-get-in-with-me-snailmix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 9
+                    },
+                    "release_date_for_display": "May 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ade870464501c8eeff356401a5cd827f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ade870464501c8eeff356401a5cd827f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Get In With Me SnailMix",
+                    "title_with_featured": "Get In With Me SnailMix",
+                    "url": "https://genius.com/Kdot-600-get-in-with-me-snailmix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3135130",
+                        "header_image_url": "https://images.genius.com/e51e6c316c005bf2ce36e85db0f01eb8.225x225x1.jpg",
+                        "id": 3135130,
+                        "image_url": "https://images.genius.com/acf37be6f5babd7e7c9c6c68931eb2b8.201x201x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kdot 600",
+                        "url": "https://genius.com/artists/Kdot-600"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3135130",
+                            "header_image_url": "https://images.genius.com/e51e6c316c005bf2ce36e85db0f01eb8.225x225x1.jpg",
+                            "id": 3135130,
+                            "image_url": "https://images.genius.com/acf37be6f5babd7e7c9c6c68931eb2b8.201x201x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kdot 600",
+                            "url": "https://genius.com/artists/Kdot-600"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10065517",
+                    "artist_names": "Ralfy the Plug & Ralfy the Plug",
+                    "full_title": "Zoboomafoo by\u00a0Ralfy\u00a0the Plug & Ralfy\u00a0the Plug",
+                    "header_image_thumbnail_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.1000x1000x1.png",
+                    "id": 10065517,
+                    "lyrics_owner_id": 18715539,
+                    "lyrics_state": "complete",
+                    "path": "/Ralfy-the-plug-zoboomafoo-lyrics",
+                    "primary_artist_names": "Ralfy the Plug & Ralfy the Plug",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ralfy-the-plug-zoboomafoo-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 16
+                    },
+                    "release_date_for_display": "February 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d3dcc740779d6f8527b9cfd97beaa17a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Zoboomafoo",
+                    "title_with_featured": "Zoboomafoo",
+                    "url": "https://genius.com/Ralfy-the-plug-zoboomafoo-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1249360",
+                        "header_image_url": "https://images.genius.com/d420bee16c68248f3671df952c9ab3dc.800x1000x1.jpg",
+                        "id": 1249360,
+                        "image_url": "https://images.genius.com/ab74e455125a51824e835e459e0d9215.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ralfy the Plug",
+                        "url": "https://genius.com/artists/Ralfy-the-plug"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1249360",
+                            "header_image_url": "https://images.genius.com/d420bee16c68248f3671df952c9ab3dc.800x1000x1.jpg",
+                            "id": 1249360,
+                            "image_url": "https://images.genius.com/ab74e455125a51824e835e459e0d9215.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ralfy the Plug",
+                            "url": "https://genius.com/artists/Ralfy-the-plug"
+                        },
+                        {
+                            "api_path": "/artists/1249360",
+                            "header_image_url": "https://images.genius.com/d420bee16c68248f3671df952c9ab3dc.800x1000x1.jpg",
+                            "id": 1249360,
+                            "image_url": "https://images.genius.com/ab74e455125a51824e835e459e0d9215.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ralfy the Plug",
+                            "url": "https://genius.com/artists/Ralfy-the-plug"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9969409",
+                    "artist_names": "BossMan Dlow",
+                    "full_title": "Kreepin Through The Streetz Freestyle by\u00a0BossMan\u00a0Dlow",
+                    "header_image_thumbnail_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                    "id": 9969409,
+                    "lyrics_owner_id": 20927887,
+                    "lyrics_state": "complete",
+                    "path": "/Bossman-dlow-kreepin-through-the-streetz-freestyle-lyrics",
+                    "primary_artist_names": "BossMan Dlow",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bossman-dlow-kreepin-through-the-streetz-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 10
+                    },
+                    "release_date_for_display": "January 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 45383
+                    },
+                    "title": "Kreepin Through The Streetz Freestyle",
+                    "title_with_featured": "Kreepin Through The Streetz Freestyle",
+                    "url": "https://genius.com/Bossman-dlow-kreepin-through-the-streetz-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3574079",
+                        "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                        "id": 3574079,
+                        "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "BossMan Dlow",
+                        "url": "https://genius.com/artists/Bossman-dlow"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3574079",
+                            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+                            "id": 3574079,
+                            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "BossMan Dlow",
+                            "url": "https://genius.com/artists/Bossman-dlow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3574079",
+            "header_image_url": "https://images.genius.com/361015e03b8a997fee13e98752e11bed.983x983x1.jpg",
+            "id": 3574079,
+            "image_url": "https://images.genius.com/ad6f0059716e31a48f138d0c36cf3f44.983x983x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BossMan Dlow",
+            "url": "https://genius.com/artists/Bossman-dlow"
+        },
+        {
+            "api_path": "/artists/3687846",
+            "header_image_url": "https://images.genius.com/b4e6166d3ae6d8e7a3b59caea7b2a42a.937x937x1.jpg",
+            "id": 3687846,
+            "image_url": "https://images.genius.com/b4e6166d3ae6d8e7a3b59caea7b2a42a.937x937x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "dxntemadeit",
+            "url": "https://genius.com/artists/Dxntemadeit"
+        }
+    ],
+    "artist": "BossMan Dlow",
+    "lyrics": "25 ContributorsGet In With Me Lyrics\u201cGet in with Me\u201d is a song by American rapper BossMan Dlow, released on January 18, 2024, as a two-track single along with his song \u201cPiss Me Off\u201d. Considered his breakout hit, it gained traction on the\u2026 Read More\u00a0\nBig Za\nYeah\nGram\n(Dxnte, you snapped on this one)\nUh, uh\n\nI was bad as fuck in school, now\u2005I'm\u2005tryna dodge a\u2005sentence\nJust walked out the Lanvin store,\u2005pair of shoes, twelve-fifty (Nigga)\nYou wanna boss up your life? All you gotta do is get in with me (Come here, baby)\nI don't even pay to get in the club, they know I'm a walkin' ticket\nI'm presidential leavin' the club, we ain't stoppin' at no lights (Yoom)\nYou wanna be a boss, you gotta pay the price (Facts)\nLeft wrist on frost, look like a bag of ice (Bling)\nI'm drivin' the Bentley Bentayga like I don't love my life (Skrrt)\n\nI'm in that thing shiftin' and I'm lane-switchin' (Yoom)\nBitch, it's Big Za, I'ma stand on straight business (Big Za)\nUh, dunkin' on niggas' ass like Blake Griffin (Rrr)\nHe keep talkin', bro gon' leave his face missing (Brrt)\nBae, these Off-White, these ain't no Huarache (No Huarache, baby)\nBad bitch, fiftieth floor, eatin' hibachi (Come here, baby)\nI got ten missed calls, all my bitches mad at me\nValet park, designer district, I'm goin' straight to Gallery\nJuggs fiendin', yep (Yep)\nPhone ringin', yep (Brrt)\nNiggas hatin', yep (Nigga)\nJewelry blingin', yep (Bling)\nJuggs fiendin', yep (Brrt)\nPhone ringin', yep (Yep)\nNiggas hatin', yep (Nigga)\nJewelry blingin', yep (Bling)\n\nI was bad as fuck in school, now I'm tryna dodge a sentence\nJust walked out the Lanvin store, pair of shoes, twelve-fifty (Nigga)\nYou wanna boss up your life? All you gotta do is get in with me (Come here, baby)\nI don't even pay to get in the club, they know I'm a walkin' ticket\nI'm presidential leavin' the club, we ain't stoppin' at no lights (Yoom)\nYou wanna be a boss, you gotta pay the price (Facts)\nLeft wrist on frost, look like a bag of ice (Bling)\nI'm drivin' the Bentley Bentayga like I don't love my life (Skrrt)"
+}

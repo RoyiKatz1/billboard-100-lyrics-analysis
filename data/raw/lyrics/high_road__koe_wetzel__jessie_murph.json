@@ -1,0 +1,958 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10387088",
+    "artist_names": "Koe Wetzel & Jessie Murph",
+    "full_title": "High Road by\u00a0Koe\u00a0Wetzel & Jessie\u00a0Murph",
+    "header_image_thumbnail_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.674x673x1.png",
+    "id": 10387088,
+    "instrumental": false,
+    "lyrics_owner_id": 6842890,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1735025190,
+    "path": "/Koe-wetzel-and-jessie-murph-high-road-lyrics",
+    "primary_artist_names": "Koe Wetzel & Jessie Murph",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Koe-wetzel-and-jessie-murph-high-road-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 7
+    },
+    "release_date_for_display": "June 7, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.674x673x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 10,
+        "iq_earners": 10,
+        "transcribers": 2,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 120158
+    },
+    "title": "High Road",
+    "title_with_featured": "High Road",
+    "updated_by_human_at": 1739138805,
+    "url": "https://genius.com/Koe-wetzel-and-jessie-murph-high-road-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1291802",
+        "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+        "id": 1291802,
+        "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Koe Wetzel",
+        "url": "https://genius.com/artists/Koe-wetzel"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1291802",
+            "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+            "id": 1291802,
+            "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Koe Wetzel",
+            "url": "https://genius.com/artists/Koe-wetzel"
+        },
+        {
+            "api_path": "/artists/2561089",
+            "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+            "id": 2561089,
+            "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jessie Murph",
+            "url": "https://genius.com/artists/Jessie-murph"
+        }
+    ],
+    "apple_music_id": "1742884340",
+    "apple_music_player_url": "https://genius.com/songs/10387088/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10387088' class='rg_embed_link' data-song-id='10387088'>Read <a href='https://genius.com/Koe-wetzel-and-jessie-murph-high-road-lyrics'>\u201cHigh Road\u201d by Koe\u00a0Wetzel & Jessie\u00a0Murph</a> on Genius</div> <script crossorigin src='//genius.com/songs/10387088/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-07",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b94d27",
+    "song_art_secondary_color": "#a42c0c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1181745",
+        "cover_art_url": "https://images.genius.com/1b5f8feabda04f3073df95a99d3ac89d.1000x1000x1.jpg",
+        "full_title": "9 Lives by Koe Wetzel",
+        "id": 1181745,
+        "name": "9 Lives",
+        "primary_artist_names": "Koe Wetzel",
+        "release_date_for_display": "July 19, 2024",
+        "url": "https://genius.com/albums/Koe-wetzel/9-lives",
+        "artist": {
+            "api_path": "/artists/1291802",
+            "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+            "id": 1291802,
+            "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Koe Wetzel",
+            "url": "https://genius.com/artists/Koe-wetzel"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1291802",
+                "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+                "id": 1291802,
+                "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Koe Wetzel",
+                "url": "https://genius.com/artists/Koe-wetzel"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/2561089",
+                    "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                    "id": 2561089,
+                    "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jessie Murph",
+                    "url": "https://genius.com/artists/Jessie-murph"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1291802",
+                    "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+                    "id": 1291802,
+                    "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Koe Wetzel",
+                    "url": "https://genius.com/artists/Koe-wetzel"
+                },
+                {
+                    "api_path": "/artists/2561089",
+                    "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                    "id": 2561089,
+                    "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jessie Murph",
+                    "url": "https://genius.com/artists/Jessie-murph"
+                }
+            ]
+        },
+        {
+            "label": "Primary Artists",
+            "artists": [
+                {
+                    "api_path": "/artists/1291802",
+                    "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+                    "id": 1291802,
+                    "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Koe Wetzel",
+                    "url": "https://genius.com/artists/Koe-wetzel"
+                },
+                {
+                    "api_path": "/artists/2561089",
+                    "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                    "id": 2561089,
+                    "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jessie Murph",
+                    "url": "https://genius.com/artists/Jessie-murph"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638693",
+                    "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "id": 638693,
+                    "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ted Jensen",
+                    "url": "https://genius.com/artists/Ted-jensen"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/671795",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 671795,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jordon Silva",
+                    "url": "https://genius.com/artists/Jordon-silva"
+                },
+                {
+                    "api_path": "/artists/2721887",
+                    "header_image_url": "https://images.genius.com/221a79e82b075857747d2c548a013224.750x750x1.jpg",
+                    "id": 2721887,
+                    "image_url": "https://images.genius.com/7378f3cb5b3d2841d99564cb23d26397.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phillip Smith",
+                    "url": "https://genius.com/artists/Phillip-smith"
+                },
+                {
+                    "api_path": "/artists/1159981",
+                    "header_image_url": "https://images.genius.com/36d99b34ab3c445a0436a5bcfadb7a83.600x600x1.jpg",
+                    "id": 1159981,
+                    "image_url": "https://images.genius.com/36d99b34ab3c445a0436a5bcfadb7a83.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyler Spratt",
+                    "url": "https://genius.com/artists/Tyler-spratt"
+                },
+                {
+                    "api_path": "/artists/665346",
+                    "header_image_url": "https://images.genius.com/7740d1f0bb6347acc25ad5f5e46a78e5.200x200x1.jpg",
+                    "id": 665346,
+                    "image_url": "https://images.genius.com/7740d1f0bb6347acc25ad5f5e46a78e5.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Shturtz",
+                    "url": "https://genius.com/artists/Justin-shturtz"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/971658",
+                    "header_image_url": "https://images.genius.com/679bd7ef3dc88230ba3efad056ba919e.360x439x1.jpg",
+                    "id": 971658,
+                    "image_url": "https://images.genius.com/8c0b723e62f764f0593b782ca93495f7.360x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Hewitt",
+                    "url": "https://genius.com/artists/Ryan-hewitt"
+                },
+                {
+                    "api_path": "/artists/4042796",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4042796,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Sandlin",
+                    "url": "https://genius.com/artists/Ryan-sandlin"
+                },
+                {
+                    "api_path": "/artists/976989",
+                    "header_image_url": "https://images.genius.com/db60029c65ebc287aa9ba52081d6fd6c.320x320x1.jpg",
+                    "id": 976989,
+                    "image_url": "https://images.genius.com/db60029c65ebc287aa9ba52081d6fd6c.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wil Anspach",
+                    "url": "https://genius.com/artists/Wil-anspach"
+                },
+                {
+                    "api_path": "/artists/2941829",
+                    "header_image_url": "https://images.genius.com/fd4b17e85ed882a63e9ed631d96dc4a5.1000x1000x1.png",
+                    "id": 2941829,
+                    "image_url": "https://images.genius.com/fd4b17e85ed882a63e9ed631d96dc4a5.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hayden Duncan",
+                    "url": "https://genius.com/artists/Hayden-duncan"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/971658",
+                    "header_image_url": "https://images.genius.com/679bd7ef3dc88230ba3efad056ba919e.360x439x1.jpg",
+                    "id": 971658,
+                    "image_url": "https://images.genius.com/8c0b723e62f764f0593b782ca93495f7.360x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Hewitt",
+                    "url": "https://genius.com/artists/Ryan-hewitt"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/557949",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 557949,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ben Maddahi",
+                    "url": "https://genius.com/artists/Ben-maddahi"
+                }
+            ]
+        },
+        {
+            "label": "Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/1482187",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1482187,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Serrato",
+                    "url": "https://genius.com/artists/Josh-serrato"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1482187",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1482187,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Serrato",
+                    "url": "https://genius.com/artists/Josh-serrato"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1482187",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1482187,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Serrato",
+                    "url": "https://genius.com/artists/Josh-serrato"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/1132999",
+                    "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+                    "id": 1132999,
+                    "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Gabe Simon",
+                    "url": "https://genius.com/artists/Gabe-simon",
+                    "iq": 105
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/1132999",
+                    "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+                    "id": 1132999,
+                    "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Gabe Simon",
+                    "url": "https://genius.com/artists/Gabe-simon",
+                    "iq": 105
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1132999",
+                    "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+                    "id": 1132999,
+                    "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Gabe Simon",
+                    "url": "https://genius.com/artists/Gabe-simon",
+                    "iq": 105
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1132999",
+                    "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+                    "id": 1132999,
+                    "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Gabe Simon",
+                    "url": "https://genius.com/artists/Gabe-simon",
+                    "iq": 105
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/2800348",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2800348,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carrie K",
+                    "url": "https://genius.com/artists/Carrie-k"
+                },
+                {
+                    "api_path": "/artists/1132999",
+                    "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+                    "id": 1132999,
+                    "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Gabe Simon",
+                    "url": "https://genius.com/artists/Gabe-simon",
+                    "iq": 105
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2800348",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2800348,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carrie K",
+                    "url": "https://genius.com/artists/Carrie-k"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6842890,
+        "annotator_login": "VPGx",
+        "api_path": "/referents/31715335",
+        "classification": "needs_exegesis",
+        "fragment": "High Road",
+        "id": 31715335,
+        "is_description": true,
+        "path": "/31715335/Koe-wetzel-and-jessie-murph-high-road/High-road",
+        "range": {
+            "content": "High Road"
+        },
+        "song_id": 10387088,
+        "url": "https://genius.com/31715335/Koe-wetzel-and-jessie-murph-high-road/High-road",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10387088",
+            "client_timestamps": {
+                "updated_by_human_at": 1739138805,
+                "lyrics_updated_at": 1735025190
+            },
+            "context": "Koe Wetzel & Jessie Murph",
+            "id": 10387088,
+            "image_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.674x673x1.png",
+            "link_title": "High Road by\u00a0Koe\u00a0Wetzel & Jessie\u00a0Murph",
+            "title": "High Road",
+            "type": "Song",
+            "url": "https://genius.com/Koe-wetzel-and-jessie-murph-high-road-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31715335",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31715335,
+                "pinned": false,
+                "share_url": "https://genius.com/31715335",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31715335/Koe-wetzel-and-jessie-murph-high-road/High-road",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6842890",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/7cr9nfdcxi3",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/7cr9nfdcxi3",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/7cr9nfdcxi3",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/7cr9nfdcxi3",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/4631cc9ekzn",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 6842890,
+                            "iq": 9042,
+                            "login": "VPGx",
+                            "name": "VPGx",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/VPGx",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=KtzgJRDejZ0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1132999",
+            "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+            "id": 1132999,
+            "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gabe Simon",
+            "url": "https://genius.com/artists/Gabe-simon",
+            "iq": 105
+        },
+        {
+            "api_path": "/artists/1482187",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 1482187,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Josh Serrato",
+            "url": "https://genius.com/artists/Josh-serrato"
+        },
+        {
+            "api_path": "/artists/2800348",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 2800348,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Carrie K",
+            "url": "https://genius.com/artists/Carrie-k"
+        },
+        {
+            "api_path": "/artists/557949",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 557949,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ben Maddahi",
+            "url": "https://genius.com/artists/Ben-maddahi"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10534999",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Koe Wetzel - High Road (Ft. Jessie Murph) (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.674x673x1.png",
+                    "id": 10534999,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-koe-wetzel-high-road-ft-jessie-murph-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-koe-wetzel-high-road-ft-jessie-murph-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3004bddca6a6a03ad016a37a5237e556.674x673x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Koe Wetzel - High Road (Ft. Jessie Murph) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Koe Wetzel - High Road (Ft. Jessie Murph) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-koe-wetzel-high-road-ft-jessie-murph-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10534999",
+            "id": 10534999,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-koe-wetzel-high-road-ft-jessie-murph-traduccion-al-espanol-lyrics",
+            "title": "Koe Wetzel - High Road (Ft. Jessie Murph) (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-koe-wetzel-high-road-ft-jessie-murph-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1291802",
+            "header_image_url": "https://images.genius.com/17802160e2f1e21329ba9a1822dd8a7c.832x477x1.jpg",
+            "id": 1291802,
+            "image_url": "https://images.genius.com/77c2d0cb6baf4c51bc45fb65e19a4e95.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Koe Wetzel",
+            "url": "https://genius.com/artists/Koe-wetzel"
+        },
+        {
+            "api_path": "/artists/1256784",
+            "header_image_url": "https://images.genius.com/34c93d254872fea05bc361ff3c26f59a.1000x663x1.jpg",
+            "id": 1256784,
+            "image_url": "https://images.genius.com/58faf2cb589543bfe672f3df703928c5.967x967x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Amy Allen",
+            "url": "https://genius.com/artists/Amy-allen"
+        },
+        {
+            "api_path": "/artists/2800348",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 2800348,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Carrie K",
+            "url": "https://genius.com/artists/Carrie-k"
+        },
+        {
+            "api_path": "/artists/1132999",
+            "header_image_url": "https://images.genius.com/6f8b3f9aeb492efc84d695e335fc47e1.1000x1000x1.jpg",
+            "id": 1132999,
+            "image_url": "https://images.genius.com/ce278ea4c6aaa683b71a39089e12810e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gabe Simon",
+            "url": "https://genius.com/artists/Gabe-simon",
+            "iq": 105
+        },
+        {
+            "api_path": "/artists/1482187",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 1482187,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Josh Serrato",
+            "url": "https://genius.com/artists/Josh-serrato"
+        },
+        {
+            "api_path": "/artists/662423",
+            "header_image_url": "https://images.genius.com/f2de7355a64a294a6059e5d91a439a74.1000x1000x1.jpg",
+            "id": 662423,
+            "image_url": "https://images.genius.com/f2de7355a64a294a6059e5d91a439a74.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Laura Veltz",
+            "url": "https://genius.com/artists/Laura-veltz"
+        }
+    ],
+    "artist": "Koe Wetzel",
+    "lyrics": "10 ContributorsTranslationsEspa\u00f1olHigh Road Lyrics\nI can tell that you're mad\nAnd I ain't half surprised about that\nSince the day that\u2005we\u2005met\nIt's always who\u2005cuts first and never who bleeds\u2005last\nRumors always turn into yelling and fighting\nAnd once it's in your mind, only one way you're driving\n\nI know, I know\nI'ma take the high road, maybe get stoned\nHave a little too much of something terrible\nI'ma let you cool down while I walk out\nYou ain't messing me up like the times before\nI don't need a ticket to your shit show\nKnock yourself out and hit a new low\nWell, I'ma take the high road, take the high road, take the high road\n\nYou don't wanna talk about it, boy, that's no surpris\u0435\nYou come home smelling lik\u0435 liquor like every other night\nIf I catch you with her, you gon' catch me with him\nYou think I don't hear about it, you better think again\nYou know that rumors always turn into yelling and fighting\nAnd once it's in my mind, only one way I'm driving\n\nYou know, I know\nI'ma take the high road, maybe get stoned\nHave a little too much of something terrible\nI'ma let you cool down while I walk out\nYou ain't messing me up like the times before\nI don't need a ticket to your shit show\nKnock yourself out and hit a new low\nWell, I'ma take the high road, take the high road, take the high road\nWhoa, whoa\n\n\nI'ma take the high road, maybe get stoned\nHave a little too much of something terrible\nI'ma let you cool down while I walk out\nYou ain't messing me up like the times before\nAnd I don't need a ticket to your shit show\nKnock yourself out and hit a new low\nWell I'ma take the high road, take the high road, take the high road\nI'ma take the high road, take the high road, take the high road\nOh, yeah, yeah, mm"
+}

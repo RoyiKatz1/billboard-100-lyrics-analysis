@@ -1,0 +1,1177 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10462375",
+    "artist_names": "Jelly Roll",
+    "full_title": "I Am Not Okay by\u00a0Jelly\u00a0Roll",
+    "header_image_thumbnail_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.1000x1000x1.jpg",
+    "id": 10462375,
+    "instrumental": false,
+    "lyrics_owner_id": 3499648,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1744060528,
+    "path": "/Jelly-roll-i-am-not-okay-lyrics",
+    "primary_artist_names": "Jelly Roll",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jelly-roll-i-am-not-okay-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 12
+    },
+    "release_date_for_display": "June 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 15,
+        "iq_earners": 15,
+        "transcribers": 2,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 235279
+    },
+    "title": "I Am Not Okay",
+    "title_with_featured": "I Am Not Okay",
+    "updated_by_human_at": 1744050304,
+    "url": "https://genius.com/Jelly-roll-i-am-not-okay-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3333",
+        "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+        "id": 3333,
+        "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jelly Roll",
+        "url": "https://genius.com/artists/Jelly-roll"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        }
+    ],
+    "apple_music_id": "1750427181",
+    "apple_music_player_url": "https://genius.com/songs/10462375/apple_music_player",
+    "description": {
+        "plain": "First performed pre-release at Jelly Roll\u2019s first CMA Fest (2024), \u201cI Am Not Okay\u201d explores themes of mental health and emphasizes the importance of knowing that \u201cit\u2019s okay to not be okay.\u201d Jelly Roll\u2019s vulnerability creates strong emotions evident in the manner of his singing."
+    },
+    "embed_content": "<div id='rg_embed_link_10462375' class='rg_embed_link' data-song-id='10462375'>Read <a href='https://genius.com/Jelly-roll-i-am-not-okay-lyrics'>\u201cI Am Not Okay\u201d by Jelly\u00a0Roll</a> on Genius</div> <script crossorigin src='//genius.com/songs/10462375/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-12",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#94876a",
+    "song_art_secondary_color": "#4d4637",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1258215",
+        "cover_art_url": "https://images.genius.com/80219117c7a392d1b7a4ca85249cc346.1000x1000x1.jpg",
+        "full_title": "Beautifully Broken (Pickin' Up the Pieces) by Jelly Roll",
+        "id": 1258215,
+        "name": "Beautifully Broken (Pickin\u2019 Up the Pieces)",
+        "primary_artist_names": "Jelly Roll",
+        "release_date_for_display": "October 11, 2024",
+        "url": "https://genius.com/albums/Jelly-roll/Beautifully-broken-pickin-up-the-pieces",
+        "artist": {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3333",
+                "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                "id": 3333,
+                "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Jelly Roll",
+                "url": "https://genius.com/artists/Jelly-roll"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2887651",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2887651,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luke Armentrout",
+                    "url": "https://genius.com/artists/Luke-armentrout"
+                },
+                {
+                    "api_path": "/artists/3929485",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3929485,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Battershell",
+                    "url": "https://genius.com/artists/Adam-battershell"
+                }
+            ]
+        },
+        {
+            "label": "A&R",
+            "artists": [
+                {
+                    "api_path": "/artists/2031647",
+                    "header_image_url": "https://images.genius.com/816a762fa17bb17689f3723b8cd2eb39.1000x1000x1.jpg",
+                    "id": 2031647,
+                    "image_url": "https://images.genius.com/816a762fa17bb17689f3723b8cd2eb39.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wes Donehower",
+                    "url": "https://genius.com/artists/Wes-donehower"
+                },
+                {
+                    "api_path": "/artists/4047706",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4047706,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Loba",
+                    "url": "https://genius.com/artists/Jon-loba"
+                },
+                {
+                    "api_path": "/artists/3879006",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3879006,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Katie Kerkhover",
+                    "url": "https://genius.com/artists/Katie-kerkhover"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/3333",
+                    "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                    "id": 3333,
+                    "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jelly Roll",
+                    "url": "https://genius.com/artists/Jelly-roll"
+                },
+                {
+                    "api_path": "/artists/411978",
+                    "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+                    "id": 411978,
+                    "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ashley Gorley",
+                    "url": "https://genius.com/artists/Ashley-gorley"
+                },
+                {
+                    "api_path": "/artists/330123",
+                    "header_image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+                    "id": 330123,
+                    "image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casey Brown",
+                    "url": "https://genius.com/artists/Casey-brown"
+                },
+                {
+                    "api_path": "/artists/747139",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 747139,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Phillips",
+                    "url": "https://genius.com/artists/Taylor-phillips"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/3333",
+                    "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                    "id": 3333,
+                    "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jelly Roll",
+                    "url": "https://genius.com/artists/Jelly-roll"
+                },
+                {
+                    "api_path": "/artists/411978",
+                    "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+                    "id": 411978,
+                    "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ashley Gorley",
+                    "url": "https://genius.com/artists/Ashley-gorley"
+                },
+                {
+                    "api_path": "/artists/330123",
+                    "header_image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+                    "id": 330123,
+                    "image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Casey Brown",
+                    "url": "https://genius.com/artists/Casey-brown"
+                },
+                {
+                    "api_path": "/artists/747139",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 747139,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Phillips",
+                    "url": "https://genius.com/artists/Taylor-phillips"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1977241",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1977241,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "This Is Hit, Inc",
+                    "url": "https://genius.com/artists/This-is-hit-inc"
+                },
+                {
+                    "api_path": "/artists/1194231",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1194231,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stoney Creek Records",
+                    "url": "https://genius.com/artists/Stoney-creek-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/4047707",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4047707,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bailee & Buddy Management",
+                    "url": "https://genius.com/artists/Bailee-and-buddy-management"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/4047707",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4047707,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bailee & Buddy Management",
+                    "url": "https://genius.com/artists/Bailee-and-buddy-management"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/48603",
+                    "header_image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "id": 48603,
+                    "image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Crowell",
+                    "url": "https://genius.com/artists/Zach-crowell"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/48603",
+                    "header_image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "id": 48603,
+                    "image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Crowell",
+                    "url": "https://genius.com/artists/Zach-crowell"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/48603",
+                    "header_image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "id": 48603,
+                    "image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Crowell",
+                    "url": "https://genius.com/artists/Zach-crowell"
+                }
+            ]
+        },
+        {
+            "label": "Additional Engineering",
+            "artists": [
+                {
+                    "api_path": "/artists/48603",
+                    "header_image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "id": 48603,
+                    "image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Crowell",
+                    "url": "https://genius.com/artists/Zach-crowell"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2019982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2019982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Keeterle",
+                    "url": "https://genius.com/artists/Nathan-keeterle"
+                },
+                {
+                    "api_path": "/artists/1208855",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1208855,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Devin Malone",
+                    "url": "https://genius.com/artists/Devin-malone"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2019982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2019982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Keeterle",
+                    "url": "https://genius.com/artists/Nathan-keeterle"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1208855",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1208855,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Devin Malone",
+                    "url": "https://genius.com/artists/Devin-malone"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1208855",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1208855,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Devin Malone",
+                    "url": "https://genius.com/artists/Devin-malone"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1860914",
+                    "header_image_url": "https://images.genius.com/ada2550959d64ccab061f9996c8691e0.763x533x1.jpg",
+                    "id": 1860914,
+                    "image_url": "https://images.genius.com/ada2550959d64ccab061f9996c8691e0.763x533x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grady Saxman",
+                    "url": "https://genius.com/artists/Grady-saxman"
+                }
+            ]
+        },
+        {
+            "label": "Strings Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/651802",
+                    "header_image_url": "https://images.genius.com/b3501d8baf4abd393d000f1375f91022.401x269x1.jpg",
+                    "id": 651802,
+                    "image_url": "https://images.genius.com/45ef27b71cb7a3ee06ac696bc0a9465d.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Davidson",
+                    "url": "https://genius.com/artists/David-davidson"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/662408",
+                    "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "id": 662408,
+                    "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Mendelson",
+                    "url": "https://genius.com/artists/Andrew-mendelson"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2193167",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2193167,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Pollert",
+                    "url": "https://genius.com/artists/Taylor-pollert"
+                },
+                {
+                    "api_path": "/artists/2721027",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2721027,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aidan Thompson",
+                    "url": "https://genius.com/artists/Aidan-thompson"
+                },
+                {
+                    "api_path": "/artists/1860914",
+                    "header_image_url": "https://images.genius.com/ada2550959d64ccab061f9996c8691e0.763x533x1.jpg",
+                    "id": 1860914,
+                    "image_url": "https://images.genius.com/ada2550959d64ccab061f9996c8691e0.763x533x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grady Saxman",
+                    "url": "https://genius.com/artists/Grady-saxman"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/259377",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 259377,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Johnson",
+                    "url": "https://genius.com/artists/Scott-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/1028832",
+                    "header_image_url": "https://images.genius.com/e47c5644aec01cfce82b7a72a4971fe0.206x206x1.png",
+                    "id": 1028832,
+                    "image_url": "https://images.genius.com/e47c5644aec01cfce82b7a72a4971fe0.206x206x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carole Rabinowitz",
+                    "url": "https://genius.com/artists/Carole-rabinowitz"
+                }
+            ]
+        },
+        {
+            "label": "Viola",
+            "artists": [
+                {
+                    "api_path": "/artists/1003772",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1003772,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Elizabeth Lamb",
+                    "url": "https://genius.com/artists/Elizabeth-lamb"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/135928",
+                    "header_image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+                    "id": 135928,
+                    "image_url": "https://images.genius.com/88c26e6580c1d6642c88117837171036.262x262x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Angell",
+                    "url": "https://genius.com/artists/David-angell"
+                },
+                {
+                    "api_path": "/artists/651802",
+                    "header_image_url": "https://images.genius.com/b3501d8baf4abd393d000f1375f91022.401x269x1.jpg",
+                    "id": 651802,
+                    "image_url": "https://images.genius.com/45ef27b71cb7a3ee06ac696bc0a9465d.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Davidson",
+                    "url": "https://genius.com/artists/David-davidson"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21842890,
+        "annotator_login": "Beathelittleotter",
+        "api_path": "/referents/31894101",
+        "classification": "unreviewed",
+        "fragment": "I Am Not Okay",
+        "id": 31894101,
+        "is_description": true,
+        "path": "/31894101/Jelly-roll-i-am-not-okay/I-am-not-okay",
+        "range": {
+            "content": "I Am Not Okay"
+        },
+        "song_id": 10462375,
+        "url": "https://genius.com/31894101/Jelly-roll-i-am-not-okay/I-am-not-okay",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10462375",
+            "client_timestamps": {
+                "updated_by_human_at": 1744050304,
+                "lyrics_updated_at": 1744060528
+            },
+            "context": "Jelly Roll",
+            "id": 10462375,
+            "image_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.1000x1000x1.jpg",
+            "link_title": "I Am Not Okay by\u00a0Jelly\u00a0Roll",
+            "title": "I Am Not Okay",
+            "type": "Song",
+            "url": "https://genius.com/Jelly-roll-i-am-not-okay-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31894101",
+                "body": {
+                    "plain": "First performed pre-release at Jelly Roll\u2019s first CMA Fest (2024), \u201cI Am Not Okay\u201d explores themes of mental health and emphasizes the importance of knowing that \u201cit\u2019s okay to not be okay.\u201d Jelly Roll\u2019s vulnerability creates strong emotions evident in the manner of his singing."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31894101,
+                "pinned": false,
+                "share_url": "https://genius.com/31894101",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31894101/Jelly-roll-i-am-not-okay/I-am-not-okay",
+                "verified": false,
+                "votes_total": 10,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21842890",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/2d76665f89de48d57cf566e55caa51cd",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/2d76665f89de48d57cf566e55caa51cd",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/2d76665f89de48d57cf566e55caa51cd",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/2d76665f89de48d57cf566e55caa51cd",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/2d76665f89de48d57cf566e55caa51cd",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21842890,
+                            "iq": 313,
+                            "login": "Beathelittleotter",
+                            "name": "Beathelittleotter",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Beathelittleotter",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/3499648",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/18578d19ddc62eab620152089692ccd5.1000x1000x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 3499648,
+        "iq": 1952777,
+        "login": "AlexanderJamesM",
+        "name": "AlexanderJamesM",
+        "role_for_display": "editor",
+        "url": "https://genius.com/AlexanderJamesM",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=Qop5XLgwkNc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/48603",
+            "header_image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+            "id": 48603,
+            "image_url": "https://images.genius.com/fa29afbd901acff526b1eb77d6e79ea9.295x295x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Crowell",
+            "url": "https://genius.com/artists/Zach-crowell"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10522714",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Jelly Roll - I Am Not Okay (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.1000x1000x1.jpg",
+                    "id": 10522714,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-jelly-roll-i-am-not-okay-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-jelly-roll-i-am-not-okay-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 12
+                    },
+                    "release_date_for_display": "June 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5c1cbd878eaa48cd989531ea12838c94.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jelly Roll - I Am Not Okay (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Jelly Roll - I Am Not Okay (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-jelly-roll-i-am-not-okay-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10980220",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Jelly Roll - I Am Not Okay (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/97c896adcfe7dd825e8cee2e977bd434.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/97c896adcfe7dd825e8cee2e977bd434.1000x1000x1.png",
+                    "id": 10980220,
+                    "lyrics_owner_id": 21998695,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-jelly-roll-i-am-not-okay-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-jelly-roll-i-am-not-okay-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 12
+                    },
+                    "release_date_for_display": "June 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/97c896adcfe7dd825e8cee2e977bd434.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/97c896adcfe7dd825e8cee2e977bd434.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jelly Roll - I Am Not Okay (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Jelly Roll - I Am Not Okay (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-jelly-roll-i-am-not-okay-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10522714",
+            "id": 10522714,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-jelly-roll-i-am-not-okay-traduccion-al-espanol-lyrics",
+            "title": "Jelly Roll - I Am Not Okay (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-jelly-roll-i-am-not-okay-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10980220",
+            "id": 10980220,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-jelly-roll-i-am-not-okay-lyrics",
+            "title": "Jelly Roll - I Am Not Okay (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-ukrainian-translations-jelly-roll-i-am-not-okay-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        },
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/330123",
+            "header_image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+            "id": 330123,
+            "image_url": "https://images.genius.com/2eecfc3ca34a7cf696c6838fef1db6d7.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Casey Brown",
+            "url": "https://genius.com/artists/Casey-brown"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        }
+    ],
+    "artist": "Jelly Roll",
+    "lyrics": "15 ContributorsTranslationsEspa\u00f1ol\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430I Am Not Okay Lyrics\nI am not okay\nI'm barely gettin' by\nI'm losin' track of days\nAnd losin' sleep at night\nI am not okay\nI'm hangin' on the rails\nSo if I say I'm fine\nJust know I learned to hide it well\n\nI know I can't be the only one\nWho's holdin' on for dear life\nBut God knows, I know\nWhen it's all said and done\nI'm not okay\nBut it's all gonna be alright\nIt's not okay\nBut we're all gonna be alright\n\nI woke up today\nI almost stayed in bed\nHad the devil on my back\nAnd voices in my head\nSome days, it ain't all bad\nSome days, it all gets worse\nSome days, I swear I'm better off\nLayin' in that dirt\n\nI know I can't be the only one\nWho's holdin' on for dear life\nBut God knows, I know\nWhen it's all said and done\nI'm not okay\nBut it's all gonna be alright\nIt's not okay\nBut w\u0435're all gonna be alright\nGonna be alright\nGonna b\u0435 alright\n\nI know one day\nWe'll see the other side\nThe pain'll wash away\nIn a holy water tide\nAnd we all gonna be alright\n\nI know I can't be the only one\nWho's holdin' on for dear life\nBut God knows, I know\nWhen it's all said and done\nI'm not okay\nBut it's all gonna be alright\nIt's not okay\nBut we're all gonna be alright\nI'm not okay\nBut it's all gonna be alright"
+}

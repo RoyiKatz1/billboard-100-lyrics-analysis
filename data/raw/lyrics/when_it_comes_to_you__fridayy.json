@@ -1,0 +1,703 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/9345150",
+    "artist_names": "Fridayy",
+    "full_title": "When It Comes To You by\u00a0Fridayy",
+    "header_image_thumbnail_url": "https://images.genius.com/9c42043fc0ad18a383cf17a18af8156f.300x300x1.png",
+    "header_image_url": "https://images.genius.com/9c42043fc0ad18a383cf17a18af8156f.1000x1000x1.png",
+    "id": 9345150,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1735006523,
+    "path": "/Fridayy-when-it-comes-to-you-lyrics",
+    "primary_artist_names": "Fridayy",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Fridayy-when-it-comes-to-you-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 7,
+        "day": 21
+    },
+    "release_date_for_display": "July 21, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9c42043fc0ad18a383cf17a18af8156f.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/9c42043fc0ad18a383cf17a18af8156f.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 18,
+        "iq_earners": 18,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 69562
+    },
+    "title": "When It Comes To You",
+    "title_with_featured": "When It Comes To You",
+    "updated_by_human_at": 1734995947,
+    "url": "https://genius.com/Fridayy-when-it-comes-to-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2600051",
+        "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+        "id": 2600051,
+        "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fridayy",
+        "url": "https://genius.com/artists/Fridayy"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2600051",
+            "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+            "id": 2600051,
+            "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fridayy",
+            "url": "https://genius.com/artists/Fridayy"
+        }
+    ],
+    "apple_music_id": "1695169464",
+    "apple_music_player_url": "https://genius.com/songs/9345150/apple_music_player",
+    "description": {
+        "plain": "\u201cWhen It Comes to You\u201d is a song by American rapper and singer Fridayy, taken from their self-titled debut album Fridayy (2023). It was released on July 21, 2023 as the second and final single from the album through Lost in Melody and Def Jam Recordings. The song peaked at number 29 on the US R&B/Hip-Hop songs and number 98 on the Billboard Hot 100."
+    },
+    "embed_content": "<div id='rg_embed_link_9345150' class='rg_embed_link' data-song-id='9345150'>Read <a href='https://genius.com/Fridayy-when-it-comes-to-you-lyrics'>\u201cWhen It Comes To You\u201d by Fridayy</a> on Genius</div> <script crossorigin src='//genius.com/songs/9345150/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-07-21",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#af7538",
+    "song_art_secondary_color": "#5c442a",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1043071",
+        "cover_art_url": "https://images.genius.com/c2ad0527d3c97dc411faa195b97a4061.1000x1000x1.jpg",
+        "full_title": "Fridayy by Fridayy",
+        "id": 1043071,
+        "name": "Fridayy",
+        "primary_artist_names": "Fridayy",
+        "release_date_for_display": "August 25, 2023",
+        "url": "https://genius.com/albums/Fridayy/Fridayy",
+        "artist": {
+            "api_path": "/artists/2600051",
+            "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+            "id": 2600051,
+            "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fridayy",
+            "url": "https://genius.com/artists/Fridayy"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2600051",
+                "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+                "id": 2600051,
+                "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Fridayy",
+                "url": "https://genius.com/artists/Fridayy"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1577065",
+                    "header_image_url": "https://images.genius.com/f2de73c618eed20351145909fdf0e84e.945x945x1.jpg",
+                    "id": 1577065,
+                    "image_url": "https://images.genius.com/f2de73c618eed20351145909fdf0e84e.945x945x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200biamBNJMIIN",
+                    "url": "https://genius.com/artists/Iambnjmiin"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3320784",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3320784,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lost In Melody",
+                    "url": "https://genius.com/artists/Lost-in-melody"
+                },
+                {
+                    "api_path": "/artists/79113",
+                    "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+                    "id": 79113,
+                    "image_url": "https://images.genius.com/dd6917a8ff693c9caf5f41a4d2933a43.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Def Jam Recordings",
+                    "url": "https://genius.com/artists/Def-jam-recordings"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/79113",
+                    "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+                    "id": 79113,
+                    "image_url": "https://images.genius.com/dd6917a8ff693c9caf5f41a4d2933a43.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Def Jam Recordings",
+                    "url": "https://genius.com/artists/Def-jam-recordings"
+                },
+                {
+                    "api_path": "/artists/3320784",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3320784,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lost In Melody",
+                    "url": "https://genius.com/artists/Lost-in-melody"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3320784",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3320784,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lost In Melody",
+                    "url": "https://genius.com/artists/Lost-in-melody"
+                },
+                {
+                    "api_path": "/artists/79113",
+                    "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+                    "id": 79113,
+                    "image_url": "https://images.genius.com/dd6917a8ff693c9caf5f41a4d2933a43.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Def Jam Recordings",
+                    "url": "https://genius.com/artists/Def-jam-recordings"
+                }
+            ]
+        },
+        {
+            "label": "A&R Administrator",
+            "artists": [
+                {
+                    "api_path": "/artists/1643803",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1643803,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Liza Corsey",
+                    "url": "https://genius.com/artists/Liza-corsey"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1111570",
+                    "header_image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+                    "id": 1111570,
+                    "image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kofo",
+                    "url": "https://genius.com/artists/Kofo"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1111570",
+                    "header_image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+                    "id": 1111570,
+                    "image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kofo",
+                    "url": "https://genius.com/artists/Kofo"
+                },
+                {
+                    "api_path": "/artists/1433135",
+                    "header_image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+                    "id": 1433135,
+                    "image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aidan Brody",
+                    "url": "https://genius.com/artists/Aidan-brody"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1490193",
+                    "header_image_url": "https://images.genius.com/33141f7c0ab551dc0870588f9a7a3fb3.1000x667x1.jpg",
+                    "id": 1490193,
+                    "image_url": "https://images.genius.com/c7a1c4a52db20604dc896f2274921d02.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "KVRIM",
+                    "url": "https://genius.com/artists/Kvrim",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2600051",
+                    "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+                    "id": 2600051,
+                    "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fridayy",
+                    "url": "https://genius.com/artists/Fridayy"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8273289,
+        "annotator_login": "TheoFeliciano",
+        "api_path": "/referents/30149889",
+        "classification": "unreviewed",
+        "fragment": "When It Comes To You",
+        "id": 30149889,
+        "is_description": true,
+        "path": "/30149889/Fridayy-when-it-comes-to-you/When-it-comes-to-you",
+        "range": {
+            "content": "When It Comes To You"
+        },
+        "song_id": 9345150,
+        "url": "https://genius.com/30149889/Fridayy-when-it-comes-to-you/When-it-comes-to-you",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9345150",
+            "client_timestamps": {
+                "updated_by_human_at": 1734995947,
+                "lyrics_updated_at": 1735006523
+            },
+            "context": "Fridayy",
+            "id": 9345150,
+            "image_url": "https://images.genius.com/9c42043fc0ad18a383cf17a18af8156f.1000x1000x1.png",
+            "link_title": "When It Comes To You by\u00a0Fridayy",
+            "title": "When It Comes To You",
+            "type": "Song",
+            "url": "https://genius.com/Fridayy-when-it-comes-to-you-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30149889",
+                "body": {
+                    "plain": "\u201cWhen It Comes to You\u201d is a song by American rapper and singer Fridayy, taken from their self-titled debut album Fridayy (2023). It was released on July 21, 2023 as the second and final single from the album through Lost in Melody and Def Jam Recordings. The song peaked at number 29 on the US R&B/Hip-Hop songs and number 98 on the Billboard Hot 100."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30149889,
+                "pinned": false,
+                "share_url": "https://genius.com/30149889",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30149889/Fridayy-when-it-comes-to-you/When-it-comes-to-you",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/8273289",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 8273289,
+                            "iq": 5746,
+                            "login": "TheoFeliciano",
+                            "name": "TheoFeliciano",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/TheoFeliciano",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=WqSPNpSSgGg"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2600051",
+            "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+            "id": 2600051,
+            "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fridayy",
+            "url": "https://genius.com/artists/Fridayy"
+        },
+        {
+            "api_path": "/artists/1490193",
+            "header_image_url": "https://images.genius.com/33141f7c0ab551dc0870588f9a7a3fb3.1000x667x1.jpg",
+            "id": 1490193,
+            "image_url": "https://images.genius.com/c7a1c4a52db20604dc896f2274921d02.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "KVRIM",
+            "url": "https://genius.com/artists/Kvrim",
+            "iq": 129
+        },
+        {
+            "api_path": "/artists/1111570",
+            "header_image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+            "id": 1111570,
+            "image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kofo",
+            "url": "https://genius.com/artists/Kofo"
+        },
+        {
+            "api_path": "/artists/1433135",
+            "header_image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+            "id": 1433135,
+            "image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Aidan Brody",
+            "url": "https://genius.com/artists/Aidan-brody"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2600051",
+            "header_image_url": "https://images.genius.com/e8a3d71fa2dc440632d403e7ed069d9d.720x900x1.jpg",
+            "id": 2600051,
+            "image_url": "https://images.genius.com/146edcff57823bb1d17be602b67fafb6.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fridayy",
+            "url": "https://genius.com/artists/Fridayy"
+        },
+        {
+            "api_path": "/artists/1490193",
+            "header_image_url": "https://images.genius.com/33141f7c0ab551dc0870588f9a7a3fb3.1000x667x1.jpg",
+            "id": 1490193,
+            "image_url": "https://images.genius.com/c7a1c4a52db20604dc896f2274921d02.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "KVRIM",
+            "url": "https://genius.com/artists/Kvrim",
+            "iq": 129
+        },
+        {
+            "api_path": "/artists/1111570",
+            "header_image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+            "id": 1111570,
+            "image_url": "https://images.genius.com/1a0bc469d5b3f1212fa436080f3d143f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kofo",
+            "url": "https://genius.com/artists/Kofo"
+        },
+        {
+            "api_path": "/artists/1433135",
+            "header_image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+            "id": 1433135,
+            "image_url": "https://images.genius.com/f2a48bb93e3548447cbc0dfefa3a3b4a.327x327x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Aidan Brody",
+            "url": "https://genius.com/artists/Aidan-brody"
+        },
+        {
+            "api_path": "/artists/3553640",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3553640,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mariah Martinez",
+            "url": "https://genius.com/artists/Mariah-martinez"
+        },
+        {
+            "api_path": "/artists/3553642",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3553642,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dana Victoria",
+            "url": "https://genius.com/artists/Dana-victoria"
+        }
+    ],
+    "artist": "Fridayy",
+    "lyrics": "18 ContributorsWhen It Comes To You Lyrics\nI done gave my heart to you, fell in the deep end\nYou done came into my life while I was sinkin'\nI been on that type of time with demons\nAll the time\u205fI\u205fwas\u205foutside, I was\u205fcreepin'\nIt was love\u205fat first sight, girl, when you walked in\nCouldn't look deep in your eyes 'cause I'd get locked in\nYou was hurtin' deep inside and you was broken\nBut I was on the other side and didn't notice\n\nOh-oh-oh, I won't waste no time\nI won't waste my time when it comes to you\nPut my pride aside, give it all to you\nPut my pride aside, no (Oh)\nGirl, I won't waste no time\nI won't waste no time when it comes to you\nPut my pride aside, give it all to you\nPut my pride aside, give it all to\n\nPullin' up fast to you\n223 bust rounds for you\nAll eyes on me, got me feelin' like Pac, but I'd do it all for you\nDon't get caught up in them lies before you know the truth\nI'd be down to risk it all if you ask me to\nAin't playin' with your heart 'cause that's too much to lose\nYou puttin' up a wall but you ain't bulletproof\nI done got it out the mud, ain't got nothin' to prove\nTryna open up your mind and see a clearer view (Ooh, ooh, mm-mm)\nAll the times I made you wait for me, no more (Mm-mm, nah, nah, nah)\nBut I was on the other side and didn't notice\n\nOh-oh-oh, I won't waste no time\nI won't waste my time when it comes to you\nPut my pride aside, give it all to you\nPut my pride aside, no (Oh)\nGirl, I won't waste no time\nI won't waste no time when it comes to you (No time)\nPut my pride aside, give it all to you (To you)\nPut my pride aside, give it all to (Woah, oh)\n\nI won't waste no time\nI won't waste no time when it comes to you\nPut my pride aside, give it all to you\nPut my pride aside, give it all to you (Oh, oh)\nI won't waste no time\nI won't waste no time when it comes to (No time)\nPut my pride aside, when it comes to you (Oh, woah, oh)\nWhen it comes to"
+}

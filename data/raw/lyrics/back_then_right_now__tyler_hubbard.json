@@ -1,0 +1,469 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9500303",
+    "artist_names": "Tyler Hubbard",
+    "full_title": "Back Then Right Now by\u00a0Tyler\u00a0Hubbard",
+    "header_image_thumbnail_url": "https://images.genius.com/9eaadee12f034ed90a1e791cfce0de36.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/9eaadee12f034ed90a1e791cfce0de36.440x440x1.jpg",
+    "id": 9500303,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736177138,
+    "path": "/Tyler-hubbard-back-then-right-now-lyrics",
+    "primary_artist_names": "Tyler Hubbard",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Tyler-hubbard-back-then-right-now-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 9,
+        "day": 8
+    },
+    "release_date_for_display": "September 8, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9eaadee12f034ed90a1e791cfce0de36.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/9eaadee12f034ed90a1e791cfce0de36.440x440x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 4,
+        "iq_earners": 4,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 6913
+    },
+    "title": "Back Then Right Now",
+    "title_with_featured": "Back Then Right Now",
+    "updated_by_human_at": 1745751416,
+    "url": "https://genius.com/Tyler-hubbard-back-then-right-now-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/977349",
+        "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+        "id": 977349,
+        "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tyler Hubbard",
+        "url": "https://genius.com/artists/Tyler-hubbard"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/977349",
+            "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+            "id": 977349,
+            "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyler Hubbard",
+            "url": "https://genius.com/artists/Tyler-hubbard"
+        }
+    ],
+    "apple_music_id": "1704212209",
+    "apple_music_player_url": "https://genius.com/songs/9500303/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9500303' class='rg_embed_link' data-song-id='9500303'>Read <a href='https://genius.com/Tyler-hubbard-back-then-right-now-lyrics'>\u201cBack Then Right Now\u201d by Tyler\u00a0Hubbard</a> on Genius</div> <script crossorigin src='//genius.com/songs/9500303/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-09-08",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#2a6078",
+    "song_art_secondary_color": "#04222e",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1144744",
+        "cover_art_url": "https://images.genius.com/3141844b7197e5b9329af0fa2e7c3b7a.1000x1000x1.png",
+        "full_title": "Strong by Tyler Hubbard",
+        "id": 1144744,
+        "name": "Strong",
+        "primary_artist_names": "Tyler Hubbard",
+        "release_date_for_display": "April 12, 2024",
+        "url": "https://genius.com/albums/Tyler-hubbard/Strong",
+        "artist": {
+            "api_path": "/artists/977349",
+            "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+            "id": 977349,
+            "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyler Hubbard",
+            "url": "https://genius.com/artists/Tyler-hubbard"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/977349",
+                "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+                "id": 977349,
+                "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Tyler Hubbard",
+                "url": "https://genius.com/artists/Tyler-hubbard"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 3499648,
+        "annotator_login": "AlexanderJamesM",
+        "api_path": "/referents/29484260",
+        "classification": "needs_exegesis",
+        "fragment": "Back Then Right Now",
+        "id": 29484260,
+        "is_description": true,
+        "path": "/29484260/Tyler-hubbard-back-then-right-now/Back-then-right-now",
+        "range": {
+            "content": "Back Then Right Now"
+        },
+        "song_id": 9500303,
+        "url": "https://genius.com/29484260/Tyler-hubbard-back-then-right-now/Back-then-right-now",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9500303",
+            "client_timestamps": {
+                "updated_by_human_at": 1745751416,
+                "lyrics_updated_at": 1736177138
+            },
+            "context": "Tyler Hubbard",
+            "id": 9500303,
+            "image_url": "https://images.genius.com/9eaadee12f034ed90a1e791cfce0de36.440x440x1.jpg",
+            "link_title": "Back Then Right Now by\u00a0Tyler\u00a0Hubbard",
+            "title": "Back Then Right Now",
+            "type": "Song",
+            "url": "https://genius.com/Tyler-hubbard-back-then-right-now-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29484260",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 29484260,
+                "pinned": false,
+                "share_url": "https://genius.com/29484260",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/29484260/Tyler-hubbard-back-then-right-now/Back-then-right-now",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/3499648",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/18578d19ddc62eab620152089692ccd5.1000x1000x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 3499648,
+                            "iq": 1952777,
+                            "login": "AlexanderJamesM",
+                            "name": "AlexanderJamesM",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/AlexanderJamesM",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=uPRxiBLaXnI"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/977349",
+            "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+            "id": 977349,
+            "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyler Hubbard",
+            "url": "https://genius.com/artists/Tyler-hubbard"
+        },
+        {
+            "api_path": "/artists/654614",
+            "header_image_url": "https://images.genius.com/5c00f8d4a7bf2e7f7862c2c5106d17d5.667x1000x1.png",
+            "id": 654614,
+            "image_url": "https://images.genius.com/426bd3c89c8cdb9d9956961dee0ea4d3.800x800x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jordan Schmidt",
+            "url": "https://genius.com/artists/Jordan-schmidt"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/680281",
+            "header_image_url": "https://images.genius.com/ca50ab3a05fd7dd2ebf48344f3dce793.750x750x1.jpg",
+            "id": 680281,
+            "image_url": "https://images.genius.com/ca50ab3a05fd7dd2ebf48344f3dce793.750x750x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jessie Jo Dillon",
+            "url": "https://genius.com/artists/Jessie-jo-dillon"
+        },
+        {
+            "api_path": "/artists/1006385",
+            "header_image_url": "https://images.genius.com/304eec4d74d924261c7729cc202e8d8e.1000x1000x1.jpg",
+            "id": 1006385,
+            "image_url": "https://images.genius.com/304eec4d74d924261c7729cc202e8d8e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Geoff Warburton",
+            "url": "https://genius.com/artists/Geoff-warburton"
+        },
+        {
+            "api_path": "/artists/334215",
+            "header_image_url": "https://images.genius.com/fc09c2fdd2b3b02853bf573cc241ebd4.512x512x1.jpg",
+            "id": 334215,
+            "image_url": "https://images.genius.com/fc09c2fdd2b3b02853bf573cc241ebd4.512x512x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "David Garcia",
+            "url": "https://genius.com/artists/David-garcia"
+        },
+        {
+            "api_path": "/artists/977349",
+            "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+            "id": 977349,
+            "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyler Hubbard",
+            "url": "https://genius.com/artists/Tyler-hubbard"
+        }
+    ],
+    "artist": "Tyler Hubbard",
+    "lyrics": "4 ContributorsBack Then Right Now Lyrics\nBack then, right now\n\nBack when that blacktop was just a gravel road\nBack when that Walmart was just a fishin' hole\nBack when my ol' guitar had some brand-new strings\nYes, it did\nBack when a work truck was just a stick shift\nBack when you took a pic and didn't have to post it\nBack when a Baptist church was where we learned to sing\nYeah, we did\n\nI could use some back then, right now\n'98 Chevy with the tailgate down\nFM only with the gold up loud\nBurnin' up the night, innocent and wild\nI could use a little more wide-open\nBack when all I wanted was the hand I was holdin'\nLivin' in the moment with the good-time crowd\nMakin' life count\nDamn, I could use a little more\nBack then, right now\nBack then, right now\n\nBack when a, \"How ya been?\" came through a phone call\nBack when a pastime was watchin' baseball\nYeah, back when politics, it wasn't table talk\nBack when you had a fight, you could just walk it off\n\nI could use some back then right now\n'98 Chevy with the tailgate down\nFM only with the gold up loud\nBurnin' up the night, innocent and wild\nI could use a little more wide-open\nBack when all I wanted was the hand I was holdin'\nLivin' in the moment with the good-time crowd\nMakin' life count\nDamn, I could use a little more\nBack then, right now\nBack then, right now\n\nBack then, it was simple, it was slow\nWe didn't worry 'bout what we didn't know\n\nI could use some back then, right now\n'98 Chevy with the tailgate down\nFM only with the gold up loud\nBurnin' up the night, innocent and wild\nI could use a little more wide-open\nBack when all I wanted was the hand I was holdin'\nLivin' in the moment with the good-time crowd\nMakin' life count\nDamn, I could use a little more\nBack then, right now\n\n(Back then, back then) Yeah, back then, right...now\nYeah, back then, right now\n(Back then), Yeah-eh, back then, right now\nJust a little more back then, now"
+}

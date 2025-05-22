@@ -1,0 +1,2669 @@
+{
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/10628603",
+    "artist_names": "Sabrina Carpenter",
+    "full_title": "Juno by\u00a0Sabrina\u00a0Carpenter",
+    "header_image_thumbnail_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.1000x1000x1.png",
+    "id": 10628603,
+    "instrumental": false,
+    "lyrics_owner_id": 21058480,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746334841,
+    "path": "/Sabrina-carpenter-juno-lyrics",
+    "primary_artist_names": "Sabrina Carpenter",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Sabrina-carpenter-juno-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 23
+    },
+    "release_date_for_display": "August 23, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 9,
+        "contributors": 92,
+        "iq_earners": 91,
+        "transcribers": 2,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "concurrents": 5,
+        "hot": false,
+        "pageviews": 2543007
+    },
+    "title": "Juno",
+    "title_with_featured": "Juno",
+    "updated_by_human_at": 1746474478,
+    "url": "https://genius.com/Sabrina-carpenter-juno-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/249592",
+        "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+        "id": 249592,
+        "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Sabrina Carpenter",
+        "url": "https://genius.com/artists/Sabrina-carpenter",
+        "iq": 2430
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/249592",
+            "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+            "id": 249592,
+            "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sabrina Carpenter",
+            "url": "https://genius.com/artists/Sabrina-carpenter",
+            "iq": 2430
+        }
+    ],
+    "apple_music_id": "1752215160",
+    "apple_music_player_url": "https://genius.com/songs/10628603/apple_music_player",
+    "description": {
+        "plain": "Desiring to become pregnant simply due to the way her partner makes her feel, \u201cJuno\u201d cheekily references the 2007 film of the same name, with the protagonist, played by Elliot Page also being pregnant. She ultimately dreams of ending up like the Juno inside the movie, pregnant by someone who truly cares about her and her future concept of having a family."
+    },
+    "embed_content": "<div id='rg_embed_link_10628603' class='rg_embed_link' data-song-id='10628603'>Read <a href='https://genius.com/Sabrina-carpenter-juno-lyrics'>\u201cJuno\u201d by Sabrina\u00a0Carpenter</a> on Genius</div> <script crossorigin src='//genius.com/songs/10628603/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Santa Ynez House and The Playpen (Calabasas)",
+    "release_date": "2024-08-23",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#2b58a7",
+    "song_art_secondary_color": "#1a3368",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1330959",
+        "cover_art_url": "https://images.genius.com/d5e8d7dd1581bd5349bc33a47672dd7a.1000x1000x1.png",
+        "full_title": "Short n\u2019 Sweet (Deluxe) by Sabrina Carpenter",
+        "id": 1330959,
+        "name": "Short n\u2019 Sweet (Deluxe)",
+        "primary_artist_names": "Sabrina Carpenter",
+        "release_date_for_display": "February 14, 2025",
+        "url": "https://genius.com/albums/Sabrina-carpenter/Short-n-sweet-deluxe",
+        "artist": {
+            "api_path": "/artists/249592",
+            "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+            "id": 249592,
+            "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sabrina Carpenter",
+            "url": "https://genius.com/artists/Sabrina-carpenter",
+            "iq": 2430
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/249592",
+                "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+                "id": 249592,
+                "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Sabrina Carpenter",
+                "url": "https://genius.com/artists/Sabrina-carpenter",
+                "iq": 2430
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/249592",
+                    "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+                    "id": 249592,
+                    "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sabrina Carpenter",
+                    "url": "https://genius.com/artists/Sabrina-carpenter",
+                    "iq": 2430
+                },
+                {
+                    "api_path": "/artists/1256784",
+                    "header_image_url": "https://images.genius.com/34c93d254872fea05bc361ff3c26f59a.1000x663x1.jpg",
+                    "id": 1256784,
+                    "image_url": "https://images.genius.com/58faf2cb589543bfe672f3df703928c5.967x967x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amy Allen",
+                    "url": "https://genius.com/artists/Amy-allen"
+                },
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/249592",
+                    "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+                    "id": 249592,
+                    "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Sabrina Carpenter",
+                    "url": "https://genius.com/artists/Sabrina-carpenter",
+                    "iq": 2430
+                },
+                {
+                    "api_path": "/artists/1256784",
+                    "header_image_url": "https://images.genius.com/34c93d254872fea05bc361ff3c26f59a.1000x663x1.jpg",
+                    "id": 1256784,
+                    "image_url": "https://images.genius.com/58faf2cb589543bfe672f3df703928c5.967x967x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amy Allen",
+                    "url": "https://genius.com/artists/Amy-allen"
+                },
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "A&R Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/3664754",
+                    "header_image_url": "https://images.genius.com/6e42e2e333305bcbb40a7a8bf2017d8a.200x200x1.jpg",
+                    "id": 3664754,
+                    "image_url": "https://images.genius.com/6e42e2e333305bcbb40a7a8bf2017d8a.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gloria Jozwicki",
+                    "url": "https://genius.com/artists/Gloria-jozwicki"
+                }
+            ]
+        },
+        {
+            "label": "A&R Administrator",
+            "artists": [
+                {
+                    "api_path": "/artists/1454760",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1454760,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gabrielle Rosen",
+                    "url": "https://genius.com/artists/Gabrielle-rosen"
+                }
+            ]
+        },
+        {
+            "label": "A&R",
+            "artists": [
+                {
+                    "api_path": "/artists/3218754",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3218754,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jackie Winkler",
+                    "url": "https://genius.com/artists/Jackie-winkler"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/794223",
+                    "header_image_url": "https://images.genius.com/51116c9f1d2831aff29729368d9a52da.800x576x1.jpg",
+                    "id": 794223,
+                    "image_url": "https://images.genius.com/db5742d430abda50db8253c0660e4220.518x518x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Larrabee Sound Studios",
+                    "url": "https://genius.com/artists/Larrabee-sound-studios"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/3556651",
+                    "header_image_url": "https://images.genius.com/9e1b2fda50aaaafb44d9196f7977e096.1000x1000x1.jpg",
+                    "id": 3556651,
+                    "image_url": "https://images.genius.com/9e1b2fda50aaaafb44d9196f7977e096.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sabalicious Songs",
+                    "url": "https://genius.com/artists/Sabalicious-songs"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/4076517",
+                    "header_image_url": "https://images.genius.com/6a2721176eeb597c8850f1f47a1f901e.1000x998x1.jpg",
+                    "id": 4076517,
+                    "image_url": "https://images.genius.com/ad2184dff4d562f030f9cf5cdd88741e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "AuthorScape",
+                    "url": "https://genius.com/artists/Authorscape"
+                },
+                {
+                    "api_path": "/artists/3568992",
+                    "header_image_url": "https://images.genius.com/45bb32bd7f860cc0b5633b322e4fd8e9.1000x333x1.jpg",
+                    "id": 3568992,
+                    "image_url": "https://images.genius.com/129586cc124b7eca1bae7a268941aa63.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Virgin Music Group",
+                    "url": "https://genius.com/artists/Virgin-music-group"
+                },
+                {
+                    "api_path": "/artists/2264259",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2264259,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kenny + Betty Tunes",
+                    "url": "https://genius.com/artists/Kenny-betty-tunes"
+                },
+                {
+                    "api_path": "/artists/1152704",
+                    "header_image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "id": 1152704,
+                    "image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner/Chappell",
+                    "url": "https://genius.com/artists/Warner-chappell"
+                },
+                {
+                    "api_path": "/artists/2291028",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2291028,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Don Wyan Music",
+                    "url": "https://genius.com/artists/Don-wyan-music"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3296505",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3296505,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Harrison Tate",
+                    "url": "https://genius.com/artists/Harrison-tate"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638278",
+                    "header_image_url": "https://images.genius.com/1e62c53bdcb451a1f0bb12bfe2cbf003.500x500x1.png",
+                    "id": 638278,
+                    "image_url": "https://images.genius.com/47d96abc8d728344fcefc1ef9f9ba63f.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Dantzler",
+                    "url": "https://genius.com/artists/Nathan-dantzler"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2347710",
+                    "header_image_url": "https://images.genius.com/bed4b7835a0060ffff646830f2c80588.1000x1000x1.png",
+                    "id": 2347710,
+                    "image_url": "https://images.genius.com/bed4b7835a0060ffff646830f2c80588.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Pereyra",
+                    "url": "https://genius.com/artists/Zach-pereyra"
+                },
+                {
+                    "api_path": "/artists/2700000",
+                    "header_image_url": "https://images.genius.com/a76150eaee234b7f217b4f54da6ee678.1000x1000x1.png",
+                    "id": 2700000,
+                    "image_url": "https://images.genius.com/a76150eaee234b7f217b4f54da6ee678.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anthony Vilchis",
+                    "url": "https://genius.com/artists/Anthony-vilchis"
+                },
+                {
+                    "api_path": "/artists/2992125",
+                    "header_image_url": "https://images.genius.com/8f60a8f3e147d3f6078e12231fdfc967.1000x1000x1.png",
+                    "id": 2992125,
+                    "image_url": "https://images.genius.com/8f60a8f3e147d3f6078e12231fdfc967.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trey Station",
+                    "url": "https://genius.com/artists/Trey-station"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/635518",
+                    "header_image_url": "https://images.genius.com/331332599b3e8995525805a51419bd9a.900x600x1.jpg",
+                    "id": 635518,
+                    "image_url": "https://images.genius.com/312dc5aab4cf9f3040fc0e2fd05a9034.661x539x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Manny Marroquin",
+                    "url": "https://genius.com/artists/Manny-marroquin"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/209397",
+                    "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+                    "id": 209397,
+                    "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Ryan",
+                    "url": "https://genius.com/artists/John-ryan"
+                },
+                {
+                    "api_path": "/artists/1148769",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1148769,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Gunnell",
+                    "url": "https://genius.com/artists/Jeff-gunnell"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/41673",
+                    "header_image_url": "https://images.genius.com/e0a5965448ddfa7f36975dcedff2bea6.1000x274x1.jpg",
+                    "id": 41673,
+                    "image_url": "https://images.genius.com/88ab85e89466de9f6be8c63bd8a745af.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Island Records",
+                    "url": "https://genius.com/artists/Island-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/41673",
+                    "header_image_url": "https://images.genius.com/e0a5965448ddfa7f36975dcedff2bea6.1000x274x1.jpg",
+                    "id": 41673,
+                    "image_url": "https://images.genius.com/88ab85e89466de9f6be8c63bd8a745af.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Island Records",
+                    "url": "https://genius.com/artists/Island-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/41673",
+                    "header_image_url": "https://images.genius.com/e0a5965448ddfa7f36975dcedff2bea6.1000x274x1.jpg",
+                    "id": 41673,
+                    "image_url": "https://images.genius.com/88ab85e89466de9f6be8c63bd8a745af.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Island Records",
+                    "url": "https://genius.com/artists/Island-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21531865,
+        "annotator_login": "SlaymeROCK",
+        "api_path": "/referents/32312093",
+        "classification": "accepted",
+        "fragment": "Juno",
+        "id": 32312093,
+        "is_description": true,
+        "path": "/32312093/Sabrina-carpenter-juno/Juno",
+        "range": {
+            "content": "Juno"
+        },
+        "song_id": 10628603,
+        "url": "https://genius.com/32312093/Sabrina-carpenter-juno/Juno",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10628603",
+            "client_timestamps": {
+                "updated_by_human_at": 1746474478,
+                "lyrics_updated_at": 1746334841
+            },
+            "context": "Sabrina Carpenter",
+            "id": 10628603,
+            "image_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.1000x1000x1.png",
+            "link_title": "Juno by\u00a0Sabrina\u00a0Carpenter",
+            "title": "Juno",
+            "type": "Song",
+            "url": "https://genius.com/Sabrina-carpenter-juno-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32312093",
+                "body": {
+                    "plain": "Desiring to become pregnant simply due to the way her partner makes her feel, \u201cJuno\u201d cheekily references the 2007 film of the same name, with the protagonist, played by Elliot Page also being pregnant. She ultimately dreams of ending up like the Juno inside the movie, pregnant by someone who truly cares about her and her future concept of having a family."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32312093,
+                "pinned": false,
+                "share_url": "https://genius.com/32312093",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/32312093/Sabrina-carpenter-juno/Juno",
+                "verified": false,
+                "votes_total": 113,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.9193548387096775,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21531865",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/bb103c1106ba9ba417300cde8a2c2c2d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/bb103c1106ba9ba417300cde8a2c2c2d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/bb103c1106ba9ba417300cde8a2c2c2d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/bb103c1106ba9ba417300cde8a2c2c2d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/obsv9pm7jes",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21531865,
+                            "iq": 40006,
+                            "login": "SlaymeROCK",
+                            "name": "SlaymeROCK",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/SlaymeROCK",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.04838709677419355,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21058480",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/62d7f320a988ae6074a0cedfa31de6ec",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/62d7f320a988ae6074a0cedfa31de6ec",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/62d7f320a988ae6074a0cedfa31de6ec",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/62d7f320a988ae6074a0cedfa31de6ec",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/858e259ce6680f2b9c7444166eed906e.480x360x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 21058480,
+                            "iq": 175988,
+                            "login": "seya",
+                            "name": "seya",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/seya",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.016129032258064516,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21785592",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/84284ce23acfe280b0334cde1dc7f8da",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/84284ce23acfe280b0334cde1dc7f8da",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/84284ce23acfe280b0334cde1dc7f8da",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/84284ce23acfe280b0334cde1dc7f8da",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/f6920b3146812381756634bf772d11c2.498x118x365.gif",
+                            "human_readable_role_for_display": "Transcriber",
+                            "id": 21785592,
+                            "iq": 38677,
+                            "login": "azrieli",
+                            "name": "azrieli",
+                            "role_for_display": "transcriber",
+                            "url": "https://genius.com/azrieli",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.016129032258064516,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/7464236",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/fc6d141c024319847440a37ce5f4357d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/fc6d141c024319847440a37ce5f4357d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/fc6d141c024319847440a37ce5f4357d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/fc6d141c024319847440a37ce5f4357d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/6a0e77a38b51bf372c72a160b8e82d89.511x1000x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 7464236,
+                            "iq": 79586,
+                            "login": "grafiXal",
+                            "name": "gr\u0430fi",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/grafiXal",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/19544002",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/c2aa0fbff1c334303a7a67f39b6aed9a.1000x1000x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/c2aa0fbff1c334303a7a67f39b6aed9a.1000x1000x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/c2aa0fbff1c334303a7a67f39b6aed9a.1000x1000x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/c2aa0fbff1c334303a7a67f39b6aed9a.1000x1000x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/870584453250fd809c1c59b697de4c80.500x312x50.gif",
+        "human_readable_role_for_display": "Editor",
+        "id": 19544002,
+        "iq": 348052,
+        "login": "Afeith",
+        "name": "Afeith",
+        "role_for_display": "editor",
+        "url": "https://genius.com/Afeith",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "sabrinacarpenter",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/sabrinacarpenter/juno"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=1aMCVgRKcP4"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/209397",
+            "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+            "id": 209397,
+            "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "John Ryan",
+            "url": "https://genius.com/artists/John-ryan"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11844442",
+                    "artist_names": "\u200dxaev",
+                    "full_title": "BE MY BUDDY \ud835\udc3c \ud835\udcbf\ud835\udcca\ud835\udcc8\ud835\udcc9 \ud835\udcb8\ud835\udcb6\ud835\udcc3'\ud835\udcc9 \ud835\udcb9\ud835\udc52\ud835\udcc3\ud835\udcce by\u00a0\u200dxaev",
+                    "header_image_thumbnail_url": "https://images.genius.com/3dadb541e18b1629e4fb9cadd2638752.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/3dadb541e18b1629e4fb9cadd2638752.1000x1000x1.jpg",
+                    "id": 11844442,
+                    "lyrics_owner_id": 15303756,
+                    "lyrics_state": "complete",
+                    "path": "/Xaev-be-my-buddy-i-just-cant-deny-lyrics",
+                    "primary_artist_names": "\u200dxaev",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Xaev-be-my-buddy-i-just-cant-deny-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 24
+                    },
+                    "release_date_for_display": "September 24, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 24, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3dadb541e18b1629e4fb9cadd2638752.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/3dadb541e18b1629e4fb9cadd2638752.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "BE MY BUDDY \ud835\udc3c \ud835\udcbf\ud835\udcca\ud835\udcc8\ud835\udcc9 \ud835\udcb8\ud835\udcb6\ud835\udcc3\u2019\ud835\udcc9 \ud835\udcb9\ud835\udc52\ud835\udcc3\ud835\udcce",
+                    "title_with_featured": "BE MY BUDDY \ud835\udc3c \ud835\udcbf\ud835\udcca\ud835\udcc8\ud835\udcc9 \ud835\udcb8\ud835\udcb6\ud835\udcc3'\ud835\udcc9 \ud835\udcb9\ud835\udc52\ud835\udcc3\ud835\udcce",
+                    "url": "https://genius.com/Xaev-be-my-buddy-i-just-cant-deny-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3210968",
+                        "header_image_url": "https://images.genius.com/8abcea4013f66bf95f23c143450928a5.1000x1000x1.png",
+                        "id": 3210968,
+                        "image_url": "https://images.genius.com/2a6836ca0b6cc6d29f67ef604bf273db.768x768x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "\u200dxaev",
+                        "url": "https://genius.com/artists/Xaev",
+                        "iq": 2832
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3210968",
+                            "header_image_url": "https://images.genius.com/8abcea4013f66bf95f23c143450928a5.1000x1000x1.png",
+                            "id": 3210968,
+                            "image_url": "https://images.genius.com/2a6836ca0b6cc6d29f67ef604bf273db.768x768x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "\u200dxaev",
+                            "url": "https://genius.com/artists/Xaev",
+                            "iq": 2832
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Sabrina-carpenter-juno-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10628926",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Sabrina Carpenter - Juno (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.1000x1000x1.png",
+                    "id": 10628926,
+                    "lyrics_owner_id": 17336116,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-sabrina-carpenter-juno-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-sabrina-carpenter-juno-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6ecbc2e64e62b35ee2fadf8532056f72.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 37749
+                    },
+                    "title": "Sabrina Carpenter - Juno (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-sabrina-carpenter-juno-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10628637",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Sabrina Carpenter - Juno (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10628637,
+                    "lyrics_owner_id": 6297057,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-sabrina-carpenter-juno-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-sabrina-carpenter-juno-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-sabrina-carpenter-juno-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10628775",
+                    "artist_names": "Genius srpski prevodi",
+                    "full_title": "Sabrina Carpenter - Juno (Srpski Prevod) by\u00a0Genius\u00a0srpski prevodi",
+                    "header_image_thumbnail_url": "https://images.genius.com/6071470d4b0d5d28fe1c309193bc3e4c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6071470d4b0d5d28fe1c309193bc3e4c.1000x1000x1.png",
+                    "id": 10628775,
+                    "lyrics_owner_id": 19726052,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-srpski-prevodi-sabrina-carpenter-juno-srpski-prevod-lyrics",
+                    "primary_artist_names": "Genius srpski prevodi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-srpski-prevodi-sabrina-carpenter-juno-srpski-prevod-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6071470d4b0d5d28fe1c309193bc3e4c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6071470d4b0d5d28fe1c309193bc3e4c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Srpski Prevod)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Srpski Prevod)",
+                    "url": "https://genius.com/Genius-srpski-prevodi-sabrina-carpenter-juno-srpski-prevod-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2060763",
+                        "header_image_url": "https://images.genius.com/547373b7282db1716ced41b046ee91ff.1000x205x1.png",
+                        "id": 2060763,
+                        "image_url": "https://images.genius.com/cdd47eee97c223cad1b0f349503d1ac9.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius srpski prevodi",
+                        "url": "https://genius.com/artists/Genius-srpski-prevodi"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2060763",
+                            "header_image_url": "https://images.genius.com/547373b7282db1716ced41b046ee91ff.1000x205x1.png",
+                            "id": 2060763,
+                            "image_url": "https://images.genius.com/cdd47eee97c223cad1b0f349503d1ac9.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius srpski prevodi",
+                            "url": "https://genius.com/artists/Genius-srpski-prevodi"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10665821",
+                    "artist_names": "Genius B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t",
+                    "full_title": "Sabrina Carpenter - Juno (B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t) by\u00a0Genius\u00a0B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t",
+                    "header_image_thumbnail_url": "https://images.genius.com/976b8a338a07f980721a10539d1cf829.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/976b8a338a07f980721a10539d1cf829.847x847x1.png",
+                    "id": 10665821,
+                    "lyrics_owner_id": 17765046,
+                    "lyrics_state": "unreleased",
+                    "path": "/Genius-ban-dich-tieng-viet-sabrina-carpenter-juno-ban-dich-tieng-viet-lyrics",
+                    "primary_artist_names": "Genius B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ban-dich-tieng-viet-sabrina-carpenter-juno-ban-dich-tieng-viet-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/976b8a338a07f980721a10539d1cf829.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/976b8a338a07f980721a10539d1cf829.847x847x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t)",
+                    "url": "https://genius.com/Genius-ban-dich-tieng-viet-sabrina-carpenter-juno-ban-dich-tieng-viet-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2799615",
+                        "header_image_url": "https://images.genius.com/2512578257723db7cb75d6c01b6ed328.1000x333x1.jpg",
+                        "id": 2799615,
+                        "image_url": "https://images.genius.com/95a5081c52d2a0eac0b721e59ad91925.999x999x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t",
+                        "url": "https://genius.com/artists/Genius-ban-dich-tieng-viet"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2799615",
+                            "header_image_url": "https://images.genius.com/2512578257723db7cb75d6c01b6ed328.1000x333x1.jpg",
+                            "id": 2799615,
+                            "image_url": "https://images.genius.com/95a5081c52d2a0eac0b721e59ad91925.999x999x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t",
+                            "url": "https://genius.com/artists/Genius-ban-dich-tieng-viet"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10795153",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Sabrina Carpenter - Juno (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10795153,
+                    "lyrics_owner_id": 7824706,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-sabrina-carpenter-juno-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-sabrina-carpenter-juno-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-sabrina-carpenter-juno-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10632272",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Sabrina Carpenter - Juno (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10632272,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-sabrina-carpenter-juno-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-sabrina-carpenter-juno-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-sabrina-carpenter-juno-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10630211",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Sabrina Carpenter - Juno (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10630211,
+                    "lyrics_owner_id": 20097784,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-sabrina-carpenter-juno-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-sabrina-carpenter-juno-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-sabrina-carpenter-juno-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10797806",
+                    "artist_names": "Genius Makedonski Prevodi",
+                    "full_title": "Sabrina Carpenter - Juno (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u043f\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Makedonski Prevodi",
+                    "header_image_thumbnail_url": "https://images.genius.com/6fd6553ca01817ed760f6c90fd31cec5.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6fd6553ca01817ed760f6c90fd31cec5.999x999x1.png",
+                    "id": 10797806,
+                    "lyrics_owner_id": 21524095,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-makedonski-prevodi-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Makedonski Prevodi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-makedonski-prevodi-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6fd6553ca01817ed760f6c90fd31cec5.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6fd6553ca01817ed760f6c90fd31cec5.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u043f\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u043f\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-makedonski-prevodi-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3002022",
+                        "header_image_url": "https://images.genius.com/25b80d0a58e365f510fa5bbf0b193ab6.1000x563x1.png",
+                        "id": 3002022,
+                        "image_url": "https://images.genius.com/94bf642af7c2d171f844699b78835007.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Makedonski Prevodi",
+                        "url": "https://genius.com/artists/Genius-makedonski-prevodi"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3002022",
+                            "header_image_url": "https://images.genius.com/25b80d0a58e365f510fa5bbf0b193ab6.1000x563x1.png",
+                            "id": 3002022,
+                            "image_url": "https://images.genius.com/94bf642af7c2d171f844699b78835007.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Makedonski Prevodi",
+                            "url": "https://genius.com/artists/Genius-makedonski-prevodi"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10800449",
+                    "artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "full_title": "Sabrina Carpenter - Juno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "header_image_thumbnail_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.1000x1000x1.png",
+                    "id": 10800449,
+                    "lyrics_owner_id": 21785592,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-hebrew-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-hebrew-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "url": "https://genius.com/Genius-hebrew-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1699245",
+                        "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                        "id": 1699245,
+                        "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                        "url": "https://genius.com/artists/Genius-hebrew-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1699245",
+                            "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                            "id": 1699245,
+                            "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                            "url": "https://genius.com/artists/Genius-hebrew-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11691107",
+                    "artist_names": "Genius Norske Oversettelser",
+                    "full_title": "Sabrina Carpenter - Juno (Norsk Oversettelse) by\u00a0Genius\u00a0Norske Oversettelser",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 11691107,
+                    "lyrics_owner_id": 21017342,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-norske-oversettelser-sabrina-carpenter-juno-norsk-oversettelse-lyrics",
+                    "primary_artist_names": "Genius Norske Oversettelser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-norske-oversettelser-sabrina-carpenter-juno-norsk-oversettelse-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Norsk Oversettelse)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Norsk Oversettelse)",
+                    "url": "https://genius.com/Genius-norske-oversettelser-sabrina-carpenter-juno-norsk-oversettelse-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3461450",
+                        "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                        "id": 3461450,
+                        "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Norske Oversettelser",
+                        "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3461450",
+                            "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                            "id": 3461450,
+                            "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Norske Oversettelser",
+                            "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11516065",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Sabrina Carpenter - Juno (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 11516065,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-sabrina-carpenter-juno-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-sabrina-carpenter-juno-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Terjemahan Indonesia)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-sabrina-carpenter-juno-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11353285",
+                    "artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "full_title": "Sabrina Carpenter - Juno (\u010cesk\u00fd p\u0159eklad) by\u00a0Genius\u00a0\u010cesk\u00e9 p\u0159eklady",
+                    "header_image_thumbnail_url": "https://images.genius.com/04be4560601f2dc60c3a8d27c4398ba9.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/04be4560601f2dc60c3a8d27c4398ba9.1000x1000x1.png",
+                    "id": 11353285,
+                    "lyrics_owner_id": 21299323,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ceske-preklady-sabrina-carpenter-juno-cesky-preklad-lyrics",
+                    "primary_artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ceske-preklady-sabrina-carpenter-juno-cesky-preklad-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/04be4560601f2dc60c3a8d27c4398ba9.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/04be4560601f2dc60c3a8d27c4398ba9.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u010cesk\u00fd p\u0159eklad)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u010cesk\u00fd p\u0159eklad)",
+                    "url": "https://genius.com/Genius-ceske-preklady-sabrina-carpenter-juno-cesky-preklad-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1827252",
+                        "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "id": 1827252,
+                        "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                        "url": "https://genius.com/artists/Genius-ceske-preklady"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1827252",
+                            "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "id": 1827252,
+                            "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                            "url": "https://genius.com/artists/Genius-ceske-preklady"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11073150",
+                    "artist_names": "Genius Traduccions al Catal\u00e0",
+                    "full_title": "Sabrina Carpenter - Juno (Traducci\u00f3 al Catal\u00e0) by\u00a0Genius\u00a0Traduccions al Catal\u00e0",
+                    "header_image_thumbnail_url": "https://images.genius.com/fa695ae2e6a739ecb7a7176e922c8b0d.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/fa695ae2e6a739ecb7a7176e922c8b0d.800x800x1.jpg",
+                    "id": 11073150,
+                    "lyrics_owner_id": 21549639,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduccions-al-catala-sabrina-carpenter-juno-traduccio-al-catala-lyrics",
+                    "primary_artist_names": "Genius Traduccions al Catal\u00e0",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduccions-al-catala-sabrina-carpenter-juno-traduccio-al-catala-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fa695ae2e6a739ecb7a7176e922c8b0d.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/fa695ae2e6a739ecb7a7176e922c8b0d.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (Traducci\u00f3 al Catal\u00e0)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Traducci\u00f3 al Catal\u00e0)",
+                    "url": "https://genius.com/Genius-traduccions-al-catala-sabrina-carpenter-juno-traduccio-al-catala-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2250775",
+                        "header_image_url": "https://images.genius.com/ebf56bf8ed739eb55cad112fa37a8e38.1000x213x44.gif",
+                        "id": 2250775,
+                        "image_url": "https://images.genius.com/533ed9f4e8a4fec3200f836dd44a7bf6.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduccions al Catal\u00e0",
+                        "url": "https://genius.com/artists/Genius-traduccions-al-catala"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2250775",
+                            "header_image_url": "https://images.genius.com/ebf56bf8ed739eb55cad112fa37a8e38.1000x213x44.gif",
+                            "id": 2250775,
+                            "image_url": "https://images.genius.com/533ed9f4e8a4fec3200f836dd44a7bf6.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduccions al Catal\u00e0",
+                            "url": "https://genius.com/artists/Genius-traduccions-al-catala"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10949316",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Sabrina Carpenter - Juno (T\u00fcrk\u00e7e \u00e7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10949316,
+                    "lyrics_owner_id": 10708945,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-sabrina-carpenter-juno-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-sabrina-carpenter-juno-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (T\u00fcrk\u00e7e \u00e7eviri)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (T\u00fcrk\u00e7e \u00e7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-sabrina-carpenter-juno-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10959371",
+                    "artist_names": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "full_title": "Sabrina Carpenter - Juno (\u4e2d\u6587\u7ffb\u8bd1 - Simplified) by\u00a0Genius\u00a0Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "header_image_thumbnail_url": "https://images.genius.com/5785f3365ec23c9f632e30f2602b1b0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5785f3365ec23c9f632e30f2602b1b0c.1000x1000x1.png",
+                    "id": 10959371,
+                    "lyrics_owner_id": 22265835,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-chinese-translations-sabrina-carpenter-juno-simplified-lyrics",
+                    "primary_artist_names": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-chinese-translations-sabrina-carpenter-juno-simplified-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5785f3365ec23c9f632e30f2602b1b0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5785f3365ec23c9f632e30f2602b1b0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u4e2d\u6587\u7ffb\u8bd1 - Simplified)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u4e2d\u6587\u7ffb\u8bd1 - Simplified)",
+                    "url": "https://genius.com/Genius-chinese-translations-sabrina-carpenter-juno-simplified-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2738802",
+                        "header_image_url": "https://images.genius.com/1ff18f489c7e258ce050420b0dbd2021.440x440x1.png",
+                        "id": 2738802,
+                        "image_url": "https://images.genius.com/51410751bcf9dd72c4ca84f3bf11251d.800x800x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                        "url": "https://genius.com/artists/Genius-chinese-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2738802",
+                            "header_image_url": "https://images.genius.com/1ff18f489c7e258ce050420b0dbd2021.440x440x1.png",
+                            "id": 2738802,
+                            "image_url": "https://images.genius.com/51410751bcf9dd72c4ca84f3bf11251d.800x800x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Chinese Translations (\u4e2d\u6587\u7ffb\u8b6f/\u4e2d\u6587\u7ffb\u8bd1)",
+                            "url": "https://genius.com/artists/Genius-chinese-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10929876",
+                    "artist_names": "Genius Belarusian Translations (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                    "full_title": "Sabrina Carpenter - Juno (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Belarusian Translations (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.842x842x1.png",
+                    "id": 10929876,
+                    "lyrics_owner_id": 22250476,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-belarusian-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Belarusian Translations (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-belarusian-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.842x842x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-belarusian-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3280481",
+                        "header_image_url": "https://images.genius.com/548e309f3723ed08364ad987c4b39a37.900x900x1.png",
+                        "id": 3280481,
+                        "image_url": "https://images.genius.com/41e066572fb1ed5fb8dd4c14cfaa3733.899x899x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Belarusian Translations (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                        "url": "https://genius.com/artists/Genius-belarusian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3280481",
+                            "header_image_url": "https://images.genius.com/548e309f3723ed08364ad987c4b39a37.900x900x1.png",
+                            "id": 3280481,
+                            "image_url": "https://images.genius.com/41e066572fb1ed5fb8dd4c14cfaa3733.899x899x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Belarusian Translations (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+                            "url": "https://genius.com/artists/Genius-belarusian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10929829",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Sabrina Carpenter - Juno (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.842x842x1.png",
+                    "id": 10929829,
+                    "lyrics_owner_id": 22250476,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/08c4cdf075c7460e07ee1752db43ca7f.842x842x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10887177",
+                    "artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "full_title": "Sabrina Carpenter - Juno (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7) by\u00a0Genius\u00a0Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "header_image_thumbnail_url": "https://images.genius.com/6f28bf6425f003efd5277bb04eaa95ca.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6f28bf6425f003efd5277bb04eaa95ca.531x531x1.png",
+                    "id": 10887177,
+                    "lyrics_owner_id": 13181075,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-greek-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-greek-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6f28bf6425f003efd5277bb04eaa95ca.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6f28bf6425f003efd5277bb04eaa95ca.531x531x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "url": "https://genius.com/Genius-greek-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2888256",
+                        "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                        "id": 2888256,
+                        "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                        "url": "https://genius.com/artists/Genius-greek-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2888256",
+                            "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                            "id": 2888256,
+                            "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                            "url": "https://genius.com/artists/Genius-greek-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10880353",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Sabrina Carpenter - Juno (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.1000x1000x1.png",
+                    "id": 10880353,
+                    "lyrics_owner_id": 22263443,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/251714efd80795a895f5299b6664b35c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10799115",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Sabrina Carpenter - Juno (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "id": 10799115,
+                    "lyrics_owner_id": 21968239,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-sabrina-carpenter-juno-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-sabrina-carpenter-juno-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/440e43d8253814193a7376dc67744176.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 13568
+                    },
+                    "title": "Sabrina Carpenter - Juno (Traduzione Italiana)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-sabrina-carpenter-juno-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10801047",
+                    "artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "full_title": "Sabrina Carpenter - Juno (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22) by\u00a0Genius\u00a0Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "header_image_thumbnail_url": "https://images.genius.com/e6d080500ed558808619b8a6544d64bb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e6d080500ed558808619b8a6544d64bb.1000x1000x1.png",
+                    "id": 10801047,
+                    "lyrics_owner_id": 16463578,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-thai-translations-sabrina-carpenter-juno-lyrics",
+                    "primary_artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-thai-translations-sabrina-carpenter-juno-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 23
+                    },
+                    "release_date_for_display": "August 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e6d080500ed558808619b8a6544d64bb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e6d080500ed558808619b8a6544d64bb.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Sabrina Carpenter - Juno (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "title_with_featured": "Sabrina Carpenter - Juno (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "url": "https://genius.com/Genius-thai-translations-sabrina-carpenter-juno-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1651883",
+                        "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                        "id": 1651883,
+                        "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                        "url": "https://genius.com/artists/Genius-thai-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1651883",
+                            "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                            "id": 1651883,
+                            "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "url": "https://genius.com/artists/Genius-thai-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10628926",
+            "id": 10628926,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-sabrina-carpenter-juno-traduccion-al-espanol-lyrics",
+            "title": "Sabrina Carpenter - Juno (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-sabrina-carpenter-juno-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10628637",
+            "id": 10628637,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-sabrina-carpenter-juno-traducao-em-portugues-lyrics",
+            "title": "Sabrina Carpenter - Juno (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-sabrina-carpenter-juno-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10628775",
+            "id": 10628775,
+            "language": "sr",
+            "lyrics_state": "complete",
+            "path": "/Genius-srpski-prevodi-sabrina-carpenter-juno-srpski-prevod-lyrics",
+            "title": "Sabrina Carpenter - Juno (Srpski Prevod)",
+            "url": "https://genius.com/Genius-srpski-prevodi-sabrina-carpenter-juno-srpski-prevod-lyrics"
+        },
+        {
+            "api_path": "/songs/10665821",
+            "id": 10665821,
+            "language": "vi",
+            "lyrics_state": "unreleased",
+            "path": "/Genius-ban-dich-tieng-viet-sabrina-carpenter-juno-ban-dich-tieng-viet-lyrics",
+            "title": "Sabrina Carpenter - Juno (B\u1ea3n d\u1ecbch ti\u1ebfng Vi\u1ec7t)",
+            "url": "https://genius.com/Genius-ban-dich-tieng-viet-sabrina-carpenter-juno-ban-dich-tieng-viet-lyrics"
+        },
+        {
+            "api_path": "/songs/10795153",
+            "id": 10795153,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-sabrina-carpenter-juno-deutsche-ubersetzung-lyrics",
+            "title": "Sabrina Carpenter - Juno (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-sabrina-carpenter-juno-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10632272",
+            "id": 10632272,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-sabrina-carpenter-juno-polskie-tumaczenie-lyrics",
+            "title": "Sabrina Carpenter - Juno (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-sabrina-carpenter-juno-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10630211",
+            "id": 10630211,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-sabrina-carpenter-juno-traduction-francaise-lyrics",
+            "title": "Sabrina Carpenter - Juno (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-sabrina-carpenter-juno-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10797806",
+            "id": 10797806,
+            "language": "mk",
+            "lyrics_state": "complete",
+            "path": "/Genius-makedonski-prevodi-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 \u043f\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-makedonski-prevodi-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/10800449",
+            "id": 10800449,
+            "language": "iw",
+            "lyrics_state": "complete",
+            "path": "/Genius-hebrew-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+            "url": "https://genius.com/Genius-hebrew-translations-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/11691107",
+            "id": 11691107,
+            "language": "no",
+            "lyrics_state": "complete",
+            "path": "/Genius-norske-oversettelser-sabrina-carpenter-juno-norsk-oversettelse-lyrics",
+            "title": "Sabrina Carpenter - Juno (Norsk Oversettelse)",
+            "url": "https://genius.com/Genius-norske-oversettelser-sabrina-carpenter-juno-norsk-oversettelse-lyrics"
+        },
+        {
+            "api_path": "/songs/11516065",
+            "id": 11516065,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-sabrina-carpenter-juno-terjemahan-indonesia-lyrics",
+            "title": "Sabrina Carpenter - Juno (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-sabrina-carpenter-juno-terjemahan-indonesia-lyrics"
+        },
+        {
+            "api_path": "/songs/11353285",
+            "id": 11353285,
+            "language": "cs",
+            "lyrics_state": "complete",
+            "path": "/Genius-ceske-preklady-sabrina-carpenter-juno-cesky-preklad-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u010cesk\u00fd p\u0159eklad)",
+            "url": "https://genius.com/Genius-ceske-preklady-sabrina-carpenter-juno-cesky-preklad-lyrics"
+        },
+        {
+            "api_path": "/songs/11073150",
+            "id": 11073150,
+            "language": "ca",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduccions-al-catala-sabrina-carpenter-juno-traduccio-al-catala-lyrics",
+            "title": "Sabrina Carpenter - Juno (Traducci\u00f3 al Catal\u00e0)",
+            "url": "https://genius.com/Genius-traduccions-al-catala-sabrina-carpenter-juno-traduccio-al-catala-lyrics"
+        },
+        {
+            "api_path": "/songs/10949316",
+            "id": 10949316,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-sabrina-carpenter-juno-turkce-ceviri-lyrics",
+            "title": "Sabrina Carpenter - Juno (T\u00fcrk\u00e7e \u00e7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-sabrina-carpenter-juno-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10959371",
+            "id": 10959371,
+            "language": "zh",
+            "lyrics_state": "complete",
+            "path": "/Genius-chinese-translations-sabrina-carpenter-juno-simplified-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u4e2d\u6587\u7ffb\u8bd1 - Simplified)",
+            "url": "https://genius.com/Genius-chinese-translations-sabrina-carpenter-juno-simplified-lyrics"
+        },
+        {
+            "api_path": "/songs/10929876",
+            "id": 10929876,
+            "language": "be",
+            "lyrics_state": "complete",
+            "path": "/Genius-belarusian-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0456 \u043f\u0435\u0440\u0430\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-belarusian-translations-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/10929829",
+            "id": 10929829,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-ukrainian-translations-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/10887177",
+            "id": 10887177,
+            "language": "el",
+            "lyrics_state": "complete",
+            "path": "/Genius-greek-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+            "url": "https://genius.com/Genius-greek-translations-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/10880353",
+            "id": 10880353,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-sabrina-carpenter-juno-lyrics"
+        },
+        {
+            "api_path": "/songs/10799115",
+            "id": 10799115,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-sabrina-carpenter-juno-traduzione-italiana-lyrics",
+            "title": "Sabrina Carpenter - Juno (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-sabrina-carpenter-juno-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10801047",
+            "id": 10801047,
+            "language": "th",
+            "lyrics_state": "complete",
+            "path": "/Genius-thai-translations-sabrina-carpenter-juno-lyrics",
+            "title": "Sabrina Carpenter - Juno (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+            "url": "https://genius.com/Genius-thai-translations-sabrina-carpenter-juno-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [
+        {
+            "contributions": [
+                "lyrics"
+            ],
+            "artist": {
+                "api_path": "/artists/249592",
+                "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+                "id": 249592,
+                "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Sabrina Carpenter",
+                "url": "https://genius.com/artists/Sabrina-carpenter",
+                "iq": 2430
+            },
+            "user": {
+                "api_path": "/users/4879495",
+                "avatar": {
+                    "tiny": {
+                        "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                        "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                        }
+                    },
+                    "thumb": {
+                        "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                        "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                        }
+                    },
+                    "small": {
+                        "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                        "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                        }
+                    },
+                    "medium": {
+                        "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                        "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                        }
+                    }
+                },
+                "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+                "human_readable_role_for_display": "Verified Artist",
+                "id": 4879495,
+                "iq": 2430,
+                "login": "SabrinaCarpenterOfficial",
+                "name": "Sabrina Carpenter",
+                "role_for_display": "verified_artist",
+                "url": "https://genius.com/SabrinaCarpenterOfficial",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "follow"
+                    ],
+                    "interactions": {
+                        "following": false
+                    }
+                }
+            }
+        }
+    ],
+    "verified_lyrics_by": [
+        {
+            "api_path": "/users/4879495",
+            "avatar": {
+                "tiny": {
+                    "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                "thumb": {
+                    "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                "small": {
+                    "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "medium": {
+                    "url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+                    "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                    }
+                }
+            },
+            "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+            "human_readable_role_for_display": "Verified Artist",
+            "id": 4879495,
+            "iq": 2430,
+            "login": "SabrinaCarpenterOfficial",
+            "name": "Sabrina Carpenter",
+            "role_for_display": "verified_artist",
+            "url": "https://genius.com/SabrinaCarpenterOfficial",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "follow"
+                ],
+                "interactions": {
+                    "following": false
+                }
+            }
+        }
+    ],
+    "writer_artists": [
+        {
+            "api_path": "/artists/249592",
+            "header_image_url": "https://images.genius.com/f88a88b9932378b6268a378c4426df0b.1000x333x1.jpg",
+            "id": 249592,
+            "image_url": "https://images.genius.com/ba5ff0975b4976a9351f3f26e66fa4b9.965x965x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Sabrina Carpenter",
+            "url": "https://genius.com/artists/Sabrina-carpenter",
+            "iq": 2430
+        },
+        {
+            "api_path": "/artists/209397",
+            "header_image_url": "https://images.genius.com/452a9bc85a329abcc55ea1337997fd25.400x400x1.jpg",
+            "id": 209397,
+            "image_url": "https://images.genius.com/0d95349024e305674d6a36006d9030e2.376x376x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "John Ryan",
+            "url": "https://genius.com/artists/John-ryan"
+        },
+        {
+            "api_path": "/artists/1256784",
+            "header_image_url": "https://images.genius.com/34c93d254872fea05bc361ff3c26f59a.1000x663x1.jpg",
+            "id": 1256784,
+            "image_url": "https://images.genius.com/58faf2cb589543bfe672f3df703928c5.967x967x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Amy Allen",
+            "url": "https://genius.com/artists/Amy-allen"
+        }
+    ],
+    "artist": "Sabrina Carpenter",
+    "lyrics": "92 ContributorsTranslationsEspa\u00f1olPortugu\u00eassrpskiTi\u1ebfng Vi\u1ec7tDeutschPolskiFran\u00e7ais\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)NorskBahasa Indonesia\u010ceskyCatal\u00e0T\u00fcrk\u00e7e\u7b80\u4f53\u4e2d\u6587 (Simplified Chinese)\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u043a\u0430\u044f\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Italiano\u0e44\u0e17\u0e22 (Thai)Juno LyricsDesiring to become pregnant simply due to the way her partner makes her feel, \u201cJuno\u201d cheekily references the 2007 film of the same name, with the protagonist, played by Elliot Page also being pregnant. She\u2026 Read More\u00a0\n(Ooh, ah-ah, ooh)\n\nDon't have to tell your hot ass a thing\nOh yeah, you just get it\nWhole package, babe, I like the way you fit\nGod bless your dad's genetics, mm, uh\n\nYou make me wanna make you fall in love\nOh, late at night, I'm thinking 'bout you, ah-ah\nWanna try out my fuzzy pink handcuffs?\nOh, I hear you knockin', baby, come on up\n\nI know you want my touch for life\nIf you love me right, then who knows?\nI might let you make me Juno\nYou know I just might\nLet you lock me down tonight\nOne of me is cute, but two though?\nGive it to me, baby\nYou make me wanna make you fall in love (Oh)\n\nI showed my friends, then we high-fived (Ah-ah)\nSorry if you feel obj\u0435ctified (Ah-ah)\nCan't help myself, hormon\u0435s are high\nGive me more than just some butterflies\n\nYou make me wanna make you fall in love\nOh, late at night, I'm thinking 'bout you, ah-ah\nWanna try out some freaky positions?\nHave you ever tried this one?\n\nI know you want my touch for life\nIf you love me right, then who knows?\nI might let you make me Juno\nYou know I just might\nLet you lock me down tonight\nOne of me is cute, but two though?\nGive it to me, baby\nYou make me wanna make you fall in love\n\nAdore me\nHold me and explore me\nMark your territory (Ah-ah)\nTell me I'm the only, only, only, only one (Ah-ah)\nAdore me\nHold me and explore me (Ah-ah)\nI'm so fuckin' horny\nTell me I'm the only, only, only, only one\n\nAh\nOoh-ooh\n\n(Oh, I) I know you want my touch for life\nIf you love me right, then who knows?\nI might let you make me Juno\nYou know I just might (Might)\nLet you lock me down tonight\nOne of me is cute, but two though?\nGive it to me, baby\nYou make me wanna make you fall in love"
+}

@@ -1,0 +1,826 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/10961344",
+    "artist_names": "Shaboozey",
+    "full_title": "Good News by\u00a0Shaboozey",
+    "header_image_thumbnail_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.300x300x1.png",
+    "header_image_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.1000x1000x1.png",
+    "id": 10961344,
+    "instrumental": false,
+    "lyrics_owner_id": 4019648,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747437540,
+    "path": "/Shaboozey-good-news-lyrics",
+    "primary_artist_names": "Shaboozey",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Shaboozey-good-news-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 11,
+        "day": 15
+    },
+    "release_date_for_display": "November 15, 2024",
+    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 14,
+        "iq_earners": 14,
+        "transcribers": 1,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 54193
+    },
+    "title": "Good News",
+    "title_with_featured": "Good News",
+    "updated_by_human_at": 1747437541,
+    "url": "https://genius.com/Shaboozey-good-news-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/69508",
+        "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+        "id": 69508,
+        "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Shaboozey",
+        "url": "https://genius.com/artists/Shaboozey"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        }
+    ],
+    "apple_music_id": "1775307497",
+    "apple_music_player_url": "https://genius.com/songs/10961344/apple_music_player",
+    "description": {
+        "plain": "\u201cGood News\u201d dives deep into the emotional turbulence of a challenging year, encapsulating feelings of frustration, loneliness, and the search for redemption. The song reflects a raw, vulnerable narrative of someone grappling with their inner demons, regrets, and the weight of a life that feels perpetually off course. The lyrics paint a vivid picture of seeking solace in temporary escapes, like drowning sorrows and avoiding love, while acknowledging the unshakable desire for genuine change and hope.\n\nThe chorus serves as the emotional core, yearning for a glimmer of positivity amidst the chaos, while the verses add layers of introspection, portraying a battle between the person the narrator has been and who they strive to become. The imagery of \u201csippin' on cold truth\u201d and \u201cthe man at the bar confessin' his sins\u201d gives the track a relatable, storytelling quality, making it resonate with listeners who\u2019ve faced their own struggles.\n\nWith its melancholic yet cathartic tone, \u201cGood News\u201d isn\u2019t just a song\u2014it\u2019s a plea for light at the end of a dark tunnel, an anthem for anyone searching for hope in the midst of life\u2019s chaos."
+    },
+    "embed_content": "<div id='rg_embed_link_10961344' class='rg_embed_link' data-song-id='10961344'>Read <a href='https://genius.com/Shaboozey-good-news-lyrics'>\u201cGood News\u201d by Shaboozey</a> on Genius</div> <script crossorigin src='//genius.com/songs/10961344/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-11-15",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bc8454",
+    "song_art_secondary_color": "#643424",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1375881",
+        "cover_art_url": "https://images.genius.com/54741f0fdbb7f0fdc623932e8232ac77.1000x1000x1.png",
+        "full_title": "Where I\u2019ve Been Isn\u2019t Where I\u2019m Going: The Complete Edition by Shaboozey",
+        "id": 1375881,
+        "name": "Where I\u2019ve Been Isn\u2019t Where I\u2019m Going: The Complete Edition",
+        "primary_artist_names": "Shaboozey",
+        "release_date_for_display": "April 25, 2025",
+        "url": "https://genius.com/albums/Shaboozey/Where-ive-been-isnt-where-im-going-the-complete-edition",
+        "artist": {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/69508",
+                "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                "id": 69508,
+                "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Shaboozey",
+                "url": "https://genius.com/artists/Shaboozey"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1617836",
+                    "header_image_url": "https://images.genius.com/31692498ee5829dd1f2229b13b97a0a0.500x500x1.jpg",
+                    "id": 1617836,
+                    "image_url": "https://images.genius.com/31692498ee5829dd1f2229b13b97a0a0.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Norelle",
+                    "url": "https://genius.com/artists/Norelle"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/976140",
+                    "header_image_url": "https://images.genius.com/7c1cb28daf6bbd201bbca5fbd2748c58.403x452x1.jpg",
+                    "id": 976140,
+                    "image_url": "https://images.genius.com/4651eff9ae300a3ac66f441fd05ba7c3.695x695x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Smith Curry",
+                    "url": "https://genius.com/artists/Smith-curry"
+                }
+            ]
+        },
+        {
+            "label": "Harmonica",
+            "artists": [
+                {
+                    "api_path": "/artists/515245",
+                    "header_image_url": "https://images.genius.com/02b2752f332f3a104f9860ce9fa11d64.1000x1000x1.jpg",
+                    "id": 515245,
+                    "image_url": "https://images.genius.com/02b2752f332f3a104f9860ce9fa11d64.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyler Cain",
+                    "url": "https://genius.com/artists/Tyler-cain"
+                }
+            ]
+        },
+        {
+            "label": "Fiddle",
+            "artists": [
+                {
+                    "api_path": "/artists/3937442",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3937442,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lily Honigberg",
+                    "url": "https://genius.com/artists/Lily-honigberg"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                },
+                {
+                    "api_path": "/artists/634355",
+                    "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "id": 634355,
+                    "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nevin",
+                    "url": "https://genius.com/artists/Nevin"
+                },
+                {
+                    "api_path": "/artists/1020961",
+                    "header_image_url": "https://images.genius.com/66396ff35c2fba9875e60268e4ac4600.1000x262x1.png",
+                    "id": 1020961,
+                    "image_url": "https://images.genius.com/ce53be4c86e5cc4d3e630658523ab4c0.646x646x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Torrey",
+                    "url": "https://genius.com/artists/Jake-torrey"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                },
+                {
+                    "api_path": "/artists/634355",
+                    "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "id": 634355,
+                    "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nevin",
+                    "url": "https://genius.com/artists/Nevin"
+                },
+                {
+                    "api_path": "/artists/515245",
+                    "header_image_url": "https://images.genius.com/02b2752f332f3a104f9860ce9fa11d64.1000x1000x1.jpg",
+                    "id": 515245,
+                    "image_url": "https://images.genius.com/02b2752f332f3a104f9860ce9fa11d64.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyler Cain",
+                    "url": "https://genius.com/artists/Tyler-cain"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2090909",
+                    "header_image_url": "https://images.genius.com/51cbe49389046200bbe4938eead5f67d.1000x992x1.jpg",
+                    "id": 2090909,
+                    "image_url": "https://images.genius.com/b4b3518815bb360319a5ac511ddcecf5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Skyler The Engineer",
+                    "url": "https://genius.com/artists/Skyler-the-engineer",
+                    "iq": 122
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21753468,
+        "annotator_login": "LandonThao",
+        "api_path": "/referents/33203257",
+        "classification": "unreviewed",
+        "fragment": "Good News",
+        "id": 33203257,
+        "is_description": true,
+        "path": "/33203257/Shaboozey-good-news/Good-news",
+        "range": {
+            "content": "Good News"
+        },
+        "song_id": 10961344,
+        "url": "https://genius.com/33203257/Shaboozey-good-news/Good-news",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10961344",
+            "client_timestamps": {
+                "updated_by_human_at": 1747437541,
+                "lyrics_updated_at": 1747437540
+            },
+            "context": "Shaboozey",
+            "id": 10961344,
+            "image_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.1000x1000x1.png",
+            "link_title": "Good News by\u00a0Shaboozey",
+            "title": "Good News",
+            "type": "Song",
+            "url": "https://genius.com/Shaboozey-good-news-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33203257",
+                "body": {
+                    "plain": "\u201cGood News\u201d dives deep into the emotional turbulence of a challenging year, encapsulating feelings of frustration, loneliness, and the search for redemption. The song reflects a raw, vulnerable narrative of someone grappling with their inner demons, regrets, and the weight of a life that feels perpetually off course. The lyrics paint a vivid picture of seeking solace in temporary escapes, like drowning sorrows and avoiding love, while acknowledging the unshakable desire for genuine change and hope.\n\nThe chorus serves as the emotional core, yearning for a glimmer of positivity amidst the chaos, while the verses add layers of introspection, portraying a battle between the person the narrator has been and who they strive to become. The imagery of \u201csippin' on cold truth\u201d and \u201cthe man at the bar confessin' his sins\u201d gives the track a relatable, storytelling quality, making it resonate with listeners who\u2019ve faced their own struggles.\n\nWith its melancholic yet cathartic tone, \u201cGood News\u201d isn\u2019t just a song\u2014it\u2019s a plea for light at the end of a dark tunnel, an anthem for anyone searching for hope in the midst of life\u2019s chaos."
+                },
+                "comment_count": 1,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33203257,
+                "pinned": false,
+                "share_url": "https://genius.com/33203257",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33203257/Shaboozey-good-news/Good-news",
+                "verified": false,
+                "votes_total": 2,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21753468",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/740ee679011ac8ae98b0ed4f55bb8df5",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/740ee679011ac8ae98b0ed4f55bb8df5",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/740ee679011ac8ae98b0ed4f55bb8df5",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/740ee679011ac8ae98b0ed4f55bb8df5",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/740ee679011ac8ae98b0ed4f55bb8df5",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21753468,
+                            "iq": 1443,
+                            "login": "LandonThao",
+                            "name": "LandonThao",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/LandonThao",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4019648",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/72b9e74920cb6c6d5eb219fb84c1a7bc.1000x369x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4019648,
+        "iq": 13790,
+        "login": "whostrstn",
+        "name": "\u200btrstn",
+        "role_for_display": "editor",
+        "url": "https://genius.com/whostrstn",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=WBDpb7SwSgU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1068787",
+            "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "id": 1068787,
+            "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Cook",
+            "url": "https://genius.com/artists/Sean-cook"
+        },
+        {
+            "api_path": "/artists/634355",
+            "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "id": 634355,
+            "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nevin",
+            "url": "https://genius.com/artists/Nevin"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11121637",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Shaboozey - Good News (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.1000x1000x1.png",
+                    "id": 11121637,
+                    "lyrics_owner_id": 21998695,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-shaboozey-good-news-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-shaboozey-good-news-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/516957cfb2c48cfe75e278dbfa3a1f1b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Shaboozey - Good News (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Shaboozey - Good News (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-shaboozey-good-news-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11121637",
+            "id": 11121637,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-shaboozey-good-news-lyrics",
+            "title": "Shaboozey - Good News (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-ukrainian-translations-shaboozey-good-news-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        },
+        {
+            "api_path": "/artists/1068787",
+            "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "id": 1068787,
+            "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Cook",
+            "url": "https://genius.com/artists/Sean-cook"
+        },
+        {
+            "api_path": "/artists/634355",
+            "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "id": 634355,
+            "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nevin",
+            "url": "https://genius.com/artists/Nevin"
+        },
+        {
+            "api_path": "/artists/1020961",
+            "header_image_url": "https://images.genius.com/66396ff35c2fba9875e60268e4ac4600.1000x262x1.png",
+            "id": 1020961,
+            "image_url": "https://images.genius.com/ce53be4c86e5cc4d3e630658523ab4c0.646x646x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jake Torrey",
+            "url": "https://genius.com/artists/Jake-torrey"
+        },
+        {
+            "api_path": "/artists/1019488",
+            "header_image_url": "https://images.genius.com/f90f121788951dcf3bacdbd77255d1ea.1000x1000x1.jpg",
+            "id": 1019488,
+            "image_url": "https://images.genius.com/c710d3a8239958346b2befbc1288802f.434x434x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Pollack",
+            "url": "https://genius.com/artists/Michael-pollack"
+        },
+        {
+            "api_path": "/artists/412342",
+            "header_image_url": "https://images.genius.com/6956c67741a1cd220d576e8e40980ac8.628x628x1.jpg",
+            "id": 412342,
+            "image_url": "https://images.genius.com/6956c67741a1cd220d576e8e40980ac8.628x628x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "R\u00d8MANS",
+            "url": "https://genius.com/artists/Rmans",
+            "iq": 411
+        }
+    ],
+    "artist": "Shaboozey",
+    "lyrics": "14 ContributorsTranslations\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Good News Lyrics\nMan, what a hell of a year it's been\nKeep on bluffin', but I just can't win\nDrowned my sorrows, but they learned to swim\nMan, what a hell of a year it's been\nHead in a bottle, but my heart in a case\nIt's gettin' harder to act my age\nPlay a sad song on a tiny violin\nFor the man at the bar confessin' his sins\n\nI need some good news\nSittin' here, sippin' on cold truth\nNobody knows what I'm goin' through\nBet the devil wouldn't walk in my shoes\nWish someone told me\nLivin' this life would be lonely\nTryna get away from the old me\nStill stuck singin' these blues\nAll I really need is a little good news\n\nLove keeps knockin', but I just ain't home\nAin't pickin' no flowers from the seeds that I've sown\nThey say it gets darker when you're coverin' them doors\nStill lookin' for the right at the end of my wrongs\nAt the end of my wrongs\n\nI need some good news\nSittin' here, sippin' on cold truth\nNobody knows what I'm goin' through\nBet the devil wouldn't walk in my shoes\nWish someone told me\nLivin' this life would be lonely\nTryna get away from the old me\nStill stuck singin' these blues\nAll I really need is a little good news\n\nIs a little good news\nOoh, oh\nOh\n\nI need some good news\nSittin' here, sippin' on cold truth\nNobody knows what I'm goin' through\nBet the devil wouldn't walk in my shoes\nWish someone told me\nLivin' this life would be lonely\nTryna get away from the old me\nStill stuck singin' these blues\nAll I really need is a little good news\n\nAll I really need is a little\u2014\nSomethin' bring me back to the middle\nAll I really need is a little good news"
+}

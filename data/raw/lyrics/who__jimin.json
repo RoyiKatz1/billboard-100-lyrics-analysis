@@ -1,0 +1,1845 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/10550528",
+    "artist_names": "Jimin (\uc9c0\ubbfc)",
+    "full_title": "Who by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+    "id": 10550528,
+    "instrumental": false,
+    "lyrics_owner_id": 17270590,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1742589160,
+    "path": "/Jimin-who-lyrics",
+    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jimin-who-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 7,
+        "day": 19
+    },
+    "release_date_for_display": "July 19, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 40,
+        "iq_earners": 40,
+        "transcribers": 2,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 200351
+    },
+    "title": "Who",
+    "title_with_featured": "Who",
+    "updated_by_human_at": 1745009997,
+    "url": "https://genius.com/Jimin-who-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1016911",
+        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+        "id": 1016911,
+        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jimin (\uc9c0\ubbfc)",
+        "url": "https://genius.com/artists/Jimin"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1016911",
+            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+            "id": 1016911,
+            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jimin (\uc9c0\ubbfc)",
+            "url": "https://genius.com/artists/Jimin"
+        }
+    ],
+    "apple_music_id": "1751773093",
+    "apple_music_player_url": "https://genius.com/songs/10550528/apple_music_player",
+    "description": {
+        "plain": "On July 18, 2024) it was announced to be focus track from Jimin\u2019s second studio album, Muse. Released on July 19 2024.\nThe song and the whole album was recorded before he went to the military. It was recorded before the filming of Are You Sure?\nWritten by GHSTLOOP, Tenroc, Pdogg, Jon Bellion & Pete Nappi and produced by  Jon Bellion, Pete Nappi, Tenroc, Pdogg & GHSTLOOP.\nDebuted at number 14 on the Billboard Hot 100"
+    },
+    "embed_content": "<div id='rg_embed_link_10550528' class='rg_embed_link' data-song-id='10550528'>Read <a href='https://genius.com/Jimin-who-lyrics'>\u201cWho\u201d by Jimin\u00a0(\uc9c0\ubbfc)</a> on Genius</div> <script crossorigin src='//genius.com/songs/10550528/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-07-19",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#e0b425",
+    "song_art_secondary_color": "#e3c887",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1213379",
+        "cover_art_url": "https://images.genius.com/0bb1d9f2a34f070519881e3e2ed05141.1000x1000x1.jpg",
+        "full_title": "MUSE (WONDER ver.) by Jimin (\uc9c0\ubbfc)",
+        "id": 1213379,
+        "name": "MUSE (WONDER ver.)",
+        "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+        "release_date_for_display": "July 23, 2024",
+        "url": "https://genius.com/albums/Jimin/Muse-wonder-ver",
+        "artist": {
+            "api_path": "/artists/1016911",
+            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+            "id": 1016911,
+            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jimin (\uc9c0\ubbfc)",
+            "url": "https://genius.com/artists/Jimin"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1016911",
+                "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                "id": 1016911,
+                "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Jimin (\uc9c0\ubbfc)",
+                "url": "https://genius.com/artists/Jimin"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/2001463",
+                    "header_image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+                    "id": 2001463,
+                    "image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "GHSTLOOP",
+                    "url": "https://genius.com/artists/Ghstloop"
+                },
+                {
+                    "api_path": "/artists/26593",
+                    "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+                    "id": 26593,
+                    "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Bellion",
+                    "url": "https://genius.com/artists/Jon-bellion"
+                },
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                },
+                {
+                    "api_path": "/artists/851231",
+                    "header_image_url": "https://images.genius.com/fc6cad7aea4996e0725bd69bac657c54.600x433x1.jpg",
+                    "id": 851231,
+                    "image_url": "https://images.genius.com/92ccf8124eaace7947197af15d6523aa.757x757x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Nappi",
+                    "url": "https://genius.com/artists/Pete-nappi"
+                },
+                {
+                    "api_path": "/artists/1621877",
+                    "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+                    "id": 1621877,
+                    "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tenroc",
+                    "url": "https://genius.com/artists/Tenroc",
+                    "iq": 139
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/26593",
+                    "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+                    "id": 26593,
+                    "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Bellion",
+                    "url": "https://genius.com/artists/Jon-bellion"
+                },
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                },
+                {
+                    "api_path": "/artists/851231",
+                    "header_image_url": "https://images.genius.com/fc6cad7aea4996e0725bd69bac657c54.600x433x1.jpg",
+                    "id": 851231,
+                    "image_url": "https://images.genius.com/92ccf8124eaace7947197af15d6523aa.757x757x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Nappi",
+                    "url": "https://genius.com/artists/Pete-nappi"
+                },
+                {
+                    "api_path": "/artists/1621877",
+                    "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+                    "id": 1621877,
+                    "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tenroc",
+                    "url": "https://genius.com/artists/Tenroc",
+                    "iq": 139
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                },
+                {
+                    "api_path": "/artists/1621877",
+                    "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+                    "id": 1621877,
+                    "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tenroc",
+                    "url": "https://genius.com/artists/Tenroc",
+                    "iq": 139
+                }
+            ]
+        },
+        {
+            "label": "Drum Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/26593",
+                    "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+                    "id": 26593,
+                    "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Bellion",
+                    "url": "https://genius.com/artists/Jon-bellion"
+                },
+                {
+                    "api_path": "/artists/851231",
+                    "header_image_url": "https://images.genius.com/fc6cad7aea4996e0725bd69bac657c54.600x433x1.jpg",
+                    "id": 851231,
+                    "image_url": "https://images.genius.com/92ccf8124eaace7947197af15d6523aa.757x757x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Nappi",
+                    "url": "https://genius.com/artists/Pete-nappi"
+                },
+                {
+                    "api_path": "/artists/1621877",
+                    "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+                    "id": 1621877,
+                    "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tenroc",
+                    "url": "https://genius.com/artists/Tenroc",
+                    "iq": 139
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2026200",
+                    "header_image_url": "https://images.genius.com/70cc5c23169406ea715c8f30fe0068d0.1000x1000x1.jpg",
+                    "id": 2026200,
+                    "image_url": "https://images.genius.com/70cc5c23169406ea715c8f30fe0068d0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Noogi",
+                    "url": "https://genius.com/artists/Noogi"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/26593",
+                    "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+                    "id": 26593,
+                    "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Bellion",
+                    "url": "https://genius.com/artists/Jon-bellion"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/636942",
+                    "header_image_url": "https://images.genius.com/ed30473675e750759e88954887af4e77.719x719x1.jpg",
+                    "id": 636942,
+                    "image_url": "https://images.genius.com/ed30473675e750759e88954887af4e77.719x719x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Arbuckle",
+                    "url": "https://genius.com/artists/John-arbuckle"
+                },
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/2001463",
+                    "header_image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+                    "id": 2001463,
+                    "image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "GHSTLOOP",
+                    "url": "https://genius.com/artists/Ghstloop"
+                },
+                {
+                    "api_path": "/artists/70273",
+                    "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+                    "id": 70273,
+                    "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pdogg",
+                    "url": "https://genius.com/artists/Pdogg"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640944",
+                    "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+                    "id": 640944,
+                    "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0218erban Ghenea",
+                    "url": "https://genius.com/artists/Serban-ghenea"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2844765",
+                    "header_image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "id": 2844765,
+                    "image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryce Bordone",
+                    "url": "https://genius.com/artists/Bryce-bordone"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/198492",
+                    "header_image_url": "https://images.genius.com/406abf0c9d060f38d200ca405d3fdb67.450x450x1.png",
+                    "id": 198492,
+                    "image_url": "https://images.genius.com/f1be92e994e74685355891765b3eaf63.488x488x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Gehringer",
+                    "url": "https://genius.com/artists/Chris-gehringer"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1014404",
+                    "header_image_url": "https://images.genius.com/c3d1630971c0f9103aae04746cda571b.851x315x1.jpg",
+                    "id": 1014404,
+                    "image_url": "https://images.genius.com/c9f9af6f12069c6946c5744080c6fb2d.959x959x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BIGHIT MUSIC",
+                    "url": "https://genius.com/artists/Bighit-music"
+                },
+                {
+                    "api_path": "/artists/2904178",
+                    "header_image_url": "https://images.genius.com/8051eef3eae54b0827782fcd8e97faf0.1000x333x1.jpg",
+                    "id": 2904178,
+                    "image_url": "https://images.genius.com/61779031d3c47921edbbdb570c4f9986.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "HYBE (\ud558\uc774\ube0c)",
+                    "url": "https://genius.com/artists/Hybe"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 20930037,
+        "annotator_login": "kookies_giggles",
+        "api_path": "/referents/32122817",
+        "classification": "unreviewed",
+        "fragment": "Who",
+        "id": 32122817,
+        "is_description": true,
+        "path": "/32122817/Jimin-who/Who",
+        "range": {
+            "content": "Who"
+        },
+        "song_id": 10550528,
+        "url": "https://genius.com/32122817/Jimin-who/Who",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10550528",
+            "client_timestamps": {
+                "updated_by_human_at": 1745009997,
+                "lyrics_updated_at": 1742589160
+            },
+            "context": "Jimin (\uc9c0\ubbfc)",
+            "id": 10550528,
+            "image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+            "link_title": "Who by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+            "title": "Who",
+            "type": "Song",
+            "url": "https://genius.com/Jimin-who-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32122817",
+                "body": {
+                    "plain": "On July 18, 2024) it was announced to be focus track from Jimin\u2019s second studio album, Muse. Released on July 19 2024.\nThe song and the whole album was recorded before he went to the military. It was recorded before the filming of Are You Sure?\nWritten by GHSTLOOP, Tenroc, Pdogg, Jon Bellion & Pete Nappi and produced by  Jon Bellion, Pete Nappi, Tenroc, Pdogg & GHSTLOOP.\nDebuted at number 14 on the Billboard Hot 100"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32122817,
+                "pinned": false,
+                "share_url": "https://genius.com/32122817",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32122817/Jimin-who/Who",
+                "verified": false,
+                "votes_total": 6,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/20930037",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/f5453697056ba1c3c350aac25baf5f35",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/f5453697056ba1c3c350aac25baf5f35",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/f5453697056ba1c3c350aac25baf5f35",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/f5453697056ba1c3c350aac25baf5f35",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/j13ue6bi1br",
+                            "human_readable_role_for_display": null,
+                            "id": 20930037,
+                            "iq": 192,
+                            "login": "kookies_giggles",
+                            "name": "kookies_giggles",
+                            "role_for_display": null,
+                            "url": "https://genius.com/kookies_giggles",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/2171344",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/e081cc2f3d8046a74ab6c10154a25b69.667x235x1.png",
+        "human_readable_role_for_display": "Editor",
+        "id": 2171344,
+        "iq": 2139962,
+        "login": "timoo",
+        "name": "timoo",
+        "role_for_display": "editor",
+        "url": "https://genius.com/timoo",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=Av9DvtlJ9_M"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/26593",
+            "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+            "id": 26593,
+            "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jon Bellion",
+            "url": "https://genius.com/artists/Jon-bellion"
+        },
+        {
+            "api_path": "/artists/851231",
+            "header_image_url": "https://images.genius.com/fc6cad7aea4996e0725bd69bac657c54.600x433x1.jpg",
+            "id": 851231,
+            "image_url": "https://images.genius.com/92ccf8124eaace7947197af15d6523aa.757x757x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pete Nappi",
+            "url": "https://genius.com/artists/Pete-nappi"
+        },
+        {
+            "api_path": "/artists/1621877",
+            "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+            "id": 1621877,
+            "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tenroc",
+            "url": "https://genius.com/artists/Tenroc",
+            "iq": 139
+        },
+        {
+            "api_path": "/artists/70273",
+            "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+            "id": 70273,
+            "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pdogg",
+            "url": "https://genius.com/artists/Pdogg"
+        },
+        {
+            "api_path": "/artists/2001463",
+            "header_image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+            "id": 2001463,
+            "image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "GHSTLOOP",
+            "url": "https://genius.com/artists/Ghstloop"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677446",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Instrumental) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677446,
+                    "lyrics_owner_id": 15599964,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-instrumental-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who (Instrumental)",
+                    "title_with_featured": "Who (Instrumental)",
+                    "url": "https://genius.com/Jimin-who-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 12,
+                    "api_path": "/songs/64791",
+                    "artist_names": "Billy Joel",
+                    "full_title": "Movin' Out (Anthony\u2019s Song) by\u00a0Billy\u00a0Joel",
+                    "header_image_thumbnail_url": "https://images.genius.com/98b4efe3818e5c63f6422ebdfacaedc3.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/98b4efe3818e5c63f6422ebdfacaedc3.800x800x1.jpg",
+                    "id": 64791,
+                    "lyrics_owner_id": 45912,
+                    "lyrics_state": "complete",
+                    "path": "/Billy-joel-movin-out-anthonys-song-lyrics",
+                    "primary_artist_names": "Billy Joel",
+                    "pyongs_count": 22,
+                    "relationships_index_url": "https://genius.com/Billy-joel-movin-out-anthonys-song-sample",
+                    "release_date_components": {
+                        "year": 1977,
+                        "month": 9,
+                        "day": 29
+                    },
+                    "release_date_for_display": "September 29, 1977",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 29, 1977",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/98b4efe3818e5c63f6422ebdfacaedc3.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/98b4efe3818e5c63f6422ebdfacaedc3.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 237785
+                    },
+                    "title": "Movin\u2019 Out (Anthony\u2019s Song)",
+                    "title_with_featured": "Movin' Out (Anthony\u2019s Song)",
+                    "url": "https://genius.com/Billy-joel-movin-out-anthonys-song-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/16965",
+                        "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+                        "id": 16965,
+                        "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Billy Joel",
+                        "url": "https://genius.com/artists/Billy-joel"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/16965",
+                            "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+                            "id": 16965,
+                            "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Billy Joel",
+                            "url": "https://genius.com/artists/Billy-joel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11255902",
+                    "artist_names": "KIDZ BOP Kids",
+                    "full_title": "Who by\u00a0KIDZ\u00a0BOP Kids",
+                    "header_image_thumbnail_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.1000x1000x1.png",
+                    "id": 11255902,
+                    "lyrics_owner_id": 20528892,
+                    "lyrics_state": "complete",
+                    "path": "/Kidz-bop-kids-who-lyrics",
+                    "primary_artist_names": "KIDZ BOP Kids",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kidz-bop-kids-who-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 17
+                    },
+                    "release_date_for_display": "January 17, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 17, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c628321bba2d97e9695df4b145319575.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who",
+                    "title_with_featured": "Who",
+                    "url": "https://genius.com/Kidz-bop-kids-who-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/353676",
+                        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                        "id": 353676,
+                        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KIDZ BOP Kids",
+                        "url": "https://genius.com/artists/Kidz-bop-kids"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/353676",
+                            "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                            "id": 353676,
+                            "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "KIDZ BOP Kids",
+                            "url": "https://genius.com/artists/Kidz-bop-kids"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Jimin-who-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10677447",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Acoustic Remix) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677447,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-acoustic-remix-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-acoustic-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Who (Acoustic Remix)",
+                    "title_with_featured": "Who (Acoustic Remix)",
+                    "url": "https://genius.com/Jimin-who-acoustic-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677448",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Rock Remix) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677448,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-rock-remix-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-rock-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who (Rock Remix)",
+                    "title_with_featured": "Who (Rock Remix)",
+                    "url": "https://genius.com/Jimin-who-rock-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677451",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Beautiful Mind Remix) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677451,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-beautiful-mind-remix-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-beautiful-mind-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who (Beautiful Mind Remix)",
+                    "title_with_featured": "Who (Beautiful Mind Remix)",
+                    "url": "https://genius.com/Jimin-who-beautiful-mind-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677450",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Funky Remix) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677450,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-funky-remix-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-funky-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who (Funky Remix)",
+                    "title_with_featured": "Who (Funky Remix)",
+                    "url": "https://genius.com/Jimin-who-funky-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677449",
+                    "artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "full_title": "Who (Shibuyakei Remix) by\u00a0Jimin\u00a0(\uc9c0\ubbfc)",
+                    "header_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "id": 10677449,
+                    "lyrics_owner_id": 18317942,
+                    "lyrics_state": "complete",
+                    "path": "/Jimin-who-shibuyakei-remix-lyrics",
+                    "primary_artist_names": "Jimin (\uc9c0\ubbfc)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jimin-who-shibuyakei-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 23
+                    },
+                    "release_date_for_display": "July 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/83ac006492f45216ba194d6f44261543.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Who (Shibuyakei Remix)",
+                    "title_with_featured": "Who (Shibuyakei Remix)",
+                    "url": "https://genius.com/Jimin-who-shibuyakei-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1016911",
+                        "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                        "id": 1016911,
+                        "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jimin (\uc9c0\ubbfc)",
+                        "url": "https://genius.com/artists/Jimin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1016911",
+                            "header_image_url": "https://images.genius.com/000cc1db237d9dea4f7a538ceaee7569.1000x333x1.jpg",
+                            "id": 1016911,
+                            "image_url": "https://images.genius.com/03de2aafc5653382bcde440464e79cd7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jimin (\uc9c0\ubbfc)",
+                            "url": "https://genius.com/artists/Jimin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Jimin-who-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10577433",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Jimin - Who (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/5764c755e4a717a5ed5eae699e3b34e9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5764c755e4a717a5ed5eae699e3b34e9.1000x1000x1.jpg",
+                    "id": 10577433,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "unreleased",
+                    "path": "/Genius-arabic-translations-jimin-who-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-jimin-who-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5764c755e4a717a5ed5eae699e3b34e9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5764c755e4a717a5ed5eae699e3b34e9.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Jimin - Who (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-jimin-who-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11680844",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Jimin - Who (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 11680844,
+                    "lyrics_owner_id": 18107761,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-jimin-who-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-jimin-who-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (Traduction Fran\u00e7aise)",
+                    "title_with_featured": "Jimin - Who (Traduction Fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-jimin-who-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11018032",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Jimin - Who (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 11018032,
+                    "lyrics_owner_id": 22431753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-jimin-who-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-jimin-who-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Jimin - Who (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-jimin-who-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10788215",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Jimin - Who (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 10788215,
+                    "lyrics_owner_id": 17483186,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-jimin-who-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-jimin-who-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Jimin - Who (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-jimin-who-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10727215",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Jimin - Who (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 10727215,
+                    "lyrics_owner_id": 21840811,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-jimin-who-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-jimin-who-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (Traduzione Italiana)",
+                    "title_with_featured": "Jimin - Who (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-jimin-who-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10674291",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Jimin (\uc9c0\ubbfc) - Who (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 10674291,
+                    "lyrics_owner_id": 22069905,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-jimin-who-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-jimin-who-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin (\uc9c0\ubbfc) - Who (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Jimin (\uc9c0\ubbfc) - Who (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-jimin-who-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10668225",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Jimin - Who (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "id": 10668225,
+                    "lyrics_owner_id": 21998695,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-jimin-who-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-jimin-who-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/114bb479b3f1185c7ef90ca359ee8ea2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Jimin - Who (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-jimin-who-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10666939",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Jimin - Who (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/9ae2f6ed52d78f895752a60ce55ede4e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/9ae2f6ed52d78f895752a60ce55ede4e.1000x1000x1.png",
+                    "id": 10666939,
+                    "lyrics_owner_id": 21823835,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-jimin-who-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-jimin-who-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 19
+                    },
+                    "release_date_for_display": "July 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9ae2f6ed52d78f895752a60ce55ede4e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/9ae2f6ed52d78f895752a60ce55ede4e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Jimin - Who (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Jimin - Who (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-jimin-who-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10577433",
+            "id": 10577433,
+            "language": "ar",
+            "lyrics_state": "unreleased",
+            "path": "/Genius-arabic-translations-jimin-who-lyrics",
+            "title": "Jimin - Who (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-jimin-who-lyrics"
+        },
+        {
+            "api_path": "/songs/11680844",
+            "id": 11680844,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-jimin-who-traduction-francaise-lyrics",
+            "title": "Jimin - Who (Traduction Fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-jimin-who-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/11018032",
+            "id": 11018032,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-jimin-who-lyrics",
+            "title": "Jimin - Who (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-jimin-who-lyrics"
+        },
+        {
+            "api_path": "/songs/10788215",
+            "id": 10788215,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-jimin-who-deutsche-ubersetzung-lyrics",
+            "title": "Jimin - Who (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-jimin-who-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10727215",
+            "id": 10727215,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-jimin-who-traduzione-italiana-lyrics",
+            "title": "Jimin - Who (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-jimin-who-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10674291",
+            "id": 10674291,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-jimin-who-turkce-ceviri-lyrics",
+            "title": "Jimin (\uc9c0\ubbfc) - Who (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-jimin-who-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10668225",
+            "id": 10668225,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-jimin-who-lyrics",
+            "title": "Jimin - Who (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-ukrainian-translations-jimin-who-lyrics"
+        },
+        {
+            "api_path": "/songs/10666939",
+            "id": 10666939,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-jimin-who-traduccion-al-espanol-lyrics",
+            "title": "Jimin - Who (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-jimin-who-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2001463",
+            "header_image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+            "id": 2001463,
+            "image_url": "https://images.genius.com/b7ddadfe84af09b96b23dd7f438b7a26.575x575x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "GHSTLOOP",
+            "url": "https://genius.com/artists/Ghstloop"
+        },
+        {
+            "api_path": "/artists/1621877",
+            "header_image_url": "https://images.genius.com/81ea451246ab4cc98e0bfe57ba2a6112.1000x663x1.jpg",
+            "id": 1621877,
+            "image_url": "https://images.genius.com/ab37c9d7bd996330f4a4e36854537f8a.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tenroc",
+            "url": "https://genius.com/artists/Tenroc",
+            "iq": 139
+        },
+        {
+            "api_path": "/artists/70273",
+            "header_image_url": "https://images.genius.com/f0b1f1b6057b55bca262038e5b40fc2f.1000x666x1.jpg",
+            "id": 70273,
+            "image_url": "https://images.genius.com/e43283d9946da1585493921f29e2f272.644x644x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pdogg",
+            "url": "https://genius.com/artists/Pdogg"
+        },
+        {
+            "api_path": "/artists/26593",
+            "header_image_url": "https://images.genius.com/c769b11f5393e88327fd681fd153c92b.1000x439x1.png",
+            "id": 26593,
+            "image_url": "https://images.genius.com/d9319c22b02c0427aedb996632bbb9ae.600x600x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jon Bellion",
+            "url": "https://genius.com/artists/Jon-bellion"
+        },
+        {
+            "api_path": "/artists/851231",
+            "header_image_url": "https://images.genius.com/fc6cad7aea4996e0725bd69bac657c54.600x433x1.jpg",
+            "id": 851231,
+            "image_url": "https://images.genius.com/92ccf8124eaace7947197af15d6523aa.757x757x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pete Nappi",
+            "url": "https://genius.com/artists/Pete-nappi"
+        }
+    ],
+    "artist": "Jimin (\uc9c0\ubbfc)",
+    "lyrics": "40 ContributorsTranslations\u0627\u0644\u0639\u0631\u0628\u064a\u0629Fran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)DeutschItalianoT\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Espa\u00f1olWho Lyrics\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\n\nIf every day I think about her\nYeah, every day of my life\nThen tell me why I haven't found her\n(Why, why, why, why, why?)\n\nThere's so many people to see (There's so many people to see)\nAnd places to go (There's so many places to go)\nI still haven't found your love\n\nWe nev\u0435r met, but she's all I see at night\nNev\u0435r met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\n\nI'll take her places they ain't found yet\nI'll put it all on the line\nI'll be that someone she can count on\nOne, two, three, four, five\n\nThere's so many people to see (There's so many people to see)\nAnd places to go (There's so many places to go)\nI still haven't found your love\n\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nIs she someone that I see every day?\nIs she somewhere a thousand miles away?\nWanna give her the world and so much more\nWho is my heart waiting for?\n\n(Who is my heart) Heart waiting for?\n(Who is my heart) Heart waiting for?\n(Who is my heart) Heart waiting for?\n(Who is my\u2014) Who is my heart waiting for?\n\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nIs she someone that I see every day?\nIs she somewhere a thousand miles away?\nWanna give her the world and so much more\nWho is my heart waiting for?"
+}

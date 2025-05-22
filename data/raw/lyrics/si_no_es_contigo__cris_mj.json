@@ -1,0 +1,677 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/10405199",
+    "artist_names": "Cris Mj",
+    "full_title": "SI NO ES CONTIGO by\u00a0Cris\u00a0Mj",
+    "header_image_thumbnail_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.1000x1000x1.png",
+    "id": 10405199,
+    "instrumental": false,
+    "lyrics_owner_id": 19408679,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741236418,
+    "path": "/Cris-mj-si-no-es-contigo-lyrics",
+    "primary_artist_names": "Cris Mj",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Cris-mj-si-no-es-contigo-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 23
+    },
+    "release_date_for_display": "May 23, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 23, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 10,
+        "iq_earners": 10,
+        "transcribers": 6,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 117050
+    },
+    "title": "SI NO ES CONTIGO",
+    "title_with_featured": "SI NO ES CONTIGO",
+    "updated_by_human_at": 1741236418,
+    "url": "https://genius.com/Cris-mj-si-no-es-contigo-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2320052",
+        "header_image_url": "https://images.genius.com/f5354d3afb74d479a1b75c14471d717a.1000x403x1.png",
+        "id": 2320052,
+        "image_url": "https://images.genius.com/1e34339318c1b60b124617366fd54490.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cris Mj",
+        "url": "https://genius.com/artists/Cris-mj"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2320052",
+            "header_image_url": "https://images.genius.com/f5354d3afb74d479a1b75c14471d717a.1000x403x1.png",
+            "id": 2320052,
+            "image_url": "https://images.genius.com/1e34339318c1b60b124617366fd54490.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cris Mj",
+            "url": "https://genius.com/artists/Cris-mj"
+        }
+    ],
+    "apple_music_id": "1746602973",
+    "apple_music_player_url": "https://genius.com/songs/10405199/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10405199' class='rg_embed_link' data-song-id='10405199'>Read <a href='https://genius.com/Cris-mj-si-no-es-contigo-lyrics'>\u201cSI NO ES CONTIGO\u201d by Cris\u00a0Mj</a> on Genius</div> <script crossorigin src='//genius.com/songs/10405199/embed.js'></script>",
+    "featured_video": false,
+    "language": "es",
+    "recording_location": null,
+    "release_date": "2024-05-23",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b88644",
+    "song_art_secondary_color": "#723d25",
+    "song_art_text_color": "#fff",
+    "album": null,
+    "custom_performances": [
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/1293816",
+                    "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+                    "id": 1293816,
+                    "image_url": "https://images.genius.com/db90db4123b4f7e49a0511ef961019ff.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rimas Music",
+                    "url": "https://genius.com/artists/Rimas-music"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3247787",
+                    "header_image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "id": 3247787,
+                    "image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SONAR",
+                    "url": "https://genius.com/artists/Sonar"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3247787",
+                    "header_image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "id": 3247787,
+                    "image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SONAR",
+                    "url": "https://genius.com/artists/Sonar"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/613023",
+                    "header_image_url": "https://images.genius.com/3e35a8223ecd656825afd594d3f04582.750x502x25.gif",
+                    "id": 613023,
+                    "image_url": "https://images.genius.com/b902d2724ec5b2a7756c5642cdd8b8b8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orchard",
+                    "url": "https://genius.com/artists/The-orchard"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3247787",
+                    "header_image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "id": 3247787,
+                    "image_url": "https://images.genius.com/54b1c8234ca005bac938e5f31d52898f.212x212x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SONAR",
+                    "url": "https://genius.com/artists/Sonar"
+                },
+                {
+                    "api_path": "/artists/2857933",
+                    "header_image_url": "https://images.genius.com/e788a64ee129f2945e42ae38b24b27b9.1000x562x1.jpg",
+                    "id": 2857933,
+                    "image_url": "https://images.genius.com/c3fe40e5fb063efa4c98a32ee3972078.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stars Music Chile",
+                    "url": "https://genius.com/artists/Stars-music-chile"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 11128325,
+        "annotator_login": "thousandeyes",
+        "api_path": "/referents/31931603",
+        "classification": "needs_exegesis",
+        "fragment": "SI NO ES CONTIGO",
+        "id": 31931603,
+        "is_description": true,
+        "path": "/31931603/Cris-mj-si-no-es-contigo/Si-no-es-contigo",
+        "range": {
+            "content": "SI NO ES CONTIGO"
+        },
+        "song_id": 10405199,
+        "url": "https://genius.com/31931603/Cris-mj-si-no-es-contigo/Si-no-es-contigo",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10405199",
+            "client_timestamps": {
+                "updated_by_human_at": 1741236418,
+                "lyrics_updated_at": 1741236418
+            },
+            "context": "Cris Mj",
+            "id": 10405199,
+            "image_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.1000x1000x1.png",
+            "link_title": "SI NO ES CONTIGO by\u00a0Cris\u00a0Mj",
+            "title": "SI NO ES CONTIGO",
+            "type": "Song",
+            "url": "https://genius.com/Cris-mj-si-no-es-contigo-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31931603",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31931603,
+                "pinned": false,
+                "share_url": "https://genius.com/31931603",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31931603/Cris-mj-si-no-es-contigo/Si-no-es-contigo",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11128325",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/62acd67a1d6fd30895accfd89a0459fb.640x908x1.jpg",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 11128325,
+                            "iq": 186072,
+                            "login": "thousandeyes",
+                            "name": "thousandeyes",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/thousandeyes",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/17336116",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a3f3e4fae808e9426937a2b4180993bf.640x908x1.jpg",
+        "human_readable_role_for_display": "Moderator",
+        "id": 17336116,
+        "iq": 1340593,
+        "login": "Fri",
+        "name": "Fri",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/Fri",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=vX1fgqKXSsk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3510184",
+            "header_image_url": "https://images.genius.com/ddb422000cd21b067c006962a8e9897f.350x350x1.png",
+            "id": 3510184,
+            "image_url": "https://images.genius.com/ddb422000cd21b067c006962a8e9897f.350x350x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nes On The Shet",
+            "url": "https://genius.com/artists/Nes-on-the-shet"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10991688",
+                    "artist_names": "Cris Mj, Kali Uchis & JHAYCO",
+                    "full_title": "SI NO ES CONTIGO (REMIX) by\u00a0Cris\u00a0Mj, Kali\u00a0Uchis & JHAYCO",
+                    "header_image_thumbnail_url": "https://images.genius.com/9115e96119d1644622bbffd5e7e9ed1b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/9115e96119d1644622bbffd5e7e9ed1b.1000x1000x1.png",
+                    "id": 10991688,
+                    "lyrics_owner_id": 5529082,
+                    "lyrics_state": "complete",
+                    "path": "/Cris-mj-kali-uchis-and-jhayco-si-no-es-contigo-remix-lyrics",
+                    "primary_artist_names": "Cris Mj, Kali Uchis & JHAYCO",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Cris-mj-kali-uchis-and-jhayco-si-no-es-contigo-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 17
+                    },
+                    "release_date_for_display": "October 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9115e96119d1644622bbffd5e7e9ed1b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/9115e96119d1644622bbffd5e7e9ed1b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 63805
+                    },
+                    "title": "SI NO ES CONTIGO (REMIX)",
+                    "title_with_featured": "SI NO ES CONTIGO (REMIX)",
+                    "url": "https://genius.com/Cris-mj-kali-uchis-and-jhayco-si-no-es-contigo-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2320052",
+                        "header_image_url": "https://images.genius.com/f5354d3afb74d479a1b75c14471d717a.1000x403x1.png",
+                        "id": 2320052,
+                        "image_url": "https://images.genius.com/1e34339318c1b60b124617366fd54490.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cris Mj",
+                        "url": "https://genius.com/artists/Cris-mj"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2320052",
+                            "header_image_url": "https://images.genius.com/f5354d3afb74d479a1b75c14471d717a.1000x403x1.png",
+                            "id": 2320052,
+                            "image_url": "https://images.genius.com/1e34339318c1b60b124617366fd54490.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cris Mj",
+                            "url": "https://genius.com/artists/Cris-mj"
+                        },
+                        {
+                            "api_path": "/artists/160041",
+                            "header_image_url": "https://images.genius.com/f60ab38743b9c2f48059f563b86cd820.1000x353x1.png",
+                            "id": 160041,
+                            "image_url": "https://images.genius.com/c025bd131f8a02e1bc3c022c077ee63c.569x569x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Kali Uchis",
+                            "url": "https://genius.com/artists/Kali-uchis",
+                            "iq": 7032
+                        },
+                        {
+                            "api_path": "/artists/1015573",
+                            "header_image_url": "https://images.genius.com/b467ca67cf4e4134644928be7a069022.1000x1000x1.jpg",
+                            "id": 1015573,
+                            "image_url": "https://images.genius.com/135fa6dc1bdfa77aac40bb2cea6be39a.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "JHAYCO",
+                            "url": "https://genius.com/artists/Jhayco",
+                            "iq": 548
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10434664",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "Cris Mj - SI NO ES CONTIGO (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.1000x1000x1.png",
+                    "id": 10434664,
+                    "lyrics_owner_id": 16909483,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-cris-mj-si-no-es-contigo-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-cris-mj-si-no-es-contigo-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 23
+                    },
+                    "release_date_for_display": "May 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/61d46c92f093c8cbccbdac98a355f6a4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 194673
+                    },
+                    "title": "Cris Mj - SI NO ES CONTIGO (English Translation)",
+                    "title_with_featured": "Cris Mj - SI NO ES CONTIGO (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-cris-mj-si-no-es-contigo-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10434664",
+            "id": 10434664,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-cris-mj-si-no-es-contigo-english-translation-lyrics",
+            "title": "Cris Mj - SI NO ES CONTIGO (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-cris-mj-si-no-es-contigo-english-translation-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2320052",
+            "header_image_url": "https://images.genius.com/f5354d3afb74d479a1b75c14471d717a.1000x403x1.png",
+            "id": 2320052,
+            "image_url": "https://images.genius.com/1e34339318c1b60b124617366fd54490.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cris Mj",
+            "url": "https://genius.com/artists/Cris-mj"
+        }
+    ],
+    "artist": "Cris Mj",
+    "lyrics": "10 ContributorsTranslationsEnglishSI NO ES CONTIGO Lyrics\n\n(Ey, ey)\n\nSi no e' contigo, amor\nYo no quiero a nadie m\u00e1' (M\u00e1')\nT\u00fa na' m\u00e1' tiene' lo que a m\u00ed me encanta\nGata, aprovech\u00e9mono'\nMamita, cas\u00e9mono'\nQu\u00e9 rico te queda ese pijama\n\nMami, qu\u00e9 rico te queda\nPantycito rojo que a m\u00ed me modela\nLa jalo del pelo, le doy lo que quiera (Yeah-ah)\nConmigo est\u00e1 ready, le compro Bottega\nMe quiero perderme en ti como me pierdo con las picky (Oh-oh)\nMa, t\u00fa est\u00e1' riqui (Yeah), la m\u00e1' dura de mi city\nQue yo quiero sentir lo que con otra no existe (Tra)\nMa, dime qu\u00e9 me hiciste, no' miramo' y dijiste (Ey, ey)\n\nSi no e' contigo, amor\nYo no quiero a nadie m\u00e1' (M\u00e1')\nT\u00fa na' m\u00e1' tiene' lo que a m\u00ed me encanta\nGata, aprovech\u00e9mono'\nMamita, cas\u00e9mono' (Oh-oh)\nQu\u00e9 rico te queda ese pijama\n\nAprov\u00e9chame, mami, fl\u00e9chame\nT\u00f3mame 'e reh\u00e9n (Oh-oh), haga lo que quiere (Yeah-ah)\nTodo te queda bien, le compr\u00e9 las flore'\nSi son m\u00e1s de tres cien con olor a Chanel\nChica, b\u00e1ilame, perr\u00e9ame\nQue yo quiero perderme en tu piel, beb\u00e9\n\u00bfTe va' a hacer? Si ere' mi reina y yo tu rey\n\nSi no e' contigo, amor\nYo no quiero a nadie m\u00e1'\nT\u00fa na' m\u00e1' tiene' lo que a m\u00ed me encanta (Ah-ah)\nGata, aprovech\u00e9mono' (Oh-oh)\nMamita, cas\u00e9mono' (Oh-oh)\nQu\u00e9 rico te queda ese pijama\n\n(Que yo quiero sentir lo que con otra no existe)\n(Ma, dime qu\u00e9 me hiciste, no' miramo' y dijiste)\n(Si no e' contigo, amor)\n(Yo no quiero a nadie m\u00e1')\n(T\u00fa na' m\u00e1' tiene' lo que a m\u00ed me encanta)\n(Gata, aprovech\u00e9mono')\n(Mamita, cas\u00e9mono')\n(Qu\u00e9 rico te queda ese pijama)"
+}

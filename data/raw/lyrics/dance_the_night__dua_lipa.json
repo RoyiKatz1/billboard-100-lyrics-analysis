@@ -1,0 +1,2749 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/9149479",
+    "artist_names": "Dua Lipa",
+    "full_title": "Dance The Night by\u00a0Dua\u00a0Lipa",
+    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+    "id": 9149479,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728361033,
+    "path": "/Dua-lipa-dance-the-night-lyrics",
+    "primary_artist_names": "Dua Lipa",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Dua-lipa-dance-the-night-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 5,
+        "day": 26
+    },
+    "release_date_for_display": "May 26, 2023",
+    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 68,
+        "iq_earners": 68,
+        "transcribers": 6,
+        "unreviewed_annotations": 4,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 190521
+    },
+    "title": "Dance The Night",
+    "title_with_featured": "Dance The Night",
+    "updated_by_human_at": 1745978094,
+    "url": "https://genius.com/Dua-lipa-dance-the-night-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/555561",
+        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+        "id": 555561,
+        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dua Lipa",
+        "url": "https://genius.com/artists/Dua-lipa",
+        "iq": 2566
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        }
+    ],
+    "apple_music_id": "1689238922",
+    "apple_music_player_url": "https://genius.com/songs/9149479/apple_music_player",
+    "description": {
+        "plain": "\u201cDance The Night\u201d is an upbeat disco dance track by Dua Lipa. The song served as the lead single for Greta Gerwig\u2019s Barbie soundtrack and was released on May 26, 2023 ahead of the film\u2019s release in July. Dua Lipa made her debut acting performance in the film as Mermaid Barbie.\n\nThe song was used for a scene in the movie during Barbie\u2019s blowout party in which all the Barbies and Kens break into choreographed dance."
+    },
+    "embed_content": "<div id='rg_embed_link_9149479' class='rg_embed_link' data-song-id='9149479'>Read <a href='https://genius.com/Dua-lipa-dance-the-night-lyrics'>\u201cDance The Night\u201d by Dua\u00a0Lipa</a> on Genius</div> <script crossorigin src='//genius.com/songs/9149479/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-05-26",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ec1c7c",
+    "song_art_secondary_color": "#6f1133",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1189482",
+        "cover_art_url": "https://images.genius.com/27c3d0e7a962c45b8e589ae874cd7aee.1000x1000x1.png",
+        "full_title": "Radical Optimism (TIDAL Reissue) by Dua Lipa",
+        "id": 1189482,
+        "name": "Radical Optimism (TIDAL Reissue)",
+        "primary_artist_names": "Dua Lipa",
+        "release_date_for_display": "May 28, 2024",
+        "url": "https://genius.com/albums/Dua-lipa/Radical-optimism-tidal-reissue",
+        "artist": {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/555561",
+                "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                "id": 555561,
+                "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Dua Lipa",
+                "url": "https://genius.com/artists/Dua-lipa",
+                "iq": 2566
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1520387",
+                    "header_image_url": "https://images.genius.com/91b7b13ba76705d023ad098d85a41cdb.1000x1000x1.jpg",
+                    "id": 1520387,
+                    "image_url": "https://images.genius.com/91b7b13ba76705d023ad098d85a41cdb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greta Gerwig",
+                    "url": "https://genius.com/artists/Greta-gerwig"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/671773",
+                    "header_image_url": "https://images.genius.com/69b98ac87c62a835daee4213d07afa5b.453x453x1.png",
+                    "id": 671773,
+                    "image_url": "https://images.genius.com/5127719ae104ecfc06ba1ad8d19b7ce5.453x453x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MixStar Studios",
+                    "url": "https://genius.com/artists/Mixstar-studios"
+                }
+            ]
+        },
+        {
+            "label": "Engineered At",
+            "artists": [
+                {
+                    "api_path": "/artists/3210522",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3210522,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zelig",
+                    "url": "https://genius.com/artists/Zelig"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1053373",
+                    "header_image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "id": 1053373,
+                    "image_url": "https://images.genius.com/75a2e04a8b15ce8d7092fc6748ca2f36.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cameron Gower Poole",
+                    "url": "https://genius.com/artists/Cameron-gower-poole"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2855726",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2855726,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Ferguson",
+                    "url": "https://genius.com/artists/Jake-ferguson"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/977738",
+                    "header_image_url": "https://images.genius.com/d720903f79d07247b2e73a8f5e76a7d8.1000x324x1.jpg",
+                    "id": 977738,
+                    "image_url": "https://images.genius.com/901cebec5747d582b7f4bba0179aa0a1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Concord Music Group",
+                    "url": "https://genius.com/artists/Concord-music-group"
+                },
+                {
+                    "api_path": "/artists/2267517",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2267517,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Songs of Zelig",
+                    "url": "https://genius.com/artists/Songs-of-zelig"
+                },
+                {
+                    "api_path": "/artists/3318682",
+                    "header_image_url": "https://images.genius.com/ce2779f47a11e2c8c0dd58a241f32646.338x338x1.png",
+                    "id": 3318682,
+                    "image_url": "https://images.genius.com/ce2779f47a11e2c8c0dd58a241f32646.338x338x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hifi Music",
+                    "url": "https://genius.com/artists/Hifi-music"
+                },
+                {
+                    "api_path": "/artists/1179023",
+                    "header_image_url": "https://images.genius.com/e0f5e49317e965cfa53e20c085a955e1.851x315x1.png",
+                    "id": 1179023,
+                    "image_url": "https://images.genius.com/4ebbcabd72ac78217a95d7a2f767218d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kobalt Music",
+                    "url": "https://genius.com/artists/Kobalt-music"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/3612018",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3612018,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Viking Jamz Publishing",
+                    "url": "https://genius.com/artists/Viking-jamz-publishing"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                },
+                {
+                    "api_path": "/artists/2487992",
+                    "header_image_url": "https://images.genius.com/70ae76e4a6ef80ac7a893f979250fb83.1000x667x1.jpg",
+                    "id": 2487992,
+                    "image_url": "https://images.genius.com/f5e7e2d3b889e6ca10e0527131bb9825.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Bros. Entertainment",
+                    "url": "https://genius.com/artists/Warner-bros-entertainment"
+                },
+                {
+                    "api_path": "/artists/582812",
+                    "header_image_url": "https://images.genius.com/223c521a898950ba4b77842728e3ab3a.851x315x1.jpg",
+                    "id": 582812,
+                    "image_url": "https://images.genius.com/c34820706e016393460569b862f71d36.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattel",
+                    "url": "https://genius.com/artists/Mattel"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                },
+                {
+                    "api_path": "/artists/2487992",
+                    "header_image_url": "https://images.genius.com/70ae76e4a6ef80ac7a893f979250fb83.1000x667x1.jpg",
+                    "id": 2487992,
+                    "image_url": "https://images.genius.com/f5e7e2d3b889e6ca10e0527131bb9825.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Bros. Entertainment",
+                    "url": "https://genius.com/artists/Warner-bros-entertainment"
+                },
+                {
+                    "api_path": "/artists/582812",
+                    "header_image_url": "https://images.genius.com/223c521a898950ba4b77842728e3ab3a.851x315x1.jpg",
+                    "id": 582812,
+                    "image_url": "https://images.genius.com/c34820706e016393460569b862f71d36.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mattel",
+                    "url": "https://genius.com/artists/Mattel"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/619133",
+                    "header_image_url": "https://images.genius.com/38c6f4dc0b4d01007ce2628c43926117.1000x990x1.png",
+                    "id": 619133,
+                    "image_url": "https://images.genius.com/e13ffbac832939258c0cb3d733362a54.645x645x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Caroline Ailin",
+                    "url": "https://genius.com/artists/Caroline-ailin"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/8231",
+                    "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+                    "id": 8231,
+                    "image_url": "https://images.genius.com/b2c303a3a089b5f2c582f426d410e73e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Mark Ronson",
+                    "url": "https://genius.com/artists/Mark-ronson",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/49095",
+                    "header_image_url": "https://images.genius.com/d9949a5f8ba148b1bd79caa5498ba565.1000x741x1.jpg",
+                    "id": 49095,
+                    "image_url": "https://images.genius.com/78f94f7829e7298f0a8726e17679fe78.701x701x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Wyatt",
+                    "url": "https://genius.com/artists/Andrew-wyatt"
+                }
+            ]
+        },
+        {
+            "label": "Rhodes Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/8231",
+                    "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+                    "id": 8231,
+                    "image_url": "https://images.genius.com/b2c303a3a089b5f2c582f426d410e73e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Mark Ronson",
+                    "url": "https://genius.com/artists/Mark-ronson",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1009859",
+                    "header_image_url": "https://images.genius.com/e956f7ff9ebb8b72186fa59eb5897235.714x299x1.png",
+                    "id": 1009859,
+                    "image_url": "https://images.genius.com/cb84d4e6c7d80bfd48a4bdf96937c14e.401x401x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Picard Brothers",
+                    "url": "https://genius.com/artists/Picard-brothers"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/49095",
+                    "header_image_url": "https://images.genius.com/d9949a5f8ba148b1bd79caa5498ba565.1000x741x1.jpg",
+                    "id": 49095,
+                    "image_url": "https://images.genius.com/78f94f7829e7298f0a8726e17679fe78.701x701x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Wyatt",
+                    "url": "https://genius.com/artists/Andrew-wyatt"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/2458963",
+                    "header_image_url": "https://images.genius.com/2218b68ce53e63285bd1ba826cbb0f96.375x375x1.jpg",
+                    "id": 2458963,
+                    "image_url": "https://images.genius.com/2218b68ce53e63285bd1ba826cbb0f96.375x375x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Angela Lee",
+                    "url": "https://genius.com/artists/Angela-lee"
+                },
+                {
+                    "api_path": "/artists/1224983",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1224983,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ann Kim",
+                    "url": "https://genius.com/artists/Ann-kim"
+                },
+                {
+                    "api_path": "/artists/1077450",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1077450,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Annaliesa Place",
+                    "url": "https://genius.com/artists/Annaliesa-place"
+                },
+                {
+                    "api_path": "/artists/1163744",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1163744,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Henry Wang",
+                    "url": "https://genius.com/artists/Henry-wang"
+                },
+                {
+                    "api_path": "/artists/1814381",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1814381,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jennifer Kim",
+                    "url": "https://genius.com/artists/Jennifer-kim"
+                },
+                {
+                    "api_path": "/artists/3546812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremia Velazquez",
+                    "url": "https://genius.com/artists/Jeremia-velazquez"
+                },
+                {
+                    "api_path": "/artists/2099911",
+                    "header_image_url": "https://images.genius.com/c22f4b33b3f29581a4e9043d6bf46948.400x411x1.jpg",
+                    "id": 2099911,
+                    "image_url": "https://images.genius.com/0a1d04b92ce731c109b196f5b2d055ed.201x201x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joanna Maurer",
+                    "url": "https://genius.com/artists/Joanna-maurer"
+                },
+                {
+                    "api_path": "/artists/3461235",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3461235,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julia Choi (Violinist)",
+                    "url": "https://genius.com/artists/Julia-choi-violinist"
+                },
+                {
+                    "api_path": "/artists/1183796",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1183796,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jungsun Yoo",
+                    "url": "https://genius.com/artists/Jungsun-yoo"
+                },
+                {
+                    "api_path": "/artists/3461238",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3461238,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kristi Helberg",
+                    "url": "https://genius.com/artists/Kristi-helberg"
+                },
+                {
+                    "api_path": "/artists/642245",
+                    "header_image_url": "https://images.genius.com/c39a1898d844224cfef02f5d4286931d.1000x1000x1.jpg",
+                    "id": 642245,
+                    "image_url": "https://images.genius.com/c39a1898d844224cfef02f5d4286931d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lisa Kim",
+                    "url": "https://genius.com/artists/Lisa-kim"
+                },
+                {
+                    "api_path": "/artists/1019343",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1019343,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matthew Lehmann",
+                    "url": "https://genius.com/artists/Matthew-lehmann"
+                },
+                {
+                    "api_path": "/artists/2588285",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2588285,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peter Bahng",
+                    "url": "https://genius.com/artists/Peter-bahng"
+                },
+                {
+                    "api_path": "/artists/3546813",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546813,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeongmin Lee",
+                    "url": "https://genius.com/artists/Jeongmin-lee"
+                },
+                {
+                    "api_path": "/artists/3546814",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546814,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sein Ryu",
+                    "url": "https://genius.com/artists/Sein-ryu"
+                },
+                {
+                    "api_path": "/artists/3546815",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546815,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tallie Brunfelt",
+                    "url": "https://genius.com/artists/Tallie-brunfelt"
+                }
+            ]
+        },
+        {
+            "label": "Viola",
+            "artists": [
+                {
+                    "api_path": "/artists/3546810",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546810,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alexis Sykes",
+                    "url": "https://genius.com/artists/Alexis-sykes"
+                },
+                {
+                    "api_path": "/artists/2610230",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2610230,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danielle Farina",
+                    "url": "https://genius.com/artists/Danielle-farina"
+                },
+                {
+                    "api_path": "/artists/782515",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 782515,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Roth",
+                    "url": "https://genius.com/artists/Michael-roth"
+                },
+                {
+                    "api_path": "/artists/3331088",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3331088,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robert Meyer",
+                    "url": "https://genius.com/artists/Robert-meyer"
+                },
+                {
+                    "api_path": "/artists/3546811",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546811,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Torron Pfeffer",
+                    "url": "https://genius.com/artists/Torron-pfeffer"
+                },
+                {
+                    "api_path": "/artists/1631829",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1631829,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Will Frampton",
+                    "url": "https://genius.com/artists/Will-frampton"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/1654574",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1654574,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alan Stepansky",
+                    "url": "https://genius.com/artists/Alan-stepansky"
+                },
+                {
+                    "api_path": "/artists/1503124",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1503124,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Caitlin Sullivan",
+                    "url": "https://genius.com/artists/Caitlin-sullivan"
+                },
+                {
+                    "api_path": "/artists/910615",
+                    "header_image_url": "https://images.genius.com/abb6e8f20eb40ff0001c4392b2621b22.500x375x1.jpg",
+                    "id": 910615,
+                    "image_url": "https://images.genius.com/1a8036d4d154b42718f1e67b8e10c877.375x375x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Clarice Jensen",
+                    "url": "https://genius.com/artists/Clarice-jensen"
+                },
+                {
+                    "api_path": "/artists/1291809",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1291809,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joel Noyes",
+                    "url": "https://genius.com/artists/Joel-noyes"
+                },
+                {
+                    "api_path": "/artists/3546809",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3546809,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sarah Kwon",
+                    "url": "https://genius.com/artists/Sarah-kwon"
+                },
+                {
+                    "api_path": "/artists/1943325",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1943325,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Susana Espelleta",
+                    "url": "https://genius.com/artists/Susana-espelleta"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/664820",
+                    "header_image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+                    "id": 664820,
+                    "image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Bost",
+                    "url": "https://genius.com/artists/Brandon-bost"
+                },
+                {
+                    "api_path": "/artists/1009859",
+                    "header_image_url": "https://images.genius.com/e956f7ff9ebb8b72186fa59eb5897235.714x299x1.png",
+                    "id": 1009859,
+                    "image_url": "https://images.genius.com/cb84d4e6c7d80bfd48a4bdf96937c14e.401x401x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Picard Brothers",
+                    "url": "https://genius.com/artists/Picard-brothers"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/664820",
+                    "header_image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+                    "id": 664820,
+                    "image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Bost",
+                    "url": "https://genius.com/artists/Brandon-bost"
+                }
+            ]
+        },
+        {
+            "label": "Additional Recording",
+            "artists": [
+                {
+                    "api_path": "/artists/662544",
+                    "header_image_url": "https://images.genius.com/1d8020ef12d09973be0e5bb3fe02b056.1000x625x1.jpg",
+                    "id": 662544,
+                    "image_url": "https://images.genius.com/0c9b8aadb2c786010a82818d852a0eb8.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Venguer",
+                    "url": "https://genius.com/artists/Alex-venguer"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640944",
+                    "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+                    "id": 640944,
+                    "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0218erban Ghenea",
+                    "url": "https://genius.com/artists/Serban-ghenea"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2844765",
+                    "header_image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "id": 2844765,
+                    "image_url": "https://images.genius.com/5c153d86e396aea420d58bb9b155b6bf.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryce Bordone",
+                    "url": "https://genius.com/artists/Bryce-bordone"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4938867,
+        "annotator_login": "ifellonmyface",
+        "api_path": "/referents/28601799",
+        "classification": "accepted",
+        "fragment": "Dance The Night",
+        "id": 28601799,
+        "is_description": true,
+        "path": "/28601799/Dua-lipa-dance-the-night/Dance-the-night",
+        "range": {
+            "content": "Dance The Night"
+        },
+        "song_id": 9149479,
+        "url": "https://genius.com/28601799/Dua-lipa-dance-the-night/Dance-the-night",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9149479",
+            "client_timestamps": {
+                "updated_by_human_at": 1745978094,
+                "lyrics_updated_at": 1728361033
+            },
+            "context": "Dua Lipa",
+            "id": 9149479,
+            "image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+            "link_title": "Dance The Night by\u00a0Dua\u00a0Lipa",
+            "title": "Dance The Night",
+            "type": "Song",
+            "url": "https://genius.com/Dua-lipa-dance-the-night-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28601799",
+                "body": {
+                    "plain": "\u201cDance The Night\u201d is an upbeat disco dance track by Dua Lipa. The song served as the lead single for Greta Gerwig\u2019s Barbie soundtrack and was released on May 26, 2023 ahead of the film\u2019s release in July. Dua Lipa made her debut acting performance in the film as Mermaid Barbie.\n\nThe song was used for a scene in the movie during Barbie\u2019s blowout party in which all the Barbies and Kens break into choreographed dance."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 28601799,
+                "pinned": false,
+                "share_url": "https://genius.com/28601799",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/28601799/Dua-lipa-dance-the-night/Dance-the-night",
+                "verified": false,
+                "votes_total": 57,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.39473684210526316,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4938867",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/k5votodvl",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/k5votodvl",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/k5votodvl",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/k5votodvl",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/0c2jq2zve5ei",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 4938867,
+                            "iq": 31429,
+                            "login": "ifellonmyface",
+                            "name": "ifellonmyface",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/ifellonmyface",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.2368421052631579,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/2457824",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/462a2b75c4f2f4fee92f24f495feafcb",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/462a2b75c4f2f4fee92f24f495feafcb",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/462a2b75c4f2f4fee92f24f495feafcb",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/462a2b75c4f2f4fee92f24f495feafcb",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/f96c073b0bd60c3917b2adbea110f7df.1000x563x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 2457824,
+                            "iq": 258163,
+                            "login": "DreUpdate",
+                            "name": "DreUpdate",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/DreUpdate",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.13157894736842105,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14649386",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/177d2c1f807dd05d7bf1a1873ee14790",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/177d2c1f807dd05d7bf1a1873ee14790",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/177d2c1f807dd05d7bf1a1873ee14790",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/177d2c1f807dd05d7bf1a1873ee14790",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/gf6hnj56dh",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 14649386,
+                            "iq": 88693,
+                            "login": "13_lucky_star",
+                            "name": "13_lucky_star",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/13_lucky_star",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.11842105263157895,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11809232",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/9x2lczqf9og",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 11809232,
+                            "iq": 196172,
+                            "login": "DistESP",
+                            "name": "DistESP",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/DistESP",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.11842105263157895,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/13027673",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/n47ibua83z",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/n47ibua83z",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/n47ibua83z",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/n47ibua83z",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/zklhlnj3n4n",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 13027673,
+                            "iq": 564,
+                            "login": "marc_r_24",
+                            "name": "marc_r_24",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/marc_r_24",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "dualipa",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/dualipa/dance-the-night-from-barbie"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=OiC1rgCPmUQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/8231",
+            "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+            "id": 8231,
+            "image_url": "https://images.genius.com/b2c303a3a089b5f2c582f426d410e73e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Mark Ronson",
+            "url": "https://genius.com/artists/Mark-ronson",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/1009859",
+            "header_image_url": "https://images.genius.com/e956f7ff9ebb8b72186fa59eb5897235.714x299x1.png",
+            "id": 1009859,
+            "image_url": "https://images.genius.com/cb84d4e6c7d80bfd48a4bdf96937c14e.401x401x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Picard Brothers",
+            "url": "https://genius.com/artists/Picard-brothers"
+        },
+        {
+            "api_path": "/artists/49095",
+            "header_image_url": "https://images.genius.com/d9949a5f8ba148b1bd79caa5498ba565.1000x741x1.jpg",
+            "id": 49095,
+            "image_url": "https://images.genius.com/78f94f7829e7298f0a8726e17679fe78.701x701x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Andrew Wyatt",
+            "url": "https://genius.com/artists/Andrew-wyatt"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/159257",
+                    "artist_names": "Patrice Rushen",
+                    "full_title": "Forget Me Nots by\u00a0Patrice\u00a0Rushen",
+                    "header_image_thumbnail_url": "https://images.genius.com/efb9242492abbc7498311a68f9e6730b.300x299x1.jpg",
+                    "header_image_url": "https://images.genius.com/efb9242492abbc7498311a68f9e6730b.600x597x1.jpg",
+                    "id": 159257,
+                    "lyrics_owner_id": 19602,
+                    "lyrics_state": "complete",
+                    "path": "/Patrice-rushen-forget-me-nots-lyrics",
+                    "primary_artist_names": "Patrice Rushen",
+                    "pyongs_count": 7,
+                    "relationships_index_url": "https://genius.com/Patrice-rushen-forget-me-nots-sample",
+                    "release_date_components": {
+                        "year": 1982,
+                        "month": 4,
+                        "day": 14
+                    },
+                    "release_date_for_display": "April 14, 1982",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 14, 1982",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/efb9242492abbc7498311a68f9e6730b.300x299x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/efb9242492abbc7498311a68f9e6730b.600x597x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 178266
+                    },
+                    "title": "Forget Me Nots",
+                    "title_with_featured": "Forget Me Nots",
+                    "url": "https://genius.com/Patrice-rushen-forget-me-nots-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/53213",
+                        "header_image_url": "https://images.genius.com/9642bd3fbca7f30dea8f58c6dff20f07.670x1000x1.jpg",
+                        "id": 53213,
+                        "image_url": "https://images.genius.com/3da62be617443d71e74aa074b64c8f98.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Patrice Rushen",
+                        "url": "https://genius.com/artists/Patrice-rushen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/53213",
+                            "header_image_url": "https://images.genius.com/9642bd3fbca7f30dea8f58c6dff20f07.670x1000x1.jpg",
+                            "id": 53213,
+                            "image_url": "https://images.genius.com/3da62be617443d71e74aa074b64c8f98.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Patrice Rushen",
+                            "url": "https://genius.com/artists/Patrice-rushen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9325251",
+                    "artist_names": "Joseph James",
+                    "full_title": "Couldn't Leave: Summer 2023 Megamix by\u00a0Joseph\u00a0James",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c42634ad52e06cb35ed093124896bdb.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6c42634ad52e06cb35ed093124896bdb.1000x1000x1.jpg",
+                    "id": 9325251,
+                    "lyrics_owner_id": 15415452,
+                    "lyrics_state": "complete",
+                    "path": "/Joseph-james-couldnt-leave-summer-2023-megamix-lyrics",
+                    "primary_artist_names": "Joseph James",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Joseph-james-couldnt-leave-summer-2023-megamix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 6,
+                        "day": 3
+                    },
+                    "release_date_for_display": "June 3, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 3, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c42634ad52e06cb35ed093124896bdb.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6c42634ad52e06cb35ed093124896bdb.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Couldn\u2019t Leave: Summer 2023 Megamix",
+                    "title_with_featured": "Couldn't Leave: Summer 2023 Megamix",
+                    "url": "https://genius.com/Joseph-james-couldnt-leave-summer-2023-megamix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/651958",
+                        "header_image_url": "https://images.genius.com/7979673ffec281a337d11466627c4e4c.1000x1000x1.jpg",
+                        "id": 651958,
+                        "image_url": "https://images.genius.com/7979673ffec281a337d11466627c4e4c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Joseph James",
+                        "url": "https://genius.com/artists/Joseph-james"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/651958",
+                            "header_image_url": "https://images.genius.com/7979673ffec281a337d11466627c4e4c.1000x1000x1.jpg",
+                            "id": 651958,
+                            "image_url": "https://images.genius.com/7979673ffec281a337d11466627c4e4c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Joseph James",
+                            "url": "https://genius.com/artists/Joseph-james"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9405383",
+                    "artist_names": "Lipe Play & MC Chefe Original",
+                    "full_title": "A Barbie T\u00e1 Diferente by\u00a0Lipe\u00a0Play & MC Chefe Original",
+                    "header_image_thumbnail_url": "https://images.genius.com/8530e2a9f7cf5cfac455f5b2ebdc1194.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8530e2a9f7cf5cfac455f5b2ebdc1194.544x544x1.jpg",
+                    "id": 9405383,
+                    "lyrics_owner_id": 13643648,
+                    "lyrics_state": "complete",
+                    "path": "/Lipe-play-and-mc-chefe-original-a-barbie-ta-diferente-lyrics",
+                    "primary_artist_names": "Lipe Play & MC Chefe Original",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lipe-play-and-mc-chefe-original-a-barbie-ta-diferente-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 8,
+                        "day": 3
+                    },
+                    "release_date_for_display": "August 3, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 3, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8530e2a9f7cf5cfac455f5b2ebdc1194.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8530e2a9f7cf5cfac455f5b2ebdc1194.544x544x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "A Barbie T\u00e1 Diferente",
+                    "title_with_featured": "A Barbie T\u00e1 Diferente",
+                    "url": "https://genius.com/Lipe-play-and-mc-chefe-original-a-barbie-ta-diferente-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3625391",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 3625391,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lipe Play & MC Chefe Original",
+                        "url": "https://genius.com/artists/Lipe-play-and-mc-chefe-original"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3625391",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3625391,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lipe Play & MC Chefe Original",
+                            "url": "https://genius.com/artists/Lipe-play-and-mc-chefe-original"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/9160872",
+                    "artist_names": "Lizzo",
+                    "full_title": "Pink by\u00a0Lizzo",
+                    "header_image_thumbnail_url": "https://images.genius.com/ec297b8459ca95ffeef0012fd267d3c7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ec297b8459ca95ffeef0012fd267d3c7.1000x1000x1.png",
+                    "id": 9160872,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Lizzo-pink-lyrics",
+                    "primary_artist_names": "Lizzo",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Lizzo-pink-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 21
+                    },
+                    "release_date_for_display": "July 21, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ec297b8459ca95ffeef0012fd267d3c7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ec297b8459ca95ffeef0012fd267d3c7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false,
+                        "pageviews": 114762
+                    },
+                    "title": "Pink",
+                    "title_with_featured": "Pink",
+                    "url": "https://genius.com/Lizzo-pink-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/84514",
+                        "header_image_url": "https://images.genius.com/af6a5268a82f08c70281af518524abdb.1000x333x1.jpg",
+                        "id": 84514,
+                        "image_url": "https://images.genius.com/2537ffb5612e61819aa3e10f75cb8784.899x899x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lizzo",
+                        "url": "https://genius.com/artists/Lizzo",
+                        "iq": 509
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/84514",
+                            "header_image_url": "https://images.genius.com/af6a5268a82f08c70281af518524abdb.1000x333x1.jpg",
+                            "id": 84514,
+                            "image_url": "https://images.genius.com/2537ffb5612e61819aa3e10f75cb8784.899x899x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lizzo",
+                            "url": "https://genius.com/artists/Lizzo",
+                            "iq": 509
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11286764",
+                    "artist_names": "Movie Scripts",
+                    "full_title": "Barbie (Script) by\u00a0Movie\u00a0Scripts",
+                    "header_image_thumbnail_url": "https://images.genius.com/0df2402c78a53f22473e7b590cb2d89e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0df2402c78a53f22473e7b590cb2d89e.1000x1000x1.png",
+                    "id": 11286764,
+                    "lyrics_owner_id": 1587767,
+                    "lyrics_state": "complete",
+                    "path": "/Movie-scripts-barbie-script-annotated",
+                    "primary_artist_names": "Movie Scripts",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Movie-scripts-barbie-script-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 21
+                    },
+                    "release_date_for_display": "July 21, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0df2402c78a53f22473e7b590cb2d89e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0df2402c78a53f22473e7b590cb2d89e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Barbie (Script)",
+                    "title_with_featured": "Barbie (Script)",
+                    "url": "https://genius.com/Movie-scripts-barbie-script-annotated",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4256051",
+                        "header_image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                        "id": 4256051,
+                        "image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Movie Scripts",
+                        "url": "https://genius.com/artists/Movie-scripts"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4256051",
+                            "header_image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                            "id": 4256051,
+                            "image_url": "https://images.genius.com/85d10f92c061334185d426be4cd1a211.900x900x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Movie Scripts",
+                            "url": "https://genius.com/artists/Movie-scripts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": "https://genius.com/Dua-lipa-dance-the-night-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9673033",
+                    "artist_names": "Bianca (AUS)",
+                    "full_title": "Dance The Night by\u00a0Bianca\u00a0(AUS)",
+                    "header_image_thumbnail_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                    "header_image_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                    "id": 9673033,
+                    "lyrics_owner_id": 15616527,
+                    "lyrics_state": "complete",
+                    "path": "/Bianca-aus-dance-the-night-lyrics",
+                    "primary_artist_names": "Bianca (AUS)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bianca-aus-dance-the-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 30
+                    },
+                    "release_date_for_display": "May 30, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 30, 2023",
+                    "song_art_image_thumbnail_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                    "song_art_image_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dance The Night",
+                    "title_with_featured": "Dance The Night",
+                    "url": "https://genius.com/Bianca-aus-dance-the-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1574582",
+                        "header_image_url": "https://images.genius.com/6928fecf94db0530e67457ba7d6247fd.634x422x1.jpg",
+                        "id": 1574582,
+                        "image_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bianca (AUS)",
+                        "url": "https://genius.com/artists/Bianca-aus"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1574582",
+                            "header_image_url": "https://images.genius.com/6928fecf94db0530e67457ba7d6247fd.634x422x1.jpg",
+                            "id": 1574582,
+                            "image_url": "https://filepicker-images.genius.com/twg52bmzujxq",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bianca (AUS)",
+                            "url": "https://genius.com/artists/Bianca-aus"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9520470",
+                    "artist_names": "KIDZ BOP Kids",
+                    "full_title": "Dance The Night by\u00a0KIDZ\u00a0BOP Kids",
+                    "header_image_thumbnail_url": "https://images.genius.com/b079ee9502e80c25beaaf849b6c275c7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b079ee9502e80c25beaaf849b6c275c7.1000x1000x1.png",
+                    "id": 9520470,
+                    "lyrics_owner_id": 20528892,
+                    "lyrics_state": "complete",
+                    "path": "/Kidz-bop-kids-dance-the-night-lyrics",
+                    "primary_artist_names": "KIDZ BOP Kids",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kidz-bop-kids-dance-the-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 15
+                    },
+                    "release_date_for_display": "September 15, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 15, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b079ee9502e80c25beaaf849b6c275c7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b079ee9502e80c25beaaf849b6c275c7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dance The Night",
+                    "title_with_featured": "Dance The Night",
+                    "url": "https://genius.com/Kidz-bop-kids-dance-the-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/353676",
+                        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                        "id": 353676,
+                        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KIDZ BOP Kids",
+                        "url": "https://genius.com/artists/Kidz-bop-kids"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/353676",
+                            "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                            "id": 353676,
+                            "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "KIDZ BOP Kids",
+                            "url": "https://genius.com/artists/Kidz-bop-kids"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9399922",
+                    "artist_names": "LVCAS (BRA)",
+                    "full_title": "2023 EM UMA M\u00daSICA by\u00a0LVCAS\u00a0(BRA)",
+                    "header_image_thumbnail_url": "https://images.genius.com/a56458d5a226a3edc7ff5e2b98e25176.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/a56458d5a226a3edc7ff5e2b98e25176.320x180x1.jpg",
+                    "id": 9399922,
+                    "lyrics_owner_id": 21233048,
+                    "lyrics_state": "complete",
+                    "path": "/Lvcas-bra-2023-em-uma-musica-lyrics",
+                    "primary_artist_names": "LVCAS (BRA)",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Lvcas-bra-2023-em-uma-musica-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 31
+                    },
+                    "release_date_for_display": "December 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a56458d5a226a3edc7ff5e2b98e25176.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a56458d5a226a3edc7ff5e2b98e25176.320x180x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "2023 EM UMA M\u00daSICA",
+                    "title_with_featured": "2023 EM UMA M\u00daSICA",
+                    "url": "https://genius.com/Lvcas-bra-2023-em-uma-musica-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3677464",
+                        "header_image_url": "https://images.genius.com/5514ca2af9e1622af3b90ea253a1f850.1000x562x1.jpg",
+                        "id": 3677464,
+                        "image_url": "https://images.genius.com/27a98a00d9e9796faa0bffa8e46db86d.551x551x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "LVCAS (BRA)",
+                        "url": "https://genius.com/artists/Lvcas-bra"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3677464",
+                            "header_image_url": "https://images.genius.com/5514ca2af9e1622af3b90ea253a1f850.1000x562x1.jpg",
+                            "id": 3677464,
+                            "image_url": "https://images.genius.com/27a98a00d9e9796faa0bffa8e46db86d.551x551x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "LVCAS (BRA)",
+                            "url": "https://genius.com/artists/Lvcas-bra"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10436362",
+                    "artist_names": "Julian Velard",
+                    "full_title": "Dance the Night \u2013 Acoustic by\u00a0Julian\u00a0Velard",
+                    "header_image_thumbnail_url": "https://images.genius.com/f542ea8bb7a4b8a888765ba632cae132.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f542ea8bb7a4b8a888765ba632cae132.500x500x1.jpg",
+                    "id": 10436362,
+                    "lyrics_owner_id": 8013537,
+                    "lyrics_state": "complete",
+                    "path": "/Julian-velard-dance-the-night-acoustic-lyrics",
+                    "primary_artist_names": "Julian Velard",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Julian-velard-dance-the-night-acoustic-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 1
+                    },
+                    "release_date_for_display": "November 1, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f542ea8bb7a4b8a888765ba632cae132.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f542ea8bb7a4b8a888765ba632cae132.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dance the Night \u2013 Acoustic",
+                    "title_with_featured": "Dance the Night \u2013 Acoustic",
+                    "url": "https://genius.com/Julian-velard-dance-the-night-acoustic-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/357245",
+                        "header_image_url": "https://images.genius.com/5d75d0135d0be7dbe1d9f4d8bd16c212.900x900x1.jpg",
+                        "id": 357245,
+                        "image_url": "https://images.genius.com/5d75d0135d0be7dbe1d9f4d8bd16c212.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Julian Velard",
+                        "url": "https://genius.com/artists/Julian-velard"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/357245",
+                            "header_image_url": "https://images.genius.com/5d75d0135d0be7dbe1d9f4d8bd16c212.900x900x1.jpg",
+                            "id": 357245,
+                            "image_url": "https://images.genius.com/5d75d0135d0be7dbe1d9f4d8bd16c212.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Julian Velard",
+                            "url": "https://genius.com/artists/Julian-velard"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9307944",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Dance The Night (De Soffer Remix) [Mixed] by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/24b5bf7282eaefe6be6a62b67252b78c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/24b5bf7282eaefe6be6a62b67252b78c.1000x1000x1.png",
+                    "id": 9307944,
+                    "lyrics_owner_id": 7824666,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-dance-the-night-de-soffer-remix-mixed-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-dance-the-night-de-soffer-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 7
+                    },
+                    "release_date_for_display": "July 7, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 7, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/24b5bf7282eaefe6be6a62b67252b78c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/24b5bf7282eaefe6be6a62b67252b78c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dance The Night (De Soffer Remix) [Mixed]",
+                    "title_with_featured": "Dance The Night (De Soffer Remix) [Mixed]",
+                    "url": "https://genius.com/Dua-lipa-dance-the-night-de-soffer-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11133221",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Dance The Night (Live from the Royal Albert Hall) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/6df672dc50c544b6481461b71d51f40e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6df672dc50c544b6481461b71d51f40e.1000x1000x1.png",
+                    "id": 11133221,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-dance-the-night-live-from-the-royal-albert-hall-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-dance-the-night-live-from-the-royal-albert-hall-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6df672dc50c544b6481461b71d51f40e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6df672dc50c544b6481461b71d51f40e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dance The Night (Live from the Royal Albert Hall)",
+                    "title_with_featured": "Dance The Night (Live from the Royal Albert Hall)",
+                    "url": "https://genius.com/Dua-lipa-dance-the-night-live-from-the-royal-albert-hall-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10025565",
+                    "artist_names": "Dua Lipa",
+                    "full_title": "Training Season / Dance The Night / Houdini Medley (Live at the 2024 GRAMMYs) by\u00a0Dua\u00a0Lipa",
+                    "header_image_thumbnail_url": "https://images.genius.com/4d13eb0d5b7c01bcfb5a00fef9714d68.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4d13eb0d5b7c01bcfb5a00fef9714d68.554x554x1.jpg",
+                    "id": 10025565,
+                    "lyrics_owner_id": 21178946,
+                    "lyrics_state": "complete",
+                    "path": "/Dua-lipa-training-season-dance-the-night-houdini-medley-live-at-the-2024-grammys-lyrics",
+                    "primary_artist_names": "Dua Lipa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dua-lipa-training-season-dance-the-night-houdini-medley-live-at-the-2024-grammys-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 5
+                    },
+                    "release_date_for_display": "February 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4d13eb0d5b7c01bcfb5a00fef9714d68.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4d13eb0d5b7c01bcfb5a00fef9714d68.554x554x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Training Season / Dance The Night / Houdini Medley (Live at the 2024 GRAMMYs)",
+                    "title_with_featured": "Training Season / Dance The Night / Houdini Medley (Live at the 2024 GRAMMYs)",
+                    "url": "https://genius.com/Dua-lipa-training-season-dance-the-night-houdini-medley-live-at-the-2024-grammys-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/555561",
+                        "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                        "id": 555561,
+                        "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dua Lipa",
+                        "url": "https://genius.com/artists/Dua-lipa",
+                        "iq": 2566
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/555561",
+                            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+                            "id": 555561,
+                            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dua Lipa",
+                            "url": "https://genius.com/artists/Dua-lipa",
+                            "iq": 2566
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Dua-lipa-dance-the-night-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9151248",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Dua Lipa - Dance The Night (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 9151248,
+                    "lyrics_owner_id": 8237970,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-dua-lipa-dance-the-night-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-dance-the-night-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-dance-the-night-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9162407",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Dua Lipa - Dance The Night (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 9162407,
+                    "lyrics_owner_id": 10028057,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-dua-lipa-dance-the-night-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-dance-the-night-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-dance-the-night-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9272398",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Dua Lipa - Dance The Night (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 9272398,
+                    "lyrics_owner_id": 15384267,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-dua-lipa-dance-the-night-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-dua-lipa-dance-the-night-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-dua-lipa-dance-the-night-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9263848",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Dua Lipa - Dance The Night (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 9263848,
+                    "lyrics_owner_id": 15637940,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-dua-lipa-dance-the-night-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-dua-lipa-dance-the-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-dua-lipa-dance-the-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9164752",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Dua Lipa - Dance The Night (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 9164752,
+                    "lyrics_owner_id": 2490946,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-dua-lipa-dance-the-night-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-dance-the-night-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-dance-the-night-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9490625",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Dua Lipa - Dance The Night (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/ef0e118455d848d3754527643d48bbcb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ef0e118455d848d3754527643d48bbcb.504x504x1.png",
+                    "id": 9490625,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-arabic-translations-dua-lipa-dance-the-night-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-dua-lipa-dance-the-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ef0e118455d848d3754527643d48bbcb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ef0e118455d848d3754527643d48bbcb.504x504x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-dua-lipa-dance-the-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11624932",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Dua Lipa - Dance The Night (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 11624932,
+                    "lyrics_owner_id": 15483527,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-dua-lipa-dance-the-night-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-dance-the-night-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (Traduzione Italiana)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-dance-the-night-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11456860",
+                    "artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "full_title": "Dua Lipa - Dance The Night (\u010cesk\u00fd p\u0159eklad) by\u00a0Genius\u00a0\u010cesk\u00e9 p\u0159eklady",
+                    "header_image_thumbnail_url": "https://images.genius.com/727f041fa54e3ec1d2b40e5c6c834900.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/727f041fa54e3ec1d2b40e5c6c834900.543x543x1.png",
+                    "id": 11456860,
+                    "lyrics_owner_id": 21299323,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ceske-preklady-dua-lipa-dance-the-night-cesky-preklad-lyrics",
+                    "primary_artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ceske-preklady-dua-lipa-dance-the-night-cesky-preklad-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/727f041fa54e3ec1d2b40e5c6c834900.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/727f041fa54e3ec1d2b40e5c6c834900.543x543x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (\u010cesk\u00fd p\u0159eklad)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (\u010cesk\u00fd p\u0159eklad)",
+                    "url": "https://genius.com/Genius-ceske-preklady-dua-lipa-dance-the-night-cesky-preklad-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1827252",
+                        "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "id": 1827252,
+                        "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                        "url": "https://genius.com/artists/Genius-ceske-preklady"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1827252",
+                            "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "id": 1827252,
+                            "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                            "url": "https://genius.com/artists/Genius-ceske-preklady"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10483049",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Dua Lipa - Dance The Night (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "id": 10483049,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-dua-lipa-dance-the-night-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-dance-the-night-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 26
+                    },
+                    "release_date_for_display": "May 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ffda18a964e590e86c5fd85fb7c5ced4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Dua Lipa - Dance The Night (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Dua Lipa - Dance The Night (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-dance-the-night-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9151248",
+            "id": 9151248,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-dua-lipa-dance-the-night-traducao-em-portugues-lyrics",
+            "title": "Dua Lipa - Dance The Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-dua-lipa-dance-the-night-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/9162407",
+            "id": 9162407,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-dua-lipa-dance-the-night-traduccion-al-espanol-lyrics",
+            "title": "Dua Lipa - Dance The Night (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-dua-lipa-dance-the-night-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/9272398",
+            "id": 9272398,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-dua-lipa-dance-the-night-traduction-francaise-lyrics",
+            "title": "Dua Lipa - Dance The Night (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-dua-lipa-dance-the-night-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/9263848",
+            "id": 9263848,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-dua-lipa-dance-the-night-lyrics",
+            "title": "Dua Lipa - Dance The Night (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-dua-lipa-dance-the-night-lyrics"
+        },
+        {
+            "api_path": "/songs/9164752",
+            "id": 9164752,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-dua-lipa-dance-the-night-deutsche-ubersetzung-lyrics",
+            "title": "Dua Lipa - Dance The Night (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-dua-lipa-dance-the-night-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/9490625",
+            "id": 9490625,
+            "language": "ar",
+            "lyrics_state": "complete",
+            "path": "/Genius-arabic-translations-dua-lipa-dance-the-night-lyrics",
+            "title": "Dua Lipa - Dance The Night (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-dua-lipa-dance-the-night-lyrics"
+        },
+        {
+            "api_path": "/songs/11624932",
+            "id": 11624932,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-dua-lipa-dance-the-night-traduzione-italiana-lyrics",
+            "title": "Dua Lipa - Dance The Night (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-dua-lipa-dance-the-night-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/11456860",
+            "id": 11456860,
+            "language": "cs",
+            "lyrics_state": "complete",
+            "path": "/Genius-ceske-preklady-dua-lipa-dance-the-night-cesky-preklad-lyrics",
+            "title": "Dua Lipa - Dance The Night (\u010cesk\u00fd p\u0159eklad)",
+            "url": "https://genius.com/Genius-ceske-preklady-dua-lipa-dance-the-night-cesky-preklad-lyrics"
+        },
+        {
+            "api_path": "/songs/10483049",
+            "id": 10483049,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-dua-lipa-dance-the-night-polskie-tumaczenie-lyrics",
+            "title": "Dua Lipa - Dance The Night (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-dua-lipa-dance-the-night-polskie-tumaczenie-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/555561",
+            "header_image_url": "https://images.genius.com/07812c4acaa6f24260a11eec4ec490b3.1000x563x1.png",
+            "id": 555561,
+            "image_url": "https://images.genius.com/26ef85e0329eef6910b1326a3ca26df3.841x841x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dua Lipa",
+            "url": "https://genius.com/artists/Dua-lipa",
+            "iq": 2566
+        },
+        {
+            "api_path": "/artists/49095",
+            "header_image_url": "https://images.genius.com/d9949a5f8ba148b1bd79caa5498ba565.1000x741x1.jpg",
+            "id": 49095,
+            "image_url": "https://images.genius.com/78f94f7829e7298f0a8726e17679fe78.701x701x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Andrew Wyatt",
+            "url": "https://genius.com/artists/Andrew-wyatt"
+        },
+        {
+            "api_path": "/artists/619133",
+            "header_image_url": "https://images.genius.com/38c6f4dc0b4d01007ce2628c43926117.1000x990x1.png",
+            "id": 619133,
+            "image_url": "https://images.genius.com/e13ffbac832939258c0cb3d733362a54.645x645x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Caroline Ailin",
+            "url": "https://genius.com/artists/Caroline-ailin"
+        },
+        {
+            "api_path": "/artists/8231",
+            "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+            "id": 8231,
+            "image_url": "https://images.genius.com/b2c303a3a089b5f2c582f426d410e73e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Mark Ronson",
+            "url": "https://genius.com/artists/Mark-ronson",
+            "iq": 100
+        }
+    ],
+    "artist": "Dua Lipa",
+    "lyrics": "68 ContributorsTranslationsPortugu\u00easEspa\u00f1olFran\u00e7ais\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Deutsch\u0627\u0644\u0639\u0631\u0628\u064a\u0629Italiano\u010ceskyPolskiDance The Night Lyrics\u201cDance The Night\u201d is an upbeat disco dance track by Dua Lipa. The song served as the lead single for Greta Gerwig\u2019s Barbie soundtrack and was released on May 26, 2023 ahead of the film\u2019s release in July. Dua\u2026 Read More\u00a0\nBaby, you can find me under the lights\nDiamonds under my eyes\nTurn the rhythm up, don't you wanna just\nCome along for the ride?\nOoh, my outfit so tight\nYou can see my heartbeat tonight\nI can take the heat, baby, best believe\nThat's the moment I shine\n\n'Cause every romance shakes and it bends\nDon't give a damn\nWhen the night's here, I don't do tears\nBaby, no chance\n\nI could dance, I could dance, I could dance\n\nWatch me dance, dance the night away\nMy h\u0435art could be burnin', but you won't see it on my face\nWatch me danc\u0435, dance the night away (Uh-huh)\nI'll still keep the party runnin', not one hair out of place\n\nLately, I been movin' close to the edge\nStill be lookin' my best\nI stay on the beat, you can count on me\nI ain't missin' no steps\n\n'Cause every romance shakes and it bends\nDon't give a damn\nWhen the night's here, I don't do tears\nBaby, no chance\n\nI could dance, I could dance, I could dance\n\nWatch me dance, dance the night away\nMy heart could be burnin', but you won't see it on my face\nWatch me dance, dance the night away (Uh-huh)\nI'll still keep the party runnin', not one hair out of place\n\nWhen my heart breaks (They never see it, never see it)\nWhen my world shakes (I feel alive, I feel alive)\nI don't play safe (Ooh), don't you know about me? (Uh-huh)\nI could dance, I could dance, I could dance\n\nEven when the tears are flowin', they're diamonds on my face\nI'll still keep the party goin', not one hair out of place (Yes, I can)\nEven when the tears are flowin', they're diamonds on my face (Yes, I can, yes, I can)\nI'll still keep the party goin', not one hair out of place\n\nWatch me dance, dance the night away (Uh-huh)\nMy heart could be burnin', but you won't see it on my face\nWatch me dance (Dance), dance the night away (Uh-huh)\nI'll still keep the party runnin', not one hair out of place\n\nWhen my heart breaks (They never see it, never see it)\nWhen my world shakes (I feel alive, I feel alive)\nI don't play safe, don't you know about me? (Uh-huh)\nI could dance, I could dance, I could dance\n\nDance the night"
+}

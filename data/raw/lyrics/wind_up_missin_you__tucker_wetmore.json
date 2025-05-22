@@ -1,0 +1,681 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10153145",
+    "artist_names": "Tucker Wetmore",
+    "full_title": "Wind Up Missin\u2019 You by\u00a0Tucker\u00a0Wetmore",
+    "header_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+    "header_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+    "id": 10153145,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1745057674,
+    "path": "/Tucker-wetmore-wind-up-missin-you-lyrics",
+    "primary_artist_names": "Tucker Wetmore",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Tucker-wetmore-wind-up-missin-you-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 29
+    },
+    "release_date_for_display": "March 29, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 11,
+        "iq_earners": 11,
+        "transcribers": 3,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 33142
+    },
+    "title": "Wind Up Missin\u2019 You",
+    "title_with_featured": "Wind Up Missin\u2019 You",
+    "updated_by_human_at": 1745679106,
+    "url": "https://genius.com/Tucker-wetmore-wind-up-missin-you-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3860315",
+        "header_image_url": "https://images.genius.com/b597334b66770360cbf5f737e4bcfb81.1000x165x1.jpg",
+        "id": 3860315,
+        "image_url": "https://images.genius.com/41cb9c39aec21ccfbef2db317bea531a.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tucker Wetmore",
+        "url": "https://genius.com/artists/Tucker-wetmore"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3860315",
+            "header_image_url": "https://images.genius.com/b597334b66770360cbf5f737e4bcfb81.1000x165x1.jpg",
+            "id": 3860315,
+            "image_url": "https://images.genius.com/41cb9c39aec21ccfbef2db317bea531a.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tucker Wetmore",
+            "url": "https://genius.com/artists/Tucker-wetmore"
+        }
+    ],
+    "apple_music_id": "1746409369",
+    "apple_music_player_url": "https://genius.com/songs/10153145/apple_music_player",
+    "description": {
+        "plain": "\u201cWind Up Missin' You\u201d holds a deeply personal connection for Tucker Wetmore, as it reflects his own experiences with love and personal growth. The song portrays the complexity of emotions involved in romantic relationships, as Tucker sings about the fear of losing someone special and the desire to change for the better. Through heartfelt lyrics, he conveys the depth of his feelings and the hope for a lasting connection. The song serves as a testament to the universal theme of young love and the longing for a meaningful connection that transcends time."
+    },
+    "embed_content": "<div id='rg_embed_link_10153145' class='rg_embed_link' data-song-id='10153145'>Read <a href='https://genius.com/Tucker-wetmore-wind-up-missin-you-lyrics'>\u201cWind Up Missin\u2019 You\u201d by Tucker\u00a0Wetmore</a> on Genius</div> <script crossorigin src='//genius.com/songs/10153145/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-03-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ac6c4c",
+    "song_art_secondary_color": "#1c5166",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1340947",
+        "cover_art_url": "https://images.genius.com/64ff706db152d06eefee176d797e3900.999x999x1.png",
+        "full_title": "What Not To by Tucker Wetmore",
+        "id": 1340947,
+        "name": "What Not To",
+        "primary_artist_names": "Tucker Wetmore",
+        "release_date_for_display": "April 25, 2025",
+        "url": "https://genius.com/albums/Tucker-wetmore/What-not-to",
+        "artist": {
+            "api_path": "/artists/3860315",
+            "header_image_url": "https://images.genius.com/b597334b66770360cbf5f737e4bcfb81.1000x165x1.jpg",
+            "id": 3860315,
+            "image_url": "https://images.genius.com/41cb9c39aec21ccfbef2db317bea531a.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tucker Wetmore",
+            "url": "https://genius.com/artists/Tucker-wetmore"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3860315",
+                "header_image_url": "https://images.genius.com/b597334b66770360cbf5f737e4bcfb81.1000x165x1.jpg",
+                "id": 3860315,
+                "image_url": "https://images.genius.com/41cb9c39aec21ccfbef2db317bea531a.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Tucker Wetmore",
+                "url": "https://genius.com/artists/Tucker-wetmore"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/733733",
+                    "header_image_url": "https://images.genius.com/8617261422610fdef3a5636cc612b08b.1000x333x1.jpg",
+                    "id": 733733,
+                    "image_url": "https://images.genius.com/aa7fb1c80fbe4f968b7d5b49e9de322f.443x443x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Clauss",
+                    "url": "https://genius.com/artists/Dave-clauss"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21205417,
+        "annotator_login": "8tno",
+        "api_path": "/referents/31123661",
+        "classification": "unreviewed",
+        "fragment": "Wind Up Missin\u2019 You",
+        "id": 31123661,
+        "is_description": true,
+        "path": "/31123661/Tucker-wetmore-wind-up-missin-you/Wind-up-missin-you",
+        "range": {
+            "content": "Wind Up Missin\u2019 You"
+        },
+        "song_id": 10153145,
+        "url": "https://genius.com/31123661/Tucker-wetmore-wind-up-missin-you/Wind-up-missin-you",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10153145",
+            "client_timestamps": {
+                "updated_by_human_at": 1745679106,
+                "lyrics_updated_at": 1745057674
+            },
+            "context": "Tucker Wetmore",
+            "id": 10153145,
+            "image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+            "link_title": "Wind Up Missin\u2019 You by\u00a0Tucker\u00a0Wetmore",
+            "title": "Wind Up Missin\u2019 You",
+            "type": "Song",
+            "url": "https://genius.com/Tucker-wetmore-wind-up-missin-you-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31123661",
+                "body": {
+                    "plain": "\u201cWind Up Missin' You\u201d holds a deeply personal connection for Tucker Wetmore, as it reflects his own experiences with love and personal growth. The song portrays the complexity of emotions involved in romantic relationships, as Tucker sings about the fear of losing someone special and the desire to change for the better. Through heartfelt lyrics, he conveys the depth of his feelings and the hope for a lasting connection. The song serves as a testament to the universal theme of young love and the longing for a meaningful connection that transcends time."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31123661,
+                "pinned": false,
+                "share_url": "https://genius.com/31123661",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31123661/Tucker-wetmore-wind-up-missin-you/Wind-up-missin-you",
+                "verified": false,
+                "votes_total": 1,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21205417",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/dc2eef5e12f2f127f59b6648eca3a6e4",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/dc2eef5e12f2f127f59b6648eca3a6e4",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/dc2eef5e12f2f127f59b6648eca3a6e4",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/dc2eef5e12f2f127f59b6648eca3a6e4",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/dc2eef5e12f2f127f59b6648eca3a6e4",
+                            "human_readable_role_for_display": null,
+                            "id": 21205417,
+                            "iq": 159,
+                            "login": "8tno",
+                            "name": "8tno",
+                            "role_for_display": null,
+                            "url": "https://genius.com/8tno",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/13123672",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/443506ea4a533672a8a8aaf8ab5e1c87",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/443506ea4a533672a8a8aaf8ab5e1c87",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/443506ea4a533672a8a8aaf8ab5e1c87",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 13123672,
+        "iq": 115132,
+        "login": "ammyp",
+        "name": "ammyp",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/ammyp",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=eAwVv5gl6Rk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/987437",
+            "header_image_url": "https://images.genius.com/be31e4b60d543cabccf639d625622f77.427x427x1.jpg",
+            "id": 987437,
+            "image_url": "https://images.genius.com/be31e4b60d543cabccf639d625622f77.427x427x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris LaCorte",
+            "url": "https://genius.com/artists/Chris-lacorte"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10415645",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Tucker Wetmore - Wind Up Missin' You (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+                    "id": 10415645,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-tucker-wetmore-wind-up-missin-you-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-tucker-wetmore-wind-up-missin-you-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Tucker Wetmore - Wind Up Missin\u2019 You (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Tucker Wetmore - Wind Up Missin' You (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-tucker-wetmore-wind-up-missin-you-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10374583",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Tucker Wetmore - Wind Up Missin' You (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+                    "id": 10374583,
+                    "lyrics_owner_id": 12432787,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-tucker-wetmore-wind-up-missin-you-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-tucker-wetmore-wind-up-missin-you-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ca30d95426023faf4b2b296399249485.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Tucker Wetmore - Wind Up Missin\u2019 You (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Tucker Wetmore - Wind Up Missin' You (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-tucker-wetmore-wind-up-missin-you-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10415645",
+            "id": 10415645,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-tucker-wetmore-wind-up-missin-you-traduccion-al-espanol-lyrics",
+            "title": "Tucker Wetmore - Wind Up Missin\u2019 You (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-tucker-wetmore-wind-up-missin-you-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10374583",
+            "id": 10374583,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-tucker-wetmore-wind-up-missin-you-traducao-em-portugues-lyrics",
+            "title": "Tucker Wetmore - Wind Up Missin\u2019 You (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-tucker-wetmore-wind-up-missin-you-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/747138",
+            "header_image_url": "https://images.genius.com/71e996e19eb9fd7580581e8ec7aa40f5.333x333x1.jpg",
+            "id": 747138,
+            "image_url": "https://images.genius.com/71e996e19eb9fd7580581e8ec7aa40f5.333x333x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Thomas Archer",
+            "url": "https://genius.com/artists/Thomas-archer"
+        },
+        {
+            "api_path": "/artists/987437",
+            "header_image_url": "https://images.genius.com/be31e4b60d543cabccf639d625622f77.427x427x1.jpg",
+            "id": 987437,
+            "image_url": "https://images.genius.com/be31e4b60d543cabccf639d625622f77.427x427x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris LaCorte",
+            "url": "https://genius.com/artists/Chris-lacorte"
+        }
+    ],
+    "artist": "Tucker Wetmore",
+    "lyrics": "11 ContributorsTranslationsEspa\u00f1olPortugu\u00easWind Up Missin\u2019 You Lyrics\nI know I might look like\nAnother ball cap on a bar stool\nUnderneath a PBR light\nSayin' everything under the moon\nTo get you into my arms tonight\nYou probably heard it all a thousand times\nBut it ain't what it looks like\nGirl, let me tell you what it looks like\n\nYou look like waves on a sunset\nAnd you can crash on me all night\nYou look like wine in a truck bed\nA little what I'm doin' for the rest of my life 'cause\nYou look like I'm done lookin'\nBut girl the hard truth is\nIf this night don't turn into two\nYou look like I'm gonna wind up missin' you\n\nI gotta tell you, baby, I've been\nThe kind of boy your daddy never wanted\nYou to go and fall in love with\nThe kinda boys you're probably done with their dumb shit, yeah\nI bet you heard the stories and\nCan't say I'm proud of that, but\nI've turned the page on the old me\nAnd now I ain't lookin' back 'cause\n\nYou look like waves on a sunset\nAnd you can crash on me all night\nAnd you look like wine in a truck bed\nA little what I'm doin' for the rest of my life 'cause\nYou look like I'm done lookin'\nBut girl the hard truth is\nIf this night don't turn into two\nYou look like I'm gonna wind up missin'\n\nMissin' you in the mornin'\nProbably for the next few years\nWhen I look back on it\nI'll still see you right here\n\nYou look like waves on a sunset\nAnd you can crash on me all night\nAnd you look like wine in a truck bed\nA little what I'm doin' for the rest of my life 'cause\nYou look like I'm done lookin'\nBut girl the hard truth is\nIf this night don't turn into two\nYou look like I'm gonna wind up missin' you\n\nWind up missin' you\nWind up missin' you"
+}

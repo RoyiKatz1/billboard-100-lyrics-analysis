@@ -1,0 +1,2380 @@
+{
+    "_type": "song",
+    "annotation_count": 18,
+    "api_path": "/songs/9927654",
+    "artist_names": "YG Marley",
+    "full_title": "Praise Jah In The Moonlight by\u00a0YG\u00a0Marley",
+    "header_image_thumbnail_url": "https://images.genius.com/bc849ecfb80cfacf946c08830d468500.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/bc849ecfb80cfacf946c08830d468500.1000x1000x1.jpg",
+    "id": 9927654,
+    "instrumental": false,
+    "lyrics_owner_id": 7829909,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1719133515,
+    "path": "/Yg-marley-praise-jah-in-the-moonlight-lyrics",
+    "primary_artist_names": "YG Marley",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Yg-marley-praise-jah-in-the-moonlight-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 12,
+        "day": 27
+    },
+    "release_date_for_display": "December 27, 2023",
+    "release_date_with_abbreviated_month_for_display": "Dec. 27, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/bc849ecfb80cfacf946c08830d468500.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/bc849ecfb80cfacf946c08830d468500.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 47,
+        "iq_earners": 47,
+        "transcribers": 4,
+        "unreviewed_annotations": 18,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 453290
+    },
+    "title": "Praise Jah In The Moonlight",
+    "title_with_featured": "Praise Jah In The Moonlight",
+    "updated_by_human_at": 1736297687,
+    "url": "https://genius.com/Yg-marley-praise-jah-in-the-moonlight-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1572379",
+        "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+        "id": 1572379,
+        "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "YG Marley",
+        "url": "https://genius.com/artists/Yg-marley"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1572379",
+            "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+            "id": 1572379,
+            "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "YG Marley",
+            "url": "https://genius.com/artists/Yg-marley"
+        }
+    ],
+    "apple_music_id": "1723309988",
+    "apple_music_player_url": "https://genius.com/songs/9927654/apple_music_player",
+    "description": {
+        "plain": "Praise Jah In The Moonlight by YG Marley (Bob Marley\u2019s grandson) was originally previewed November 17th, 2023 at Lauryn Hill\u2019s concert at the Chase Center in San Francisco. YG Marley came out and previewed Praise Jah In The Moonlight along with a few other songs that currently have not been released at the time of writing this. The song later dropped on December 27th, 2023."
+    },
+    "embed_content": "<div id='rg_embed_link_9927654' class='rg_embed_link' data-song-id='9927654'>Read <a href='https://genius.com/Yg-marley-praise-jah-in-the-moonlight-lyrics'>\u201cPraise Jah In The Moonlight\u201d by YG\u00a0Marley</a> on Genius</div> <script crossorigin src='//genius.com/songs/9927654/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "",
+    "release_date": "2023-12-27",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#de1619",
+    "song_art_secondary_color": "#641b19",
+    "song_art_text_color": "#fff",
+    "album": null,
+    "custom_performances": [
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/4267039",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4267039,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YG Marley Music",
+                    "url": "https://genius.com/artists/Yg-marley-music"
+                },
+                {
+                    "api_path": "/artists/3046381",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3046381,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hitmaker Distro",
+                    "url": "https://genius.com/artists/Hitmaker-distro"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/4267039",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4267039,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YG Marley Music",
+                    "url": "https://genius.com/artists/Yg-marley-music"
+                },
+                {
+                    "api_path": "/artists/3046381",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3046381,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hitmaker Distro",
+                    "url": "https://genius.com/artists/Hitmaker-distro"
+                }
+            ]
+        },
+        {
+            "label": "Choir",
+            "artists": [
+                {
+                    "api_path": "/artists/3988015",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988015,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeshari Munroe",
+                    "url": "https://genius.com/artists/Jeshari-munroe"
+                },
+                {
+                    "api_path": "/artists/3988016",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988016,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cavene Ferguson",
+                    "url": "https://genius.com/artists/Cavene-ferguson"
+                },
+                {
+                    "api_path": "/artists/3988017",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988017,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nia Souden",
+                    "url": "https://genius.com/artists/Nia-souden"
+                },
+                {
+                    "api_path": "/artists/3988018",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988018,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amanda Reid",
+                    "url": "https://genius.com/artists/Amanda-reid"
+                },
+                {
+                    "api_path": "/artists/3988019",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988019,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lilly-Bell Mclary",
+                    "url": "https://genius.com/artists/Lilly-bell-mclary"
+                },
+                {
+                    "api_path": "/artists/3988020",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988020,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sashone Mitchell",
+                    "url": "https://genius.com/artists/Sashone-mitchell"
+                },
+                {
+                    "api_path": "/artists/3988021",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988021,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sayuri Mcdonald",
+                    "url": "https://genius.com/artists/Sayuri-mcdonald"
+                },
+                {
+                    "api_path": "/artists/3988022",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988022,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jazzmine Bourke",
+                    "url": "https://genius.com/artists/Jazzmine-bourke"
+                },
+                {
+                    "api_path": "/artists/3988023",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988023,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kaylee Rhoden",
+                    "url": "https://genius.com/artists/Kaylee-rhoden"
+                },
+                {
+                    "api_path": "/artists/3988024",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988024,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jordiana Bell",
+                    "url": "https://genius.com/artists/Jordiana-bell"
+                },
+                {
+                    "api_path": "/artists/3988025",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988025,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Yanah Lawrence",
+                    "url": "https://genius.com/artists/Yanah-lawrence"
+                },
+                {
+                    "api_path": "/artists/3988026",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988026,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aiysha Hemmings",
+                    "url": "https://genius.com/artists/Aiysha-hemmings"
+                },
+                {
+                    "api_path": "/artists/3988027",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988027,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michelle Richards (Choir)",
+                    "url": "https://genius.com/artists/Michelle-richards-choir"
+                },
+                {
+                    "api_path": "/artists/3988028",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988028,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eby Nelson",
+                    "url": "https://genius.com/artists/Eby-nelson"
+                },
+                {
+                    "api_path": "/artists/3988029",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988029,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roginea Dixon",
+                    "url": "https://genius.com/artists/Roginea-dixon"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/3046381",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3046381,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hitmaker Distro",
+                    "url": "https://genius.com/artists/Hitmaker-distro"
+                }
+            ]
+        },
+        {
+            "label": "Video Transportation Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/3988013",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988013,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Samuel Demey",
+                    "url": "https://genius.com/artists/Samuel-demey"
+                },
+                {
+                    "api_path": "/artists/3988014",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988014,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nico Marley",
+                    "url": "https://genius.com/artists/Nico-marley"
+                },
+                {
+                    "api_path": "/artists/1381211",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1381211,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jen Bui",
+                    "url": "https://genius.com/artists/Jen-bui"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Company",
+            "artists": [
+                {
+                    "api_path": "/artists/3988012",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988012,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dick & Co.",
+                    "url": "https://genius.com/artists/Dick-and-co"
+                }
+            ]
+        },
+        {
+            "label": "Video Tailor",
+            "artists": [
+                {
+                    "api_path": "/artists/3988011",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988011,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nigel Ramsey",
+                    "url": "https://genius.com/artists/Nigel-ramsey"
+                }
+            ]
+        },
+        {
+            "label": "Video Nail Technician",
+            "artists": [
+                {
+                    "api_path": "/artists/3988009",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988009,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kiara Hawkins",
+                    "url": "https://genius.com/artists/Kiara-hawkins"
+                }
+            ]
+        },
+        {
+            "label": "Video Costume Department",
+            "artists": [
+                {
+                    "api_path": "/artists/2430155",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2430155,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nigella Miller",
+                    "url": "https://genius.com/artists/Nigella-miller"
+                }
+            ]
+        },
+        {
+            "label": "Video Wardrobe Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/3988006",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988006,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Johanna Laracuente",
+                    "url": "https://genius.com/artists/Johanna-laracuente"
+                },
+                {
+                    "api_path": "/artists/3988007",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988007,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raheem Robinson",
+                    "url": "https://genius.com/artists/Raheem-robinson"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Team",
+            "artists": [
+                {
+                    "api_path": "/artists/1420308",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1420308,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "It\u2019s dark and hell is hot",
+                    "url": "https://genius.com/artists/Its-dark-and-hell-is-hot"
+                },
+                {
+                    "api_path": "/artists/3988003",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988003,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shamari Buckley",
+                    "url": "https://genius.com/artists/Shamari-buckley"
+                },
+                {
+                    "api_path": "/artists/3988004",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988004,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gifton Williams",
+                    "url": "https://genius.com/artists/Gifton-williams"
+                }
+            ]
+        },
+        {
+            "label": "Video Driver",
+            "artists": [
+                {
+                    "api_path": "/artists/3988001",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988001,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Glendon Newell",
+                    "url": "https://genius.com/artists/Glendon-newell"
+                },
+                {
+                    "api_path": "/artists/3988002",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988002,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Davian Ellis",
+                    "url": "https://genius.com/artists/Davian-ellis"
+                }
+            ]
+        },
+        {
+            "label": "Video Transport Captain",
+            "artists": [
+                {
+                    "api_path": "/artists/3988000",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988000,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marlon McIntyre",
+                    "url": "https://genius.com/artists/Marlon-mcintyre"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/1049503",
+                    "header_image_url": "https://images.genius.com/e8ae1722d0ac14ea3ca45dcb5647af30.990x990x1.jpg",
+                    "id": 1049503,
+                    "image_url": "https://images.genius.com/e8ae1722d0ac14ea3ca45dcb5647af30.990x990x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Clarke",
+                    "url": "https://genius.com/artists/Daniel-clarke"
+                },
+                {
+                    "api_path": "/artists/3987997",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987997,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kalia Ellis",
+                    "url": "https://genius.com/artists/Kalia-ellis"
+                },
+                {
+                    "api_path": "/artists/3987998",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987998,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicanor Gordon",
+                    "url": "https://genius.com/artists/Nicanor-gordon"
+                },
+                {
+                    "api_path": "/artists/3987999",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987999,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kadeesha Pottinger",
+                    "url": "https://genius.com/artists/Kadeesha-pottinger"
+                },
+                {
+                    "api_path": "/artists/3988010",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988010,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Iota Dick",
+                    "url": "https://genius.com/artists/Iota-dick"
+                }
+            ]
+        },
+        {
+            "label": "Video Key Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/3987996",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987996,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zoe-Daniele Chin Sang",
+                    "url": "https://genius.com/artists/Zoe-daniele-chin-sang"
+                }
+            ]
+        },
+        {
+            "label": "Video Craft Service",
+            "artists": [
+                {
+                    "api_path": "/artists/3987995",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987995,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vito Hope",
+                    "url": "https://genius.com/artists/Vito-hope"
+                }
+            ]
+        },
+        {
+            "label": "Video Location Manager",
+            "artists": [
+                {
+                    "api_path": "/artists/3987994",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987994,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ezra Tomlinson",
+                    "url": "https://genius.com/artists/Ezra-tomlinson"
+                }
+            ]
+        },
+        {
+            "label": "Video Hair Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/3987993",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987993,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tamar Duncan",
+                    "url": "https://genius.com/artists/Tamar-duncan"
+                },
+                {
+                    "api_path": "/artists/3988007",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988007,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raheem Robinson",
+                    "url": "https://genius.com/artists/Raheem-robinson"
+                },
+                {
+                    "api_path": "/artists/2430155",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2430155,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nigella Miller",
+                    "url": "https://genius.com/artists/Nigella-miller"
+                }
+            ]
+        },
+        {
+            "label": "Video Makeup Artist",
+            "artists": [
+                {
+                    "api_path": "/artists/3987992",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987992,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danielle Francis",
+                    "url": "https://genius.com/artists/Danielle-francis"
+                },
+                {
+                    "api_path": "/artists/3988005",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988005,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alana Palau",
+                    "url": "https://genius.com/artists/Alana-palau"
+                }
+            ]
+        },
+        {
+            "label": "Video Assistant Wardrobe Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/3987991",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987991,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kaysian Wilson",
+                    "url": "https://genius.com/artists/Kaysian-wilson"
+                },
+                {
+                    "api_path": "/artists/3988008",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988008,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sallay Kanu",
+                    "url": "https://genius.com/artists/Sallay-kanu"
+                }
+            ]
+        },
+        {
+            "label": "Video Art Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/2572130",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2572130,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicole Marsh",
+                    "url": "https://genius.com/artists/Nicole-marsh"
+                },
+                {
+                    "api_path": "/artists/3987990",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987990,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathaniel Catterall",
+                    "url": "https://genius.com/artists/Nathaniel-catterall"
+                }
+            ]
+        },
+        {
+            "label": "Video Art Director",
+            "artists": [
+                {
+                    "api_path": "/artists/3987989",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987989,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rachelle Williams",
+                    "url": "https://genius.com/artists/Rachelle-williams"
+                }
+            ]
+        },
+        {
+            "label": "Video Grip",
+            "artists": [
+                {
+                    "api_path": "/artists/3987988",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987988,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cleveland McKenzie",
+                    "url": "https://genius.com/artists/Cleveland-mckenzie"
+                }
+            ]
+        },
+        {
+            "label": "Video Best Boy Grip",
+            "artists": [
+                {
+                    "api_path": "/artists/3987987",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987987,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Stephenson",
+                    "url": "https://genius.com/artists/Kevin-stephenson"
+                }
+            ]
+        },
+        {
+            "label": "Video Key Grip",
+            "artists": [
+                {
+                    "api_path": "/artists/3987986",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987986,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kadri Samuels",
+                    "url": "https://genius.com/artists/Kadri-samuels"
+                }
+            ]
+        },
+        {
+            "label": "Video Electrician",
+            "artists": [
+                {
+                    "api_path": "/artists/3987984",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987984,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hasani Cole",
+                    "url": "https://genius.com/artists/Hasani-cole"
+                },
+                {
+                    "api_path": "/artists/3987985",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987985,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alvin Mclean",
+                    "url": "https://genius.com/artists/Alvin-mclean"
+                }
+            ]
+        },
+        {
+            "label": "Video Lighting Technician",
+            "artists": [
+                {
+                    "api_path": "/artists/3987983",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987983,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Neville Smith",
+                    "url": "https://genius.com/artists/Neville-smith"
+                }
+            ]
+        },
+        {
+            "label": "Video Digital Imaging Technician",
+            "artists": [
+                {
+                    "api_path": "/artists/3987982",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987982,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dandrew Richards",
+                    "url": "https://genius.com/artists/Dandrew-richards"
+                }
+            ]
+        },
+        {
+            "label": "Video Steadicam Operator",
+            "artists": [
+                {
+                    "api_path": "/artists/3987981",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987981,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Garreth Daley",
+                    "url": "https://genius.com/artists/Garreth-daley"
+                }
+            ]
+        },
+        {
+            "label": "Video Clapper Loader",
+            "artists": [
+                {
+                    "api_path": "/artists/1125838",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1125838,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jade Brown",
+                    "url": "https://genius.com/artists/Jade-brown"
+                }
+            ]
+        },
+        {
+            "label": "Video Focus Puller",
+            "artists": [
+                {
+                    "api_path": "/artists/3987980",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987980,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rand Francis",
+                    "url": "https://genius.com/artists/Rand-francis"
+                }
+            ]
+        },
+        {
+            "label": "Video Casting Director",
+            "artists": [
+                {
+                    "api_path": "/artists/3987979",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987979,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "KBC Casting",
+                    "url": "https://genius.com/artists/Kbc-casting"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/2353944",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2353944,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lisa Smith",
+                    "url": "https://genius.com/artists/Lisa-smith"
+                }
+            ]
+        },
+        {
+            "label": "Video 1st Assistant Director",
+            "artists": [
+                {
+                    "api_path": "/artists/40784",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 40784,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Will",
+                    "url": "https://genius.com/artists/Jay-will"
+                }
+            ]
+        },
+        {
+            "label": "Video Camera Operator",
+            "artists": [
+                {
+                    "api_path": "/artists/3249072",
+                    "header_image_url": "https://images.genius.com/8a29c1c0197a87bf1ffce33641ec8a5c.336x336x1.jpg",
+                    "id": 3249072,
+                    "image_url": "https://images.genius.com/8a29c1c0197a87bf1ffce33641ec8a5c.336x336x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ProdByNick",
+                    "url": "https://genius.com/artists/Prodbynick"
+                }
+            ]
+        },
+        {
+            "label": "Video Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1826066",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1826066,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Krista Worby",
+                    "url": "https://genius.com/artists/Krista-worby"
+                },
+                {
+                    "api_path": "/artists/3144227",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3144227,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carleene Samuels",
+                    "url": "https://genius.com/artists/Carleene-samuels"
+                }
+            ]
+        },
+        {
+            "label": "Video Colorist",
+            "artists": [
+                {
+                    "api_path": "/artists/1385888",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1385888,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Bohoskey",
+                    "url": "https://genius.com/artists/Josh-bohoskey"
+                }
+            ]
+        },
+        {
+            "label": "Video Graphic Designer",
+            "artists": [
+                {
+                    "api_path": "/artists/3354984",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3354984,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "GOOOD DYLAN",
+                    "url": "https://genius.com/artists/Goood-dylan"
+                }
+            ]
+        },
+        {
+            "label": "Video Animator",
+            "artists": [
+                {
+                    "api_path": "/artists/3316063",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3316063,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aid6n.edits",
+                    "url": "https://genius.com/artists/Aid6nedits"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/1453986",
+                    "header_image_url": "https://images.genius.com/0ff02e13d824826b0d9fa131e6796be7.774x774x1.jpg",
+                    "id": 1453986,
+                    "image_url": "https://images.genius.com/0ff02e13d824826b0d9fa131e6796be7.774x774x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brett Arndt",
+                    "url": "https://genius.com/artists/Brett-arndt"
+                }
+            ]
+        },
+        {
+            "label": "Video Associate Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/3987977",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987977,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joshua Boumel",
+                    "url": "https://genius.com/artists/Joshua-boumel"
+                },
+                {
+                    "api_path": "/artists/3987978",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3987978,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ray Brown (Video)",
+                    "url": "https://genius.com/artists/Ray-brown-video"
+                },
+                {
+                    "api_path": "/artists/1465968",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1465968,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Suzette Williams",
+                    "url": "https://genius.com/artists/Suzette-williams"
+                },
+                {
+                    "api_path": "/artists/3576473",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3576473,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joseph Rocha",
+                    "url": "https://genius.com/artists/Joseph-rocha"
+                }
+            ]
+        },
+        {
+            "label": "Video Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1572379",
+                    "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+                    "id": 1572379,
+                    "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YG Marley",
+                    "url": "https://genius.com/artists/Yg-marley"
+                },
+                {
+                    "api_path": "/artists/448",
+                    "header_image_url": "https://images.genius.com/166b4b09c440e2ed020a372f677d5c27.1000x1000x1.png",
+                    "id": 448,
+                    "image_url": "https://images.genius.com/c606534b4002c5e247b83c751ee2f322.580x580x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lauryn Hill",
+                    "url": "https://genius.com/artists/Lauryn-hill"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1119481",
+                    "header_image_url": "https://images.genius.com/241abcecb21b56ef74572f15c766fa83.1000x666x1.webp",
+                    "id": 1119481,
+                    "image_url": "https://images.genius.com/d6fc8441a71d2802e78c5e7da6f07025.448x448x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole Bennett",
+                    "url": "https://genius.com/artists/Cole-bennett"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1119481",
+                    "header_image_url": "https://images.genius.com/241abcecb21b56ef74572f15c766fa83.1000x666x1.webp",
+                    "id": 1119481,
+                    "image_url": "https://images.genius.com/d6fc8441a71d2802e78c5e7da6f07025.448x448x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole Bennett",
+                    "url": "https://genius.com/artists/Cole-bennett"
+                },
+                {
+                    "api_path": "/artists/3988001",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3988001,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Glendon Newell",
+                    "url": "https://genius.com/artists/Glendon-newell"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/978580",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 978580,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lenesha Randolph",
+                    "url": "https://genius.com/artists/Lenesha-randolph"
+                },
+                {
+                    "api_path": "/artists/1477194",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1477194,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mary Floyd",
+                    "url": "https://genius.com/artists/Mary-floyd"
+                },
+                {
+                    "api_path": "/artists/644245",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 644245,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tanikka Myers",
+                    "url": "https://genius.com/artists/Tanikka-myers"
+                },
+                {
+                    "api_path": "/artists/1145114",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1145114,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Natalie Imani",
+                    "url": "https://genius.com/artists/Natalie-imani"
+                }
+            ]
+        },
+        {
+            "label": "Graphic Design",
+            "artists": [
+                {
+                    "api_path": "/artists/1203234",
+                    "header_image_url": "https://images.genius.com/ecdfbb05b9935a6f1602b2b158820ae0.1000x1000x1.jpg",
+                    "id": 1203234,
+                    "image_url": "https://images.genius.com/dac1813a0b2d0e9a68a814051404a1c5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hunt for the Breeze",
+                    "url": "https://genius.com/artists/Hunt-for-the-breeze"
+                }
+            ]
+        },
+        {
+            "label": "Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/3815214",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815214,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Irma Mchedlishvili",
+                    "url": "https://genius.com/artists/Irma-mchedlishvili"
+                }
+            ]
+        },
+        {
+            "label": "Pre-Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1688865",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1688865,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joseph Diaz",
+                    "url": "https://genius.com/artists/Joseph-diaz"
+                }
+            ]
+        },
+        {
+            "label": "Drum Technician",
+            "artists": [
+                {
+                    "api_path": "/artists/3815213",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815213,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daevon Ayers",
+                    "url": "https://genius.com/artists/Daevon-ayers"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3815212",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815212,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aundre Wilson",
+                    "url": "https://genius.com/artists/Aundre-wilson"
+                },
+                {
+                    "api_path": "/artists/2313999",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2313999,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kadeem \u201cOhcean\u201d Stanley",
+                    "url": "https://genius.com/artists/Kadeem-ohcean-stanley"
+                },
+                {
+                    "api_path": "/artists/1936176",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1936176,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Brown",
+                    "url": "https://genius.com/artists/Jason-brown"
+                }
+            ]
+        },
+        {
+            "label": "Drum Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/3815209",
+                    "header_image_url": "https://images.genius.com/8d24a1b8e91ae537724361715f0798bd.800x1000x1.jpg",
+                    "id": 3815209,
+                    "image_url": "https://images.genius.com/6acbc496c021ac0f8d235165e12cd6fc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Johhny G",
+                    "url": "https://genius.com/artists/Johhny-g"
+                },
+                {
+                    "api_path": "/artists/3815210",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815210,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Donique Williams",
+                    "url": "https://genius.com/artists/Donique-williams"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/3815206",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815206,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Glen Valencia Jr.",
+                    "url": "https://genius.com/artists/Glen-valencia-jr"
+                },
+                {
+                    "api_path": "/artists/3815207",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815207,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Keynan Harden II",
+                    "url": "https://genius.com/artists/Keynan-harden-ii"
+                },
+                {
+                    "api_path": "/artists/3815208",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815208,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Alonso",
+                    "url": "https://genius.com/artists/Alex-alonso"
+                },
+                {
+                    "api_path": "/artists/3211406",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3211406,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kenneth Kaminski",
+                    "url": "https://genius.com/artists/Kenneth-kaminski"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/3815205",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815205,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leonard Mobley",
+                    "url": "https://genius.com/artists/Leonard-mobley"
+                },
+                {
+                    "api_path": "/artists/2431655",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2431655,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Boyd",
+                    "url": "https://genius.com/artists/Jeremy-boyd"
+                }
+            ]
+        },
+        {
+            "label": "Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/2948928",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2948928,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jules \u201cJuda\u201d Bartholomew",
+                    "url": "https://genius.com/artists/Jules-juda-bartholomew"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/971978",
+                    "header_image_url": "https://images.genius.com/7f839ce2abcab2a11d20eaf75688d639.720x720x1.webp",
+                    "id": 971978,
+                    "image_url": "https://images.genius.com/7f839ce2abcab2a11d20eaf75688d639.720x720x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matthew Testa",
+                    "url": "https://genius.com/artists/Matthew-testa"
+                },
+                {
+                    "api_path": "/artists/638003",
+                    "header_image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+                    "id": 638003,
+                    "image_url": "https://images.genius.com/7ca8536b3d587f3d4adeb7562651bfe8.667x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fabian Marasciullo",
+                    "url": "https://genius.com/artists/Fabian-marasciullo"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/7161",
+                    "header_image_url": "https://images.genius.com/b5d8e01bab67679412cc5a454c0e12c3.1000x1000x1.jpg",
+                    "id": 7161,
+                    "image_url": "https://images.genius.com/3d6e3f12630cd3dfdd4647fe8a4c0b61.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MIKE DEAN",
+                    "url": "https://genius.com/artists/Mike-dean"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/3815203",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815203,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LaDerrick Perry",
+                    "url": "https://genius.com/artists/Laderrick-perry"
+                },
+                {
+                    "api_path": "/artists/2930373",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2930373,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeffrey Smith",
+                    "url": "https://genius.com/artists/Jeffrey-smith"
+                },
+                {
+                    "api_path": "/artists/3815204",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815204,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Samuel Gutman",
+                    "url": "https://genius.com/artists/Samuel-gutman"
+                },
+                {
+                    "api_path": "/artists/181117",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 181117,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Irvin Washington",
+                    "url": "https://genius.com/artists/Irvin-washington"
+                },
+                {
+                    "api_path": "/artists/573040",
+                    "header_image_url": "https://images.genius.com/899e6a744b4fa8f9786b502dc494345a.1000x575x1.jpg",
+                    "id": 573040,
+                    "image_url": "https://images.genius.com/20c0562c16ac2dc669ad38d727b6482a.236x236x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Junius Bervine",
+                    "url": "https://genius.com/artists/Junius-bervine"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3815201",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815201,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyquan S. Johnson",
+                    "url": "https://genius.com/artists/Tyquan-s-johnson"
+                },
+                {
+                    "api_path": "/artists/1186595",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1186595,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lawrence Jones",
+                    "url": "https://genius.com/artists/Lawrence-jones"
+                },
+                {
+                    "api_path": "/artists/3815202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3815202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ty Tuschen",
+                    "url": "https://genius.com/artists/Ty-tuschen"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2020327",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2020327,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julian Miller",
+                    "url": "https://genius.com/artists/Julian-miller"
+                },
+                {
+                    "api_path": "/artists/1688865",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1688865,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joseph Diaz",
+                    "url": "https://genius.com/artists/Joseph-diaz"
+                },
+                {
+                    "api_path": "/artists/674956",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 674956,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Omari Stines",
+                    "url": "https://genius.com/artists/Omari-stines"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/672057",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 672057,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "George \u201cSpanky\u201d McCurdy",
+                    "url": "https://genius.com/artists/George-spanky-mccurdy"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2948928",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2948928,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jules \u201cJuda\u201d Bartholomew",
+                    "url": "https://genius.com/artists/Jules-juda-bartholomew"
+                },
+                {
+                    "api_path": "/artists/1151947",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1151947,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dwayne Moore",
+                    "url": "https://genius.com/artists/Dwayne-moore"
+                },
+                {
+                    "api_path": "/artists/2591801",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2591801,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jermaine Blandford",
+                    "url": "https://genius.com/artists/Jermaine-blandford"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1572379",
+                    "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+                    "id": 1572379,
+                    "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YG Marley",
+                    "url": "https://genius.com/artists/Yg-marley"
+                },
+                {
+                    "api_path": "/artists/922",
+                    "header_image_url": "https://images.genius.com/12fcd5ba65db3e6b2310a1383bc457f6.1000x600x1.jpg",
+                    "id": 922,
+                    "image_url": "https://images.genius.com/ea77ae605dca5b2c915a2eb2e9a81c40.375x375x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bob Marley",
+                    "url": "https://genius.com/artists/Bob-marley"
+                },
+                {
+                    "api_path": "/artists/448",
+                    "header_image_url": "https://images.genius.com/166b4b09c440e2ed020a372f677d5c27.1000x1000x1.png",
+                    "id": 448,
+                    "image_url": "https://images.genius.com/c606534b4002c5e247b83c751ee2f322.580x580x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lauryn Hill",
+                    "url": "https://genius.com/artists/Lauryn-hill"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/922",
+                    "header_image_url": "https://images.genius.com/12fcd5ba65db3e6b2310a1383bc457f6.1000x600x1.jpg",
+                    "id": 922,
+                    "image_url": "https://images.genius.com/ea77ae605dca5b2c915a2eb2e9a81c40.375x375x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bob Marley",
+                    "url": "https://genius.com/artists/Bob-marley"
+                },
+                {
+                    "api_path": "/artists/1572379",
+                    "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+                    "id": 1572379,
+                    "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "YG Marley",
+                    "url": "https://genius.com/artists/Yg-marley"
+                },
+                {
+                    "api_path": "/artists/448",
+                    "header_image_url": "https://images.genius.com/166b4b09c440e2ed020a372f677d5c27.1000x1000x1.png",
+                    "id": 448,
+                    "image_url": "https://images.genius.com/c606534b4002c5e247b83c751ee2f322.580x580x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lauryn Hill",
+                    "url": "https://genius.com/artists/Lauryn-hill"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2242756",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2242756,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fifty Six Hope Road Music",
+                    "url": "https://genius.com/artists/Fifty-six-hope-road-music"
+                },
+                {
+                    "api_path": "/artists/1608690",
+                    "header_image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+                    "id": 1608690,
+                    "image_url": "https://images.genius.com/4be35f2200f1e1cb52edbf7ded327086.400x400x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Primary Wave",
+                    "url": "https://genius.com/artists/Primary-wave"
+                },
+                {
+                    "api_path": "/artists/649030",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 649030,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Blue Mountain Music",
+                    "url": "https://genius.com/artists/Blue-mountain-music"
+                },
+                {
+                    "api_path": "/artists/1152704",
+                    "header_image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "id": 1152704,
+                    "image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner/Chappell",
+                    "url": "https://genius.com/artists/Warner-chappell"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15214235,
+        "annotator_login": "bbl3ss3d",
+        "api_path": "/referents/30561975",
+        "classification": "unreviewed",
+        "fragment": "Praise Jah In The Moonlight",
+        "id": 30561975,
+        "is_description": true,
+        "path": "/30561975/Yg-marley-praise-jah-in-the-moonlight/Praise-jah-in-the-moonlight",
+        "range": {
+            "content": "Praise Jah In The Moonlight"
+        },
+        "song_id": 9927654,
+        "url": "https://genius.com/30561975/Yg-marley-praise-jah-in-the-moonlight/Praise-jah-in-the-moonlight",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9927654",
+            "client_timestamps": {
+                "updated_by_human_at": 1736297687,
+                "lyrics_updated_at": 1719133515
+            },
+            "context": "YG Marley",
+            "id": 9927654,
+            "image_url": "https://images.genius.com/bc849ecfb80cfacf946c08830d468500.1000x1000x1.jpg",
+            "link_title": "Praise Jah In The Moonlight by\u00a0YG\u00a0Marley",
+            "title": "Praise Jah In The Moonlight",
+            "type": "Song",
+            "url": "https://genius.com/Yg-marley-praise-jah-in-the-moonlight-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30561975",
+                "body": {
+                    "plain": "Praise Jah In The Moonlight by YG Marley (Bob Marley\u2019s grandson) was originally previewed November 17th, 2023 at Lauryn Hill\u2019s concert at the Chase Center in San Francisco. YG Marley came out and previewed Praise Jah In The Moonlight along with a few other songs that currently have not been released at the time of writing this. The song later dropped on December 27th, 2023."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30561975,
+                "pinned": false,
+                "share_url": "https://genius.com/30561975",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30561975/Yg-marley-praise-jah-in-the-moonlight/Praise-jah-in-the-moonlight",
+                "verified": false,
+                "votes_total": 40,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15214235",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/28abbbabff1be7ac9eb0c45499fc74ec",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/28abbbabff1be7ac9eb0c45499fc74ec",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/28abbbabff1be7ac9eb0c45499fc74ec",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/28abbbabff1be7ac9eb0c45499fc74ec",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/vz0xo3f7gtr",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 15214235,
+                            "iq": 350,
+                            "login": "bbl3ss3d",
+                            "name": "bbl3ss3d",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/bbl3ss3d",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "ygmarley",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/ygmarley/praise-jah-in-the-moonlight"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=MsWXssAr0bQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1572379",
+            "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+            "id": 1572379,
+            "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "YG Marley",
+            "url": "https://genius.com/artists/Yg-marley"
+        },
+        {
+            "api_path": "/artists/448",
+            "header_image_url": "https://images.genius.com/166b4b09c440e2ed020a372f677d5c27.1000x1000x1.png",
+            "id": 448,
+            "image_url": "https://images.genius.com/c606534b4002c5e247b83c751ee2f322.580x580x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lauryn Hill",
+            "url": "https://genius.com/artists/Lauryn-hill"
+        },
+        {
+            "api_path": "/artists/3815209",
+            "header_image_url": "https://images.genius.com/8d24a1b8e91ae537724361715f0798bd.800x1000x1.jpg",
+            "id": 3815209,
+            "image_url": "https://images.genius.com/6acbc496c021ac0f8d235165e12cd6fc.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Johhny G",
+            "url": "https://genius.com/artists/Johhny-g"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/307073",
+                    "artist_names": "Bob Marley & The Wailers",
+                    "full_title": "Crisis by\u00a0Bob\u00a0Marley & The Wailers",
+                    "header_image_thumbnail_url": "https://images.genius.com/e9aae7731942913a0d8696775179b9b3.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e9aae7731942913a0d8696775179b9b3.999x999x1.png",
+                    "id": 307073,
+                    "lyrics_owner_id": 354385,
+                    "lyrics_state": "complete",
+                    "path": "/Bob-marley-and-the-wailers-crisis-lyrics",
+                    "primary_artist_names": "Bob Marley & The Wailers",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Bob-marley-and-the-wailers-crisis-sample",
+                    "release_date_components": {
+                        "year": 1978,
+                        "month": 3,
+                        "day": 23
+                    },
+                    "release_date_for_display": "March 23, 1978",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 23, 1978",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e9aae7731942913a0d8696775179b9b3.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e9aae7731942913a0d8696775179b9b3.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 26480
+                    },
+                    "title": "Crisis",
+                    "title_with_featured": "Crisis",
+                    "url": "https://genius.com/Bob-marley-and-the-wailers-crisis-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/28615",
+                        "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+                        "id": 28615,
+                        "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Bob Marley & The Wailers",
+                        "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/28615",
+                            "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+                            "id": 28615,
+                            "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bob Marley & The Wailers",
+                            "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10140209",
+                    "artist_names": "NATTAN",
+                    "full_title": "Amor Na Praia by\u00a0NATTAN",
+                    "header_image_thumbnail_url": "https://images.genius.com/24bf20515243f1ec95e07f751a3819b2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/24bf20515243f1ec95e07f751a3819b2.1000x1000x1.png",
+                    "id": 10140209,
+                    "lyrics_owner_id": 18227249,
+                    "lyrics_state": "complete",
+                    "path": "/Nattan-amor-na-praia-lyrics",
+                    "primary_artist_names": "NATTAN",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Nattan-amor-na-praia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 7
+                    },
+                    "release_date_for_display": "March 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/24bf20515243f1ec95e07f751a3819b2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/24bf20515243f1ec95e07f751a3819b2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Amor Na Praia",
+                    "title_with_featured": "Amor Na Praia",
+                    "url": "https://genius.com/Nattan-amor-na-praia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2653915",
+                        "header_image_url": "https://images.genius.com/16f9b21dc3f415abdd6b5f2495adfdf5.1000x165x1.jpg",
+                        "id": 2653915,
+                        "image_url": "https://images.genius.com/6f4bfe53b7e3dd8e228241728d4f4e2e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "NATTAN",
+                        "url": "https://genius.com/artists/Nattan"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2653915",
+                            "header_image_url": "https://images.genius.com/16f9b21dc3f415abdd6b5f2495adfdf5.1000x165x1.jpg",
+                            "id": 2653915,
+                            "image_url": "https://images.genius.com/6f4bfe53b7e3dd8e228241728d4f4e2e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "NATTAN",
+                            "url": "https://genius.com/artists/Nattan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10072453",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "YG Marley - Praise Jah In The Moonlight (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/e596a0fe2f6f41b54f5c700cfa6bb046.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e596a0fe2f6f41b54f5c700cfa6bb046.1000x1000x1.png",
+                    "id": 10072453,
+                    "lyrics_owner_id": 10808967,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-yg-marley-praise-jah-in-the-moonlight-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-yg-marley-praise-jah-in-the-moonlight-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 27
+                    },
+                    "release_date_for_display": "December 27, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 27, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e596a0fe2f6f41b54f5c700cfa6bb046.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e596a0fe2f6f41b54f5c700cfa6bb046.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 18640
+                    },
+                    "title": "YG Marley - Praise Jah In The Moonlight (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "YG Marley - Praise Jah In The Moonlight (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-yg-marley-praise-jah-in-the-moonlight-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10029188",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "YG Marley - Praise Jah In The Moonlight (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.1000x1000x1.png",
+                    "id": 10029188,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-yg-marley-praise-jah-in-the-moonlight-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-yg-marley-praise-jah-in-the-moonlight-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 27
+                    },
+                    "release_date_for_display": "December 27, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 27, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "YG Marley - Praise Jah In The Moonlight (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "YG Marley - Praise Jah In The Moonlight (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-yg-marley-praise-jah-in-the-moonlight-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10241240",
+                    "artist_names": "Genius Norske Oversettelser",
+                    "full_title": "YG Marley - Praise Jah In The Moonlight (Norsk Oversettelse) by\u00a0Genius\u00a0Norske Oversettelser",
+                    "header_image_thumbnail_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.1000x1000x1.png",
+                    "id": 10241240,
+                    "lyrics_owner_id": 6936343,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-norske-oversettelser-yg-marley-praise-jah-in-the-moonlight-norsk-oversettelse-lyrics",
+                    "primary_artist_names": "Genius Norske Oversettelser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-norske-oversettelser-yg-marley-praise-jah-in-the-moonlight-norsk-oversettelse-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 27
+                    },
+                    "release_date_for_display": "December 27, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 27, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/2289b6611a07a57a17896425082e0315.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "YG Marley - Praise Jah In The Moonlight (Norsk Oversettelse)",
+                    "title_with_featured": "YG Marley - Praise Jah In The Moonlight (Norsk Oversettelse)",
+                    "url": "https://genius.com/Genius-norske-oversettelser-yg-marley-praise-jah-in-the-moonlight-norsk-oversettelse-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3461450",
+                        "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                        "id": 3461450,
+                        "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Norske Oversettelser",
+                        "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3461450",
+                            "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                            "id": 3461450,
+                            "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Norske Oversettelser",
+                            "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10072453",
+            "id": 10072453,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-yg-marley-praise-jah-in-the-moonlight-traduccion-al-espanol-lyrics",
+            "title": "YG Marley - Praise Jah In The Moonlight (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-yg-marley-praise-jah-in-the-moonlight-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10029188",
+            "id": 10029188,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-yg-marley-praise-jah-in-the-moonlight-deutsche-ubersetzung-lyrics",
+            "title": "YG Marley - Praise Jah In The Moonlight (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-yg-marley-praise-jah-in-the-moonlight-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10241240",
+            "id": 10241240,
+            "language": "no",
+            "lyrics_state": "complete",
+            "path": "/Genius-norske-oversettelser-yg-marley-praise-jah-in-the-moonlight-norsk-oversettelse-lyrics",
+            "title": "YG Marley - Praise Jah In The Moonlight (Norsk Oversettelse)",
+            "url": "https://genius.com/Genius-norske-oversettelser-yg-marley-praise-jah-in-the-moonlight-norsk-oversettelse-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1572379",
+            "header_image_url": "https://images.genius.com/54871068177e94ba4c6bb37ef6492b08.750x375x1.webp",
+            "id": 1572379,
+            "image_url": "https://images.genius.com/e7e1f30e6750fc68b18209d486141356.535x535x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "YG Marley",
+            "url": "https://genius.com/artists/Yg-marley"
+        },
+        {
+            "api_path": "/artists/448",
+            "header_image_url": "https://images.genius.com/166b4b09c440e2ed020a372f677d5c27.1000x1000x1.png",
+            "id": 448,
+            "image_url": "https://images.genius.com/c606534b4002c5e247b83c751ee2f322.580x580x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lauryn Hill",
+            "url": "https://genius.com/artists/Lauryn-hill"
+        },
+        {
+            "api_path": "/artists/922",
+            "header_image_url": "https://images.genius.com/12fcd5ba65db3e6b2310a1383bc457f6.1000x600x1.jpg",
+            "id": 922,
+            "image_url": "https://images.genius.com/ea77ae605dca5b2c915a2eb2e9a81c40.375x375x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Bob Marley",
+            "url": "https://genius.com/artists/Bob-marley"
+        }
+    ],
+    "artist": "YG Marley",
+    "lyrics": "47 ContributorsTranslationsEspa\u00f1olDeutschNorskPraise Jah In The Moonlight Lyrics\nThey say the sun shines for all\nBut in some people world, it never shine at all\n\nThese roads of flames are catching on fire\nAh, ah, ah, ah-ah-ah\nShowed you I loved you, you called me a liar\nOh, no-no, no, no, no\n\nBaby, tell me where you gone, gone, gone?\nI've been fiendin' for your love so long\nWe can praise Jah in the moonlight\nBaby, if you with me, better do right\nAnd I've been gone too long\nAnd I'm hoping that you sing my songs (Sing my songs)\nI've been on this road for way too long\nI've been hoping that we all get along\n\nThese roads of flames are catching on fire\nAh, ah, ah, ah-ah-ah\nShowed you I loved you, you called me a liar\n\nGive Jah the thanks and praises\nI've been on my own, own, own\nBut we ain't never left alone, 'lone, 'lone\nAnd if I'm tellin' you the feeling is wrong\nRelax a little, friend, this won't take too long\nAnd when you're feeling alone\nYou can call my phone\nIs there a better way to go?\nTeach them something before they lose their soul\nOh, no-no, no, freedom is the road\nOh, no-no, no, coming in from the cold\nTell them not to sell it, it's worth more than gold\nAnd guiltiness will catch them in the end\nOh yeah, oh yeah\nThey'll try to manipulate you through your pockets\nAh, ah, ah, ah-ah-ah\nNow you're gonna bring the funk with the optic, with the vision\nAh, ah, ah, ah-ah-ah\nTrying to control your soul and take control (Oh, no-no, no)\nAh, ah, ah, ah-ah-ah\nNo we don't play that game right here to win power\nAh, ah, ah, ah-ah-ah\n\nGive Jah all the thanks and praises\n(Give Jah all the thanks and praises)\nGive Jah all the thanks and praises\n(Give Jah all the thanks and praises)\nWon't you give Jah all the thanks and praises?\n(Give Jah all the thanks and praises)\nGive Jah all the thanks and praises\n(Give Jah all the thanks and praises)\n(Give Jah all the thanks and praises)\nGive Jah all the thanks and praises (Oh, ah-ah-ah)\n(Give Jah all the thanks and praises)\nGive Jah all the thanks and praises\n(Give Jah all the thanks and praises)\nOh, woah\nGive Jah the thanks, the thanks, the thanks\nThe thanks, the thanks, the thanks\nThe thanks, thanks, thanks, thanks, thanks, thanks\nThanks, thanks, thanks, thanks and praises\n(Give Jah, thanks and praises)\nGive Jah all the thanks and praises\n\nGive Jah, thanks and praises\nGive Jah, thanks and praises\nGive Jah, thanks and praises\nPraises\nGive Him the thanks and the praises\nGive Him the thanks and the praises\nGive Him the thanks and the praises"
+}

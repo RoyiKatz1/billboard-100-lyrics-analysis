@@ -1,0 +1,1018 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/8626360",
+    "artist_names": "Jelly Roll",
+    "full_title": "Need a Favor by\u00a0Jelly\u00a0Roll",
+    "header_image_thumbnail_url": "https://images.genius.com/95b7b52e87f575f7cfb4a849b62beee5.300x300x1.png",
+    "header_image_url": "https://images.genius.com/95b7b52e87f575f7cfb4a849b62beee5.1000x1000x1.png",
+    "id": 8626360,
+    "instrumental": false,
+    "lyrics_owner_id": 4219011,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1723087811,
+    "path": "/Jelly-roll-need-a-favor-lyrics",
+    "primary_artist_names": "Jelly Roll",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jelly-roll-need-a-favor-sample",
+    "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 9
+    },
+    "release_date_for_display": "December 9, 2022",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+    "song_art_image_thumbnail_url": "https://images.genius.com/95b7b52e87f575f7cfb4a849b62beee5.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/95b7b52e87f575f7cfb4a849b62beee5.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 14,
+        "iq_earners": 14,
+        "transcribers": 2,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 78597
+    },
+    "title": "Need a Favor",
+    "title_with_featured": "Need a Favor",
+    "updated_by_human_at": 1745699364,
+    "url": "https://genius.com/Jelly-roll-need-a-favor-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3333",
+        "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+        "id": 3333,
+        "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jelly Roll",
+        "url": "https://genius.com/artists/Jelly-roll"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        }
+    ],
+    "apple_music_id": "1675325556",
+    "apple_music_player_url": "https://genius.com/songs/8626360/apple_music_player",
+    "description": {
+        "plain": "The song from what it looks like from the music video, looks like it\u2019s about this dude and a his daughter is in the hospital. When he is in the hospital he sees people rushing to a room and he thinks it\u2019s his daughter that passed. Which she didn\u2019t."
+    },
+    "embed_content": "<div id='rg_embed_link_8626360' class='rg_embed_link' data-song-id='8626360'>Read <a href='https://genius.com/Jelly-roll-need-a-favor-lyrics'>\u201cNeed a Favor\u201d by Jelly\u00a0Roll</a> on Genius</div> <script crossorigin src='//genius.com/songs/8626360/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2022-12-09",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dcdc22",
+    "song_art_secondary_color": "#fcfcec",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1013726",
+        "cover_art_url": "https://images.genius.com/2b5cf56ec3c7fc0943ba62ef6f192835.1000x1000x1.jpg",
+        "full_title": "Whitsitt Chapel by Jelly Roll",
+        "id": 1013726,
+        "name": "Whitsitt Chapel",
+        "primary_artist_names": "Jelly Roll",
+        "release_date_for_display": "June 2, 2023",
+        "url": "https://genius.com/albums/Jelly-roll/Whitsitt-chapel",
+        "artist": {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3333",
+                "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                "id": 3333,
+                "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Jelly Roll",
+                "url": "https://genius.com/artists/Jelly-roll"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Choir",
+            "artists": [
+                {
+                    "api_path": "/artists/587943",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 587943,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Fisk Jubilee Singers",
+                    "url": "https://genius.com/artists/The-fisk-jubilee-singers"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                },
+                {
+                    "api_path": "/artists/3544185",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3544185,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Cordray",
+                    "url": "https://genius.com/artists/Steve-cordray"
+                }
+            ]
+        },
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1176502",
+                    "header_image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "id": 1176502,
+                    "image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Schipper",
+                    "url": "https://genius.com/artists/Justin-schipper"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1110590",
+                    "header_image_url": "https://images.genius.com/4f65b9deea951532ae3f74f1479e29d2.905x905x1.png",
+                    "id": 1110590,
+                    "image_url": "https://images.genius.com/4f65b9deea951532ae3f74f1479e29d2.905x905x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Francis",
+                    "url": "https://genius.com/artists/Justin-francis"
+                },
+                {
+                    "api_path": "/artists/959923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 959923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Nivarel",
+                    "url": "https://genius.com/artists/Austin-nivarel"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1059309",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1059309,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Braun",
+                    "url": "https://genius.com/artists/Jeff-braun"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1716192",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1716192,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Wright",
+                    "url": "https://genius.com/artists/Alex-wright"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1616671",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1616671,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe Ragosta",
+                    "url": "https://genius.com/artists/Joe-ragosta"
+                },
+                {
+                    "api_path": "/artists/959923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 959923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Nivarel",
+                    "url": "https://genius.com/artists/Austin-nivarel"
+                },
+                {
+                    "api_path": "/artists/1884447",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1884447,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robert Ragosta",
+                    "url": "https://genius.com/artists/Robert-ragosta"
+                }
+            ]
+        },
+        {
+            "label": "Fiddle",
+            "artists": [
+                {
+                    "api_path": "/artists/1033325",
+                    "header_image_url": "https://images.genius.com/2c4e8daed59a534f1e87e5f17134416e.434x434x1.png",
+                    "id": 1033325,
+                    "image_url": "https://images.genius.com/2c4e8daed59a534f1e87e5f17134416e.434x434x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart Duncan",
+                    "url": "https://genius.com/artists/Stuart-duncan"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/959923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 959923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Nivarel",
+                    "url": "https://genius.com/artists/Austin-nivarel"
+                },
+                {
+                    "api_path": "/artists/644115",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 644115,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seth Morton",
+                    "url": "https://genius.com/artists/Seth-morton"
+                },
+                {
+                    "api_path": "/artists/1110590",
+                    "header_image_url": "https://images.genius.com/4f65b9deea951532ae3f74f1479e29d2.905x905x1.png",
+                    "id": 1110590,
+                    "image_url": "https://images.genius.com/4f65b9deea951532ae3f74f1479e29d2.905x905x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Francis",
+                    "url": "https://genius.com/artists/Justin-francis"
+                },
+                {
+                    "api_path": "/artists/1059309",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1059309,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Braun",
+                    "url": "https://genius.com/artists/Jeff-braun"
+                },
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                },
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/662411",
+                    "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "id": 662411,
+                    "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Wells",
+                    "url": "https://genius.com/artists/Derek-wells"
+                },
+                {
+                    "api_path": "/artists/959923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 959923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Nivarel",
+                    "url": "https://genius.com/artists/Austin-nivarel"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/662407",
+                    "header_image_url": "https://images.genius.com/008b61dfd2094bce8e675ad9d02ad20f.403x403x1.jpg",
+                    "id": 662407,
+                    "image_url": "https://images.genius.com/008b61dfd2094bce8e675ad9d02ad20f.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nir Z",
+                    "url": "https://genius.com/artists/Nir-z"
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/959923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 959923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Nivarel",
+                    "url": "https://genius.com/artists/Austin-nivarel"
+                }
+            ]
+        },
+        {
+            "label": "Choir Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/11165",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 11165,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shannon Sanders",
+                    "url": "https://genius.com/artists/Shannon-sanders"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1020732",
+                    "header_image_url": "https://images.genius.com/07551c9c7497a4258ad73c800cc8921b.720x720x1.jpg",
+                    "id": 1020732,
+                    "image_url": "https://images.genius.com/07551c9c7497a4258ad73c800cc8921b.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Marks",
+                    "url": "https://genius.com/artists/Tim-marks"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2217852",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2217852,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Austin Narivel",
+                    "url": "https://genius.com/artists/Austin-narivel"
+                },
+                {
+                    "api_path": "/artists/1209339",
+                    "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "id": 1209339,
+                    "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ilya Toshinskiy",
+                    "url": "https://genius.com/artists/Ilya-toshinskiy"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21306579,
+        "annotator_login": "Ffazbeat1983",
+        "api_path": "/referents/27306013",
+        "classification": "unreviewed",
+        "fragment": "Need a Favor",
+        "id": 27306013,
+        "is_description": true,
+        "path": "/27306013/Jelly-roll-need-a-favor/Need-a-favor",
+        "range": {
+            "content": "Need a Favor"
+        },
+        "song_id": 8626360,
+        "url": "https://genius.com/27306013/Jelly-roll-need-a-favor/Need-a-favor",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8626360",
+            "client_timestamps": {
+                "updated_by_human_at": 1745699364,
+                "lyrics_updated_at": 1723087811
+            },
+            "context": "Jelly Roll",
+            "id": 8626360,
+            "image_url": "https://images.genius.com/95b7b52e87f575f7cfb4a849b62beee5.1000x1000x1.png",
+            "link_title": "Need a Favor by\u00a0Jelly\u00a0Roll",
+            "title": "Need a Favor",
+            "type": "Song",
+            "url": "https://genius.com/Jelly-roll-need-a-favor-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/27306013",
+                "body": {
+                    "plain": "The song from what it looks like from the music video, looks like it\u2019s about this dude and a his daughter is in the hospital. When he is in the hospital he sees people rushing to a room and he thinks it\u2019s his daughter that passed. Which she didn\u2019t."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 27306013,
+                "pinned": false,
+                "share_url": "https://genius.com/27306013",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27306013/Jelly-roll-need-a-favor/Need-a-favor",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21306579",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/296b413eeec444c09ed022a8ffc5ddc3",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/296b413eeec444c09ed022a8ffc5ddc3",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/296b413eeec444c09ed022a8ffc5ddc3",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/296b413eeec444c09ed022a8ffc5ddc3",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/296b413eeec444c09ed022a8ffc5ddc3",
+                            "human_readable_role_for_display": null,
+                            "id": 21306579,
+                            "iq": 108,
+                            "login": "Ffazbeat1983",
+                            "name": "Ffazbeat1983",
+                            "role_for_display": null,
+                            "url": "https://genius.com/Ffazbeat1983",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=VB6VrrXPCi0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/959923",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 959923,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Austin Nivarel",
+            "url": "https://genius.com/artists/Austin-nivarel"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9720394",
+                    "artist_names": "Jelly Roll",
+                    "full_title": "Need A Favor (Mixed) by\u00a0Jelly\u00a0Roll",
+                    "header_image_thumbnail_url": "https://images.genius.com/14754ccbda82e8d02ee42c6a6035162a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/14754ccbda82e8d02ee42c6a6035162a.1000x1000x1.png",
+                    "id": 9720394,
+                    "lyrics_owner_id": 17955726,
+                    "lyrics_state": "complete",
+                    "path": "/Jelly-roll-need-a-favor-mixed-lyrics",
+                    "primary_artist_names": "Jelly Roll",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jelly-roll-need-a-favor-mixed-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 10
+                    },
+                    "release_date_for_display": "November 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/14754ccbda82e8d02ee42c6a6035162a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/14754ccbda82e8d02ee42c6a6035162a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Need A Favor (Mixed)",
+                    "title_with_featured": "Need A Favor (Mixed)",
+                    "url": "https://genius.com/Jelly-roll-need-a-favor-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3333",
+                        "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                        "id": 3333,
+                        "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jelly Roll",
+                        "url": "https://genius.com/artists/Jelly-roll"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3333",
+                            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+                            "id": 3333,
+                            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jelly Roll",
+                            "url": "https://genius.com/artists/Jelly-roll"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9885905",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2023 (Cut The Flowers) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "id": 9885905,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 26
+                    },
+                    "release_date_for_display": "December 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2023 (Cut The Flowers)",
+                    "title_with_featured": "United State of Pop 2023 (Cut The Flowers)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/959923",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 959923,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Austin Nivarel",
+            "url": "https://genius.com/artists/Austin-nivarel"
+        },
+        {
+            "api_path": "/artists/3333",
+            "header_image_url": "https://images.genius.com/b5eda33ab1d9bea1eaa4e60928df1d0a.1000x562x1.webp",
+            "id": 3333,
+            "image_url": "https://images.genius.com/2b9bd854ce988f2859fd0ea7e2aa25b5.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jelly Roll",
+            "url": "https://genius.com/artists/Jelly-roll"
+        },
+        {
+            "api_path": "/artists/1616671",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1616671,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Joe Ragosta",
+            "url": "https://genius.com/artists/Joe-ragosta"
+        },
+        {
+            "api_path": "/artists/3374049",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3374049,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rob Ragosta",
+            "url": "https://genius.com/artists/Rob-ragosta"
+        }
+    ],
+    "artist": "Jelly Roll",
+    "lyrics": "14 ContributorsNeed a Favor Lyrics\nI only talk to God when I need a favor\nAnd I only pray when I\u2005ain't\u2005got a prayer\nSo\u2005who the hell am I, who\u2005the hell am I to expect a savior, oh\nIf I only talk to God when I need a favor?\nBut, God, I need a favor\n\nI know amazin' grace, but I ain't been livin' them words\nSwear I spend most Sundays\nDrunk off my ass than I have at church\nHard cover King James\nOnly been savin' dust on the nightstand\nAnd I don't know what to say\nBy the time I fold my hands\n\nI only talk to God when I need a favor\nAnd I only pray when I ain't got a prayer\nSo who the hell am I, who the hell am I to expect a savior, oh\nIf I only talk to God when I need a favor?\nBut, God, I need a favor\n\nAmen, amen\n\nYeah, I owe you more than one\nAnd beggars can't be choosers\nBut I'll pay for all I've done\nJust pleas\u0435 don't let me lose h\u0435r\n\nI only talk to God when I need a favor\nAnd I only pray when I ain't got a prayer\nSo who the hell am I, who the hell am I to expect a savior, oh\nIf I only talk to God when I need a favor?\nBut, God, I need a favor\n\nAmen, amen\nAmen, amen\n\nHangin' in there just barely\nThrowin' up prayers like Hail Marys\nIf You're still there, Lord, spare me\nOh, my God, oh, my God, Hail Mary\nHangin' in there just barely\nThrowin' up prayers like Hail Marys\nIf You're still there, Lord, spare me\nOh, my God, oh, my God, Hail Mary\n\nI only talk to God when I need a favor\nAnd I only pray when I ain't got a prayer\nSo tell me, who the hell am I to expect a savior\nWhen I only talk to God if I need a favor?\nAnd, God, I need a favor\n\nAmen\nGod, I need a favor\nWoah\nAmen"
+}

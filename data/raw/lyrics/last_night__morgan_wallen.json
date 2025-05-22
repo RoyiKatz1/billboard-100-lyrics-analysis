@@ -1,0 +1,1927 @@
+{
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/8779646",
+    "artist_names": "Morgan Wallen",
+    "full_title": "Last Night by\u00a0Morgan\u00a0Wallen",
+    "header_image_thumbnail_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+    "id": 8779646,
+    "instrumental": false,
+    "lyrics_owner_id": 19080472,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1731744648,
+    "path": "/Morgan-wallen-last-night-lyrics",
+    "primary_artist_names": "Morgan Wallen",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Morgan-wallen-last-night-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 1,
+        "day": 31
+    },
+    "release_date_for_display": "January 31, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 32,
+        "iq_earners": 32,
+        "transcribers": 4,
+        "unreviewed_annotations": 16,
+        "verified_annotations": 0,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 301569
+    },
+    "title": "Last Night",
+    "title_with_featured": "Last Night",
+    "updated_by_human_at": 1731744648,
+    "url": "https://genius.com/Morgan-wallen-last-night-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/987153",
+        "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+        "id": 987153,
+        "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Morgan Wallen",
+        "url": "https://genius.com/artists/Morgan-wallen",
+        "iq": 495
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/987153",
+            "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+            "id": 987153,
+            "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Morgan Wallen",
+            "url": "https://genius.com/artists/Morgan-wallen",
+            "iq": 495
+        }
+    ],
+    "apple_music_id": "1667990774",
+    "apple_music_player_url": "https://genius.com/songs/8779646/apple_music_player",
+    "description": {
+        "plain": "\u201cLast Night\u201d is the second track off of Morgan Wallen\u2019s third studio LP \u201cOne Thing at a Time\u201d. The song details a man recalling falling with love with a partner while drunk the previous night. Although there are allusions to somewhat toxic behavior, they continue to yearn for the seldom night to not be their last.\n\nThe song is Wallen\u2019s highest charting song, peaking at No. 1 on the Billboard Hot 100 for nine weeks straight, knocking off \u201cFlowers\u201d by Miley Cyrus."
+    },
+    "embed_content": "<div id='rg_embed_link_8779646' class='rg_embed_link' data-song-id='8779646'>Read <a href='https://genius.com/Morgan-wallen-last-night-lyrics'>\u201cLast Night\u201d by Morgan\u00a0Wallen</a> on Genius</div> <script crossorigin src='//genius.com/songs/8779646/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-01-31",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#946444",
+    "song_art_secondary_color": "#5a3d29",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/891731",
+        "cover_art_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+        "full_title": "One Thing At A Time by Morgan Wallen",
+        "id": 891731,
+        "name": "One Thing At A Time",
+        "primary_artist_names": "Morgan Wallen",
+        "release_date_for_display": "March 3, 2023",
+        "url": "https://genius.com/albums/Morgan-wallen/One-thing-at-a-time",
+        "artist": {
+            "api_path": "/artists/987153",
+            "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+            "id": 987153,
+            "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Morgan Wallen",
+            "url": "https://genius.com/artists/Morgan-wallen",
+            "iq": 495
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/987153",
+                "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+                "id": 987153,
+                "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Morgan Wallen",
+                "url": "https://genius.com/artists/Morgan-wallen",
+                "iq": 495
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1817438",
+                    "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "id": 1817438,
+                    "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Loud Records",
+                    "url": "https://genius.com/artists/Big-loud-records"
+                },
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1817438",
+                    "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "id": 1817438,
+                    "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Loud Records",
+                    "url": "https://genius.com/artists/Big-loud-records"
+                },
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1817438",
+                    "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "id": 1817438,
+                    "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Big Loud Records",
+                    "url": "https://genius.com/artists/Big-loud-records"
+                },
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1003323",
+                    "header_image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "id": 1003323,
+                    "image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cohen",
+                    "url": "https://genius.com/artists/Dave-cohen"
+                }
+            ]
+        },
+        {
+            "label": "Ukulele",
+            "artists": [
+                {
+                    "api_path": "/artists/1130165",
+                    "header_image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "id": 1130165,
+                    "image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryan Sutton",
+                    "url": "https://genius.com/artists/Bryan-sutton"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1130165",
+                    "header_image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "id": 1130165,
+                    "image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryan Sutton",
+                    "url": "https://genius.com/artists/Bryan-sutton"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/644116",
+                    "header_image_url": "https://images.genius.com/ea4142d8ae33bf38ec94315b6dd4d69c.290x290x1.jpg",
+                    "id": 644116,
+                    "image_url": "https://images.genius.com/ea4142d8ae33bf38ec94315b6dd4d69c.290x290x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Bukovac",
+                    "url": "https://genius.com/artists/Tom-bukovac"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/1458570",
+                    "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "id": 1458570,
+                    "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Roe",
+                    "url": "https://genius.com/artists/Jerry-roe"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/227633",
+                    "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+                    "id": 227633,
+                    "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joey Moi",
+                    "url": "https://genius.com/artists/Joey-moi"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1604942",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1604942,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Yount",
+                    "url": "https://genius.com/artists/Ryan-yount"
+                },
+                {
+                    "api_path": "/artists/1114586",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1114586,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eivind Nordland",
+                    "url": "https://genius.com/artists/Eivind-nordland"
+                },
+                {
+                    "api_path": "/artists/1063126",
+                    "header_image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "id": 1063126,
+                    "image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Ditty",
+                    "url": "https://genius.com/artists/Josh-ditty"
+                },
+                {
+                    "api_path": "/artists/1213471",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1213471,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Cooke",
+                    "url": "https://genius.com/artists/Scott-cooke"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/1674202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1674202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ally Gecewicz",
+                    "url": "https://genius.com/artists/Ally-gecewicz"
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 19943961,
+        "annotator_login": "NicolasMatteo",
+        "api_path": "/referents/27757961",
+        "classification": "unreviewed",
+        "fragment": "Last Night",
+        "id": 27757961,
+        "is_description": true,
+        "path": "/27757961/Morgan-wallen-last-night/Last-night",
+        "range": {
+            "content": "Last Night"
+        },
+        "song_id": 8779646,
+        "url": "https://genius.com/27757961/Morgan-wallen-last-night/Last-night",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8779646",
+            "client_timestamps": {
+                "updated_by_human_at": 1731744648,
+                "lyrics_updated_at": 1731744648
+            },
+            "context": "Morgan Wallen",
+            "id": 8779646,
+            "image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+            "link_title": "Last Night by\u00a0Morgan\u00a0Wallen",
+            "title": "Last Night",
+            "type": "Song",
+            "url": "https://genius.com/Morgan-wallen-last-night-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/27757961",
+                "body": {
+                    "plain": "\u201cLast Night\u201d is the second track off of Morgan Wallen\u2019s third studio LP \u201cOne Thing at a Time\u201d. The song details a man recalling falling with love with a partner while drunk the previous night. Although there are allusions to somewhat toxic behavior, they continue to yearn for the seldom night to not be their last.\n\nThe song is Wallen\u2019s highest charting song, peaking at No. 1 on the Billboard Hot 100 for nine weeks straight, knocking off \u201cFlowers\u201d by Miley Cyrus."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 27757961,
+                "pinned": false,
+                "share_url": "https://genius.com/27757961",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27757961/Morgan-wallen-last-night/Last-night",
+                "verified": false,
+                "votes_total": 15,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/19943961",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c40370df5073faf8b5b6c40bcb85bc7e",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c40370df5073faf8b5b6c40bcb85bc7e",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c40370df5073faf8b5b6c40bcb85bc7e",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c40370df5073faf8b5b6c40bcb85bc7e",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/c40370df5073faf8b5b6c40bcb85bc7e",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 19943961,
+                            "iq": 2074,
+                            "login": "NicolasMatteo",
+                            "name": "NicolasMatteo",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/NicolasMatteo",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4733728",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/d1898630dba081b6d856ac22f7c2dd2a.1000x625x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4733728,
+        "iq": 671174,
+        "login": "JJEvans",
+        "name": "Jay Evans",
+        "role_for_display": "editor",
+        "url": "https://genius.com/JJEvans",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "morgan wallen",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/morgan-wallen/last-night"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=TyjgBxIVmEc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/227633",
+            "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+            "id": 227633,
+            "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Joey Moi",
+            "url": "https://genius.com/artists/Joey-moi"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10119951",
+                    "artist_names": "AXM (Ft. keepsecrets)",
+                    "full_title": "\u200edrown out the noise in your head by\u00a0AXM (Ft.\u00a0keepsecrets)",
+                    "header_image_thumbnail_url": "https://images.genius.com/226d4e3b8defcb5008d88317d5e0124e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/226d4e3b8defcb5008d88317d5e0124e.496x496x1.jpg",
+                    "id": 10119951,
+                    "lyrics_owner_id": 15178027,
+                    "lyrics_state": "complete",
+                    "path": "/Axm-drown-out-the-noise-in-your-head-lyrics",
+                    "primary_artist_names": "AXM",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Axm-drown-out-the-noise-in-your-head-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 20
+                    },
+                    "release_date_for_display": "October 20, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/226d4e3b8defcb5008d88317d5e0124e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/226d4e3b8defcb5008d88317d5e0124e.496x496x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "\u200edrown out the noise in your head",
+                    "title_with_featured": "\u200edrown out the noise in your head (Ft.\u00a0keepsecrets)",
+                    "url": "https://genius.com/Axm-drown-out-the-noise-in-your-head-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/3549986",
+                            "header_image_url": "https://images.genius.com/410e7db397ad539de240c2300bd6affe.500x500x1.jpg",
+                            "id": 3549986,
+                            "image_url": "https://images.genius.com/410e7db397ad539de240c2300bd6affe.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "keepsecrets",
+                            "url": "https://genius.com/artists/Keepsecrets"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/2590858",
+                        "header_image_url": "https://images.genius.com/5fec1a9a566f057d906e44925731b8b0.1000x210x1.jpg",
+                        "id": 2590858,
+                        "image_url": "https://images.genius.com/89d8cf53168a956aa948527424e3ff74.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "AXM",
+                        "url": "https://genius.com/artists/Axm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2590858",
+                            "header_image_url": "https://images.genius.com/5fec1a9a566f057d906e44925731b8b0.1000x210x1.jpg",
+                            "id": 2590858,
+                            "image_url": "https://images.genius.com/89d8cf53168a956aa948527424e3ff74.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "AXM",
+                            "url": "https://genius.com/artists/Axm"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9732558",
+                    "artist_names": "wifiskeleton",
+                    "full_title": "\u200bwhere tf is keepsecrets (fall mix) by\u00a0wifiskeleton",
+                    "header_image_thumbnail_url": "https://images.genius.com/373d056d2c8110cd3c84ec5ac28470d4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/373d056d2c8110cd3c84ec5ac28470d4.884x884x1.jpg",
+                    "id": 9732558,
+                    "lyrics_owner_id": 17897656,
+                    "lyrics_state": "complete",
+                    "path": "/Wifiskeleton-where-tf-is-keepsecrets-fall-mix-lyrics",
+                    "primary_artist_names": "wifiskeleton",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Wifiskeleton-where-tf-is-keepsecrets-fall-mix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 12
+                    },
+                    "release_date_for_display": "November 12, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 12, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/373d056d2c8110cd3c84ec5ac28470d4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/373d056d2c8110cd3c84ec5ac28470d4.884x884x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u200bwhere tf is keepsecrets (fall mix)",
+                    "title_with_featured": "\u200bwhere tf is keepsecrets (fall mix)",
+                    "url": "https://genius.com/Wifiskeleton-where-tf-is-keepsecrets-fall-mix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3292132",
+                        "header_image_url": "https://images.genius.com/b263a0919cc4769705ad9aeb167f63ad.1000x1000x1.jpg",
+                        "id": 3292132,
+                        "image_url": "https://images.genius.com/50dc3980c00f75ecbe4bf03dfa587e19.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "wifiskeleton",
+                        "url": "https://genius.com/artists/Wifiskeleton"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3292132",
+                            "header_image_url": "https://images.genius.com/b263a0919cc4769705ad9aeb167f63ad.1000x1000x1.jpg",
+                            "id": 3292132,
+                            "image_url": "https://images.genius.com/50dc3980c00f75ecbe4bf03dfa587e19.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "wifiskeleton",
+                            "url": "https://genius.com/artists/Wifiskeleton"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/9927951",
+                    "artist_names": "wifiskeleton",
+                    "full_title": "\u200bwhere the fuck is keepsecrets by\u00a0wifiskeleton",
+                    "header_image_thumbnail_url": "https://images.genius.com/7b884d5c4c2e6cd05c3455e497b68e91.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7b884d5c4c2e6cd05c3455e497b68e91.483x483x1.jpg",
+                    "id": 9927951,
+                    "lyrics_owner_id": 15178027,
+                    "lyrics_state": "complete",
+                    "path": "/Wifiskeleton-where-the-fuck-is-keepsecrets-lyrics",
+                    "primary_artist_names": "wifiskeleton",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Wifiskeleton-where-the-fuck-is-keepsecrets-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 6,
+                        "day": 17
+                    },
+                    "release_date_for_display": "June 17, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 17, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7b884d5c4c2e6cd05c3455e497b68e91.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7b884d5c4c2e6cd05c3455e497b68e91.483x483x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "\u200bwhere the fuck is keepsecrets",
+                    "title_with_featured": "\u200bwhere the fuck is keepsecrets",
+                    "url": "https://genius.com/Wifiskeleton-where-the-fuck-is-keepsecrets-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3292132",
+                        "header_image_url": "https://images.genius.com/b263a0919cc4769705ad9aeb167f63ad.1000x1000x1.jpg",
+                        "id": 3292132,
+                        "image_url": "https://images.genius.com/50dc3980c00f75ecbe4bf03dfa587e19.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "wifiskeleton",
+                        "url": "https://genius.com/artists/Wifiskeleton"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3292132",
+                            "header_image_url": "https://images.genius.com/b263a0919cc4769705ad9aeb167f63ad.1000x1000x1.jpg",
+                            "id": 3292132,
+                            "image_url": "https://images.genius.com/50dc3980c00f75ecbe4bf03dfa587e19.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "wifiskeleton",
+                            "url": "https://genius.com/artists/Wifiskeleton"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 25,
+                    "api_path": "/songs/9723543",
+                    "artist_names": "Sam Temple",
+                    "full_title": "Grimace Shake in Fortnite by\u00a0Sam\u00a0Temple",
+                    "header_image_thumbnail_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.1000x1000x1.jpg",
+                    "id": 9723543,
+                    "lyrics_owner_id": 11773657,
+                    "lyrics_state": "complete",
+                    "path": "/Sam-temple-grimace-shake-in-fortnite-lyrics",
+                    "primary_artist_names": "Sam Temple",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sam-temple-grimace-shake-in-fortnite-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 25,
+                        "hot": false,
+                        "pageviews": 41617
+                    },
+                    "title": "Grimace Shake in Fortnite",
+                    "title_with_featured": "Grimace Shake in Fortnite",
+                    "url": "https://genius.com/Sam-temple-grimace-shake-in-fortnite-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3732454",
+                        "header_image_url": "https://images.genius.com/51eed0fd94e75ba0e685ee2da322b054.1000x154x1.png",
+                        "id": 3732454,
+                        "image_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Sam Temple",
+                        "url": "https://genius.com/artists/Sam-temple"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3732454",
+                            "header_image_url": "https://images.genius.com/51eed0fd94e75ba0e685ee2da322b054.1000x154x1.png",
+                            "id": 3732454,
+                            "image_url": "https://images.genius.com/1ffeb8c7ad7f0267e4eca0e3b8106838.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Sam Temple",
+                            "url": "https://genius.com/artists/Sam-temple"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": "https://genius.com/Morgan-wallen-last-night-sample/covers",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9817857",
+                    "artist_names": "KIDZ BOP Kids",
+                    "full_title": "Last Night by\u00a0KIDZ\u00a0BOP Kids",
+                    "header_image_thumbnail_url": "https://images.genius.com/63803d2ce3bcd56d98d68aaac326521d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/63803d2ce3bcd56d98d68aaac326521d.1000x1000x1.png",
+                    "id": 9817857,
+                    "lyrics_owner_id": 20528892,
+                    "lyrics_state": "complete",
+                    "path": "/Kidz-bop-kids-last-night-lyrics",
+                    "primary_artist_names": "KIDZ BOP Kids",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kidz-bop-kids-last-night-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 19
+                    },
+                    "release_date_for_display": "January 19, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 19, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/63803d2ce3bcd56d98d68aaac326521d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/63803d2ce3bcd56d98d68aaac326521d.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 5592
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night",
+                    "url": "https://genius.com/Kidz-bop-kids-last-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/353676",
+                        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                        "id": 353676,
+                        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KIDZ BOP Kids",
+                        "url": "https://genius.com/artists/Kidz-bop-kids"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/353676",
+                            "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                            "id": 353676,
+                            "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "KIDZ BOP Kids",
+                            "url": "https://genius.com/artists/Kidz-bop-kids"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9066451",
+                    "artist_names": "Our Last Night",
+                    "full_title": "Last Night by\u00a0Our\u00a0Last Night",
+                    "header_image_thumbnail_url": "https://images.genius.com/0cdf843e1f39567edd5a224a35cfcc60.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0cdf843e1f39567edd5a224a35cfcc60.358x358x1.png",
+                    "id": 9066451,
+                    "lyrics_owner_id": 321054,
+                    "lyrics_state": "complete",
+                    "path": "/Our-last-night-last-night-lyrics",
+                    "primary_artist_names": "Our Last Night",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Our-last-night-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 4,
+                        "day": 28
+                    },
+                    "release_date_for_display": "April 28, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0cdf843e1f39567edd5a224a35cfcc60.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0cdf843e1f39567edd5a224a35cfcc60.358x358x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 5255
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night",
+                    "url": "https://genius.com/Our-last-night-last-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/126411",
+                        "header_image_url": "https://images.genius.com/1676d356a3677deea0dfd9917d0defab.1000x333x1.jpg",
+                        "id": 126411,
+                        "image_url": "https://images.genius.com/13f6064f60cd637bda85c101d69c656c.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Our Last Night",
+                        "url": "https://genius.com/artists/Our-last-night"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/126411",
+                            "header_image_url": "https://images.genius.com/1676d356a3677deea0dfd9917d0defab.1000x333x1.jpg",
+                            "id": 126411,
+                            "image_url": "https://images.genius.com/13f6064f60cd637bda85c101d69c656c.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Our Last Night",
+                            "url": "https://genius.com/artists/Our-last-night"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8961034",
+                    "artist_names": "Drew Jacobs & No Resolve",
+                    "full_title": "Last Night by\u00a0Drew\u00a0Jacobs & No Resolve",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "id": 8961034,
+                    "lyrics_owner_id": 16851497,
+                    "lyrics_state": "complete",
+                    "path": "/Drew-jacobs-and-no-resolve-last-night-lyrics",
+                    "primary_artist_names": "Drew Jacobs & No Resolve",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Drew-jacobs-and-no-resolve-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 3,
+                        "day": 24
+                    },
+                    "release_date_for_display": "March 24, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2023",
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night",
+                    "url": "https://genius.com/Drew-jacobs-and-no-resolve-last-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3484853",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 3484853,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Drew Jacobs & No Resolve",
+                        "url": "https://genius.com/artists/Drew-jacobs-and-no-resolve"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3484853",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3484853,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Drew Jacobs & No Resolve",
+                            "url": "https://genius.com/artists/Drew-jacobs-and-no-resolve"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8935998",
+                    "artist_names": "Rachel Lee Roberts",
+                    "full_title": "Last Night by\u00a0Rachel\u00a0Lee Roberts",
+                    "header_image_thumbnail_url": "https://images.genius.com/f04b630319b0e91c7b21d51d1fde2aa5.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f04b630319b0e91c7b21d51d1fde2aa5.1000x1000x1.png",
+                    "id": 8935998,
+                    "lyrics_owner_id": 10837347,
+                    "lyrics_state": "complete",
+                    "path": "/Rachel-lee-roberts-last-night-lyrics",
+                    "primary_artist_names": "Rachel Lee Roberts",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Rachel-lee-roberts-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 2,
+                        "day": 24
+                    },
+                    "release_date_for_display": "February 24, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 24, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f04b630319b0e91c7b21d51d1fde2aa5.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f04b630319b0e91c7b21d51d1fde2aa5.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night",
+                    "url": "https://genius.com/Rachel-lee-roberts-last-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3477097",
+                        "header_image_url": "https://images.genius.com/0eacbdf073a76b0225a5b28411e40f92.640x640x1.jpg",
+                        "id": 3477097,
+                        "image_url": "https://images.genius.com/0eacbdf073a76b0225a5b28411e40f92.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Rachel Lee Roberts",
+                        "url": "https://genius.com/artists/Rachel-lee-roberts"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3477097",
+                            "header_image_url": "https://images.genius.com/0eacbdf073a76b0225a5b28411e40f92.640x640x1.jpg",
+                            "id": 3477097,
+                            "image_url": "https://images.genius.com/0eacbdf073a76b0225a5b28411e40f92.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Rachel Lee Roberts",
+                            "url": "https://genius.com/artists/Rachel-lee-roberts"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9571064",
+                    "artist_names": "The Bunny The Bear (Ft. Never Bothered To Bloom)",
+                    "full_title": "Last Night by\u00a0The\u00a0Bunny The Bear (Ft.\u00a0Never\u00a0Bothered To Bloom)",
+                    "header_image_thumbnail_url": "https://images.genius.com/985772adef77d005fba273a231cd05a4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/985772adef77d005fba273a231cd05a4.1000x1000x1.png",
+                    "id": 9571064,
+                    "lyrics_owner_id": 21513377,
+                    "lyrics_state": "complete",
+                    "path": "/The-bunny-the-bear-last-night-lyrics",
+                    "primary_artist_names": "The Bunny The Bear",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-bunny-the-bear-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 29
+                    },
+                    "release_date_for_display": "September 29, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 29, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/985772adef77d005fba273a231cd05a4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/985772adef77d005fba273a231cd05a4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night (Ft.\u00a0Never\u00a0Bothered To Bloom)",
+                    "url": "https://genius.com/The-bunny-the-bear-last-night-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/3246586",
+                            "header_image_url": "https://images.genius.com/465e1679e988e9f1cac76c4f9d58eb62.600x600x1.jpg",
+                            "id": 3246586,
+                            "image_url": "https://images.genius.com/6f2ac93ccd66b3e55e9990ff4dab4de7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Never Bothered To Bloom",
+                            "url": "https://genius.com/artists/Never-bothered-to-bloom"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/288797",
+                        "header_image_url": "https://filepicker-images.genius.com/s1HUc9EWTB0uioPUvJaf_15380822_10154788674039281_7457295449410451221_n.jpg",
+                        "id": 288797,
+                        "image_url": "https://images.genius.com/76e657e44f01c3fe52faed5b5503a2ff.959x959x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Bunny The Bear",
+                        "url": "https://genius.com/artists/The-bunny-the-bear"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/288797",
+                            "header_image_url": "https://filepicker-images.genius.com/s1HUc9EWTB0uioPUvJaf_15380822_10154788674039281_7457295449410451221_n.jpg",
+                            "id": 288797,
+                            "image_url": "https://images.genius.com/76e657e44f01c3fe52faed5b5503a2ff.959x959x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Bunny The Bear",
+                            "url": "https://genius.com/artists/The-bunny-the-bear"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10236288",
+                    "artist_names": "Nik Nocturnal (Ft. Johnny Ciardullo\u200e)",
+                    "full_title": "Last Night by\u00a0Nik\u00a0Nocturnal (Ft.\u00a0Johnny\u00a0Ciardullo\u200e)",
+                    "header_image_thumbnail_url": "https://images.genius.com/cf0fffc6032684e3793151ef08350672.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/cf0fffc6032684e3793151ef08350672.1000x563x1.jpg",
+                    "id": 10236288,
+                    "lyrics_owner_id": 17636231,
+                    "lyrics_state": "complete",
+                    "path": "/Nik-nocturnal-last-night-lyrics",
+                    "primary_artist_names": "Nik Nocturnal",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Nik-nocturnal-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 5,
+                        "day": 10
+                    },
+                    "release_date_for_display": "May 10, 2023",
+                    "release_date_with_abbreviated_month_for_display": "May 10, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cf0fffc6032684e3793151ef08350672.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/cf0fffc6032684e3793151ef08350672.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night (Ft.\u00a0Johnny\u00a0Ciardullo\u200e)",
+                    "url": "https://genius.com/Nik-nocturnal-last-night-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1477229",
+                            "header_image_url": "https://images.genius.com/02baedacb5b4590236a4d9595eefefdf.720x720x1.jpg",
+                            "id": 1477229,
+                            "image_url": "https://images.genius.com/02baedacb5b4590236a4d9595eefefdf.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Johnny Ciardullo\u200e",
+                            "url": "https://genius.com/artists/Johnny-ciardullo"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1081153",
+                        "header_image_url": "https://images.genius.com/f1f63a37d4d5cf16bda0f3ee0f41958e.990x660x1.png",
+                        "id": 1081153,
+                        "image_url": "https://images.genius.com/63647be51d48da3344bceb30206fd13e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nik Nocturnal",
+                        "url": "https://genius.com/artists/Nik-nocturnal"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1081153",
+                            "header_image_url": "https://images.genius.com/f1f63a37d4d5cf16bda0f3ee0f41958e.990x660x1.png",
+                            "id": 1081153,
+                            "image_url": "https://images.genius.com/63647be51d48da3344bceb30206fd13e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Nik Nocturnal",
+                            "url": "https://genius.com/artists/Nik-nocturnal"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9885905",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2023 (Cut The Flowers) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "id": 9885905,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 26
+                    },
+                    "release_date_for_display": "December 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2023 (Cut The Flowers)",
+                    "title_with_featured": "United State of Pop 2023 (Cut The Flowers)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9650802",
+                    "artist_names": "360",
+                    "full_title": "Last Night by\u00a0360",
+                    "header_image_thumbnail_url": "https://images.genius.com/c0a2e37f79f5442e4cd21d544938d5ec.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c0a2e37f79f5442e4cd21d544938d5ec.1000x1000x1.png",
+                    "id": 9650802,
+                    "lyrics_owner_id": 15890529,
+                    "lyrics_state": "complete",
+                    "path": "/360-last-night-lyrics",
+                    "primary_artist_names": "360",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/360-last-night-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 22
+                    },
+                    "release_date_for_display": "October 22, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 22, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c0a2e37f79f5442e4cd21d544938d5ec.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c0a2e37f79f5442e4cd21d544938d5ec.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night",
+                    "title_with_featured": "Last Night",
+                    "url": "https://genius.com/360-last-night-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/24003",
+                        "header_image_url": "https://images.genius.com/0bffd97fa0b451a138d7a789b09aaba0.1000x1000x1.jpg",
+                        "id": 24003,
+                        "image_url": "https://images.genius.com/abe3cfc92fbcdff0e796fa77de4fbcea.479x479x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "360",
+                        "url": "https://genius.com/artists/360",
+                        "iq": 667
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/24003",
+                            "header_image_url": "https://images.genius.com/0bffd97fa0b451a138d7a789b09aaba0.1000x1000x1.jpg",
+                            "id": 24003,
+                            "image_url": "https://images.genius.com/abe3cfc92fbcdff0e796fa77de4fbcea.479x479x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "360",
+                            "url": "https://genius.com/artists/360",
+                            "iq": 667
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9493002",
+                    "artist_names": "Justin Stone",
+                    "full_title": "Last Night (Remix) by\u00a0Justin\u00a0Stone",
+                    "header_image_thumbnail_url": "https://images.genius.com/4b1f446062b6c907f2af8221e524b420.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/4b1f446062b6c907f2af8221e524b420.1000x563x1.jpg",
+                    "id": 9493002,
+                    "lyrics_owner_id": 15582931,
+                    "lyrics_state": "complete",
+                    "path": "/Justin-stone-last-night-remix-lyrics",
+                    "primary_artist_names": "Justin Stone",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Justin-stone-last-night-remix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 4
+                    },
+                    "release_date_for_display": "September 4, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 4, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4b1f446062b6c907f2af8221e524b420.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4b1f446062b6c907f2af8221e524b420.1000x563x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Last Night (Remix)",
+                    "title_with_featured": "Last Night (Remix)",
+                    "url": "https://genius.com/Justin-stone-last-night-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/619912",
+                        "header_image_url": "https://images.genius.com/363ab2c9707212f31f69b2ddf222ce54.1000x478x1.jpg",
+                        "id": 619912,
+                        "image_url": "https://images.genius.com/806908a02fa0658c3bc7cf0a409752ed.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Justin Stone",
+                        "url": "https://genius.com/artists/Justin-stone",
+                        "iq": 411
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/619912",
+                            "header_image_url": "https://images.genius.com/363ab2c9707212f31f69b2ddf222ce54.1000x478x1.jpg",
+                            "id": 619912,
+                            "image_url": "https://images.genius.com/806908a02fa0658c3bc7cf0a409752ed.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Justin Stone",
+                            "url": "https://genius.com/artists/Justin-stone",
+                            "iq": 411
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Morgan-wallen-last-night-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9274141",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Morgan Wallen - Last Night (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/f40ab1129ba8968998effb04eda4a619.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f40ab1129ba8968998effb04eda4a619.600x600x1.jpg",
+                    "id": 9274141,
+                    "lyrics_owner_id": 18227249,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-morgan-wallen-last-night-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-morgan-wallen-last-night-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f40ab1129ba8968998effb04eda4a619.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f40ab1129ba8968998effb04eda4a619.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Morgan Wallen - Last Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Morgan Wallen - Last Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-morgan-wallen-last-night-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8958462",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Morgan Wallen - Last Night (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "id": 8958462,
+                    "lyrics_owner_id": 15192721,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-morgan-wallen-last-night-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-morgan-wallen-last-night-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 5726
+                    },
+                    "title": "Morgan Wallen - Last Night (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Morgan Wallen - Last Night (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-morgan-wallen-last-night-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8958446",
+                    "artist_names": "Genius Traduccions al Catal\u00e0",
+                    "full_title": "Morgan Wallen - Last Night (Traducci\u00f3 al Catal\u00e0) by\u00a0Genius\u00a0Traduccions al Catal\u00e0",
+                    "header_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "id": 8958446,
+                    "lyrics_owner_id": 15192721,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduccions-al-catala-morgan-wallen-last-night-traduccio-al-catala-lyrics",
+                    "primary_artist_names": "Genius Traduccions al Catal\u00e0",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduccions-al-catala-morgan-wallen-last-night-traduccio-al-catala-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Morgan Wallen - Last Night (Traducci\u00f3 al Catal\u00e0)",
+                    "title_with_featured": "Morgan Wallen - Last Night (Traducci\u00f3 al Catal\u00e0)",
+                    "url": "https://genius.com/Genius-traduccions-al-catala-morgan-wallen-last-night-traduccio-al-catala-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2250775",
+                        "header_image_url": "https://images.genius.com/ebf56bf8ed739eb55cad112fa37a8e38.1000x213x44.gif",
+                        "id": 2250775,
+                        "image_url": "https://images.genius.com/533ed9f4e8a4fec3200f836dd44a7bf6.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduccions al Catal\u00e0",
+                        "url": "https://genius.com/artists/Genius-traduccions-al-catala"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2250775",
+                            "header_image_url": "https://images.genius.com/ebf56bf8ed739eb55cad112fa37a8e38.1000x213x44.gif",
+                            "id": 2250775,
+                            "image_url": "https://images.genius.com/533ed9f4e8a4fec3200f836dd44a7bf6.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduccions al Catal\u00e0",
+                            "url": "https://genius.com/artists/Genius-traduccions-al-catala"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8957999",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Morgan Wallen - Last Night (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "id": 8957999,
+                    "lyrics_owner_id": 15192721,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-morgan-wallen-last-night-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-morgan-wallen-last-night-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Morgan Wallen - Last Night (Traduction Fran\u00e7aise)",
+                    "title_with_featured": "Morgan Wallen - Last Night (Traduction Fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-morgan-wallen-last-night-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8957996",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Morgan Wallen - Last Night (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "id": 8957996,
+                    "lyrics_owner_id": 15192721,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-morgan-wallen-last-night-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-last-night-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 31
+                    },
+                    "release_date_for_display": "January 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/56dbfae45f60e10208e8213f4023dd20.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 9843
+                    },
+                    "title": "Morgan Wallen - Last Night (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Morgan Wallen - Last Night (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-last-night-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9274141",
+            "id": 9274141,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-morgan-wallen-last-night-traducao-em-portugues-lyrics",
+            "title": "Morgan Wallen - Last Night (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-morgan-wallen-last-night-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/8958462",
+            "id": 8958462,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-morgan-wallen-last-night-deutsche-ubersetzung-lyrics",
+            "title": "Morgan Wallen - Last Night (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-morgan-wallen-last-night-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/8958446",
+            "id": 8958446,
+            "language": "ca",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduccions-al-catala-morgan-wallen-last-night-traduccio-al-catala-lyrics",
+            "title": "Morgan Wallen - Last Night (Traducci\u00f3 al Catal\u00e0)",
+            "url": "https://genius.com/Genius-traduccions-al-catala-morgan-wallen-last-night-traduccio-al-catala-lyrics"
+        },
+        {
+            "api_path": "/songs/8957999",
+            "id": 8957999,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-morgan-wallen-last-night-traduction-francaise-lyrics",
+            "title": "Morgan Wallen - Last Night (Traduction Fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-morgan-wallen-last-night-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/8957996",
+            "id": 8957996,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-morgan-wallen-last-night-traduccion-al-espanol-lyrics",
+            "title": "Morgan Wallen - Last Night (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-last-night-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2557469",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2557469,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "John Byron",
+            "url": "https://genius.com/artists/John-byron"
+        },
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/285817",
+            "header_image_url": "https://images.genius.com/ace041f0b1e07974a24795e80666d3f2.330x330x1.jpg",
+            "id": 285817,
+            "image_url": "https://images.genius.com/ace041f0b1e07974a24795e80666d3f2.330x330x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jacob Kasher",
+            "url": "https://genius.com/artists/Jacob-kasher"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        }
+    ],
+    "artist": "Morgan Wallen",
+    "lyrics": "32 ContributorsTranslationsPortugu\u00easDeutschCatal\u00e0Fran\u00e7aisEspa\u00f1olLast Night Lyrics\nLast night, we let the liquor talk\nI can't remember everything we said, but we said it all\nYou told me that you wish I was somebody you never met\nBut, baby, baby, something's tellin' me this ain't over yet\n\nNo way it was our last night I kissed your lips\nMake you grip the sheets with your fingertips\nLast bottle of Jack, we split a fifth\nJust talkin' 'bout life, goin' sip for sip\nYeah, you, you know you love to fight\nAnd I say shit I don't mean\nBut I'm still gon' wake up wantin' you and me\n\nI know that last night, we let the liquor talk\nI can't remember everything we said, but we said it all\nYou told me that you wish I was somebody you never met\nBut, baby, baby, something's tellin' me this ain't over yet\nNo way it was our last night (Last night)\nNo way it was our last night (Last night)\n\nNo way it was the last night that we break up\nI see your tail lights in the dust\nYou call your mama, I call your bluff\nIn the middle of the night, pull it right back up\nYeah, my, my friends say, \"Let her go\"\nYour friends say, \"What the hell?\"\nI wouldn't trade your kind of love for nothin' else\n\nOh, baby, last night, we let the liquor talk\nI can't remember everything we said, but we said it all\nYou told me that you wish I was somebody you never met\nBut, baby, baby, something's tellin' me this ain't over yet\nNo way it was our last night, we said we'd had enough\nI can't remember everything we said, but we said too much\nI know you packed your shit and slammed the door right before you left\nBut, baby, baby, something's tellin' me this ain't over yet\nNo way it was our last night (Last night)\nNo way it was our last night (Last night)\n\nI know you said this time you really weren't comin' back again\nBut, baby, baby, something's tellin' me this ain't over yet\nNo way it was our last night (Last night)\nNo way it was our last night (Last night)"
+}

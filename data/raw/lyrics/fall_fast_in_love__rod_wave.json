@@ -1,0 +1,732 @@
+{
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/10925703",
+    "artist_names": "Rod Wave",
+    "full_title": "Fall Fast in Love by\u00a0Rod\u00a0Wave",
+    "header_image_thumbnail_url": "https://images.genius.com/51ede72a1034af7a612ec2e4d0e3f3c9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/51ede72a1034af7a612ec2e4d0e3f3c9.1000x1000x1.png",
+    "id": 10925703,
+    "instrumental": false,
+    "lyrics_owner_id": 22365391,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1735699351,
+    "path": "/Rod-wave-fall-fast-in-love-lyrics",
+    "primary_artist_names": "Rod Wave",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Rod-wave-fall-fast-in-love-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 27
+    },
+    "release_date_for_display": "September 27, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 27, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/51ede72a1034af7a612ec2e4d0e3f3c9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/51ede72a1034af7a612ec2e4d0e3f3c9.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 21,
+        "iq_earners": 21,
+        "transcribers": 3,
+        "unreviewed_annotations": 11,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 101752
+    },
+    "title": "Fall Fast in Love",
+    "title_with_featured": "Fall Fast in Love",
+    "updated_by_human_at": 1745900441,
+    "url": "https://genius.com/Rod-wave-fall-fast-in-love-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1224811",
+        "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+        "id": 1224811,
+        "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Rod Wave",
+        "url": "https://genius.com/artists/Rod-wave",
+        "iq": 827
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        }
+    ],
+    "apple_music_id": "1772368699",
+    "apple_music_player_url": "https://genius.com/songs/10925703/apple_music_player",
+    "description": {
+        "plain": "\u201cFall Fast in Love\u201d is the second single from last lap album by rodarius green\n\nit was produced by Tfivee, FlexOnDaTrack, Neeko Baby & chris made"
+    },
+    "embed_content": "<div id='rg_embed_link_10925703' class='rg_embed_link' data-song-id='10925703'>Read <a href='https://genius.com/Rod-wave-fall-fast-in-love-lyrics'>\u201cFall Fast in Love\u201d by Rod\u00a0Wave</a> on Genius</div> <script crossorigin src='//genius.com/songs/10925703/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-27",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c4543c",
+    "song_art_secondary_color": "#56241c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1117127",
+        "cover_art_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.1000x1000x1.png",
+        "full_title": "Last Lap by Rod Wave",
+        "id": 1117127,
+        "name": "Last Lap",
+        "primary_artist_names": "Rod Wave",
+        "release_date_for_display": "October 11, 2024",
+        "url": "https://genius.com/albums/Rod-wave/Last-lap",
+        "artist": {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1224811",
+                "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                "id": 1224811,
+                "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Rod Wave",
+                "url": "https://genius.com/artists/Rod-wave",
+                "iq": 827
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1224811",
+                    "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "id": 1224811,
+                    "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rod Wave",
+                    "url": "https://genius.com/artists/Rod-wave",
+                    "iq": 827
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1224811",
+                    "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "id": 1224811,
+                    "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rod Wave",
+                    "url": "https://genius.com/artists/Rod-wave",
+                    "iq": 827
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/654788",
+                    "header_image_url": "https://images.genius.com/05b84f2ef4df4abf1a62764b3f011a49.744x202x1.png",
+                    "id": 654788,
+                    "image_url": "https://images.genius.com/1b44a256ef5c19f0fd7de362bf6b3058.884x884x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis Harrington",
+                    "url": "https://genius.com/artists/Travis-harrington"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22365391,
+        "annotator_login": "Rich1Nigga",
+        "api_path": "/referents/33105987",
+        "classification": "unreviewed",
+        "fragment": "Fall Fast in Love",
+        "id": 33105987,
+        "is_description": true,
+        "path": "/33105987/Rod-wave-fall-fast-in-love/Fall-fast-in-love",
+        "range": {
+            "content": "Fall Fast in Love"
+        },
+        "song_id": 10925703,
+        "url": "https://genius.com/33105987/Rod-wave-fall-fast-in-love/Fall-fast-in-love",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10925703",
+            "client_timestamps": {
+                "updated_by_human_at": 1745900441,
+                "lyrics_updated_at": 1735699351
+            },
+            "context": "Rod Wave",
+            "id": 10925703,
+            "image_url": "https://images.genius.com/51ede72a1034af7a612ec2e4d0e3f3c9.1000x1000x1.png",
+            "link_title": "Fall Fast in Love by\u00a0Rod\u00a0Wave",
+            "title": "Fall Fast in Love",
+            "type": "Song",
+            "url": "https://genius.com/Rod-wave-fall-fast-in-love-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33105987",
+                "body": {
+                    "plain": "\u201cFall Fast in Love\u201d is the second single from last lap album by rodarius green\n\nit was produced by Tfivee, FlexOnDaTrack, Neeko Baby & chris made"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33105987,
+                "pinned": false,
+                "share_url": "https://genius.com/33105987",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33105987/Rod-wave-fall-fast-in-love/Fall-fast-in-love",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22365391",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/0ab6ac2ee1e25dacad903dbbf172feb2",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/0ab6ac2ee1e25dacad903dbbf172feb2",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/0ab6ac2ee1e25dacad903dbbf172feb2",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/0ab6ac2ee1e25dacad903dbbf172feb2",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/0ab6ac2ee1e25dacad903dbbf172feb2",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 22365391,
+                            "iq": 673,
+                            "login": "Rich1Nigga",
+                            "name": "Rich1Nigga",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Rich1Nigga",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7650027",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 7650027,
+        "iq": 445083,
+        "login": "worstofalltime",
+        "name": "\u200bworstofalltime",
+        "role_for_display": "staff",
+        "url": "https://genius.com/worstofalltime",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/7650027",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 7650027,
+        "iq": 445083,
+        "login": "worstofalltime",
+        "name": "\u200bworstofalltime",
+        "role_for_display": "staff",
+        "url": "https://genius.com/worstofalltime",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=eM2hELFg3wE"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2737012",
+            "header_image_url": "https://images.genius.com/184562dd87343ebe4a41783a54ad2d75.307x307x1.png",
+            "id": 2737012,
+            "image_url": "https://images.genius.com/184562dd87343ebe4a41783a54ad2d75.307x307x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FlexOnDaTrack",
+            "url": "https://genius.com/artists/Flexondatrack"
+        },
+        {
+            "api_path": "/artists/2655159",
+            "header_image_url": "https://images.genius.com/28caaa2d3a01608eca1595527c0b7e17.1000x1000x1.jpg",
+            "id": 2655159,
+            "image_url": "https://images.genius.com/28caaa2d3a01608eca1595527c0b7e17.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bchris made",
+            "url": "https://genius.com/artists/Chris-made"
+        },
+        {
+            "api_path": "/artists/3574859",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3574859,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Neeko Made This",
+            "url": "https://genius.com/artists/Neeko-made-this"
+        },
+        {
+            "api_path": "/artists/4159629",
+            "header_image_url": "https://images.genius.com/e497c28f6d575ee12b9ab12cb6250c81.1000x1000x1.jpg",
+            "id": 4159629,
+            "image_url": "https://images.genius.com/e497c28f6d575ee12b9ab12cb6250c81.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "T5 (Producer)",
+            "url": "https://genius.com/artists/T5-producer",
+            "iq": 123
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        },
+        {
+            "api_path": "/artists/2737012",
+            "header_image_url": "https://images.genius.com/184562dd87343ebe4a41783a54ad2d75.307x307x1.png",
+            "id": 2737012,
+            "image_url": "https://images.genius.com/184562dd87343ebe4a41783a54ad2d75.307x307x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FlexOnDaTrack",
+            "url": "https://genius.com/artists/Flexondatrack"
+        },
+        {
+            "api_path": "/artists/2655159",
+            "header_image_url": "https://images.genius.com/28caaa2d3a01608eca1595527c0b7e17.1000x1000x1.jpg",
+            "id": 2655159,
+            "image_url": "https://images.genius.com/28caaa2d3a01608eca1595527c0b7e17.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bchris made",
+            "url": "https://genius.com/artists/Chris-made"
+        },
+        {
+            "api_path": "/artists/3574859",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3574859,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Neeko Made This",
+            "url": "https://genius.com/artists/Neeko-made-this"
+        },
+        {
+            "api_path": "/artists/4159629",
+            "header_image_url": "https://images.genius.com/e497c28f6d575ee12b9ab12cb6250c81.1000x1000x1.jpg",
+            "id": 4159629,
+            "image_url": "https://images.genius.com/e497c28f6d575ee12b9ab12cb6250c81.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "T5 (Producer)",
+            "url": "https://genius.com/artists/T5-producer",
+            "iq": 123
+        }
+    ],
+    "artist": "Rod Wave",
+    "lyrics": "21 ContributorsFall Fast in Love Lyrics\nChris, you idiot, look at what you did\nYeah (T-Turn me up, Fivee)\nUh-huh, uh, uh, uh-uh, uh\nMm-mm-mm-mm-mm\nLook, look, mm\n\nDid you come here to save me, or did you come to betray me?\nBeen feelin' unlucky lately\nTell me what's up, my baby\nI been through a lot of trauma, my exes might think I'm crazy, mm\nI'm just a realist, probably the realest\nAnd you know I wrote this song to make you smile, can you feel it?\nUh-huh, uh, uh, and I won't judge you, you don't judge me, don't thug me\nIf I pop this Perc' and beat you down, you might love me (Grrah)\nSince back in the day, been thuggin' (Yeah)\nYou know I got love for my auntie\nBarbados with my momma, so I thugged it with my cousins\nYou know my family showed me tough love\nDon't play me like I'm crazy\nI come out that bottom, baby\nAnd I made it out it, baby\nYou give me a week, I'ma be in lust\nYou give me a month, I might be in love\nI wrote you a letter, \"Do you like me? Yes or no?\"\nI bought you a ticket, when your flight leave, let me know (Uh, uh, uh)\n\nFallin' fast in love, it's never been a safe thing\nAre you fallin' fast enough?\nThey'll tell you that we're crazy\nIf you're not scared (Uh, uh, uh)\nYeah, I'll be right here (Uh, uh, uh, uh)\nFallin' fast in love, it's never been a safe thing\n\nUh, uh, it's never been a safe thing\nUh, hold on\n\nDamn, I hate relationships, what we goin', tit-for-tat?\nEverytime them niggas sent some shots, you know we sent it back\nEverytime them niggas spinned on us, you know we spinned it back\n'Til we started spinnin' first\nThen we started spinnin' worse\nAnd I don't want no messy shit, don't even wanna get into that\nI sent you a letter, baby girl, could you send it back?\nYeah, she had my heart for a lil' minute, but she won't give it back\nAnd when I get it back\nI might give it to you\nGive it to you\nGive it to you\n\nFallin' fast in love, it's never been a safe thing\nAre you fallin' fast enough?\nThey'll tell you that we're crazy\nIf you're not scared (Uh, uh, uh)\nYeah, I'll be right here (Uh, uh, uh, uh)\nFallin' fast in love, it's never been a safe thing\n\nUh, uh, it's never been a safe thing\nUh, hold on"
+}

@@ -1,0 +1,1953 @@
+{
+    "_type": "song",
+    "annotation_count": 21,
+    "api_path": "/songs/8734418",
+    "artist_names": "SZA",
+    "full_title": "Saturn by\u00a0SZA",
+    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+    "id": 8734418,
+    "instrumental": false,
+    "lyrics_owner_id": 18905160,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1740409905,
+    "path": "/Sza-saturn-lyrics",
+    "primary_artist_names": "SZA",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Sza-saturn-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 2,
+        "day": 22
+    },
+    "release_date_for_display": "February 22, 2024",
+    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 112,
+        "iq_earners": 112,
+        "transcribers": 9,
+        "unreviewed_annotations": 20,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 874215
+    },
+    "title": "Saturn",
+    "title_with_featured": "Saturn",
+    "updated_by_human_at": 1740409905,
+    "url": "https://genius.com/Sza-saturn-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/41579",
+        "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+        "id": 41579,
+        "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "SZA",
+        "url": "https://genius.com/artists/Sza",
+        "iq": 6560
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/41579",
+            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+            "id": 41579,
+            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "SZA",
+            "url": "https://genius.com/artists/Sza",
+            "iq": 6560
+        }
+    ],
+    "apple_music_id": "1786643241",
+    "apple_music_player_url": "https://genius.com/songs/8734418/apple_music_player",
+    "description": {
+        "plain": "This song explains SZA\u2019s confusion of this world. In her mind its dull and how\u2019s she\u2019s tired of the same thing, she also expresses how life is a pattern to her. For example, In Verse 1, its like she craves for something new and how if there\u2019s another universe out there she\u2019s ready for it."
+    },
+    "embed_content": "<div id='rg_embed_link_8734418' class='rg_embed_link' data-song-id='8734418'>Read <a href='https://genius.com/Sza-saturn-lyrics'>\u201cSaturn\u201d by SZA</a> on Genius</div> <script crossorigin src='//genius.com/songs/8734418/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-02-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ffffff",
+    "song_art_secondary_color": "#b0a59b",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1303785",
+        "cover_art_url": "https://images.genius.com/153a46e2a51a1690192f088855c8e0f6.1000x1000x1.png",
+        "full_title": "SOS Deluxe: LANA (Bonus Tracks) by SZA",
+        "id": 1303785,
+        "name": "SOS Deluxe: LANA (Bonus Tracks)",
+        "primary_artist_names": "SZA",
+        "release_date_for_display": "February 9, 2025",
+        "url": "https://genius.com/albums/Sza/Sos-deluxe-lana-bonus-tracks",
+        "artist": {
+            "api_path": "/artists/41579",
+            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+            "id": 41579,
+            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "SZA",
+            "url": "https://genius.com/artists/Sza",
+            "iq": 6560
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/41579",
+                "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                "id": 41579,
+                "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "SZA",
+                "url": "https://genius.com/artists/Sza",
+                "iq": 6560
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1108010",
+                    "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+                    "id": 1108010,
+                    "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Top Dawg Entertainment",
+                    "url": "https://genius.com/artists/Top-dawg-entertainment"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2960765",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2960765,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Katie Harvey",
+                    "url": "https://genius.com/artists/Katie-harvey"
+                },
+                {
+                    "api_path": "/artists/2973849",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2973849,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Noah McCorkle",
+                    "url": "https://genius.com/artists/Noah-mccorkle"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                },
+                {
+                    "api_path": "/artists/68074",
+                    "header_image_url": "https://images.genius.com/d71570bc9bfa62e8afb75bc3242f10c6.1000x750x1.jpg",
+                    "id": 68074,
+                    "image_url": "https://images.genius.com/8357d7e2f5eb9c6deabc79fe7aeb19c1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Hector Castro",
+                    "url": "https://genius.com/artists/Hector-castro",
+                    "iq": 104
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1603624",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1603624,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Syd Tagle",
+                    "url": "https://genius.com/artists/Syd-tagle"
+                },
+                {
+                    "api_path": "/artists/2705363",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2705363,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robert N. Johnson",
+                    "url": "https://genius.com/artists/Robert-n-johnson"
+                },
+                {
+                    "api_path": "/artists/2127509",
+                    "header_image_url": "https://images.genius.com/f3b0f7116a6a91283a22680d0cb6d845.986x986x1.jpg",
+                    "id": 2127509,
+                    "image_url": "https://images.genius.com/f3b0f7116a6a91283a22680d0cb6d845.986x986x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trey Pearce",
+                    "url": "https://genius.com/artists/Trey-pearce"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1108010",
+                    "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+                    "id": 1108010,
+                    "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Top Dawg Entertainment",
+                    "url": "https://genius.com/artists/Top-dawg-entertainment"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1108010",
+                    "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+                    "id": 1108010,
+                    "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Top Dawg Entertainment",
+                    "url": "https://genius.com/artists/Top-dawg-entertainment"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640041",
+                    "header_image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "id": 640041,
+                    "image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dale Becker",
+                    "url": "https://genius.com/artists/Dale-becker"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1712042",
+                    "header_image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+                    "id": 1712042,
+                    "image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Solomonophonic",
+                    "url": "https://genius.com/artists/Solomonophonic"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/182843",
+                    "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "id": 182843,
+                    "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carter Lang",
+                    "url": "https://genius.com/artists/Carter-lang"
+                },
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/182843",
+                    "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "id": 182843,
+                    "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carter Lang",
+                    "url": "https://genius.com/artists/Carter-lang"
+                },
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                },
+                {
+                    "api_path": "/artists/1712042",
+                    "header_image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+                    "id": 1712042,
+                    "image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Solomonophonic",
+                    "url": "https://genius.com/artists/Solomonophonic"
+                },
+                {
+                    "api_path": "/artists/1259950",
+                    "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+                    "id": 1259950,
+                    "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Monsune",
+                    "url": "https://genius.com/artists/Monsune",
+                    "iq": 159
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/182843",
+                    "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "id": 182843,
+                    "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carter Lang",
+                    "url": "https://genius.com/artists/Carter-lang"
+                },
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/182843",
+                    "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "id": 182843,
+                    "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carter Lang",
+                    "url": "https://genius.com/artists/Carter-lang"
+                },
+                {
+                    "api_path": "/artists/1038467",
+                    "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "id": 1038467,
+                    "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rob Bisel",
+                    "url": "https://genius.com/artists/Rob-bisel",
+                    "iq": 108
+                },
+                {
+                    "api_path": "/artists/1660715",
+                    "header_image_url": "https://images.genius.com/54c64966e28ba41c03a3e8db7970ef91.1000x333x1.png",
+                    "id": 1660715,
+                    "image_url": "https://images.genius.com/ca69b6af01aadb883debfbc24900998d.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Cian Ducrot",
+                    "url": "https://genius.com/artists/Cian-ducrot",
+                    "iq": 488
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 20837068,
+        "annotator_login": "JerrySm1th",
+        "api_path": "/referents/27574131",
+        "classification": "unreviewed",
+        "fragment": "Saturn",
+        "id": 27574131,
+        "is_description": true,
+        "path": "/27574131/Sza-saturn/Saturn",
+        "range": {
+            "content": "Saturn"
+        },
+        "song_id": 8734418,
+        "url": "https://genius.com/27574131/Sza-saturn/Saturn",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8734418",
+            "client_timestamps": {
+                "updated_by_human_at": 1740409905,
+                "lyrics_updated_at": 1740409905
+            },
+            "context": "SZA",
+            "id": 8734418,
+            "image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+            "link_title": "Saturn by\u00a0SZA",
+            "title": "Saturn",
+            "type": "Song",
+            "url": "https://genius.com/Sza-saturn-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/27574131",
+                "body": {
+                    "plain": "This song explains SZA\u2019s confusion of this world. In her mind its dull and how\u2019s she\u2019s tired of the same thing, she also expresses how life is a pattern to her. For example, In Verse 1, its like she craves for something new and how if there\u2019s another universe out there she\u2019s ready for it."
+                },
+                "comment_count": 1,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 27574131,
+                "pinned": false,
+                "share_url": "https://genius.com/27574131",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/27574131/Sza-saturn/Saturn",
+                "verified": false,
+                "votes_total": 96,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/20837068",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/wspqy0scpc",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/wspqy0scpc",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/wspqy0scpc",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/wspqy0scpc",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/stihjio9hr",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 20837068,
+                            "iq": 525,
+                            "login": "JerrySm1th",
+                            "name": "JerrySm1th",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/JerrySm1th",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "szababy2",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/szababy2/saturn"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=V2G8ESoDXm8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/182843",
+            "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+            "id": 182843,
+            "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Carter Lang",
+            "url": "https://genius.com/artists/Carter-lang"
+        },
+        {
+            "api_path": "/artists/1038467",
+            "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+            "id": 1038467,
+            "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rob Bisel",
+            "url": "https://genius.com/artists/Rob-bisel",
+            "iq": 108
+        },
+        {
+            "api_path": "/artists/1712042",
+            "header_image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+            "id": 1712042,
+            "image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Solomonophonic",
+            "url": "https://genius.com/artists/Solomonophonic"
+        },
+        {
+            "api_path": "/artists/1259950",
+            "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+            "id": 1259950,
+            "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Monsune",
+            "url": "https://genius.com/artists/Monsune",
+            "iq": 159
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10088362",
+                    "artist_names": "SZA",
+                    "full_title": "Saturn (Acapella) by\u00a0SZA",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "id": 10088362,
+                    "lyrics_owner_id": 11809232,
+                    "lyrics_state": "complete",
+                    "path": "/Sza-saturn-acapella-lyrics",
+                    "primary_artist_names": "SZA",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sza-saturn-acapella-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Saturn (Acapella)",
+                    "title_with_featured": "Saturn (Acapella)",
+                    "url": "https://genius.com/Sza-saturn-acapella-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/41579",
+                        "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                        "id": 41579,
+                        "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SZA",
+                        "url": "https://genius.com/artists/Sza",
+                        "iq": 6560
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/41579",
+                            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                            "id": 41579,
+                            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SZA",
+                            "url": "https://genius.com/artists/Sza",
+                            "iq": 6560
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/11224573",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2024 (Blame It On The Whiskey) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "id": 11224573,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "title_with_featured": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10542936",
+                    "artist_names": "KIDZ BOP Kids",
+                    "full_title": "Saturn by\u00a0KIDZ\u00a0BOP Kids",
+                    "header_image_thumbnail_url": "https://images.genius.com/e5970de5e400dbfcce96b856f75a88e0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e5970de5e400dbfcce96b856f75a88e0.1000x1000x1.jpg",
+                    "id": 10542936,
+                    "lyrics_owner_id": 20528892,
+                    "lyrics_state": "complete",
+                    "path": "/Kidz-bop-kids-saturn-lyrics",
+                    "primary_artist_names": "KIDZ BOP Kids",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Kidz-bop-kids-saturn-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e5970de5e400dbfcce96b856f75a88e0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e5970de5e400dbfcce96b856f75a88e0.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Saturn",
+                    "title_with_featured": "Saturn",
+                    "url": "https://genius.com/Kidz-bop-kids-saturn-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/353676",
+                        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                        "id": 353676,
+                        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "KIDZ BOP Kids",
+                        "url": "https://genius.com/artists/Kidz-bop-kids"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/353676",
+                            "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+                            "id": 353676,
+                            "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "KIDZ BOP Kids",
+                            "url": "https://genius.com/artists/Kidz-bop-kids"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Sza-saturn-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10088360",
+                    "artist_names": "SZA",
+                    "full_title": "Saturn (Sped Up) by\u00a0SZA",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "id": 10088360,
+                    "lyrics_owner_id": 3936037,
+                    "lyrics_state": "complete",
+                    "path": "/Sza-saturn-sped-up-lyrics",
+                    "primary_artist_names": "SZA",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sza-saturn-sped-up-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Saturn (Sped Up)",
+                    "title_with_featured": "Saturn (Sped Up)",
+                    "url": "https://genius.com/Sza-saturn-sped-up-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/41579",
+                        "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                        "id": 41579,
+                        "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SZA",
+                        "url": "https://genius.com/artists/Sza",
+                        "iq": 6560
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/41579",
+                            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                            "id": 41579,
+                            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SZA",
+                            "url": "https://genius.com/artists/Sza",
+                            "iq": 6560
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10088364",
+                    "artist_names": "SZA",
+                    "full_title": "Saturn (Instrumental) by\u00a0SZA",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "id": 10088364,
+                    "lyrics_owner_id": 11128325,
+                    "lyrics_state": "complete",
+                    "path": "/Sza-saturn-instrumental-lyrics",
+                    "primary_artist_names": "SZA",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Sza-saturn-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Saturn (Instrumental)",
+                    "title_with_featured": "Saturn (Instrumental)",
+                    "url": "https://genius.com/Sza-saturn-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/41579",
+                        "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                        "id": 41579,
+                        "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SZA",
+                        "url": "https://genius.com/artists/Sza",
+                        "iq": 6560
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/41579",
+                            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                            "id": 41579,
+                            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SZA",
+                            "url": "https://genius.com/artists/Sza",
+                            "iq": 6560
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10375963",
+                    "artist_names": "WINAGN",
+                    "full_title": "Slow Dancing on Saturn by\u00a0WINAGN",
+                    "header_image_thumbnail_url": "https://images.genius.com/5807d27004748e3db320f41f6de4db57.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5807d27004748e3db320f41f6de4db57.500x500x1.jpg",
+                    "id": 10375963,
+                    "lyrics_owner_id": 21851811,
+                    "lyrics_state": "complete",
+                    "path": "/Winagn-slow-dancing-on-saturn-lyrics",
+                    "primary_artist_names": "WINAGN",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Winagn-slow-dancing-on-saturn-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 3
+                    },
+                    "release_date_for_display": "May 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5807d27004748e3db320f41f6de4db57.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5807d27004748e3db320f41f6de4db57.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Slow Dancing on Saturn",
+                    "title_with_featured": "Slow Dancing on Saturn",
+                    "url": "https://genius.com/Winagn-slow-dancing-on-saturn-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3944196",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 3944196,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "WINAGN",
+                        "url": "https://genius.com/artists/Winagn"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3944196",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 3944196,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "WINAGN",
+                            "url": "https://genius.com/artists/Winagn"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11423598",
+                    "artist_names": "The Kid UNKN\u00d8WN",
+                    "full_title": "?! SATURN (Remix) ?! by\u00a0The\u00a0Kid UNKN\u00d8WN",
+                    "header_image_thumbnail_url": "https://images.genius.com/71cfaa8342ccc437f063738acd062f04.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/71cfaa8342ccc437f063738acd062f04.1000x1000x1.png",
+                    "id": 11423598,
+                    "lyrics_owner_id": 21277426,
+                    "lyrics_state": "unreleased",
+                    "path": "/The-kid-unknwn-saturn-remix-lyrics",
+                    "primary_artist_names": "The Kid UNKN\u00d8WN",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-kid-unknwn-saturn-remix-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/71cfaa8342ccc437f063738acd062f04.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/71cfaa8342ccc437f063738acd062f04.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "?! SATURN (Remix) ?!",
+                    "title_with_featured": "?! SATURN (Remix) ?!",
+                    "url": "https://genius.com/The-kid-unknwn-saturn-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4086121",
+                        "header_image_url": "https://images.genius.com/88f1c1ef8aa6a307d546f41694a4eacc.1000x563x1.jpg",
+                        "id": 4086121,
+                        "image_url": "https://images.genius.com/d0592082798ac7c8881514ea1f99ff61.492x492x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Kid UNKN\u00d8WN",
+                        "url": "https://genius.com/artists/The-kid-unknwn",
+                        "iq": 10277
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4086121",
+                            "header_image_url": "https://images.genius.com/88f1c1ef8aa6a307d546f41694a4eacc.1000x563x1.jpg",
+                            "id": 4086121,
+                            "image_url": "https://images.genius.com/d0592082798ac7c8881514ea1f99ff61.492x492x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Kid UNKN\u00d8WN",
+                            "url": "https://genius.com/artists/The-kid-unknwn",
+                            "iq": 10277
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10088358",
+                    "artist_names": "SZA",
+                    "full_title": "Saturn (Live) by\u00a0SZA",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "id": 10088358,
+                    "lyrics_owner_id": 3936037,
+                    "lyrics_state": "complete",
+                    "path": "/Sza-saturn-live-lyrics",
+                    "primary_artist_names": "SZA",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Sza-saturn-live-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6c180246deb40340a59aad3c0f6eacd7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Saturn (Live)",
+                    "title_with_featured": "Saturn (Live)",
+                    "url": "https://genius.com/Sza-saturn-live-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/41579",
+                        "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                        "id": 41579,
+                        "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "SZA",
+                        "url": "https://genius.com/artists/Sza",
+                        "iq": 6560
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/41579",
+                            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                            "id": 41579,
+                            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SZA",
+                            "url": "https://genius.com/artists/Sza",
+                            "iq": 6560
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Sza-saturn-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10023063",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "SZA - Saturn (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10023063,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-sza-saturn-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-sza-saturn-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 23
+                    },
+                    "release_date_for_display": "February 23, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 23, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "SZA - Saturn (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-sza-saturn-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10023560",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "SZA - Saturn (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10023560,
+                    "lyrics_owner_id": 6881175,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-sza-saturn-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-sza-saturn-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Traduction Fran\u00e7aise)",
+                    "title_with_featured": "SZA - Saturn (Traduction Fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-sza-saturn-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10067460",
+                    "artist_names": "Genius Korean Translations (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                    "full_title": "SZA - Saturn (\ud55c\uad6d\uc5b4 \ubc88\uc5ed) by\u00a0Genius\u00a0Korean Translations (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10067460,
+                    "lyrics_owner_id": 13168968,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-korean-translations-sza-saturn-lyrics",
+                    "primary_artist_names": "Genius Korean Translations (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-korean-translations-sza-saturn-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                    "title_with_featured": "SZA - Saturn (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                    "url": "https://genius.com/Genius-korean-translations-sza-saturn-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3157533",
+                        "header_image_url": "https://images.genius.com/d1bc872de380ecfa6d590840a314ea72.1000x1000x1.png",
+                        "id": 3157533,
+                        "image_url": "https://images.genius.com/d1bc872de380ecfa6d590840a314ea72.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Korean Translations (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                        "url": "https://genius.com/artists/Genius-korean-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3157533",
+                            "header_image_url": "https://images.genius.com/d1bc872de380ecfa6d590840a314ea72.1000x1000x1.png",
+                            "id": 3157533,
+                            "image_url": "https://images.genius.com/d1bc872de380ecfa6d590840a314ea72.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Korean Translations (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+                            "url": "https://genius.com/artists/Genius-korean-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10067550",
+                    "artist_names": "Genius Pagsasalin Sa Filipino",
+                    "full_title": "SZA - Saturn (Pagsasalin sa Filipino) by\u00a0Genius\u00a0Pagsasalin Sa Filipino",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10067550,
+                    "lyrics_owner_id": 13168968,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-pagsasalin-sa-filipino-sza-saturn-pagsasalin-sa-filipino-lyrics",
+                    "primary_artist_names": "Genius Pagsasalin Sa Filipino",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-pagsasalin-sa-filipino-sza-saturn-pagsasalin-sa-filipino-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Pagsasalin sa Filipino)",
+                    "title_with_featured": "SZA - Saturn (Pagsasalin sa Filipino)",
+                    "url": "https://genius.com/Genius-pagsasalin-sa-filipino-sza-saturn-pagsasalin-sa-filipino-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2792781",
+                        "header_image_url": "https://images.genius.com/ed15ed90265ffdf7f23c74b081d71a7e.781x900x1.jpg",
+                        "id": 2792781,
+                        "image_url": "https://images.genius.com/ae9c7761aac7c7bbc423c2ab6df56b97.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Pagsasalin Sa Filipino",
+                        "url": "https://genius.com/artists/Genius-pagsasalin-sa-filipino"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2792781",
+                            "header_image_url": "https://images.genius.com/ed15ed90265ffdf7f23c74b081d71a7e.781x900x1.jpg",
+                            "id": 2792781,
+                            "image_url": "https://images.genius.com/ae9c7761aac7c7bbc423c2ab6df56b97.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Pagsasalin Sa Filipino",
+                            "url": "https://genius.com/artists/Genius-pagsasalin-sa-filipino"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10093277",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "SZA - Saturn (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10093277,
+                    "lyrics_owner_id": 9318193,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-sza-saturn-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-sza-saturn-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "SZA - Saturn (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-sza-saturn-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11256960",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "SZA - Saturn (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/0a22dc34689c38c15f6f24f70c4be443.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0a22dc34689c38c15f6f24f70c4be443.394x394x1.png",
+                    "id": 11256960,
+                    "lyrics_owner_id": 21968239,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-sza-saturn-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-sza-saturn-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0a22dc34689c38c15f6f24f70c4be443.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0a22dc34689c38c15f6f24f70c4be443.394x394x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Traduzione Italiana)",
+                    "title_with_featured": "SZA - Saturn (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-sza-saturn-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10308441",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "SZA - Saturn (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10308441,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-sza-saturn-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-sza-saturn-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "SZA - Saturn (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-sza-saturn-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10280772",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "SZA - Saturn (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "id": 10280772,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-sza-saturn-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-sza-saturn-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 22
+                    },
+                    "release_date_for_display": "February 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cdde0c68e0ae65fc0f529535e192ebee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "SZA - Saturn (Terjemahan Indonesia)",
+                    "title_with_featured": "SZA - Saturn (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-sza-saturn-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10023063",
+            "id": 10023063,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-sza-saturn-deutsche-ubersetzung-lyrics",
+            "title": "SZA - Saturn (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-sza-saturn-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10023560",
+            "id": 10023560,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-sza-saturn-traduction-francaise-lyrics",
+            "title": "SZA - Saturn (Traduction Fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-sza-saturn-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10067460",
+            "id": 10067460,
+            "language": "ko",
+            "lyrics_state": "complete",
+            "path": "/Genius-korean-translations-sza-saturn-lyrics",
+            "title": "SZA - Saturn (\ud55c\uad6d\uc5b4 \ubc88\uc5ed)",
+            "url": "https://genius.com/Genius-korean-translations-sza-saturn-lyrics"
+        },
+        {
+            "api_path": "/songs/10067550",
+            "id": 10067550,
+            "language": "tl",
+            "lyrics_state": "complete",
+            "path": "/Genius-pagsasalin-sa-filipino-sza-saturn-pagsasalin-sa-filipino-lyrics",
+            "title": "SZA - Saturn (Pagsasalin sa Filipino)",
+            "url": "https://genius.com/Genius-pagsasalin-sa-filipino-sza-saturn-pagsasalin-sa-filipino-lyrics"
+        },
+        {
+            "api_path": "/songs/10093277",
+            "id": 10093277,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-sza-saturn-traducao-em-portugues-lyrics",
+            "title": "SZA - Saturn (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-sza-saturn-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/11256960",
+            "id": 11256960,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-sza-saturn-traduzione-italiana-lyrics",
+            "title": "SZA - Saturn (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-sza-saturn-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10308441",
+            "id": 10308441,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-sza-saturn-traduccion-al-espanol-lyrics",
+            "title": "SZA - Saturn (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-sza-saturn-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10280772",
+            "id": 10280772,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-sza-saturn-terjemahan-indonesia-lyrics",
+            "title": "SZA - Saturn (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-sza-saturn-terjemahan-indonesia-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/41579",
+            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+            "id": 41579,
+            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "SZA",
+            "url": "https://genius.com/artists/Sza",
+            "iq": 6560
+        },
+        {
+            "api_path": "/artists/182843",
+            "header_image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+            "id": 182843,
+            "image_url": "https://images.genius.com/7ab5b84f6fe76501fae33b7fee042e15.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Carter Lang",
+            "url": "https://genius.com/artists/Carter-lang"
+        },
+        {
+            "api_path": "/artists/1712042",
+            "header_image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+            "id": 1712042,
+            "image_url": "https://images.genius.com/eaed1783962c4b4ba33c4b9c92eb6096.553x553x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Solomonophonic",
+            "url": "https://genius.com/artists/Solomonophonic"
+        },
+        {
+            "api_path": "/artists/1038467",
+            "header_image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+            "id": 1038467,
+            "image_url": "https://images.genius.com/035e94b39ba0f6fc2f47b2a6e3663869.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rob Bisel",
+            "url": "https://genius.com/artists/Rob-bisel",
+            "iq": 108
+        },
+        {
+            "api_path": "/artists/1259950",
+            "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+            "id": 1259950,
+            "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Monsune",
+            "url": "https://genius.com/artists/Monsune",
+            "iq": 159
+        },
+        {
+            "api_path": "/artists/1660715",
+            "header_image_url": "https://images.genius.com/54c64966e28ba41c03a3e8db7970ef91.1000x333x1.png",
+            "id": 1660715,
+            "image_url": "https://images.genius.com/ca69b6af01aadb883debfbc24900998d.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Cian Ducrot",
+            "url": "https://genius.com/artists/Cian-ducrot",
+            "iq": 488
+        }
+    ],
+    "artist": "SZA",
+    "lyrics": "112 ContributorsTranslationsDeutschFran\u00e7ais\ud55c\uad6d\uc5b4 (Korean)FilipinoPortugu\u00easItalianoEspa\u00f1olBahasa IndonesiaSaturn Lyrics\nIf there's another universe\nPlease make some noise (Noise)\nGive me a sign (Sign)\nThis can't be life\nIf there's a point to losing love\nRepeating pain (Why?)\nIt's all the same (Same)\nI hate this place\nStuck in this paradigm\nDon't believe in paradise\nThis must be what Hell is like\nThere's got to be more, got to be more\nSick of this head of mine\nIntrusive thoughts, they paralyz\u0435\nNirvana's not as advertised\nTher\u0435's got to be more, been here before\n\nOoh (Ooh, ooh)\nLife's better on Saturn\nGot to break this pattern\nOf floating away\nOoh (Ooh, ooh)\nFind something worth saving\nIt's all for the taking\nI always say\n\nI'll be better on Saturn\nNone of this matters\nDreaming of Saturn, oh\n\nIf karma's really real\nHow am I still here?\nJust seems so unfair\nI could be wrong though\nIf there's a point to being good\nThen where's my reward?\nThe good die young and poor\nI gave it all I could\n\nStuck in this terradome (Ooh)\nAll I see is terrible (Ooh)\nMaking us hysterical (Ooh)\nThere's got to be more, got to be more\nSick of this head of mine (Ooh)\nIntrusive thoughts, they paralyze (Ooh)\nNirvana's not as advertised (Ooh)\nThere's got to be more, been here before\n\nOoh (Ooh, ooh)\nLife's better on Saturn\nGot to break this pattern\nOf floating away\nOoh (Ooh, ooh)\nFind something worth saving\nIt's all for the taking\nI always say\n\nI'll be better on Saturn\nNone of this matters\nDreaming of Saturn, oh\n\n(Ooh, ooh, ooh)\n(Ooh, ooh, ooh)"
+}

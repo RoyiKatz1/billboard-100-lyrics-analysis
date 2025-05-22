@@ -1,0 +1,723 @@
+{
+    "_type": "song",
+    "annotation_count": 16,
+    "api_path": "/songs/10972409",
+    "artist_names": "Rod Wave",
+    "full_title": "25 by\u00a0Rod\u00a0Wave",
+    "header_image_thumbnail_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.1000x1000x1.png",
+    "id": 10972409,
+    "instrumental": false,
+    "lyrics_owner_id": 12377648,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741196121,
+    "path": "/Rod-wave-25-lyrics",
+    "primary_artist_names": "Rod Wave",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Rod-wave-25-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 10,
+        "day": 11
+    },
+    "release_date_for_display": "October 11, 2024",
+    "release_date_with_abbreviated_month_for_display": "Oct. 11, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 31,
+        "iq_earners": 31,
+        "transcribers": 4,
+        "unreviewed_annotations": 16,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 252306
+    },
+    "title": "25",
+    "title_with_featured": "25",
+    "updated_by_human_at": 1745900429,
+    "url": "https://genius.com/Rod-wave-25-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1224811",
+        "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+        "id": 1224811,
+        "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Rod Wave",
+        "url": "https://genius.com/artists/Rod-wave",
+        "iq": 827
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        }
+    ],
+    "apple_music_id": "1772368558",
+    "apple_music_player_url": "https://genius.com/songs/10972409/apple_music_player",
+    "description": {
+        "plain": "In \u201c25,\u201d Rod Wave\u2019s expressing feelings of loneliness and disillusionment as he navigates love and life. He reflects on growing older, grappling with social anxiety, and the challenges of modern relationships. The vibe is introspective, as he longs for connection while feeling worn out by the same old struggles. It\u2019s all about wanting something genuine amidst a confusing dating scene, and questioning if he\u2019s losing his spark."
+    },
+    "embed_content": "<div id='rg_embed_link_10972409' class='rg_embed_link' data-song-id='10972409'>Read <a href='https://genius.com/Rod-wave-25-lyrics'>\u201c25\u201d by Rod\u00a0Wave</a> on Genius</div> <script crossorigin src='//genius.com/songs/10972409/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-10-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c4543c",
+    "song_art_secondary_color": "#54241c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1117127",
+        "cover_art_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.1000x1000x1.png",
+        "full_title": "Last Lap by Rod Wave",
+        "id": 1117127,
+        "name": "Last Lap",
+        "primary_artist_names": "Rod Wave",
+        "release_date_for_display": "October 11, 2024",
+        "url": "https://genius.com/albums/Rod-wave/Last-lap",
+        "artist": {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1224811",
+                "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                "id": 1224811,
+                "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Rod Wave",
+                "url": "https://genius.com/artists/Rod-wave",
+                "iq": 827
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1224811",
+                    "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "id": 1224811,
+                    "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rod Wave",
+                    "url": "https://genius.com/artists/Rod-wave",
+                    "iq": 827
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1224811",
+                    "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "id": 1224811,
+                    "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Rod Wave",
+                    "url": "https://genius.com/artists/Rod-wave",
+                    "iq": 827
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/654788",
+                    "header_image_url": "https://images.genius.com/05b84f2ef4df4abf1a62764b3f011a49.744x202x1.png",
+                    "id": 654788,
+                    "image_url": "https://images.genius.com/1b44a256ef5c19f0fd7de362bf6b3058.884x884x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis Harrington",
+                    "url": "https://genius.com/artists/Travis-harrington"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22411407,
+        "annotator_login": "summerhousesully",
+        "api_path": "/referents/33233445",
+        "classification": "unreviewed",
+        "fragment": "25",
+        "id": 33233445,
+        "is_description": true,
+        "path": "/33233445/Rod-wave-25/25",
+        "range": {
+            "content": "25"
+        },
+        "song_id": 10972409,
+        "url": "https://genius.com/33233445/Rod-wave-25/25",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10972409",
+            "client_timestamps": {
+                "updated_by_human_at": 1745900429,
+                "lyrics_updated_at": 1741196121
+            },
+            "context": "Rod Wave",
+            "id": 10972409,
+            "image_url": "https://images.genius.com/ad8dc818ec92820abb93c508ceb1915e.1000x1000x1.png",
+            "link_title": "25 by\u00a0Rod\u00a0Wave",
+            "title": "25",
+            "type": "Song",
+            "url": "https://genius.com/Rod-wave-25-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33233445",
+                "body": {
+                    "plain": "In \u201c25,\u201d Rod Wave\u2019s expressing feelings of loneliness and disillusionment as he navigates love and life. He reflects on growing older, grappling with social anxiety, and the challenges of modern relationships. The vibe is introspective, as he longs for connection while feeling worn out by the same old struggles. It\u2019s all about wanting something genuine amidst a confusing dating scene, and questioning if he\u2019s losing his spark."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33233445,
+                "pinned": false,
+                "share_url": "https://genius.com/33233445",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33233445/Rod-wave-25/25",
+                "verified": false,
+                "votes_total": 11,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22411407",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "human_readable_role_for_display": null,
+                            "id": 22411407,
+                            "iq": 36,
+                            "login": "summerhousesully",
+                            "name": "summerhousesully",
+                            "role_for_display": null,
+                            "url": "https://genius.com/summerhousesully",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7770942",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/f233d166c592eadb309b0acd48f3e452.1000x265x1.png",
+        "human_readable_role_for_display": "Staff",
+        "id": 7770942,
+        "iq": 285826,
+        "login": "benkeller14",
+        "name": "\u200bbenkeller14",
+        "role_for_display": "staff",
+        "url": "https://genius.com/benkeller14",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/7770942",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/c516f4379b780ec44c978b1310747742",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/f233d166c592eadb309b0acd48f3e452.1000x265x1.png",
+        "human_readable_role_for_display": "Staff",
+        "id": 7770942,
+        "iq": 285826,
+        "login": "benkeller14",
+        "name": "\u200bbenkeller14",
+        "role_for_display": "staff",
+        "url": "https://genius.com/benkeller14",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=VR9qpqBbJJk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2140006",
+            "header_image_url": "https://images.genius.com/a66907e3fc6c5835d410187ede0c8a45.921x921x1.png",
+            "id": 2140006,
+            "image_url": "https://images.genius.com/a66907e3fc6c5835d410187ede0c8a45.921x921x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "EELmatic",
+            "url": "https://genius.com/artists/Eelmatic"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/10283078",
+                    "artist_names": "Tems",
+                    "full_title": "Love Me JeJe by\u00a0Tems",
+                    "header_image_thumbnail_url": "https://images.genius.com/b93836315b4f5687822f984dc8e34b2f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b93836315b4f5687822f984dc8e34b2f.1000x1000x1.png",
+                    "id": 10283078,
+                    "lyrics_owner_id": 6877117,
+                    "lyrics_state": "complete",
+                    "path": "/Tems-love-me-jeje-lyrics",
+                    "primary_artist_names": "Tems",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Tems-love-me-jeje-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 26
+                    },
+                    "release_date_for_display": "April 26, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 26, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b93836315b4f5687822f984dc8e34b2f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b93836315b4f5687822f984dc8e34b2f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 54052
+                    },
+                    "title": "Love Me JeJe",
+                    "title_with_featured": "Love Me JeJe",
+                    "url": "https://genius.com/Tems-love-me-jeje-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1649025",
+                        "header_image_url": "https://images.genius.com/466917520ad8c4d4193b1b666124cc51.801x1000x1.jpg",
+                        "id": 1649025,
+                        "image_url": "https://images.genius.com/449f2f930ad3e75571a44bfc9b207d88.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tems",
+                        "url": "https://genius.com/artists/Tems"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649025",
+                            "header_image_url": "https://images.genius.com/466917520ad8c4d4193b1b666124cc51.801x1000x1.jpg",
+                            "id": 1649025,
+                            "image_url": "https://images.genius.com/449f2f930ad3e75571a44bfc9b207d88.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tems",
+                            "url": "https://genius.com/artists/Tems"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1224811",
+            "header_image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "id": 1224811,
+            "image_url": "https://images.genius.com/4a800d74ab2eb5821156276bd5fa18a3.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rod Wave",
+            "url": "https://genius.com/artists/Rod-wave",
+            "iq": 827
+        },
+        {
+            "api_path": "/artists/1375968",
+            "header_image_url": "https://images.genius.com/922ae5e102546389c79266b9f01216fa.662x662x1.jpg",
+            "id": 1375968,
+            "image_url": "https://images.genius.com/f59aae7a94fe11195a67a15e4cf135c2.662x662x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Spax (Producer)",
+            "url": "https://genius.com/artists/Spax-producer"
+        },
+        {
+            "api_path": "/artists/2140006",
+            "header_image_url": "https://images.genius.com/a66907e3fc6c5835d410187ede0c8a45.921x921x1.png",
+            "id": 2140006,
+            "image_url": "https://images.genius.com/a66907e3fc6c5835d410187ede0c8a45.921x921x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "EELmatic",
+            "url": "https://genius.com/artists/Eelmatic"
+        },
+        {
+            "api_path": "/artists/1649025",
+            "header_image_url": "https://images.genius.com/466917520ad8c4d4193b1b666124cc51.801x1000x1.jpg",
+            "id": 1649025,
+            "image_url": "https://images.genius.com/449f2f930ad3e75571a44bfc9b207d88.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tems",
+            "url": "https://genius.com/artists/Tems"
+        },
+        {
+            "api_path": "/artists/3928358",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3928358,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Seyi Sodimu",
+            "url": "https://genius.com/artists/Seyi-sodimu"
+        },
+        {
+            "api_path": "/artists/174217",
+            "header_image_url": "https://images.genius.com/70f35cbe8226269a7f4fcd121e7bad12.500x500x1.jpg",
+            "id": 174217,
+            "image_url": "https://images.genius.com/70f35cbe8226269a7f4fcd121e7bad12.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "GuiltyBeatz",
+            "url": "https://genius.com/artists/Guiltybeatz"
+        }
+    ],
+    "artist": "Rod Wave",
+    "lyrics": "31 Contributors25 Lyrics\nUh, uh-uh, uh, uh\nOh, do you do this often?\nI know it sound wrong, like, everything I left in Maryland\nI just don't wanna see myself anymore, I don't\nThey, like, they say they miss me and shit, shut up, for real, like, man\nLook, 'kay\n\nDJ, run it back, play my song in this bitch\nVibin' like I'm alone in this bitch, mm\nTit for tat, I got you back, was I wrong for that shit?\nTell me, is we too grown for that shit? Uh\nI wanna lock it in, baby, no weighin' my options\nWanna travel, see the world, gettin' drunk on an island\nWanna settle, start a family, so tell me about it\nAnd you so perfect, baby, don't give nobody that body (Okay)\nSocial anxiety, I fear\nAnd I done been this way for some years\nI don't really get along with my peers\nEverything that they do to me is weird\nSo in a world full of weirdos, fools, and scrubs\nTell me, what is it you're willin' to do for love?\nYou know it's true that the datin' pool is fucked\nAin't nobody out here, baby, it just be us\nAnd I know, and I know, and I know, and I know a broken heart when I see one\nAnd I feel, and I feel, and I feel, and I feel like I love you more\nDid you know? Do you know? Did you know? Do you know I'm a shoulder if you need one?\nWhen I feel what I feel, keep it real, what\u2019s the deal? I'm ready for\nGo somewhere we could be alone, you and me alone\nI remember bein' twenty-one when my life had just begun\nTwenty-two, many things to see and do\nTwenty-three, lookin' forward to twenty-four\nIs it just me or it ain't no love no more?\nTwenty-five, what a time to be alive\nAm I getting old? Why do I feel tired?\nAll the same old things, the same old games\nSame old pain, think it's time for a change 'cause\nCertain shit ain't like me no more\nCertain shit don't excite me no more\nIt don't excite me no more, no\nIt ain't like me no more\nNo more, no more\nNo, no, no, no, no\nCertain shit don't excite me no more\nIt ain't like me no more\nThis ain't like me no more, no\nIt don't excite me no more, uh\n\nUh"
+}

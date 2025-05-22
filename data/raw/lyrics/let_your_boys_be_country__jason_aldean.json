@@ -1,0 +1,827 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9455328",
+    "artist_names": "Jason Aldean",
+    "full_title": "Let Your Boys Be Country by\u00a0Jason\u00a0Aldean",
+    "header_image_thumbnail_url": "https://images.genius.com/f1d66c5d665157c5951da4bf675dac2e.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/f1d66c5d665157c5951da4bf675dac2e.400x400x1.jpg",
+    "id": 9455328,
+    "instrumental": false,
+    "lyrics_owner_id": 3662839,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1712952795,
+    "path": "/Jason-aldean-let-your-boys-be-country-lyrics",
+    "primary_artist_names": "Jason Aldean",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jason-aldean-let-your-boys-be-country-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 8,
+        "day": 25
+    },
+    "release_date_for_display": "August 25, 2023",
+    "release_date_with_abbreviated_month_for_display": "Aug. 25, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f1d66c5d665157c5951da4bf675dac2e.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f1d66c5d665157c5951da4bf675dac2e.400x400x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 5,
+        "iq_earners": 5,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false
+    },
+    "title": "Let Your Boys Be Country",
+    "title_with_featured": "Let Your Boys Be Country",
+    "updated_by_human_at": 1726118592,
+    "url": "https://genius.com/Jason-aldean-let-your-boys-be-country-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/17949",
+        "header_image_url": "https://images.genius.com/f9731d31c2ddec16a459c344d45e21d0.1000x450x1.jpg",
+        "id": 17949,
+        "image_url": "https://images.genius.com/3b275c157a8dd1416dd771624d85a425.588x588x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jason Aldean",
+        "url": "https://genius.com/artists/Jason-aldean"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/17949",
+            "header_image_url": "https://images.genius.com/f9731d31c2ddec16a459c344d45e21d0.1000x450x1.jpg",
+            "id": 17949,
+            "image_url": "https://images.genius.com/3b275c157a8dd1416dd771624d85a425.588x588x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jason Aldean",
+            "url": "https://genius.com/artists/Jason-aldean"
+        }
+    ],
+    "apple_music_id": "1702138463",
+    "apple_music_player_url": "https://genius.com/songs/9455328/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9455328' class='rg_embed_link' data-song-id='9455328'>Read <a href='https://genius.com/Jason-aldean-let-your-boys-be-country-lyrics'>\u201cLet Your Boys Be Country\u201d by Jason\u00a0Aldean</a> on Genius</div> <script crossorigin src='//genius.com/songs/9455328/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-08-25",
+    "current_user_metadata": {
+        "permissions": [
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "see_pageviews",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bc540c",
+    "song_art_secondary_color": "#624910",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1060811",
+        "cover_art_url": "https://images.genius.com/af756620eb855fa3cb7ecd4d12a25a71.1000x1000x1.jpg",
+        "full_title": "Highway Desperado by Jason Aldean",
+        "id": 1060811,
+        "name": "Highway Desperado",
+        "primary_artist_names": "Jason Aldean",
+        "release_date_for_display": "November 3, 2023",
+        "url": "https://genius.com/albums/Jason-aldean/Highway-desperado",
+        "artist": {
+            "api_path": "/artists/17949",
+            "header_image_url": "https://images.genius.com/f9731d31c2ddec16a459c344d45e21d0.1000x450x1.jpg",
+            "id": 17949,
+            "image_url": "https://images.genius.com/3b275c157a8dd1416dd771624d85a425.588x588x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jason Aldean",
+            "url": "https://genius.com/artists/Jason-aldean"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/17949",
+                "header_image_url": "https://images.genius.com/f9731d31c2ddec16a459c344d45e21d0.1000x450x1.jpg",
+                "id": 17949,
+                "image_url": "https://images.genius.com/3b275c157a8dd1416dd771624d85a425.588x588x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Jason Aldean",
+                "url": "https://genius.com/artists/Jason-aldean"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1972556",
+                    "header_image_url": "https://images.genius.com/739f4a98766a4fcd052fede0277da7d6.399x399x1.jpg",
+                    "id": 1972556,
+                    "image_url": "https://images.genius.com/739f4a98766a4fcd052fede0277da7d6.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Johnson",
+                    "url": "https://genius.com/artists/Mike-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/1043955",
+                    "header_image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "id": 1043955,
+                    "image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Micah Wilshire",
+                    "url": "https://genius.com/artists/Micah-wilshire"
+                },
+                {
+                    "api_path": "/artists/41091",
+                    "header_image_url": "https://images.genius.com/bc8649884b67d7bc0e31f6511f2f974b.240x240x1.png",
+                    "id": 41091,
+                    "image_url": "https://images.genius.com/bc8649884b67d7bc0e31f6511f2f974b.240x240x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Knox",
+                    "url": "https://genius.com/artists/Michael-knox"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/440254",
+                    "header_image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+                    "id": 440254,
+                    "image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mickey Jack Cones",
+                    "url": "https://genius.com/artists/Mickey-jack-cones"
+                },
+                {
+                    "api_path": "/artists/1043955",
+                    "header_image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "id": 1043955,
+                    "image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Micah Wilshire",
+                    "url": "https://genius.com/artists/Micah-wilshire"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1059309",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1059309,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Braun",
+                    "url": "https://genius.com/artists/Jeff-braun"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1944520",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1944520,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Epps",
+                    "url": "https://genius.com/artists/Brandon-epps"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1003630",
+                    "header_image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "id": 1003630,
+                    "image_url": "https://images.genius.com/8308bb7cdd0bfcfe2a492a7ce0cb5e92.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Ayan",
+                    "url": "https://genius.com/artists/Adam-ayan"
+                },
+                {
+                    "api_path": "/artists/1944520",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1944520,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Epps",
+                    "url": "https://genius.com/artists/Brandon-epps"
+                },
+                {
+                    "api_path": "/artists/639250",
+                    "header_image_url": "https://images.genius.com/f79e8e75cdae7ef5a7bdb21a52fb7b0e.310x310x1.jpg",
+                    "id": 639250,
+                    "image_url": "https://images.genius.com/f79e8e75cdae7ef5a7bdb21a52fb7b0e.310x310x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peter Coleman",
+                    "url": "https://genius.com/artists/Peter-coleman"
+                }
+            ]
+        },
+        {
+            "label": "Project Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/3082534",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3082534,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shalacy Griffin",
+                    "url": "https://genius.com/artists/Shalacy-griffin"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1506062",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1506062,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rich Redmond",
+                    "url": "https://genius.com/artists/Rich-redmond"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1204046",
+                    "header_image_url": "https://images.genius.com/5467f08c9f0865689e72373061593c89.1000x1000x1.jpg",
+                    "id": 1204046,
+                    "image_url": "https://images.genius.com/5467f08c9f0865689e72373061593c89.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tully Kennedy",
+                    "url": "https://genius.com/artists/Tully-kennedy"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/92172",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 92172,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Shoenfeld",
+                    "url": "https://genius.com/artists/Adam-shoenfeld"
+                },
+                {
+                    "api_path": "/artists/1204047",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1204047,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kurt Allison",
+                    "url": "https://genius.com/artists/Kurt-allison"
+                },
+                {
+                    "api_path": "/artists/1043955",
+                    "header_image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "id": 1043955,
+                    "image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Micah Wilshire",
+                    "url": "https://genius.com/artists/Micah-wilshire"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Bouzouki",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/1136088",
+                    "header_image_url": "https://images.genius.com/4a0eddbe373fd8f250d1051cc1ab0c32.226x226x1.jpg",
+                    "id": 1136088,
+                    "image_url": "https://images.genius.com/4a0eddbe373fd8f250d1051cc1ab0c32.226x226x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tony Harrell",
+                    "url": "https://genius.com/artists/Tony-harrell"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/796398",
+                    "header_image_url": "https://images.genius.com/fc8ba5da6a2abb93fbcf384c0c198bff.350x87x1.jpg",
+                    "id": 796398,
+                    "image_url": "https://images.genius.com/914c4c18bb1bc1b01775d39418865bc3.348x348x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Perry Coleman",
+                    "url": "https://genius.com/artists/Perry-coleman"
+                },
+                {
+                    "api_path": "/artists/1043955",
+                    "header_image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "id": 1043955,
+                    "image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Micah Wilshire",
+                    "url": "https://genius.com/artists/Micah-wilshire"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 3499648,
+        "annotator_login": "AlexanderJamesM",
+        "api_path": "/referents/29370831",
+        "classification": "needs_exegesis",
+        "fragment": "Let Your Boys Be Country",
+        "id": 29370831,
+        "is_description": true,
+        "path": "/29370831/Jason-aldean-let-your-boys-be-country/Let-your-boys-be-country",
+        "range": {
+            "content": "Let Your Boys Be Country"
+        },
+        "song_id": 9455328,
+        "url": "https://genius.com/29370831/Jason-aldean-let-your-boys-be-country/Let-your-boys-be-country",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9455328",
+            "client_timestamps": {
+                "updated_by_human_at": 1726118592,
+                "lyrics_updated_at": 1712952795
+            },
+            "context": "Jason Aldean",
+            "id": 9455328,
+            "image_url": "https://images.genius.com/f1d66c5d665157c5951da4bf675dac2e.400x400x1.jpg",
+            "link_title": "Let Your Boys Be Country by\u00a0Jason\u00a0Aldean",
+            "title": "Let Your Boys Be Country",
+            "type": "Song",
+            "url": "https://genius.com/Jason-aldean-let-your-boys-be-country-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29370831",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 29370831,
+                "pinned": false,
+                "share_url": "https://genius.com/29370831",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/29370831/Jason-aldean-let-your-boys-be-country/Let-your-boys-be-country",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/3499648",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/78009f612c433d3980da50827bb007ce",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/18578d19ddc62eab620152089692ccd5.1000x1000x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 3499648,
+                            "iq": 1952777,
+                            "login": "AlexanderJamesM",
+                            "name": "AlexanderJamesM",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/AlexanderJamesM",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/3662839",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/657955683f50f39d3095d85bda217adf",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/657955683f50f39d3095d85bda217adf",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/657955683f50f39d3095d85bda217adf",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/657955683f50f39d3095d85bda217adf",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/badad6535aa8ad6658e6efdca4f5980d.800x600x1.png",
+        "human_readable_role_for_display": "Moderator",
+        "id": 3662839,
+        "iq": 1435129,
+        "login": "inewton",
+        "name": "wvw",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/inewton",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=QOjoXLw2emw"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/41091",
+            "header_image_url": "https://images.genius.com/bc8649884b67d7bc0e31f6511f2f974b.240x240x1.png",
+            "id": 41091,
+            "image_url": "https://images.genius.com/bc8649884b67d7bc0e31f6511f2f974b.240x240x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Knox",
+            "url": "https://genius.com/artists/Michael-knox"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/985081",
+            "header_image_url": "https://images.genius.com/2a08c0a73578043e231d6923433632bc.1000x634x1.webp",
+            "id": 985081,
+            "image_url": "https://images.genius.com/2ca474c9b073f4dfba2006ca47c890e9.913x913x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Allison Veltz Cruz",
+            "url": "https://genius.com/artists/Allison-veltz-cruz"
+        },
+        {
+            "api_path": "/artists/566218",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 566218,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jaron Boyer",
+            "url": "https://genius.com/artists/Jaron-boyer"
+        },
+        {
+            "api_path": "/artists/1043955",
+            "header_image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+            "id": 1043955,
+            "image_url": "https://images.genius.com/dd484c410a83abc67bfa06bf53d2115e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Micah Wilshire",
+            "url": "https://genius.com/artists/Micah-wilshire"
+        }
+    ],
+    "artist": "Jason Aldean",
+    "lyrics": "5 ContributorsLet Your Boys Be Country Lyrics\nLet your boys be country, let 'em keep that red dirt on his boots\nMake 'em proud of that middle nowhere he's got down in his roots\nLet 'em work in a hayfield sweating for a little summer cash\nRaise 'em hard, raise 'em tough, bring 'em up to have their brother's back\n\nLet 'em ride 'round in trucks, making backroad noise\nLet 'em hang out on Friday, getting wild with the boys\nLet 'em go to the woods in the cold, painted up camo green\nYeah, let 'em chase, l\u0435t 'em fall for a small-town girl\nLet ev\u0435rything inside these county lines be his whole world\nYou want him to grow up to be someone he's damn proud to be\nMamas, let your boys be country\n\nTeach 'em \"Yes, ma'am\" and \"No, ma'am\" and never turn down a cold beer\nTell 'em there ain't nothing greener than the grass you're standing on right here\n\nLet 'em ride 'round in trucks, making backroad noise\nLet 'em hang out on Friday, getting wild with the boys\nLet 'em go to the woods in the cold, painted up camo green\nYeah, let 'em chase, let 'em fall for a small-town girl\nLet everything inside these county lines be his whole world\nYou want him to grow up to be someone he's damn proud to be\nMamas, let your boys be country\n\nMamas, let your boys be country\n\nYeah, let 'em chase, let 'em fall for a small-town girl\nLet everything inside these county lines be his whole world\nYou want him to grow up to be someone he's damn proud to be\nMamas, let your boys be country\nLet 'em ride 'round in trucks, making backroad noise\nLet 'em hang out on Friday, getting wild with the boys\nLet 'em go to the woods in the cold, painted up camo green\nMamas, let your boys be country\n\nLet your boys be country"
+}

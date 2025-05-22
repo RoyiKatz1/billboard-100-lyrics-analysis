@@ -1,0 +1,966 @@
+{
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/10145657",
+    "artist_names": "Chris Brown",
+    "full_title": "Residuals by\u00a0Chris\u00a0Brown",
+    "header_image_thumbnail_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.1000x1000x1.jpg",
+    "id": 10145657,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747181748,
+    "path": "/Chris-brown-residuals-lyrics",
+    "primary_artist_names": "Chris Brown",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Chris-brown-residuals-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 11
+    },
+    "release_date_for_display": "April 11, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 30,
+        "iq_earners": 30,
+        "transcribers": 2,
+        "unreviewed_annotations": 7,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 181658
+    },
+    "title": "Residuals",
+    "title_with_featured": "Residuals",
+    "updated_by_human_at": 1747172892,
+    "url": "https://genius.com/Chris-brown-residuals-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/438",
+        "header_image_url": "https://images.genius.com/75434d5cbc0742d690be202640faf485.1000x441x1.jpg",
+        "id": 438,
+        "image_url": "https://images.genius.com/acaf8b4268f0ad5366b4456cddcbedfa.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chris Brown",
+        "url": "https://genius.com/artists/Chris-brown"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/438",
+            "header_image_url": "https://images.genius.com/75434d5cbc0742d690be202640faf485.1000x441x1.jpg",
+            "id": 438,
+            "image_url": "https://images.genius.com/acaf8b4268f0ad5366b4456cddcbedfa.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Brown",
+            "url": "https://genius.com/artists/Chris-brown"
+        }
+    ],
+    "apple_music_id": "1740206493",
+    "apple_music_player_url": "https://genius.com/songs/10145657/apple_music_player",
+    "description": {
+        "plain": "On \u2018Residuals\u2019, Chris explores the emotional complexity that arises after the end of a relationship. The lyrics reveal a state of confusion and pain, where he finds himself caught between the past and the present. He mentions how his nights have become complicated and his mornings faded, suggesting an ongoing struggle to deal with the lingering feelings of lost love. The beat likely adds to the melancholic and reflective mood, enhancing the themes of nostalgia and unresolved feelings about the relationship."
+    },
+    "embed_content": "<div id='rg_embed_link_10145657' class='rg_embed_link' data-song-id='10145657'>Read <a href='https://genius.com/Chris-brown-residuals-lyrics'>\u201cResiduals\u201d by Chris\u00a0Brown</a> on Genius</div> <script crossorigin src='//genius.com/songs/10145657/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Calabasas Sound, Los Angeles, CA",
+    "release_date": "2024-04-11",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#a66048",
+    "song_art_secondary_color": "#204f73",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1154357",
+        "cover_art_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.1000x1000x1.jpg",
+        "full_title": "11:11 (Deluxe) by Chris Brown",
+        "id": 1154357,
+        "name": "11:11 (Deluxe)",
+        "primary_artist_names": "Chris Brown",
+        "release_date_for_display": "April 11, 2024",
+        "url": "https://genius.com/albums/Chris-brown/11-11-deluxe",
+        "artist": {
+            "api_path": "/artists/438",
+            "header_image_url": "https://images.genius.com/75434d5cbc0742d690be202640faf485.1000x441x1.jpg",
+            "id": 438,
+            "image_url": "https://images.genius.com/acaf8b4268f0ad5366b4456cddcbedfa.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Brown",
+            "url": "https://genius.com/artists/Chris-brown"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/438",
+                "header_image_url": "https://images.genius.com/75434d5cbc0742d690be202640faf485.1000x441x1.jpg",
+                "id": 438,
+                "image_url": "https://images.genius.com/acaf8b4268f0ad5366b4456cddcbedfa.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Chris Brown",
+                "url": "https://genius.com/artists/Chris-brown"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1559631",
+                    "header_image_url": "https://images.genius.com/c8b6cf0e6e69cb10ae233dc0c360e6e4.569x569x1.jpg",
+                    "id": 1559631,
+                    "image_url": "https://images.genius.com/c8b6cf0e6e69cb10ae233dc0c360e6e4.569x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Tucci",
+                    "url": "https://genius.com/artists/Mike-tucci"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/3836637",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3836637,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Little Bird Studios",
+                    "url": "https://genius.com/artists/Little-bird-studios"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/1126088",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1126088,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Crommie",
+                    "url": "https://genius.com/artists/Taylor-crommie"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1126088",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1126088,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Crommie",
+                    "url": "https://genius.com/artists/Taylor-crommie"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/1126088",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1126088,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Crommie",
+                    "url": "https://genius.com/artists/Taylor-crommie"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1126088",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1126088,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taylor Crommie",
+                    "url": "https://genius.com/artists/Taylor-crommie"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3732699",
+                    "header_image_url": "https://images.genius.com/c2cf497eace5168823339f8b10d02d9b.552x552x1.png",
+                    "id": 3732699,
+                    "image_url": "https://images.genius.com/c2cf497eace5168823339f8b10d02d9b.552x552x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Federico Giordano",
+                    "url": "https://genius.com/artists/Federico-giordano"
+                },
+                {
+                    "api_path": "/artists/1164612",
+                    "header_image_url": "https://images.genius.com/c9c80e113081552dfebb9a146e983681.557x557x1.png",
+                    "id": 1164612,
+                    "image_url": "https://images.genius.com/c9c80e113081552dfebb9a146e983681.557x557x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ignacio Portales",
+                    "url": "https://genius.com/artists/Ignacio-portales"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1066945",
+                    "header_image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "id": 1066945,
+                    "image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Teezio",
+                    "url": "https://genius.com/artists/Teezio"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1066945",
+                    "header_image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "id": 1066945,
+                    "image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Teezio",
+                    "url": "https://genius.com/artists/Teezio"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1066945",
+                    "header_image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "id": 1066945,
+                    "image_url": "https://images.genius.com/e469bcb5470cb7bc2ca7b03136679ede.810x810x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Teezio",
+                    "url": "https://genius.com/artists/Teezio"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1559631",
+                    "header_image_url": "https://images.genius.com/c8b6cf0e6e69cb10ae233dc0c360e6e4.569x569x1.jpg",
+                    "id": 1559631,
+                    "image_url": "https://images.genius.com/c8b6cf0e6e69cb10ae233dc0c360e6e4.569x569x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Tucci",
+                    "url": "https://genius.com/artists/Mike-tucci"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                },
+                {
+                    "api_path": "/artists/1685981",
+                    "header_image_url": "https://images.genius.com/3784e5a69d5bdd574dc31ef6b91e2de9.512x288x1.jpg",
+                    "id": 1685981,
+                    "image_url": "https://images.genius.com/6fcac51f8d8a55f7de076c9eeca53aab.396x396x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Brown Entertainment",
+                    "url": "https://genius.com/artists/Chris-brown-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                },
+                {
+                    "api_path": "/artists/1685981",
+                    "header_image_url": "https://images.genius.com/3784e5a69d5bdd574dc31ef6b91e2de9.512x288x1.jpg",
+                    "id": 1685981,
+                    "image_url": "https://images.genius.com/6fcac51f8d8a55f7de076c9eeca53aab.396x396x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Brown Entertainment",
+                    "url": "https://genius.com/artists/Chris-brown-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 11833436,
+        "annotator_login": "tbeazy831",
+        "api_path": "/referents/31104987",
+        "classification": "unreviewed",
+        "fragment": "Residuals",
+        "id": 31104987,
+        "is_description": true,
+        "path": "/31104987/Chris-brown-residuals/Residuals",
+        "range": {
+            "content": "Residuals"
+        },
+        "song_id": 10145657,
+        "url": "https://genius.com/31104987/Chris-brown-residuals/Residuals",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10145657",
+            "client_timestamps": {
+                "updated_by_human_at": 1747172892,
+                "lyrics_updated_at": 1747181748
+            },
+            "context": "Chris Brown",
+            "id": 10145657,
+            "image_url": "https://images.genius.com/889a712c2c1812332f27e37c2840c3f2.1000x1000x1.jpg",
+            "link_title": "Residuals by\u00a0Chris\u00a0Brown",
+            "title": "Residuals",
+            "type": "Song",
+            "url": "https://genius.com/Chris-brown-residuals-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31104987",
+                "body": {
+                    "plain": "On \u2018Residuals\u2019, Chris explores the emotional complexity that arises after the end of a relationship. The lyrics reveal a state of confusion and pain, where he finds himself caught between the past and the present. He mentions how his nights have become complicated and his mornings faded, suggesting an ongoing struggle to deal with the lingering feelings of lost love. The beat likely adds to the melancholic and reflective mood, enhancing the themes of nostalgia and unresolved feelings about the relationship."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31104987,
+                "pinned": false,
+                "share_url": "https://genius.com/31104987",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31104987/Chris-brown-residuals/Residuals",
+                "verified": false,
+                "votes_total": 20,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11833436",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/1otret9ew4r",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/1otret9ew4r",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/1otret9ew4r",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/1otret9ew4r",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/c694633db3fedd0d82fbf49b39987dd1fa0c10468eb3863f25cd05368ad7aba6%2Fwouh4cjsrm",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 11833436,
+                            "iq": 4541,
+                            "login": "tbeazy831",
+                            "name": "tbeazy831",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/tbeazy831",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/126836",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/658334e9b7a0751e1edb7656ce397a55",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/fbd112d652ee2db7cbc6c4c7d81f2a41.1000x563x1.jpg",
+        "human_readable_role_for_display": "Moderator",
+        "id": 126836,
+        "iq": 4964623,
+        "login": "Chloe",
+        "name": "\u1d04\u029c\u029f\u1d0f\u1d07 (eolhC)",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/Chloe",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=46p-IxAVJ74"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/176857",
+            "header_image_url": "https://images.genius.com/bd3b413a53288b2b54ebc801bdaabf2d.400x400x1.jpg",
+            "id": 176857,
+            "image_url": "https://images.genius.com/bd3b413a53288b2b54ebc801bdaabf2d.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Blaq Tuxedo",
+            "url": "https://genius.com/artists/Blaq-tuxedo"
+        },
+        {
+            "api_path": "/artists/27502",
+            "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+            "id": 27502,
+            "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Eric Hudson",
+            "url": "https://genius.com/artists/Eric-hudson"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11687869",
+                    "artist_names": "Claytin",
+                    "full_title": "Residuals by\u00a0Claytin",
+                    "header_image_thumbnail_url": "https://images.genius.com/16a0706df92073b3ecc05e2451efc33b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/16a0706df92073b3ecc05e2451efc33b.640x640x1.jpg",
+                    "id": 11687869,
+                    "lyrics_owner_id": 17335240,
+                    "lyrics_state": "complete",
+                    "path": "/Claytin-residuals-lyrics",
+                    "primary_artist_names": "Claytin",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Claytin-residuals-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 4
+                    },
+                    "release_date_for_display": "April 4, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 4, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16a0706df92073b3ecc05e2451efc33b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/16a0706df92073b3ecc05e2451efc33b.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Residuals",
+                    "title_with_featured": "Residuals",
+                    "url": "https://genius.com/Claytin-residuals-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3225174",
+                        "header_image_url": "https://images.genius.com/d6c1cc46f42a701485dafddd0e34d030.1000x563x1.jpg",
+                        "id": 3225174,
+                        "image_url": "https://images.genius.com/ee598800146ace16f8d15aa017ed50a3.400x400x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Claytin",
+                        "url": "https://genius.com/artists/Claytin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3225174",
+                            "header_image_url": "https://images.genius.com/d6c1cc46f42a701485dafddd0e34d030.1000x563x1.jpg",
+                            "id": 3225174,
+                            "image_url": "https://images.genius.com/ee598800146ace16f8d15aa017ed50a3.400x400x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Claytin",
+                            "url": "https://genius.com/artists/Claytin"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11779227",
+                    "artist_names": "Kh\u0101led Sidd\u012bq",
+                    "full_title": "Residuals by\u00a0Kh\u0101led\u00a0Sidd\u012bq",
+                    "header_image_thumbnail_url": "https://images.genius.com/fe8c5b67cde76fbe873ba5c875416069.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/fe8c5b67cde76fbe873ba5c875416069.686x386x1.jpg",
+                    "id": 11779227,
+                    "lyrics_owner_id": 22394141,
+                    "lyrics_state": "complete",
+                    "path": "/Khaled-siddiq-residuals-lyrics",
+                    "primary_artist_names": "Kh\u0101led Sidd\u012bq",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Khaled-siddiq-residuals-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fe8c5b67cde76fbe873ba5c875416069.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/fe8c5b67cde76fbe873ba5c875416069.686x386x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Residuals",
+                    "title_with_featured": "Residuals",
+                    "url": "https://genius.com/Khaled-siddiq-residuals-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/676753",
+                        "header_image_url": "https://images.genius.com/2b7f1f19bc709221ec1b117797c3dd2c.1000x563x1.jpg",
+                        "id": 676753,
+                        "image_url": "https://images.genius.com/85b766117c3a70b9ac8118f74f51271d.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kh\u0101led Sidd\u012bq",
+                        "url": "https://genius.com/artists/Khaled-siddiq"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/676753",
+                            "header_image_url": "https://images.genius.com/2b7f1f19bc709221ec1b117797c3dd2c.1000x563x1.jpg",
+                            "id": 676753,
+                            "image_url": "https://images.genius.com/85b766117c3a70b9ac8118f74f51271d.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kh\u0101led Sidd\u012bq",
+                            "url": "https://genius.com/artists/Khaled-siddiq"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11582873",
+                    "artist_names": "R. Kelly",
+                    "full_title": "Residuals (Remix) by\u00a0R.\u00a0Kelly",
+                    "header_image_thumbnail_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+                    "id": 11582873,
+                    "lyrics_owner_id": 22872586,
+                    "lyrics_state": "complete",
+                    "path": "/R-kelly-residuals-remix-lyrics",
+                    "primary_artist_names": "R. Kelly",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/R-kelly-residuals-remix-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 10
+                    },
+                    "release_date_for_display": "March 10, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 10, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Residuals (Remix)",
+                    "title_with_featured": "Residuals (Remix)",
+                    "url": "https://genius.com/R-kelly-residuals-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/535",
+                        "header_image_url": "https://images.genius.com/e382b814b00c7da090057bd23e499075.400x400x1.jpg",
+                        "id": 535,
+                        "image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "R. Kelly",
+                        "url": "https://genius.com/artists/R-kelly",
+                        "iq": 1958
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/535",
+                            "header_image_url": "https://images.genius.com/e382b814b00c7da090057bd23e499075.400x400x1.jpg",
+                            "id": 535,
+                            "image_url": "https://images.genius.com/e54b7a47c059f99afc5429a8709acf02.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "R. Kelly",
+                            "url": "https://genius.com/artists/R-kelly",
+                            "iq": 1958
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/438",
+            "header_image_url": "https://images.genius.com/75434d5cbc0742d690be202640faf485.1000x441x1.jpg",
+            "id": 438,
+            "image_url": "https://images.genius.com/acaf8b4268f0ad5366b4456cddcbedfa.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chris Brown",
+            "url": "https://genius.com/artists/Chris-brown"
+        },
+        {
+            "api_path": "/artists/622868",
+            "header_image_url": "https://images.genius.com/44233c7f4d2e128943f0a97b17f18771.750x750x1.jpg",
+            "id": 622868,
+            "image_url": "https://images.genius.com/44233c7f4d2e128943f0a97b17f18771.750x750x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Darius Logan",
+            "url": "https://genius.com/artists/Darius-logan"
+        },
+        {
+            "api_path": "/artists/209461",
+            "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+            "id": 209461,
+            "image_url": "https://images.genius.com/168b2ce1dd8030e0e824577c196fe47b.375x375x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dewain Whitmore",
+            "url": "https://genius.com/artists/Dewain-whitmore"
+        },
+        {
+            "api_path": "/artists/622869",
+            "header_image_url": "https://images.genius.com/73a6ae4f54f67e854b51592b390db601.250x250x1.jpg",
+            "id": 622869,
+            "image_url": "https://images.genius.com/73a6ae4f54f67e854b51592b390db601.250x250x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dominique Logan",
+            "url": "https://genius.com/artists/Dominique-logan"
+        },
+        {
+            "api_path": "/artists/27502",
+            "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+            "id": 27502,
+            "image_url": "https://images.genius.com/15dcc8e6dec36481821d7f3856caa154.388x388x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Eric Hudson",
+            "url": "https://genius.com/artists/Eric-hudson"
+        },
+        {
+            "api_path": "/artists/233680",
+            "header_image_url": "https://images.genius.com/de9517bfd1f924fd7461a3f24bbc78fe.400x400x1.jpg",
+            "id": 233680,
+            "image_url": "https://images.genius.com/951c94e4eaf0b9dba8daf54cb4c0d320.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "SprngBrk",
+            "url": "https://genius.com/artists/Sprngbrk"
+        },
+        {
+            "api_path": "/artists/1206376",
+            "header_image_url": "https://images.genius.com/0a9169f0bcb73be1ada63db814231357.1000x1000x1.png",
+            "id": 1206376,
+            "image_url": "https://images.genius.com/0a9169f0bcb73be1ada63db814231357.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jeremiah Green",
+            "url": "https://genius.com/artists/Jeremiah-green"
+        },
+        {
+            "api_path": "/artists/3909394",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3909394,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lorenzo Gaines",
+            "url": "https://genius.com/artists/Lorenzo-gaines"
+        }
+    ],
+    "artist": "Chris Brown",
+    "lyrics": "30 ContributorsResiduals Lyrics\nDon't know when my nights became so complicated\nCan\u2019t recall my mornings ever bein' this faded\nMaybe this is karma, definition of jaded, oh\nThis stays on my mind, this stays on my mind\nTryna put a muzzle on my crazy feelings\nOne minute I'm cool and then the next, I\u2019m trippin', no\nWith somebody new, I swear she don't deserve this\nWasted on my mind, she's still on my mind\n\nDid we build it up, build it up\nJust to let it wash away?\nTell me, did I lace you up, lace you up\nJust to watch you run away?\n\nPlease tell me who\nWho's gettin' all my love? (Love)\nWho's gettin' all my love?\nTell me who\nWho\u2019s gettin\u2019 all my time?\nAll of that used to be mine, oh\nWho did you teach what I taught ya? (Oh)\nBetter not give him my nickname\nI don't like thinkin\u2019 about it\nI swear that it's wearin' me down, no\nBut tell me who\nWho's gettin\u2019 all of my?\nWho's gettin' all of my residuals?\n\n(Who)\nWho's gettin' all of my?\nWho's gettin' all of my residuals?\n(Who)\nWho's gettin' all of my?\nWho's gettin' all of my residuals?\n\nMade it clear you didn't wanna see the sequel\nI was lyin' when I said the feeling's mutual, oh\nIt took some time to realize that we're different people\nAnd love is blind, I see love is blind\n\nDid we build it up, build it up\nJust to let it wash away?\nAnd tell me, did I lace you up, lace you up\nJust to watch you run away?\n\nPlease tell me who\nWho's gettin' all my love? (Who's gettin'? Love)\nWho's gettin' all my love? (My love)\nAnd tell me who\nWho's gettin' all my time? (My time, no)\nAll of that used to be mine, oh (Believe it)\nWho did you teach what I taught ya? (Oh)\nBetter not give him my nickname\nI don't like thinkin' about it\nI swear that it's wearin' me down, no\nBut tell me who (So tell me who, yeah)\nWho's gettin' all of my? (My)\nWho's gettin' all of my (Oh) residuals?\n\n(Who)\n(Who)"
+}

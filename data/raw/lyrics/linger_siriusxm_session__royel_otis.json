@@ -1,0 +1,542 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10278912",
+    "artist_names": "Royel Otis",
+    "full_title": "Linger (SiriusXM Session) by\u00a0Royel\u00a0Otis",
+    "header_image_thumbnail_url": "https://images.genius.com/00010ad13cc06b82ed7f0c6a7021a34e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/00010ad13cc06b82ed7f0c6a7021a34e.1000x1000x1.png",
+    "id": 10278912,
+    "instrumental": false,
+    "lyrics_owner_id": 5454766,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736460578,
+    "path": "/Royel-otis-linger-siriusxm-session-lyrics",
+    "primary_artist_names": "Royel Otis",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Royel-otis-linger-siriusxm-session-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 10
+    },
+    "release_date_for_display": "April 10, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 10, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/00010ad13cc06b82ed7f0c6a7021a34e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/00010ad13cc06b82ed7f0c6a7021a34e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 2,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 29949
+    },
+    "title": "Linger (SiriusXM Session)",
+    "title_with_featured": "Linger (SiriusXM Session)",
+    "updated_by_human_at": 1736460578,
+    "url": "https://genius.com/Royel-otis-linger-siriusxm-session-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2506360",
+        "header_image_url": "https://images.genius.com/8d0dbb11e2f5009dc0475531a6062fb5.800x267x1.png",
+        "id": 2506360,
+        "image_url": "https://images.genius.com/ff7eb961fa005e27dcbf9ea6de1420ff.999x999x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Royel Otis",
+        "url": "https://genius.com/artists/Royel-otis"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2506360",
+            "header_image_url": "https://images.genius.com/8d0dbb11e2f5009dc0475531a6062fb5.800x267x1.png",
+            "id": 2506360,
+            "image_url": "https://images.genius.com/ff7eb961fa005e27dcbf9ea6de1420ff.999x999x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Royel Otis",
+            "url": "https://genius.com/artists/Royel-otis"
+        }
+    ],
+    "apple_music_id": "1747990434",
+    "apple_music_player_url": "https://genius.com/songs/10278912/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10278912' class='rg_embed_link' data-song-id='10278912'>Read <a href='https://genius.com/Royel-otis-linger-siriusxm-session-lyrics'>\u201cLinger (SiriusXM Session)\u201d by Royel\u00a0Otis</a> on Genius</div> <script crossorigin src='//genius.com/songs/10278912/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "SiriusXM",
+    "release_date": "2024-04-10",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#7f7f7f",
+    "song_art_secondary_color": "#424242",
+    "song_art_text_color": "#fff",
+    "album": null,
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 5454766,
+        "annotator_login": "treavorunion",
+        "api_path": "/referents/31432280",
+        "classification": "needs_exegesis",
+        "fragment": "Linger (SiriusXM Session)",
+        "id": 31432280,
+        "is_description": true,
+        "path": "/31432280/Royel-otis-linger-siriusxm-session/Linger-siriusxm-session",
+        "range": {
+            "content": "Linger (SiriusXM Session)"
+        },
+        "song_id": 10278912,
+        "url": "https://genius.com/31432280/Royel-otis-linger-siriusxm-session/Linger-siriusxm-session",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10278912",
+            "client_timestamps": {
+                "updated_by_human_at": 1736460578,
+                "lyrics_updated_at": 1736460578
+            },
+            "context": "Royel Otis",
+            "id": 10278912,
+            "image_url": "https://images.genius.com/00010ad13cc06b82ed7f0c6a7021a34e.1000x1000x1.png",
+            "link_title": "Linger (SiriusXM Session) by\u00a0Royel\u00a0Otis",
+            "title": "Linger (SiriusXM Session)",
+            "type": "Song",
+            "url": "https://genius.com/Royel-otis-linger-siriusxm-session-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31432280",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31432280,
+                "pinned": false,
+                "share_url": "https://genius.com/31432280",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31432280/Royel-otis-linger-siriusxm-session/Linger-siriusxm-session",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/5454766",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/35fdb45553df67afb057b26aca67422a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/35fdb45553df67afb057b26aca67422a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/35fdb45553df67afb057b26aca67422a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/35fdb45553df67afb057b26aca67422a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/35fdb45553df67afb057b26aca67422a",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 5454766,
+                            "iq": 6721,
+                            "login": "treavorunion",
+                            "name": "treavorunion",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/treavorunion",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=JGUVB19e13s"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/42666",
+            "header_image_url": "https://images.genius.com/4c12a8b7b3a4a000b3c16d06f142a92d.337x450x1.jpg",
+            "id": 42666,
+            "image_url": "https://images.genius.com/4c12a8b7b3a4a000b3c16d06f142a92d.337x450x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Stephen Street",
+            "url": "https://genius.com/artists/Stephen-street"
+        },
+        {
+            "api_path": "/artists/2506360",
+            "header_image_url": "https://images.genius.com/8d0dbb11e2f5009dc0475531a6062fb5.800x267x1.png",
+            "id": 2506360,
+            "image_url": "https://images.genius.com/ff7eb961fa005e27dcbf9ea6de1420ff.999x999x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Royel Otis",
+            "url": "https://genius.com/artists/Royel-otis"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11078134",
+                    "artist_names": "Lil Dre6o",
+                    "full_title": "I Can't Relate by\u00a0Lil\u00a0Dre6o",
+                    "header_image_thumbnail_url": "https://images.genius.com/ab9640f42f66420ee2acacd10a822e33.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ab9640f42f66420ee2acacd10a822e33.1000x1000x1.jpg",
+                    "id": 11078134,
+                    "lyrics_owner_id": 54639,
+                    "lyrics_state": "complete",
+                    "path": "/Lil-dre6o-i-cant-relate-lyrics",
+                    "primary_artist_names": "Lil Dre6o",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lil-dre6o-i-cant-relate-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 31
+                    },
+                    "release_date_for_display": "October 31, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 31, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ab9640f42f66420ee2acacd10a822e33.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ab9640f42f66420ee2acacd10a822e33.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "I Can\u2019t Relate",
+                    "title_with_featured": "I Can't Relate",
+                    "url": "https://genius.com/Lil-dre6o-i-cant-relate-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3229705",
+                        "header_image_url": "https://images.genius.com/290b7782816ff0a5a17a28004447a496.1000x1000x1.jpg",
+                        "id": 3229705,
+                        "image_url": "https://images.genius.com/290b7782816ff0a5a17a28004447a496.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lil Dre6o",
+                        "url": "https://genius.com/artists/Lil-dre6o"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3229705",
+                            "header_image_url": "https://images.genius.com/290b7782816ff0a5a17a28004447a496.1000x1000x1.jpg",
+                            "id": 3229705,
+                            "image_url": "https://images.genius.com/290b7782816ff0a5a17a28004447a496.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lil Dre6o",
+                            "url": "https://genius.com/artists/Lil-dre6o"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/213473",
+                    "artist_names": "The Cranberries",
+                    "full_title": "Linger by\u00a0The\u00a0Cranberries",
+                    "header_image_thumbnail_url": "https://images.genius.com/faeabffde6e1ce2c6ffafe4b5d01d4ab.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/faeabffde6e1ce2c6ffafe4b5d01d4ab.800x800x1.png",
+                    "id": 213473,
+                    "lyrics_owner_id": 150910,
+                    "lyrics_state": "complete",
+                    "path": "/The-cranberries-linger-lyrics",
+                    "primary_artist_names": "The Cranberries",
+                    "pyongs_count": 47,
+                    "relationships_index_url": "https://genius.com/The-cranberries-linger-sample",
+                    "release_date_components": {
+                        "year": 1993,
+                        "month": 2,
+                        "day": 9
+                    },
+                    "release_date_for_display": "February 9, 1993",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 9, 1993",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/faeabffde6e1ce2c6ffafe4b5d01d4ab.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/faeabffde6e1ce2c6ffafe4b5d01d4ab.800x800x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "concurrents": 4,
+                        "hot": false,
+                        "pageviews": 723970
+                    },
+                    "title": "Linger",
+                    "title_with_featured": "Linger",
+                    "url": "https://genius.com/The-cranberries-linger-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/31849",
+                        "header_image_url": "https://images.genius.com/c0d257cdcccbd5798a88089a78b3e9ec.1000x667x1.jpg",
+                        "id": 31849,
+                        "image_url": "https://images.genius.com/e185f008c5845fcf32bdab4f2c4ba2d8.600x600x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Cranberries",
+                        "url": "https://genius.com/artists/The-cranberries"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/31849",
+                            "header_image_url": "https://images.genius.com/c0d257cdcccbd5798a88089a78b3e9ec.1000x667x1.jpg",
+                            "id": 31849,
+                            "image_url": "https://images.genius.com/e185f008c5845fcf32bdab4f2c4ba2d8.600x600x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Cranberries",
+                            "url": "https://genius.com/artists/The-cranberries"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/655116",
+            "header_image_url": "https://images.genius.com/4103d46c41b4b9e8f54c521adeccd0d2.202x231x1.jpg",
+            "id": 655116,
+            "image_url": "https://images.genius.com/4f9fa426e7914565a540cf888ece072e.202x202x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Noel Hogan",
+            "url": "https://genius.com/artists/Noel-hogan"
+        },
+        {
+            "api_path": "/artists/351070",
+            "header_image_url": "https://images.genius.com/bdf0cbfa3cefd4b5f3ef63a02312124e.320x158x1.jpg",
+            "id": 351070,
+            "image_url": "https://images.genius.com/1551ea4cbc69789415c61c061d281781.460x460x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dolores O\u2019Riordan",
+            "url": "https://genius.com/artists/Dolores-oriordan"
+        }
+    ],
+    "artist": "Royel Otis",
+    "lyrics": "6 ContributorsLinger (SiriusXM Session) Lyrics\nIf you, if you could return\nDon't let it burn, don't let it fade\nI'm sure l'm not being rude\nBut it's just your attitude\nAnd it's tearing me apart\nAnd it's ruining every day\nOh, I swore, I swore I would be true\nAnd, honey, so did you\nSo why were you holding her hand?\nIs it just the way we stand?\nWere you lying all the time?\nWas it just a game to you?\n\nBut I'm in so deep\nYou know I'm such a fool for you\nYou got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to\nDo you have to let it linger?\n\nOh, I thought the world of you\nI thought nothing could go wrong\nBut I was wrong, I was wrong\nIf you, if you could get by\nTrying not to lie\nOh, things wouldn't be so confused\nAnd I wouldn't feel so used\nBut you always really knew\nI just wanna be with you\n\nAnd I'm in so deep\nYou know I'm such a fool for you\nYou got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to\nDo you have to let it linger?\n\nYou know I'm such a fool for you\nYou got me wrapped around your finger\nDo you have to let it linger?\nDo you have to, do you have to\nDo you have to let it linger?"
+}

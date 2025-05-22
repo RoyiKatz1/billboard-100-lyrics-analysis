@@ -1,0 +1,673 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/9710221",
+    "artist_names": "Jessie Murph & Teddy Swims",
+    "full_title": "Dirty by\u00a0Jessie\u00a0Murph & Teddy\u00a0Swims",
+    "header_image_thumbnail_url": "https://images.genius.com/4e9bea019c3afcb7647028c6a2ee795b.300x300x1.png",
+    "header_image_url": "https://images.genius.com/4e9bea019c3afcb7647028c6a2ee795b.1000x1000x1.png",
+    "id": 9710221,
+    "instrumental": false,
+    "lyrics_owner_id": 6552113,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741341608,
+    "path": "/Jessie-murph-and-teddy-swims-dirty-lyrics",
+    "primary_artist_names": "Jessie Murph & Teddy Swims",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jessie-murph-and-teddy-swims-dirty-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 2
+    },
+    "release_date_for_display": "August 2, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 2, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4e9bea019c3afcb7647028c6a2ee795b.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/4e9bea019c3afcb7647028c6a2ee795b.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 13,
+        "iq_earners": 13,
+        "transcribers": 3,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 58542
+    },
+    "title": "Dirty",
+    "title_with_featured": "Dirty",
+    "updated_by_human_at": 1741341616,
+    "url": "https://genius.com/Jessie-murph-and-teddy-swims-dirty-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2561089",
+        "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+        "id": 2561089,
+        "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jessie Murph",
+        "url": "https://genius.com/artists/Jessie-murph"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2561089",
+            "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+            "id": 2561089,
+            "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jessie Murph",
+            "url": "https://genius.com/artists/Jessie-murph"
+        },
+        {
+            "api_path": "/artists/1802608",
+            "header_image_url": "https://images.genius.com/b28acf7b9877c3e889d63119f5cf7a11.600x338x300.gif",
+            "id": 1802608,
+            "image_url": "https://images.genius.com/a826518c0e2015340e43257d415dda72.935x935x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Teddy Swims",
+            "url": "https://genius.com/artists/Teddy-swims"
+        }
+    ],
+    "apple_music_id": "1759628012",
+    "apple_music_player_url": "https://genius.com/songs/9710221/apple_music_player",
+    "description": {
+        "plain": "Jessie first teased this song on an Instagram post on November 4th 2023 with the caption \u201cI got no mercy\u201d."
+    },
+    "embed_content": "<div id='rg_embed_link_9710221' class='rg_embed_link' data-song-id='9710221'>Read <a href='https://genius.com/Jessie-murph-and-teddy-swims-dirty-lyrics'>\u201cDirty\u201d by Jessie\u00a0Murph & Teddy\u00a0Swims</a> on Genius</div> <script crossorigin src='//genius.com/songs/9710221/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-02",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#12ecad",
+    "song_art_secondary_color": "#e4a494",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1052283",
+        "cover_art_url": "https://images.genius.com/8e361d0389d11c13945b5918f8f76fce.1000x1000x1.jpg",
+        "full_title": "That Ain't No Man That's The Devil by Jessie Murph",
+        "id": 1052283,
+        "name": "That Ain\u2019t No Man That\u2019s The Devil",
+        "primary_artist_names": "Jessie Murph",
+        "release_date_for_display": "September 6, 2024",
+        "url": "https://genius.com/albums/Jessie-murph/That-ain-t-no-man-that-s-the-devil",
+        "artist": {
+            "api_path": "/artists/2561089",
+            "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+            "id": 2561089,
+            "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jessie Murph",
+            "url": "https://genius.com/artists/Jessie-murph"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2561089",
+                "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                "id": 2561089,
+                "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Jessie Murph",
+                "url": "https://genius.com/artists/Jessie-murph"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/2561089",
+                    "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                    "id": 2561089,
+                    "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jessie Murph",
+                    "url": "https://genius.com/artists/Jessie-murph"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Primary Artists",
+            "artists": [
+                {
+                    "api_path": "/artists/2561089",
+                    "header_image_url": "https://images.genius.com/6d764feba64bb2c622d712b25e13353f.600x338x275.gif",
+                    "id": 2561089,
+                    "image_url": "https://images.genius.com/83d17658f0cd64f83597e77db436aeac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jessie Murph",
+                    "url": "https://genius.com/artists/Jessie-murph"
+                },
+                {
+                    "api_path": "/artists/1802608",
+                    "header_image_url": "https://images.genius.com/b28acf7b9877c3e889d63119f5cf7a11.600x338x300.gif",
+                    "id": 1802608,
+                    "image_url": "https://images.genius.com/a826518c0e2015340e43257d415dda72.935x935x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Teddy Swims",
+                    "url": "https://genius.com/artists/Teddy-swims"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1064758",
+                    "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+                    "id": 1064758,
+                    "image_url": "https://images.genius.com/f123295dac897d23dba57d322fa4d449.242x242x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trevorious",
+                    "url": "https://genius.com/artists/Trevorious"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1064758",
+                    "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+                    "id": 1064758,
+                    "image_url": "https://images.genius.com/f123295dac897d23dba57d322fa4d449.242x242x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trevorious",
+                    "url": "https://genius.com/artists/Trevorious"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/4053544",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4053544,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryan Daste",
+                    "url": "https://genius.com/artists/Bryan-daste"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/28543",
+                    "header_image_url": "https://images.genius.com/66396ff35c2fba9875e60268e4ac4600.1000x262x1.png",
+                    "id": 28543,
+                    "image_url": "https://images.genius.com/d7e09fb7e504d9f418f32a6ee58f07ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OAK",
+                    "url": "https://genius.com/artists/Oak"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/26379",
+                    "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+                    "id": 26379,
+                    "image_url": "https://images.genius.com/3b832346c6882e0fbd94f8df5d5e2aca.583x583x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Zaire Koalo",
+                    "url": "https://genius.com/artists/Zaire-koalo",
+                    "iq": 103
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/21430",
+                    "header_image_url": "https://images.genius.com/48433ea675e7235b2c4bb5868960f217.524x524x1.jpg",
+                    "id": 21430,
+                    "image_url": "https://images.genius.com/48433ea675e7235b2c4bb5868960f217.524x524x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orphanage",
+                    "url": "https://genius.com/artists/The-orphanage"
+                },
+                {
+                    "api_path": "/artists/28543",
+                    "header_image_url": "https://images.genius.com/66396ff35c2fba9875e60268e4ac4600.1000x262x1.png",
+                    "id": 28543,
+                    "image_url": "https://images.genius.com/d7e09fb7e504d9f418f32a6ee58f07ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "OAK",
+                    "url": "https://genius.com/artists/Oak"
+                },
+                {
+                    "api_path": "/artists/647403",
+                    "header_image_url": "https://images.genius.com/8b0d8fbdc4612376f119a703477e058c.855x448x1.png",
+                    "id": 647403,
+                    "image_url": "https://images.genius.com/c0c2220adc58c7bb899460c4abaec814.473x473x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff \u201cGitty\u201d Gitelman",
+                    "url": "https://genius.com/artists/Jeff-gitty-gitelman"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/27712",
+                    "header_image_url": "https://images.genius.com/eef661265a1ae17772f609e6fb7cdfa9.640x640x1.jpg",
+                    "id": 27712,
+                    "image_url": "https://images.genius.com/eef661265a1ae17772f609e6fb7cdfa9.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob Kinelski",
+                    "url": "https://genius.com/artists/Rob-kinelski"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640041",
+                    "header_image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "id": 640041,
+                    "image_url": "https://images.genius.com/aba1d52b55778c3e27a516d0908ca3c3.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dale Becker",
+                    "url": "https://genius.com/artists/Dale-becker"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 20916600,
+        "annotator_login": "averymarie",
+        "api_path": "/referents/30017374",
+        "classification": "unreviewed",
+        "fragment": "Dirty",
+        "id": 30017374,
+        "is_description": true,
+        "path": "/30017374/Jessie-murph-and-teddy-swims-dirty/Dirty",
+        "range": {
+            "content": "Dirty"
+        },
+        "song_id": 9710221,
+        "url": "https://genius.com/30017374/Jessie-murph-and-teddy-swims-dirty/Dirty",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9710221",
+            "client_timestamps": {
+                "updated_by_human_at": 1741341616,
+                "lyrics_updated_at": 1741341608
+            },
+            "context": "Jessie Murph & Teddy Swims",
+            "id": 9710221,
+            "image_url": "https://images.genius.com/4e9bea019c3afcb7647028c6a2ee795b.1000x1000x1.png",
+            "link_title": "Dirty by\u00a0Jessie\u00a0Murph & Teddy\u00a0Swims",
+            "title": "Dirty",
+            "type": "Song",
+            "url": "https://genius.com/Jessie-murph-and-teddy-swims-dirty-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30017374",
+                "body": {
+                    "plain": "Jessie first teased this song on an Instagram post on November 4th 2023 with the caption \u201cI got no mercy\u201d."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30017374,
+                "pinned": false,
+                "share_url": "https://genius.com/30017374",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30017374/Jessie-murph-and-teddy-swims-dirty/Dirty",
+                "verified": false,
+                "votes_total": 1,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/20916600",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/7c6ce662b3d330ba67cc13905a40248b",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/7c6ce662b3d330ba67cc13905a40248b",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/7c6ce662b3d330ba67cc13905a40248b",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/7c6ce662b3d330ba67cc13905a40248b",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/p9fmgrn8cz",
+                            "human_readable_role_for_display": null,
+                            "id": 20916600,
+                            "iq": 128,
+                            "login": "averymarie",
+                            "name": "averymarie",
+                            "role_for_display": null,
+                            "url": "https://genius.com/averymarie",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=0dgWkjA1nmA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/28543",
+            "header_image_url": "https://images.genius.com/66396ff35c2fba9875e60268e4ac4600.1000x262x1.png",
+            "id": 28543,
+            "image_url": "https://images.genius.com/d7e09fb7e504d9f418f32a6ee58f07ca.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OAK",
+            "url": "https://genius.com/artists/Oak"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/26379",
+            "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+            "id": 26379,
+            "image_url": "https://images.genius.com/3b832346c6882e0fbd94f8df5d5e2aca.583x583x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Zaire Koalo",
+            "url": "https://genius.com/artists/Zaire-koalo",
+            "iq": 103
+        },
+        {
+            "api_path": "/artists/647403",
+            "header_image_url": "https://images.genius.com/8b0d8fbdc4612376f119a703477e058c.855x448x1.png",
+            "id": 647403,
+            "image_url": "https://images.genius.com/c0c2220adc58c7bb899460c4abaec814.473x473x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jeff \u201cGitty\u201d Gitelman",
+            "url": "https://genius.com/artists/Jeff-gitty-gitelman"
+        },
+        {
+            "api_path": "/artists/1802608",
+            "header_image_url": "https://images.genius.com/b28acf7b9877c3e889d63119f5cf7a11.600x338x300.gif",
+            "id": 1802608,
+            "image_url": "https://images.genius.com/a826518c0e2015340e43257d415dda72.935x935x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Teddy Swims",
+            "url": "https://genius.com/artists/Teddy-swims"
+        },
+        {
+            "api_path": "/artists/987774",
+            "header_image_url": "https://images.genius.com/b02f84c05caa63a72c88668b2ce1cb0c.955x955x1.jpg",
+            "id": 987774,
+            "image_url": "https://images.genius.com/b02f84c05caa63a72c88668b2ce1cb0c.955x955x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cleo Tighe",
+            "url": "https://genius.com/artists/Cleo-tighe"
+        }
+    ],
+    "artist": "Jessie Murph",
+    "lyrics": "13 ContributorsDirty Lyrics\nNo, woah\n\nI woke up this morning kinda mad\nFlipped a switch, I had the urge to beat your ass\nMm-mm\nTurnin' up you in a different state\nYou fucked it up with me all kinds of ways, I'm mad\nBoy, I'm so mad\n\nYou wanna tell me it was nothing\nWhy don't you tell me I'm a fool?\nSay you're sorry 'bout it\nI would be, too\n\nI got no mercy\nYou don't deserve me, no\nAnd you might be hurtin'\nBut damn it, you hurt me, boy\nSo I'll watch you suffer\nCrawl back to me on broken glass\nAnd you better love her\nRegret will drive a person mad\nI got no mercy\nThat shit was dirty\nDirty, dirty, dirty\n\nWoke me in the middle of the night\nBroken glass and all my shit outside\nGirl, is you out your mind?\nYou swear there's something always going on\nGirl, go ahead and check my phone\nAin't shit you gon' find\n\nOh, I told you it was nothing\nShe was just a friend from school\nNow you're sorry 'bout it\nI would be, too\n\nI got no mercy\nYou don't deserve me, no\nAnd you might be hurtin'\nBut damn it, you hurt me, oh, lord\nSo I'll watch you suffer\nCrawl back to me on broken glass\nAnd you better love her\nRegret will drive a person mad\nI got no mercy\nThat shit was dirty\nMm, dirty, dirty, dirty"
+}

@@ -1,0 +1,1012 @@
+{
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/11040519",
+    "artist_names": "Lil Uzi Vert",
+    "full_title": "Light Year (Practice) by\u00a0Lil\u00a0Uzi Vert",
+    "header_image_thumbnail_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.300x300x1.png",
+    "header_image_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.1000x1000x1.png",
+    "id": 11040519,
+    "instrumental": false,
+    "lyrics_owner_id": 17904299,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747744954,
+    "path": "/Lil-uzi-vert-light-year-practice-lyrics",
+    "primary_artist_names": "Lil Uzi Vert",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Lil-uzi-vert-light-year-practice-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 11,
+        "day": 1
+    },
+    "release_date_for_display": "November 1, 2024",
+    "release_date_with_abbreviated_month_for_display": "Nov. 1, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 83,
+        "iq_earners": 82,
+        "transcribers": 4,
+        "unreviewed_annotations": 23,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 61134
+    },
+    "title": "Light Year (Practice)",
+    "title_with_featured": "Light Year (Practice)",
+    "updated_by_human_at": 1747744954,
+    "url": "https://genius.com/Lil-uzi-vert-light-year-practice-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/217208",
+        "header_image_url": "https://images.genius.com/5ac1a0d07f8610caedc0d33de2d461cb.904x513x1.png",
+        "id": 217208,
+        "image_url": "https://images.genius.com/08d02b33fed7781693145cd10b16828a.862x862x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Uzi Vert",
+        "url": "https://genius.com/artists/Lil-uzi-vert",
+        "iq": 6429
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/217208",
+            "header_image_url": "https://images.genius.com/5ac1a0d07f8610caedc0d33de2d461cb.904x513x1.png",
+            "id": 217208,
+            "image_url": "https://images.genius.com/08d02b33fed7781693145cd10b16828a.862x862x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Uzi Vert",
+            "url": "https://genius.com/artists/Lil-uzi-vert",
+            "iq": 6429
+        }
+    ],
+    "apple_music_id": "1775850268",
+    "apple_music_player_url": "https://genius.com/songs/11040519/apple_music_player",
+    "description": {
+        "plain": "Light Year (Practice) is the second track on Eternal Atake 2. The song was previewed on Uzi\u2019s Instagram story, with a photo of a \u201cconfidential\u201d file that included a tracklist at the bottom. The post has since been deleted from their page."
+    },
+    "embed_content": "<div id='rg_embed_link_11040519' class='rg_embed_link' data-song-id='11040519'>Read <a href='https://genius.com/Lil-uzi-vert-light-year-practice-lyrics'>\u201cLight Year (Practice)\u201d by Lil\u00a0Uzi Vert</a> on Genius</div> <script crossorigin src='//genius.com/songs/11040519/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Jungle City Studios, Manhattan, New York City, NY.",
+    "release_date": "2024-11-01",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#8547b7",
+    "song_art_secondary_color": "#43245c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/714651",
+        "cover_art_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.1000x1000x1.png",
+        "full_title": "Eternal Atake 2 by Lil Uzi Vert",
+        "id": 714651,
+        "name": "Eternal Atake 2",
+        "primary_artist_names": "Lil Uzi Vert",
+        "release_date_for_display": "November 1, 2024",
+        "url": "https://genius.com/albums/Lil-uzi-vert/Eternal-atake-2",
+        "artist": {
+            "api_path": "/artists/217208",
+            "header_image_url": "https://images.genius.com/5ac1a0d07f8610caedc0d33de2d461cb.904x513x1.png",
+            "id": 217208,
+            "image_url": "https://images.genius.com/08d02b33fed7781693145cd10b16828a.862x862x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Uzi Vert",
+            "url": "https://genius.com/artists/Lil-uzi-vert",
+            "iq": 6429
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/217208",
+                "header_image_url": "https://images.genius.com/5ac1a0d07f8610caedc0d33de2d461cb.904x513x1.png",
+                "id": 217208,
+                "image_url": "https://images.genius.com/08d02b33fed7781693145cd10b16828a.862x862x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lil Uzi Vert",
+                "url": "https://genius.com/artists/Lil-uzi-vert",
+                "iq": 6429
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/4243955",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4243955,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Abbie Schneider",
+                    "url": "https://genius.com/artists/Abbie-schneider"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/641198",
+                    "header_image_url": "https://images.genius.com/d160cac77c7cc640865654b36a89c189.809x809x1.jpg",
+                    "id": 641198,
+                    "image_url": "https://images.genius.com/d160cac77c7cc640865654b36a89c189.809x809x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kez Khou",
+                    "url": "https://genius.com/artists/Kez-khou"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2110688",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2110688,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Frank Holland",
+                    "url": "https://genius.com/artists/Frank-holland"
+                },
+                {
+                    "api_path": "/artists/3374828",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3374828,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luke Caponegro",
+                    "url": "https://genius.com/artists/Luke-caponegro"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/7161",
+                    "header_image_url": "https://images.genius.com/b5d8e01bab67679412cc5a454c0e12c3.1000x1000x1.jpg",
+                    "id": 7161,
+                    "image_url": "https://images.genius.com/3d6e3f12630cd3dfdd4647fe8a4c0b61.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MIKE DEAN",
+                    "url": "https://genius.com/artists/Mike-dean"
+                },
+                {
+                    "api_path": "/artists/1294895",
+                    "header_image_url": "https://images.genius.com/b00ce6b18645e1d833afd28bbdff5cd4.1000x1000x1.png",
+                    "id": 1294895,
+                    "image_url": "https://images.genius.com/b00ce6b18645e1d833afd28bbdff5cd4.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Solymar",
+                    "url": "https://genius.com/artists/Sean-solymar"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/7161",
+                    "header_image_url": "https://images.genius.com/b5d8e01bab67679412cc5a454c0e12c3.1000x1000x1.jpg",
+                    "id": 7161,
+                    "image_url": "https://images.genius.com/3d6e3f12630cd3dfdd4647fe8a4c0b61.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MIKE DEAN",
+                    "url": "https://genius.com/artists/Mike-dean"
+                },
+                {
+                    "api_path": "/artists/1294895",
+                    "header_image_url": "https://images.genius.com/b00ce6b18645e1d833afd28bbdff5cd4.1000x1000x1.png",
+                    "id": 1294895,
+                    "image_url": "https://images.genius.com/b00ce6b18645e1d833afd28bbdff5cd4.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Solymar",
+                    "url": "https://genius.com/artists/Sean-solymar"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3783338",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3783338,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Argenis \u201cTrilla\u201d Peguero",
+                    "url": "https://genius.com/artists/Argenis-trilla-peguero"
+                },
+                {
+                    "api_path": "/artists/49698",
+                    "header_image_url": "https://images.genius.com/6af2bf240cf4a4ea492ec10573793186.1000x667x1.jpg",
+                    "id": 49698,
+                    "image_url": "https://images.genius.com/198d834497b4fa39667f137f98ea22ae.552x552x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Cashmere Cat",
+                    "url": "https://genius.com/artists/Cashmere-cat",
+                    "iq": 115
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1147907",
+                    "header_image_url": "https://images.genius.com/b4c6fbb4f99d033451c54e6df3d01f0e.1000x333x1.jpg",
+                    "id": 1147907,
+                    "image_url": "https://images.genius.com/812083754ae7559f92094e4d68bd0a61.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Generation Now",
+                    "url": "https://genius.com/artists/Generation-now"
+                },
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21150872,
+        "annotator_login": "Fuushihzrz",
+        "api_path": "/referents/33412176",
+        "classification": "unreviewed",
+        "fragment": "Light Year (Practice)",
+        "id": 33412176,
+        "is_description": true,
+        "path": "/33412176/Lil-uzi-vert-light-year-practice/Light-year-practice",
+        "range": {
+            "content": "Light Year (Practice)"
+        },
+        "song_id": 11040519,
+        "url": "https://genius.com/33412176/Lil-uzi-vert-light-year-practice/Light-year-practice",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/11040519",
+            "client_timestamps": {
+                "updated_by_human_at": 1747744954,
+                "lyrics_updated_at": 1747744954
+            },
+            "context": "Lil Uzi Vert",
+            "id": 11040519,
+            "image_url": "https://images.genius.com/6561a987f43291749b62b54d6aa989f9.1000x1000x1.png",
+            "link_title": "Light Year (Practice) by\u00a0Lil\u00a0Uzi Vert",
+            "title": "Light Year (Practice)",
+            "type": "Song",
+            "url": "https://genius.com/Lil-uzi-vert-light-year-practice-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33412176",
+                "body": {
+                    "plain": "Light Year (Practice) is the second track on Eternal Atake 2. The song was previewed on Uzi\u2019s Instagram story, with a photo of a \u201cconfidential\u201d file that included a tracklist at the bottom. The post has since been deleted from their page."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33412176,
+                "pinned": false,
+                "share_url": "https://genius.com/33412176",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33412176/Lil-uzi-vert-light-year-practice/Light-year-practice",
+                "verified": false,
+                "votes_total": 16,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.7380952380952381,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21150872",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8f48b0120bc8295e043604dd0f6c3d38",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8f48b0120bc8295e043604dd0f6c3d38",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8f48b0120bc8295e043604dd0f6c3d38",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8f48b0120bc8295e043604dd0f6c3d38",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/8f48b0120bc8295e043604dd0f6c3d38",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21150872,
+                            "iq": 1185,
+                            "login": "Fuushihzrz",
+                            "name": "Fuushihzrz",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Fuushihzrz",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.2619047619047619,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14699471",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/68889efe329c52d7bb9461b386ec694e",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/68889efe329c52d7bb9461b386ec694e",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/68889efe329c52d7bb9461b386ec694e",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/68889efe329c52d7bb9461b386ec694e",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/n28awiggwus",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 14699471,
+                            "iq": 4092,
+                            "login": "eyris",
+                            "name": "eyris",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/eyris",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897239,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "liluzivert",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/liluzivert/light-year-practice"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=_7nCyNDcxvQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1125122",
+            "header_image_url": "https://images.genius.com/c00d706e1459ae0370a6951c5f5cbf92.500x500x1.jpg",
+            "id": 1125122,
+            "image_url": "https://images.genius.com/172eecc925989a043648387c924e3d82.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Brandon Finessin",
+            "url": "https://genius.com/artists/Brandon-finessin"
+        },
+        {
+            "api_path": "/artists/3293083",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3293083,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200euskids",
+            "url": "https://genius.com/artists/Uskids"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11021191",
+                    "artist_names": "Linkerino",
+                    "full_title": "ROAD RAGE by\u00a0Linkerino",
+                    "header_image_thumbnail_url": "https://images.genius.com/4ee20b36d33b91b0c3aa569be6c800b4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4ee20b36d33b91b0c3aa569be6c800b4.569x569x1.png",
+                    "id": 11021191,
+                    "lyrics_owner_id": 21842569,
+                    "lyrics_state": "complete",
+                    "path": "/Linkerino-road-rage-lyrics",
+                    "primary_artist_names": "Linkerino",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Linkerino-road-rage-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 6,
+                        "day": 30
+                    },
+                    "release_date_for_display": "June 30, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 30, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4ee20b36d33b91b0c3aa569be6c800b4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4ee20b36d33b91b0c3aa569be6c800b4.569x569x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "ROAD RAGE",
+                    "title_with_featured": "ROAD RAGE",
+                    "url": "https://genius.com/Linkerino-road-rage-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4147868",
+                        "header_image_url": "https://images.genius.com/cc0529723735fbf940a5d9576108185c.417x417x1.webp",
+                        "id": 4147868,
+                        "image_url": "https://images.genius.com/fb949659451eb2b18e78b01a16317476.417x417x1.webp",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Linkerino",
+                        "url": "https://genius.com/artists/Linkerino"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4147868",
+                            "header_image_url": "https://images.genius.com/cc0529723735fbf940a5d9576108185c.417x417x1.webp",
+                            "id": 4147868,
+                            "image_url": "https://images.genius.com/fb949659451eb2b18e78b01a16317476.417x417x1.webp",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Linkerino",
+                            "url": "https://genius.com/artists/Linkerino"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11532904",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Lil Uzi Vert - Light Year (Practice) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/c948f142d88b6af225054f180f14059d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c948f142d88b6af225054f180f14059d.425x425x1.png",
+                    "id": 11532904,
+                    "lyrics_owner_id": 15603480,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-lil-uzi-vert-light-year-practice-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-lil-uzi-vert-light-year-practice-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 1
+                    },
+                    "release_date_for_display": "November 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c948f142d88b6af225054f180f14059d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c948f142d88b6af225054f180f14059d.425x425x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lil Uzi Vert - Light Year (Practice) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Lil Uzi Vert - Light Year (Practice) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-lil-uzi-vert-light-year-practice-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11060518",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Lil Uzi Vert - Light Year (Practice) (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/273b287c23cc4ff70a4e29bcd6d0b83e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/273b287c23cc4ff70a4e29bcd6d0b83e.999x999x1.png",
+                    "id": 11060518,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-lil-uzi-vert-light-year-practice-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-lil-uzi-vert-light-year-practice-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 1
+                    },
+                    "release_date_for_display": "November 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/273b287c23cc4ff70a4e29bcd6d0b83e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/273b287c23cc4ff70a4e29bcd6d0b83e.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Lil Uzi Vert - Light Year (Practice) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Lil Uzi Vert - Light Year (Practice) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-lil-uzi-vert-light-year-practice-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11532904",
+            "id": 11532904,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-lil-uzi-vert-light-year-practice-lyrics",
+            "title": "Lil Uzi Vert - Light Year (Practice) (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-lil-uzi-vert-light-year-practice-lyrics"
+        },
+        {
+            "api_path": "/songs/11060518",
+            "id": 11060518,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-lil-uzi-vert-light-year-practice-traducao-em-portugues-lyrics",
+            "title": "Lil Uzi Vert - Light Year (Practice) (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-lil-uzi-vert-light-year-practice-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/217208",
+            "header_image_url": "https://images.genius.com/5ac1a0d07f8610caedc0d33de2d461cb.904x513x1.png",
+            "id": 217208,
+            "image_url": "https://images.genius.com/08d02b33fed7781693145cd10b16828a.862x862x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Uzi Vert",
+            "url": "https://genius.com/artists/Lil-uzi-vert",
+            "iq": 6429
+        },
+        {
+            "api_path": "/artists/1125122",
+            "header_image_url": "https://images.genius.com/c00d706e1459ae0370a6951c5f5cbf92.500x500x1.jpg",
+            "id": 1125122,
+            "image_url": "https://images.genius.com/172eecc925989a043648387c924e3d82.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Brandon Finessin",
+            "url": "https://genius.com/artists/Brandon-finessin"
+        },
+        {
+            "api_path": "/artists/3293083",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3293083,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200euskids",
+            "url": "https://genius.com/artists/Uskids"
+        }
+    ],
+    "artist": "Lil Uzi Vert",
+    "lyrics": "83 ContributorsTranslations\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Portugu\u00easLight Year (Practice) Lyrics\nI like real ratchet bitches (Keep goin')\nI mean real ratchet bitches (Brr, keep goin')\nI see all these girls and they lookin' so thick (Keep goin')\nBut I got real racks to get (Real racks to get, I ain't worried 'bout them)\nRick Owen match the bed, yes, I sleep in designer\nEatin' my cereal with ice-ice diamonds, so when I'm eatin' breakfast, I'm shinin' (Yeah)\nTony Hawk, Lil Uzi be grindin'\nDiamonds, they pissy and Issey Raf Simons\nI'ma be litty all the way 'til I'm fifty\nNo, matter fact, sixty, she tryna get with me\nShe suckin' Daytona, and ev\u0435ry time that she go deep throat, it feel like th\u0435 hemi (Feel like hemi)\nAt the least, it's a burst, I don't do no semi\nLike I don't think a purse could hold all these new bands (Let's go)\nLike racks look so dumb in my pants\nI got so much like I need a suitcase, like\nI'm the type of nigga beat my case and the motherfuckin' judge never saw my face\nLook at them now\nKnow it's some niggas that think I'm a clown\nThat's cool, this money can, um, get you down\nBitch, we in Philly with three thousand rounds\nNobody want smoke, we got beef out of town\nNiggas be like, \"Why you always out of town?\"\nShit, I'm on the jet with this pound\n(You know Vert slide in a Q50, R.I.P. Lil Jeff, strapped up like a Bloodhound)\n\nOkay, let's talk 'bout the pape'\nI got all types of cake, I made three M's off eighths\nMade like fifty off hit, and I'm still on my shit, and I'm rich, no debate\nPardon my Wraith, I mean this is a spaceship\nMy girl lookin' good, always think of you lesser\nIn my bedroom and my eyes'll undress her\nHer head on the dresser like, \"Damn, girl, you sexy\"\nShout out my Patek, my Patek my bestie\nBeen ballin' so long, I swear I need an ESPY\nDiamond my neck, yeah, that shit like Wayne Gretzky\nNow he got the switch, but he used to watch Jessie\nDisney Channel, that nigga be catchy\nI'm catchy too, but I watched Ed, Edd n Eddy\nNeed to stretch all these fake-ass niggas 'cause they fetty\nI ain't gon' lie, I don't think that they ready\n\nI don't think that they ready, I don't think that they ready\nI don't think that they ready, I don't think that they ready (Woah)\nThink that they ready, I don't think that they ready\nI don't think that they ready, I don't think that they ready\nI don't think that they ready, I don't think that they ready\nI don't think that they ready, I don't think that they ready\nThink that they ready, I don't think that they ready\nI don't think that they ready, I don't think that they ready\n\nI got the Finn on me just like I'm Jake (Huh?), money all over the place\nDiamonds cleansin' your face just like up, like ovation\nNo, I never fucked your bitch, I'm just smashin' her face\nI got glass on the bezel, got glass on the face\nBut it came like this, it's a factory date\nThese niggas pussy, they soft like a chafer\nIrritatin' that bitch, you so aggravatin'\nFuck you thought, that I lost?\nI'm swaggin', I'm awesome, I'm saucy, my brain, I lost it\nJust like Randy, put my arm out, I Moss \u2018em\nPut a hole in the nigga like a dolphin\nI told my big bro we ain't takin' losses\nI got some secret money in the coffin\nSmokin' the Candy Shop, it got me coughin'\nBitch, it's so hot like I turned on defroster\nI'm fresh off the nitrous, ain't mess up a bit-it\nHow you say that I'm soft when I'm always revealin' you?\nGot sixteen hoes, yeah, guess who's the villain now?\nHe call sixteen hoes, shit, I guess he a dunzo\nNow she be on two drums, on your bongo\nSmoke so much, I don't know where my lungs go\nStand on my money, I'm tall as Mutombo\nCome to my block, yeah, it look like a gunshow\nTrap out apartments, it's only a front door\nPuttin' on for my block 'fore I could leave, fronto\nPut my arms in my hoodie, this shit look like a poncho\nIf I stand on the money, then I'm tall like Hunxho\nLook, I ain't tryna tussle, end of discussion\nMy shooter with me got bodies like he Russian\nFast money, slow money, I don't care, I ain't rushin'\nMy block hot, this shit like an oven\nThis shit like an oven, this shit, it be bustin'\nI ain't Hollywood, do some shit for my cousin (Yeah)\nThat's what I'm posed to, but that shit wasn't nothin'\nI just got a nigga hit for like four or five hundred\nI just came from the A with like four or five buttons\n(Eternal Atake 2)"
+}

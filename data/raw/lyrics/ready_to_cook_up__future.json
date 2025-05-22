@@ -1,0 +1,878 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10607226",
+    "artist_names": "Future",
+    "full_title": "READY TO COOK UP by\u00a0Future",
+    "header_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "id": 10607226,
+    "instrumental": false,
+    "lyrics_owner_id": 10706936,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729836869,
+    "path": "/Future-ready-to-cook-up-lyrics",
+    "primary_artist_names": "Future",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Future-ready-to-cook-up-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 35,
+        "iq_earners": 35,
+        "transcribers": 5,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 47429
+    },
+    "title": "READY TO COOK UP",
+    "title_with_featured": "READY TO COOK UP",
+    "updated_by_human_at": 1729836869,
+    "url": "https://genius.com/Future-ready-to-cook-up-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        }
+    ],
+    "apple_music_id": "1767829644",
+    "apple_music_player_url": "https://genius.com/songs/10607226/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10607226' class='rg_embed_link' data-song-id='10607226'>Read <a href='https://genius.com/Future-ready-to-cook-up-lyrics'>\u201cREADY TO COOK UP\u201d by Future</a> on Genius</div> <script crossorigin src='//genius.com/songs/10607226/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fa5ccf",
+    "song_art_secondary_color": "#fa64e7",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1189209",
+        "cover_art_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+        "full_title": "MIXTAPE PLUTO by Future",
+        "id": 1189209,
+        "name": "MIXTAPE PLUTO",
+        "primary_artist_names": "Future",
+        "release_date_for_display": "September 20, 2024",
+        "url": "https://genius.com/albums/Future/Mixtape-pluto",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/4148812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4148812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Spence",
+                    "url": "https://genius.com/artists/Dylan-spence"
+                },
+                {
+                    "api_path": "/artists/3491950",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3491950,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kai Sato",
+                    "url": "https://genius.com/artists/Kai-sato"
+                },
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/3103472",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3103472,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Dunn",
+                    "url": "https://genius.com/artists/James-dunn"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1963500",
+                    "header_image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "id": 1963500,
+                    "image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicolas de Porcel",
+                    "url": "https://genius.com/artists/Nicolas-de-porcel"
+                },
+                {
+                    "api_path": "/artists/2803023",
+                    "header_image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "id": 2803023,
+                    "image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Demitrius Lewis II",
+                    "url": "https://genius.com/artists/Demitrius-lewis-ii"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/640014",
+                    "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "id": 640014,
+                    "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mixed by Ali",
+                    "url": "https://genius.com/artists/Mixed-by-ali"
+                },
+                {
+                    "api_path": "/artists/2981840",
+                    "header_image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "id": 2981840,
+                    "image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Blatz",
+                    "url": "https://genius.com/artists/Brandon-blatz"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/655127",
+                    "header_image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "id": 655127,
+                    "image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Manco",
+                    "url": "https://genius.com/artists/Eric-manco"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 18337684,
+        "annotator_login": "shark",
+        "api_path": "/referents/34727700",
+        "classification": "needs_exegesis",
+        "fragment": "READY TO COOK UP",
+        "id": 34727700,
+        "is_description": true,
+        "path": "/34727700/Future-ready-to-cook-up/Ready-to-cook-up",
+        "range": {
+            "content": "READY TO COOK UP"
+        },
+        "song_id": 10607226,
+        "url": "https://genius.com/34727700/Future-ready-to-cook-up/Ready-to-cook-up",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10607226",
+            "client_timestamps": {
+                "updated_by_human_at": 1729836869,
+                "lyrics_updated_at": 1729836869
+            },
+            "context": "Future",
+            "id": 10607226,
+            "image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+            "link_title": "READY TO COOK UP by\u00a0Future",
+            "title": "READY TO COOK UP",
+            "type": "Song",
+            "url": "https://genius.com/Future-ready-to-cook-up-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/34727700",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 34727700,
+                "pinned": false,
+                "share_url": "https://genius.com/34727700",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/34727700/Future-ready-to-cook-up/Ready-to-cook-up",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/18337684",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/0f909c30e8a507b71e44175ab32d9419",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/0f909c30e8a507b71e44175ab32d9419",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/0f909c30e8a507b71e44175ab32d9419",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/0f909c30e8a507b71e44175ab32d9419",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/8e763b44ff4c49243c90072670f7446a.700x394x131.gif",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 18337684,
+                            "iq": 300141,
+                            "login": "shark",
+                            "name": "shark god\ud83e\udd88",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/shark",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=bfrWxhy6rMA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/2570218",
+            "header_image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "id": 2570218,
+            "image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Juke Wong",
+            "url": "https://genius.com/artists/Juke-wong"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10909023",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Future - READY TO COOK UP (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "id": 10909023,
+                    "lyrics_owner_id": 21506730,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-future-ready-to-cook-up-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-future-ready-to-cook-up-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - READY TO COOK UP (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Future - READY TO COOK UP (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-future-ready-to-cook-up-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11750680",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Future - READY TO COOK UP (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.882x882x1.png",
+                    "id": 11750680,
+                    "lyrics_owner_id": 9318193,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-future-ready-to-cook-up-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-future-ready-to-cook-up-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b9514a6dc8933e33dd6dff7f5896f062.882x882x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future - READY TO COOK UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Future - READY TO COOK UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-future-ready-to-cook-up-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10909023",
+            "id": 10909023,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-future-ready-to-cook-up-traduction-francaise-lyrics",
+            "title": "Future - READY TO COOK UP (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-future-ready-to-cook-up-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/11750680",
+            "id": 11750680,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-future-ready-to-cook-up-traducao-em-portugues-lyrics",
+            "title": "Future - READY TO COOK UP (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-future-ready-to-cook-up-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/2570218",
+            "header_image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "id": 2570218,
+            "image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Juke Wong",
+            "url": "https://genius.com/artists/Juke-wong"
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "35 ContributorsTranslationsFran\u00e7aisPortugu\u00easREADY TO COOK UP Lyrics\nReady, ready, ready, ready to cook up\nUh, I'm ready to cook up (Got that dope)\nReady, ready, ready, I'm ready to cook up (Yeah)\nReady, ready, ready, I'm ready to cook up (Mixtape Pluto)\n\nCut the Rolls-Royce truck in half, pull up Spectre\nI'm gettin' certain amount of cash, look like a sex symbol (Yeah)\nHeard my name been ringin' bells 'cause I'm a gang member\nCan't say too much on these tracks 'cause I'm with gravediggers (Ayy, say, gang)\nNeed a 'script for 'methazine and some pain pills (And some pain pills)\nI got fame, but with these streets, nigga, I stay real\nThey got switches on these glees, I feel safe here (Feel safe)\nYoung nigga put you on a tee, you a plate for real (Ayy, say, gang)\n\nJumped inside the water, spent some dollars on a 'vert (Ayy, say, gang, ayy, say, gang)\nGot a thousand pounds on order, told 'em, \"Hit that shit with terps\"\nPaid a thousand for a line of Wock', just poured a cup of syrup\nI been cookin' dope so long, it smell like cocaine on my shirt\nNiggas don't pop no pills no more, they ready to crush and snort the Perc'\nMight pull up in helicopter, dressin' like I'm going to church (Ayy, say, gang)\nEighty-pointer diamonds shining, solitaires on my shirt (Fuck these hoes, bruh)\nSaid the hood ain't want the Quagen, so we had to send the turtle\n\nCut the Rolls-Royce truck in half, pull up Spectre (Ayy, say, gang)\nI'm gettin' certain amount of cash, look like a sex symbol (Want a lil' somethin')\nHeard my name been ringin' bells 'cause I'm a gang member\nCan't say too much on these tracks 'cause I'm with gravediggers (Yeah, yeah)\nNeed a 'script for 'methazine and some pain pills (Say, my dogs)\nI got fame, but with these streets, nigga, I stay real\nThey got switches on these glees, I feel safe here (Ayy, say, gang)\nYoung nigga put you on a tee, you a plate for real\n\nEvery day, we been gettin' throwed, sippin' Texas (Ayy, say, gang)\nOn the wrong side of the road, drivin' reckless\nI know how to use a Pyrex, I finesse it (Ayy, say, gang)\nTake the dirty money, clean it at the washhouse\nSo many bad bitches, this come with the lifestyle (We some rockstars)\nWhen you fly like a pilot, bring the pipe out (Bring that chopper)\nI'll post up in another nigga hood, all my ice out (Brrt, brrt)\nTotin' the stick like a guitar, ready to rock out (Brrt, brrt)\n\nCut the Rolls-Royce truck in half, pull up Spectre (Ayy, say, gang)\nI'm gettin' certain amount of cash, look like a sex symbol\nHeard my name been ringin' bells 'cause I'm a gang member\nCan't say too much on these tracks 'cause I'm with gravediggers\nNeed a 'script for 'methazine and some pain pills (Ayy, say, gang)\nI got fame, but with these streets, nigga, I stay real\nThey got switches on these glees, I feel safe here\nYoung nigga put you on a tee, you a plate for real"
+}

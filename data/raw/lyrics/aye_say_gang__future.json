@@ -1,0 +1,934 @@
+{
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/10894200",
+    "artist_names": "Future",
+    "full_title": "AYE SAY GANG by\u00a0Future",
+    "header_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "id": 10894200,
+    "instrumental": false,
+    "lyrics_owner_id": 7461491,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1744409758,
+    "path": "/Future-aye-say-gang-lyrics",
+    "primary_artist_names": "Future",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Future-aye-say-gang-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 33,
+        "iq_earners": 33,
+        "transcribers": 6,
+        "unreviewed_annotations": 8,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 41950
+    },
+    "title": "AYE SAY GANG",
+    "title_with_featured": "AYE SAY GANG",
+    "updated_by_human_at": 1744399494,
+    "url": "https://genius.com/Future-aye-say-gang-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        }
+    ],
+    "apple_music_id": "1767830041",
+    "apple_music_player_url": "https://genius.com/songs/10894200/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10894200' class='rg_embed_link' data-song-id='10894200'>Read <a href='https://genius.com/Future-aye-say-gang-lyrics'>\u201cAYE SAY GANG\u201d by Future</a> on Genius</div> <script crossorigin src='//genius.com/songs/10894200/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fa5ccf",
+    "song_art_secondary_color": "#fa64e7",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1189209",
+        "cover_art_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+        "full_title": "MIXTAPE PLUTO by Future",
+        "id": 1189209,
+        "name": "MIXTAPE PLUTO",
+        "primary_artist_names": "Future",
+        "release_date_for_display": "September 20, 2024",
+        "url": "https://genius.com/albums/Future/Mixtape-pluto",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3103472",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3103472,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Dunn",
+                    "url": "https://genius.com/artists/James-dunn"
+                },
+                {
+                    "api_path": "/artists/3491950",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3491950,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kai Sato",
+                    "url": "https://genius.com/artists/Kai-sato"
+                },
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/4148812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4148812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Spence",
+                    "url": "https://genius.com/artists/Dylan-spence"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1963500",
+                    "header_image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "id": 1963500,
+                    "image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicolas de Porcel",
+                    "url": "https://genius.com/artists/Nicolas-de-porcel"
+                },
+                {
+                    "api_path": "/artists/2803023",
+                    "header_image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "id": 2803023,
+                    "image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Demitrius Lewis II",
+                    "url": "https://genius.com/artists/Demitrius-lewis-ii"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2981840",
+                    "header_image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "id": 2981840,
+                    "image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Blatz",
+                    "url": "https://genius.com/artists/Brandon-blatz"
+                },
+                {
+                    "api_path": "/artists/640014",
+                    "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "id": 640014,
+                    "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mixed by Ali",
+                    "url": "https://genius.com/artists/Mixed-by-ali"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/655127",
+                    "header_image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "id": 655127,
+                    "image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Manco",
+                    "url": "https://genius.com/artists/Eric-manco"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 14240235,
+        "annotator_login": "redbottomrashad",
+        "api_path": "/referents/33020077",
+        "classification": "needs_exegesis",
+        "fragment": "AYE SAY GANG",
+        "id": 33020077,
+        "is_description": true,
+        "path": "/33020077/Future-aye-say-gang/Aye-say-gang",
+        "range": {
+            "content": "AYE SAY GANG"
+        },
+        "song_id": 10894200,
+        "url": "https://genius.com/33020077/Future-aye-say-gang/Aye-say-gang",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10894200",
+            "client_timestamps": {
+                "updated_by_human_at": 1744399494,
+                "lyrics_updated_at": 1744409758
+            },
+            "context": "Future",
+            "id": 10894200,
+            "image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+            "link_title": "AYE SAY GANG by\u00a0Future",
+            "title": "AYE SAY GANG",
+            "type": "Song",
+            "url": "https://genius.com/Future-aye-say-gang-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33020077",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 33020077,
+                "pinned": false,
+                "share_url": "https://genius.com/33020077",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/33020077/Future-aye-say-gang/Aye-say-gang",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14240235",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/n3irwy7q5fc",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/n3irwy7q5fc",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/n3irwy7q5fc",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/n3irwy7q5fc",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/cfok3hzwno4",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 14240235,
+                            "iq": 233585,
+                            "login": "redbottomrashad",
+                            "name": "redbottomrashad",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/redbottomrashad",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/2976672",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
+        "human_readable_role_for_display": "Staff",
+        "id": 2976672,
+        "iq": 476152,
+        "login": "Gary",
+        "name": "Gary",
+        "role_for_display": "staff",
+        "url": "https://genius.com/Gary",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/2976672",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
+        "human_readable_role_for_display": "Staff",
+        "id": 2976672,
+        "iq": 476152,
+        "login": "Gary",
+        "name": "Gary",
+        "role_for_display": "staff",
+        "url": "https://genius.com/Gary",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=-rW1H07HVcQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/46012",
+            "header_image_url": "https://images.genius.com/db98a6017c5179f6fb3d62a59b3b5b7c.912x912x1.jpg",
+            "id": 46012,
+            "image_url": "https://images.genius.com/db98a6017c5179f6fb3d62a59b3b5b7c.912x912x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Neenyo",
+            "url": "https://genius.com/artists/Neenyo",
+            "iq": 591
+        },
+        {
+            "api_path": "/artists/59345",
+            "header_image_url": "https://images.genius.com/ecca87c140a1438c76620ddeafec3b8e.620x413x1.jpg",
+            "id": 59345,
+            "image_url": "https://images.genius.com/ecca87c140a1438c76620ddeafec3b8e.620x413x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Che Pope",
+            "url": "https://genius.com/artists/Che-pope"
+        },
+        {
+            "api_path": "/artists/2570218",
+            "header_image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "id": 2570218,
+            "image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Juke Wong",
+            "url": "https://genius.com/artists/Juke-wong"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/5300705",
+                    "artist_names": "Jay Cooper",
+                    "full_title": "NOBODY / A Place to Vent by\u00a0Jay\u00a0Cooper",
+                    "header_image_thumbnail_url": "https://images.genius.com/8cf3b91bdcb9aeadff6da3bdb8dea8bc.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8cf3b91bdcb9aeadff6da3bdb8dea8bc.1000x1000x1.jpg",
+                    "id": 5300705,
+                    "lyrics_owner_id": 9113403,
+                    "lyrics_state": "complete",
+                    "path": "/Jay-cooper-nobody-a-place-to-vent-lyrics",
+                    "primary_artist_names": "Jay Cooper",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jay-cooper-nobody-a-place-to-vent-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8cf3b91bdcb9aeadff6da3bdb8dea8bc.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8cf3b91bdcb9aeadff6da3bdb8dea8bc.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "NOBODY / A Place to Vent",
+                    "title_with_featured": "NOBODY / A Place to Vent",
+                    "url": "https://genius.com/Jay-cooper-nobody-a-place-to-vent-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1770217",
+                        "header_image_url": "https://images.genius.com/09b2881bfba8c198121bc6ccff244a5b.1000x1000x1.jpg",
+                        "id": 1770217,
+                        "image_url": "https://images.genius.com/1e546b90d49a862e6414218a5c66191f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Jay Cooper",
+                        "url": "https://genius.com/artists/Jay-cooper"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1770217",
+                            "header_image_url": "https://images.genius.com/09b2881bfba8c198121bc6ccff244a5b.1000x1000x1.jpg",
+                            "id": 1770217,
+                            "image_url": "https://images.genius.com/1e546b90d49a862e6414218a5c66191f.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Jay Cooper",
+                            "url": "https://genius.com/artists/Jay-cooper"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 26,
+                    "api_path": "/songs/11302442",
+                    "artist_names": "Lil Baby, Young Thug & Future",
+                    "full_title": "Dum, Dumb, and Dumber by\u00a0Lil\u00a0Baby, Young\u00a0Thug & Future",
+                    "header_image_thumbnail_url": "https://images.genius.com/b3673a7ff03af6e0dc28323c6315eb13.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b3673a7ff03af6e0dc28323c6315eb13.999x999x1.png",
+                    "id": 11302442,
+                    "lyrics_owner_id": 18337684,
+                    "lyrics_state": "complete",
+                    "path": "/Lil-baby-young-thug-and-future-dum-dumb-and-dumber-lyrics",
+                    "primary_artist_names": "Lil Baby, Young Thug & Future",
+                    "pyongs_count": 6,
+                    "relationships_index_url": "https://genius.com/Lil-baby-young-thug-and-future-dum-dumb-and-dumber-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 3
+                    },
+                    "release_date_for_display": "January 3, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 3, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b3673a7ff03af6e0dc28323c6315eb13.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b3673a7ff03af6e0dc28323c6315eb13.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 22,
+                        "hot": false,
+                        "pageviews": 170576
+                    },
+                    "title": "Dum, Dumb, and Dumber",
+                    "title_with_featured": "Dum, Dumb, and Dumber",
+                    "url": "https://genius.com/Lil-baby-young-thug-and-future-dum-dumb-and-dumber-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1110328",
+                        "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+                        "id": 1110328,
+                        "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Lil Baby",
+                        "url": "https://genius.com/artists/Lil-baby",
+                        "iq": 3834
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1110328",
+                            "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+                            "id": 1110328,
+                            "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lil Baby",
+                            "url": "https://genius.com/artists/Lil-baby",
+                            "iq": 3834
+                        },
+                        {
+                            "api_path": "/artists/20503",
+                            "header_image_url": "https://images.genius.com/f2bec9a041df300f30a8377aaaaf851f.1000x1000x1.png",
+                            "id": 20503,
+                            "image_url": "https://images.genius.com/a745759c28839f21ed078e9cc148d986.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Young Thug",
+                            "url": "https://genius.com/artists/Young-thug"
+                        },
+                        {
+                            "api_path": "/artists/2197",
+                            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                            "id": 2197,
+                            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Future",
+                            "url": "https://genius.com/artists/Future",
+                            "iq": 5038
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/46012",
+            "header_image_url": "https://images.genius.com/db98a6017c5179f6fb3d62a59b3b5b7c.912x912x1.jpg",
+            "id": 46012,
+            "image_url": "https://images.genius.com/db98a6017c5179f6fb3d62a59b3b5b7c.912x912x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Neenyo",
+            "url": "https://genius.com/artists/Neenyo",
+            "iq": 591
+        },
+        {
+            "api_path": "/artists/59345",
+            "header_image_url": "https://images.genius.com/ecca87c140a1438c76620ddeafec3b8e.620x413x1.jpg",
+            "id": 59345,
+            "image_url": "https://images.genius.com/ecca87c140a1438c76620ddeafec3b8e.620x413x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Che Pope",
+            "url": "https://genius.com/artists/Che-pope"
+        },
+        {
+            "api_path": "/artists/2570218",
+            "header_image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "id": 2570218,
+            "image_url": "https://images.genius.com/8ff87a024cb6fb1f7a245c718ed3aa2f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Juke Wong",
+            "url": "https://genius.com/artists/Juke-wong"
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "33 ContributorsAYE SAY GANG Lyrics\nPluto, yeah, Pluto, yeah (Yeah)\nPluto, yeah (Ayy, say gang)\n\nFifteen karat wedding ring, ain't even married yet (Ayy, say gang)\nI just bought a bad bitch, I'm such a cash man (Ayy, say gang)\nCountin' up so much dog shit it look like cow shit (Ayy, say gang)\nJust popped another X pill, I need to be cautious (Ayy, say gang)\nShorty want it down in her lungs, chew a nigga up like gum (What up?)\nSkeeted until I got numb, I was so high, I couldn't feel when I cum (Ayy, say gang)\nTrap full of bricks and bread, came from the blocks servin' crumbs (Yeah)\nSeven dollar pull up in the slum, gotta motivate a young nigga doin' numbers\n\nYoungin put a switch on a gun, head off, sound like a bomb (Brrt)\nSlime a bitch out, of course, promise I ain't never gon' turn on my brother\nEverything goes, ain't gotta snipe no hoes\nWent through the lows, now I'm 'bout to go and cop 'em both\nCooking out the Pyrex, young nigga sippin' on Hi-Tech\nFly like a pilot, custom made Louis, all ostrich\nWent and got a gaffer, ain't have to sell my masters\nRiding with a smacker, turn your little kid to a bastard (What it do?)\nWhole lot of cash, yeah, it barely can fit in the bag (Yeah)\nCount up these bands, yeah, count up so fast they crash (Ayy)\nI got these suicide bombers, they ready to smash (Suicide)\nWipe a nigga nostril, wasn't nothing but an imposter (Yeah)\nTop Don Dada, so I got a bad bitch roster (Yeah, yeah)\nSoon as I pulled up, everybody 'round me poured up\nThe drink got no cut, fuck around, a nigga might doze off\nSpot with no furniture, walk through the bitch got bowls out (Yeah)\nLook like a stash spot, this that one, we roll out\nThe one you don't know about, she so bad she don't need no clout\n\nFifteen karat wedding ring, ain't even married yet (Hold on)\nI just bought a bad bitch, I'm such a cash man (Ayy, say gang)\nCountin' up so much dog shit it look like cow shit\nJust popped another X pill, I need to be cautious (Ayy, say gang)\nShorty want it down in her lungs, chew a nigga up like gum (What up?)\nSkeeted until I got numb, I was so high, couldn't feel when I cum (Ayy, say gang)\nTrap full of bricks and bread, ayy (Ski), came from the block servin' crumbs (Yeah)\nSeven dollar pull up in the slum, that'll motivate 'em, young nigga doin' numbers (Ayy, say gang)\n\nWalk outside the bank, look like a robbery now (Ayy, say)\nFive thousand a pint, I'm bout to drank five thou' (Ayy, say)\nMillion dollar whips and then some public housing (Ayy, say)\nI can change the flow up, I got different styles (Ayy, say gang)\nTook the G to seven, I'm too high in the clouds (Ayy, say)\nForty-seven strippers tryna blow me down (Ayy, say)\nTook the G to seven, I'm too high in the clouds (Ayy, say)\nFive thousand a pint, I'm bout to drank five thou' (Ayy, say gang)\n\nYou don't feel what I feel for me\nRuns dry, baby\nMy love runs dry, baby\nSee me, I stay light lately"
+}

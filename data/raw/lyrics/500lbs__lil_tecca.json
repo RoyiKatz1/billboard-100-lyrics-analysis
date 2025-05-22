@@ -1,0 +1,1052 @@
+{
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/9297203",
+    "artist_names": "Lil Tecca",
+    "full_title": "500lbs by\u00a0Lil\u00a0Tecca",
+    "header_image_thumbnail_url": "https://images.genius.com/cfc11c7c0f676b369fcb75c0736d6a96.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/cfc11c7c0f676b369fcb75c0736d6a96.1000x1000x1.jpg",
+    "id": 9297203,
+    "instrumental": false,
+    "lyrics_owner_id": 8816915,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1744454832,
+    "path": "/Lil-tecca-500lbs-lyrics",
+    "primary_artist_names": "Lil Tecca",
+    "pyongs_count": 5,
+    "relationships_index_url": "https://genius.com/Lil-tecca-500lbs-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 7,
+        "day": 21
+    },
+    "release_date_for_display": "July 21, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 21, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/cfc11c7c0f676b369fcb75c0736d6a96.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/cfc11c7c0f676b369fcb75c0736d6a96.1000x1000x1.jpg",
+    "stats": {
+        "accepted_annotations": 12,
+        "contributors": 34,
+        "iq_earners": 34,
+        "transcribers": 3,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 122682
+    },
+    "title": "500lbs",
+    "title_with_featured": "500lbs",
+    "updated_by_human_at": 1744454832,
+    "url": "https://genius.com/Lil-tecca-500lbs-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1127156",
+        "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+        "id": 1127156,
+        "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Tecca",
+        "url": "https://genius.com/artists/Lil-tecca",
+        "iq": 5369
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1127156",
+            "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+            "id": 1127156,
+            "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Tecca",
+            "url": "https://genius.com/artists/Lil-tecca",
+            "iq": 5369
+        }
+    ],
+    "apple_music_id": "1697375649",
+    "apple_music_player_url": "https://genius.com/songs/9297203/apple_music_player",
+    "description": {
+        "plain": "On \u201c500lbs,\u201d Lil Tecca flaunts the benefits of his position alongside noting his devotion for his significant other.\n\nThe track was first previewed on June 2, 2023 through Taz Taylor\u2019s Instagram story. The track later made an official release on July 21, 2023, followed by a Jordie Sanchez-directed music video a week later."
+    },
+    "embed_content": "<div id='rg_embed_link_9297203' class='rg_embed_link' data-song-id='9297203'>Read <a href='https://genius.com/Lil-tecca-500lbs-lyrics'>\u201c500lbs\u201d by Lil\u00a0Tecca</a> on Genius</div> <script crossorigin src='//genius.com/songs/9297203/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Conway Recording Studios, Los Angeles, CA",
+    "release_date": "2023-07-21",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#a71515",
+    "song_art_secondary_color": "#6e1111",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1132748",
+        "cover_art_url": "https://images.genius.com/916d0037e0824d1e34b633564c79e6b7.1000x1000x1.png",
+        "full_title": "TEC (Bonus) by Lil Tecca",
+        "id": 1132748,
+        "name": "TEC (Bonus)",
+        "primary_artist_names": "Lil Tecca",
+        "release_date_for_display": "January 19, 2024",
+        "url": "https://genius.com/albums/Lil-tecca/Tec-bonus",
+        "artist": {
+            "api_path": "/artists/1127156",
+            "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+            "id": 1127156,
+            "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Tecca",
+            "url": "https://genius.com/artists/Lil-tecca",
+            "iq": 5369
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1127156",
+                "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+                "id": 1127156,
+                "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lil Tecca",
+                "url": "https://genius.com/artists/Lil-tecca",
+                "iq": 5369
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Visualizer",
+            "artists": [
+                {
+                    "api_path": "/artists/2423822",
+                    "header_image_url": "https://images.genius.com/71b78f11eb128909804419ca9513fc73.1000x1000x1.jpg",
+                    "id": 2423822,
+                    "image_url": "https://images.genius.com/17242e9252e9c80adc8a8807aa838829.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "huhalex",
+                    "url": "https://genius.com/artists/Huhalex"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/1888847",
+                    "header_image_url": "https://images.genius.com/453b40707ad0bc30072421ce3ef3e46c.1000x824x1.jpg",
+                    "id": 1888847,
+                    "image_url": "https://images.genius.com/9643377816f34891d3b9a06fbe97521a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Galactic Records",
+                    "url": "https://genius.com/artists/Galactic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/2233096",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2233096,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Taz Taylor Publishing",
+                    "url": "https://genius.com/artists/Taz-taylor-publishing"
+                },
+                {
+                    "api_path": "/artists/1938081",
+                    "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+                    "id": 1938081,
+                    "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Artist Publishing Group",
+                    "url": "https://genius.com/artists/Artist-publishing-group"
+                },
+                {
+                    "api_path": "/artists/1025407",
+                    "header_image_url": "https://images.genius.com/a8f20731a077577837d8183d3cf581ed.1000x427x1.jpg",
+                    "id": 1025407,
+                    "image_url": "https://images.genius.com/50cb01795e01babac294af0b65a79cb6.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Internet Money",
+                    "url": "https://genius.com/artists/Internet-money"
+                },
+                {
+                    "api_path": "/artists/3802303",
+                    "header_image_url": "https://images.genius.com/1d2280cafc74992ea36c9c20aaa6dfad.1000x1000x1.png",
+                    "id": 3802303,
+                    "image_url": "https://images.genius.com/1d2280cafc74992ea36c9c20aaa6dfad.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Platinum Grammar",
+                    "url": "https://genius.com/artists/Platinum-grammar"
+                },
+                {
+                    "api_path": "/artists/1179023",
+                    "header_image_url": "https://images.genius.com/e0f5e49317e965cfa53e20c085a955e1.851x315x1.png",
+                    "id": 1179023,
+                    "image_url": "https://images.genius.com/4ebbcabd72ac78217a95d7a2f767218d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kobalt Music",
+                    "url": "https://genius.com/artists/Kobalt-music"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986021",
+                    "header_image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "id": 986021,
+                    "image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Norris",
+                    "url": "https://genius.com/artists/Tom-norris"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/3388403",
+                    "header_image_url": "https://images.genius.com/ae3c9963c0b33b71a26ce41e5c00bd62.320x320x1.jpg",
+                    "id": 3388403,
+                    "image_url": "https://images.genius.com/4bd0e05e226767694ab12295d3658d5c.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bjordiedotcom",
+                    "url": "https://genius.com/artists/Jordiedotcom"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1888847",
+                    "header_image_url": "https://images.genius.com/453b40707ad0bc30072421ce3ef3e46c.1000x824x1.jpg",
+                    "id": 1888847,
+                    "image_url": "https://images.genius.com/9643377816f34891d3b9a06fbe97521a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Galactic Records",
+                    "url": "https://genius.com/artists/Galactic-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986021",
+                    "header_image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "id": 986021,
+                    "image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Norris",
+                    "url": "https://genius.com/artists/Tom-norris"
+                },
+                {
+                    "api_path": "/artists/1436543",
+                    "header_image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "id": 1436543,
+                    "image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Era",
+                    "url": "https://genius.com/artists/Young-era"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986021",
+                    "header_image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "id": 986021,
+                    "image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Norris",
+                    "url": "https://genius.com/artists/Tom-norris"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1436543",
+                    "header_image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "id": 1436543,
+                    "image_url": "https://images.genius.com/27b0c9363c379eafd0201c4526265901.537x537x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Era",
+                    "url": "https://genius.com/artists/Young-era"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/1888847",
+                    "header_image_url": "https://images.genius.com/453b40707ad0bc30072421ce3ef3e46c.1000x824x1.jpg",
+                    "id": 1888847,
+                    "image_url": "https://images.genius.com/9643377816f34891d3b9a06fbe97521a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Galactic Records",
+                    "url": "https://genius.com/artists/Galactic-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/1888847",
+                    "header_image_url": "https://images.genius.com/453b40707ad0bc30072421ce3ef3e46c.1000x824x1.jpg",
+                    "id": 1888847,
+                    "image_url": "https://images.genius.com/9643377816f34891d3b9a06fbe97521a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Galactic Records",
+                    "url": "https://genius.com/artists/Galactic-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8816915,
+        "annotator_login": "proxim",
+        "api_path": "/referents/28961729",
+        "classification": "accepted",
+        "fragment": "500lbs",
+        "id": 28961729,
+        "is_description": true,
+        "path": "/28961729/Lil-tecca-500lbs/500lbs",
+        "range": {
+            "content": "500lbs"
+        },
+        "song_id": 9297203,
+        "url": "https://genius.com/28961729/Lil-tecca-500lbs/500lbs",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9297203",
+            "client_timestamps": {
+                "updated_by_human_at": 1744454832,
+                "lyrics_updated_at": 1744454832
+            },
+            "context": "Lil Tecca",
+            "id": 9297203,
+            "image_url": "https://images.genius.com/cfc11c7c0f676b369fcb75c0736d6a96.1000x1000x1.jpg",
+            "link_title": "500lbs by\u00a0Lil\u00a0Tecca",
+            "title": "500lbs",
+            "type": "Song",
+            "url": "https://genius.com/Lil-tecca-500lbs-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28961729",
+                "body": {
+                    "plain": "On \u201c500lbs,\u201d Lil Tecca flaunts the benefits of his position alongside noting his devotion for his significant other.\n\nThe track was first previewed on June 2, 2023 through Taz Taylor\u2019s Instagram story. The track later made an official release on July 21, 2023, followed by a Jordie Sanchez-directed music video a week later."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 28961729,
+                "pinned": false,
+                "share_url": "https://genius.com/28961729",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/28961729/Lil-tecca-500lbs/500lbs",
+                "verified": false,
+                "votes_total": 24,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/8816915",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/2uu0u8qdmeu",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/2uu0u8qdmeu",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/2uu0u8qdmeu",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/2uu0u8qdmeu",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/8lt3xpywsk5",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 8816915,
+                            "iq": 305852,
+                            "login": "proxim",
+                            "name": "proxim",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/proxim",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/5598907",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/05d67bab058073e53d408ed7deba682e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/05d67bab058073e53d408ed7deba682e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/05d67bab058073e53d408ed7deba682e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/05d67bab058073e53d408ed7deba682e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/6325a51ce701721d9845a9b28fe76a65.300x168x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 5598907,
+        "iq": 189450,
+        "login": "Broinator",
+        "name": "Broinator",
+        "role_for_display": "editor",
+        "url": "https://genius.com/Broinator",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "liltecca",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/liltecca/500lbs"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=vIBFoBladhg"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1893168",
+            "header_image_url": "https://images.genius.com/e6114beaf705d6ebe77e6e4d4b7f9205.1000x210x1.png",
+            "id": 1893168,
+            "image_url": "https://images.genius.com/cdb9f8229b5d7fa3dcf75d58eede0cf1.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rio Leyva",
+            "url": "https://genius.com/artists/Rio-leyva",
+            "iq": 118
+        },
+        {
+            "api_path": "/artists/1160487",
+            "header_image_url": "https://images.genius.com/5d19b8ce723e92a19a1c4b9ddb97b51d.1000x1000x1.jpg",
+            "id": 1160487,
+            "image_url": "https://images.genius.com/5d19b8ce723e92a19a1c4b9ddb97b51d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "4OUR",
+            "url": "https://genius.com/artists/4our"
+        },
+        {
+            "api_path": "/artists/36586",
+            "header_image_url": "https://images.genius.com/50419d304d3de4cfcf0eb01b8a1521cf.801x1000x1.jpg",
+            "id": 36586,
+            "image_url": "https://images.genius.com/b3d30379bc8bef7698b83b80b03e52f8.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taz Taylor",
+            "url": "https://genius.com/artists/Taz-taylor"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/9642490",
+                    "artist_names": "tana",
+                    "full_title": "HI-ROLLER FOREIGNER by\u00a0tana",
+                    "header_image_thumbnail_url": "https://images.genius.com/a0907425af8a566bf0250b191bf327d4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a0907425af8a566bf0250b191bf327d4.1000x1000x1.jpg",
+                    "id": 9642490,
+                    "lyrics_owner_id": 8816915,
+                    "lyrics_state": "complete",
+                    "path": "/Tana-hi-roller-foreigner-lyrics",
+                    "primary_artist_names": "tana",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tana-hi-roller-foreigner-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 14
+                    },
+                    "release_date_for_display": "November 14, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 14, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a0907425af8a566bf0250b191bf327d4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a0907425af8a566bf0250b191bf327d4.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "HI-ROLLER FOREIGNER",
+                    "title_with_featured": "HI-ROLLER FOREIGNER",
+                    "url": "https://genius.com/Tana-hi-roller-foreigner-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2086940",
+                        "header_image_url": "https://images.genius.com/385cce3bfbe217c5c4cc8cc60d4dc678.1000x563x1.png",
+                        "id": 2086940,
+                        "image_url": "https://images.genius.com/d3cba745ded4fc84fefb599bfd848dca.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "tana",
+                        "url": "https://genius.com/artists/Tana",
+                        "iq": 3345
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2086940",
+                            "header_image_url": "https://images.genius.com/385cce3bfbe217c5c4cc8cc60d4dc678.1000x563x1.png",
+                            "id": 2086940,
+                            "image_url": "https://images.genius.com/d3cba745ded4fc84fefb599bfd848dca.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "tana",
+                            "url": "https://genius.com/artists/Tana",
+                            "iq": 3345
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [
+        {
+            "contributions": [
+                "lyrics"
+            ],
+            "artist": {
+                "api_path": "/artists/1127156",
+                "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+                "id": 1127156,
+                "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lil Tecca",
+                "url": "https://genius.com/artists/Lil-tecca",
+                "iq": 5369
+            },
+            "user": {
+                "api_path": "/users/8690155",
+                "avatar": {
+                    "tiny": {
+                        "url": "https://images.genius.com/avatars/tiny/9dad9eef9540408fe3508689c96fcbf1",
+                        "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                        }
+                    },
+                    "thumb": {
+                        "url": "https://images.genius.com/avatars/thumb/9dad9eef9540408fe3508689c96fcbf1",
+                        "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                        }
+                    },
+                    "small": {
+                        "url": "https://images.genius.com/avatars/small/9dad9eef9540408fe3508689c96fcbf1",
+                        "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                        }
+                    },
+                    "medium": {
+                        "url": "https://images.genius.com/avatars/medium/9dad9eef9540408fe3508689c96fcbf1",
+                        "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                        }
+                    }
+                },
+                "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+                "human_readable_role_for_display": "Verified Artist",
+                "id": 8690155,
+                "iq": 5369,
+                "login": "lilteccaofficial",
+                "name": "Lil Tecca",
+                "role_for_display": "verified_artist",
+                "url": "https://genius.com/lilteccaofficial",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "follow"
+                    ],
+                    "interactions": {
+                        "following": false
+                    }
+                }
+            }
+        }
+    ],
+    "verified_lyrics_by": [
+        {
+            "api_path": "/users/8690155",
+            "avatar": {
+                "tiny": {
+                    "url": "https://images.genius.com/avatars/tiny/9dad9eef9540408fe3508689c96fcbf1",
+                    "bounding_box": {
+                        "width": 16,
+                        "height": 16
+                    }
+                },
+                "thumb": {
+                    "url": "https://images.genius.com/avatars/thumb/9dad9eef9540408fe3508689c96fcbf1",
+                    "bounding_box": {
+                        "width": 32,
+                        "height": 32
+                    }
+                },
+                "small": {
+                    "url": "https://images.genius.com/avatars/small/9dad9eef9540408fe3508689c96fcbf1",
+                    "bounding_box": {
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "medium": {
+                    "url": "https://images.genius.com/avatars/medium/9dad9eef9540408fe3508689c96fcbf1",
+                    "bounding_box": {
+                        "width": 300,
+                        "height": 400
+                    }
+                }
+            },
+            "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+            "human_readable_role_for_display": "Verified Artist",
+            "id": 8690155,
+            "iq": 5369,
+            "login": "lilteccaofficial",
+            "name": "Lil Tecca",
+            "role_for_display": "verified_artist",
+            "url": "https://genius.com/lilteccaofficial",
+            "current_user_metadata": {
+                "permissions": [],
+                "excluded_permissions": [
+                    "follow"
+                ],
+                "interactions": {
+                    "following": false
+                }
+            }
+        }
+    ],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1127156",
+            "header_image_url": "https://images.genius.com/0ac07ee3f443f3a9c23f480d34f52c12.800x1000x1.jpg",
+            "id": 1127156,
+            "image_url": "https://images.genius.com/798bdac39e04df5a7a5e02179923a694.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Tecca",
+            "url": "https://genius.com/artists/Lil-tecca",
+            "iq": 5369
+        },
+        {
+            "api_path": "/artists/36586",
+            "header_image_url": "https://images.genius.com/50419d304d3de4cfcf0eb01b8a1521cf.801x1000x1.jpg",
+            "id": 36586,
+            "image_url": "https://images.genius.com/b3d30379bc8bef7698b83b80b03e52f8.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taz Taylor",
+            "url": "https://genius.com/artists/Taz-taylor"
+        },
+        {
+            "api_path": "/artists/1893168",
+            "header_image_url": "https://images.genius.com/e6114beaf705d6ebe77e6e4d4b7f9205.1000x210x1.png",
+            "id": 1893168,
+            "image_url": "https://images.genius.com/cdb9f8229b5d7fa3dcf75d58eede0cf1.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Rio Leyva",
+            "url": "https://genius.com/artists/Rio-leyva",
+            "iq": 118
+        },
+        {
+            "api_path": "/artists/1160487",
+            "header_image_url": "https://images.genius.com/5d19b8ce723e92a19a1c4b9ddb97b51d.1000x1000x1.jpg",
+            "id": 1160487,
+            "image_url": "https://images.genius.com/5d19b8ce723e92a19a1c4b9ddb97b51d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "4OUR",
+            "url": "https://genius.com/artists/4our"
+        }
+    ],
+    "artist": "Lil Tecca",
+    "lyrics": "34 Contributors500lbs LyricsOn \u201c500lbs,\u201d Lil Tecca flaunts the benefits of his position alongside noting his devotion for his significant other.\nThe track was first previewed on June 2, 2023 through Taz Taylor\u2019s Instagram story. The\u2026 Read More\u00a0\nUh\nUh-uh, uh (Blatt)\nUh-uh, uh\nUh-uh, uh (Uh)\nUh-uh, uh (Uh)\nUh-uh, uh\nUh-uh, uh\n\nYeah, not livin' enough, ayy\nThis blunt, I'm takin' a puff, ayy\nI'm startin' to feel like it's us, ayy\nNo trust, so do as you must (Yeah), for real\nDon't know when I stay out of town\nI get dough when I stay out of town\nFive hundred chops, I got five hundred rounds\nFive hundred plots, I got five hundred pounds, yeah\n\nI'm trustin' nothin' I'm told, honestly\nI'm trustin' half what I'm shown\nI don't pop out, but it's each to they own\nMy bitch, she hate when I be on my phone\nThink she forgot, I got me on my phone\nNot safe for me to forget that I'm known\nArgue 'bout bullshit, know that you grown\nDon't know the only reason I condone it\n\nI know how it works, I know you a flirt\nShe send me the flick, tagged not safe for work\nDon't get your feelings hurt while tryna lurk\nMy bitch want Chanel, then shit, grab a purse (Damn)\nShe told me she bad, I say, \"You could do worse\"\nI'm born to be blessed, I live with a curse\nWhen shit is a mess, I'm rollin' up first\nI smoke on my blunt, then I hit the church\n'Cause nobody get where you comin' from\nYou know how it get when you goin' numb\nYou know what we on, matter how you judged\nDealin' with bullshit, out of love\nMy life a story, it's not a punch-in\nMy life a party, it's not a function\nI never needed no introduction\nKnow I'm a star, I'm still adjustin' (Yeah)\n\nAnd I can't go out like that\nYou know that's why I'm clutchin'\nAnd I see it, why they overreact\nBut all this shit ain't nothin'\nTold me you gon' send the bread you owe me\nTalkin' like you got an option\nShe said, \"It's like you don't know you a star\"\nI tell her that I'm still adjustin' (Uh-huh)\n\nYeah, not livin' enough, ayy\nThis blunt, I'm takin' a puff, ayy\nI'm startin' to feel like it's us, ayy\nNo trust, so do as you must, for real\nDon't know when I stay out of town (For real)\nI get dough when I stay out of town\nFive hundred chops, I got five hundred rounds\nFive hundred plots, I got five hundred pounds, yeah\n\nI'm trustin' nothin' I'm told, honestly\nI'm trustin' half what I'm shown\nI don't pop out, but it's each to they own\nMy bitch, she hate when I be on my phone (Damn)\nThink she forgot, I got me on my phone\nNot safe for me to forget that I'm known\nArgue 'bout bullshit, know that you grown\nDon't know the only reason I condone it\n\nUh-uh, uh\nUh-uh, uh\nUh-uh, uh\nUh-uh, uh\nUh-uh\nUh-uh, uh\nUh-uh\nUh-uh, uh"
+}

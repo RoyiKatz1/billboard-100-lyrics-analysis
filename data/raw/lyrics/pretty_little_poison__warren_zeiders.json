@@ -1,0 +1,788 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/8923493",
+    "artist_names": "Warren Zeiders",
+    "full_title": "Pretty Little Poison by\u00a0Warren\u00a0Zeiders",
+    "header_image_thumbnail_url": "https://images.genius.com/3a5d69f7584defd522b7199f7412a1bf.300x300x1.png",
+    "header_image_url": "https://images.genius.com/3a5d69f7584defd522b7199f7412a1bf.1000x1000x1.png",
+    "id": 8923493,
+    "instrumental": false,
+    "lyrics_owner_id": 6228729,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1737509173,
+    "path": "/Warren-zeiders-pretty-little-poison-lyrics",
+    "primary_artist_names": "Warren Zeiders",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Warren-zeiders-pretty-little-poison-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 3,
+        "day": 17
+    },
+    "release_date_for_display": "March 17, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 17, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/3a5d69f7584defd522b7199f7412a1bf.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/3a5d69f7584defd522b7199f7412a1bf.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 11,
+        "iq_earners": 11,
+        "transcribers": 2,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 31161
+    },
+    "title": "Pretty Little Poison",
+    "title_with_featured": "Pretty Little Poison",
+    "updated_by_human_at": 1737509173,
+    "url": "https://genius.com/Warren-zeiders-pretty-little-poison-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2550675",
+        "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+        "id": 2550675,
+        "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Warren Zeiders",
+        "url": "https://genius.com/artists/Warren-zeiders"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2550675",
+            "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+            "id": 2550675,
+            "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Warren Zeiders",
+            "url": "https://genius.com/artists/Warren-zeiders"
+        }
+    ],
+    "apple_music_id": "1689853043",
+    "apple_music_player_url": "https://genius.com/songs/8923493/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_8923493' class='rg_embed_link' data-song-id='8923493'>Read <a href='https://genius.com/Warren-zeiders-pretty-little-poison-lyrics'>\u201cPretty Little Poison\u201d by Warren\u00a0Zeiders</a> on Genius</div> <script crossorigin src='//genius.com/songs/8923493/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-03-17",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c1a052",
+    "song_art_secondary_color": "#dcc99d",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1142497",
+        "cover_art_url": "https://images.genius.com/aff302ee4b55d4825f21765dfc3c4239.1000x1000x1.jpg",
+        "full_title": "Pretty Little Poison (Deluxe) by Warren Zeiders",
+        "id": 1142497,
+        "name": "Pretty Little Poison (Deluxe)",
+        "primary_artist_names": "Warren Zeiders",
+        "release_date_for_display": "February 16, 2024",
+        "url": "https://genius.com/albums/Warren-zeiders/Pretty-little-poison-deluxe",
+        "artist": {
+            "api_path": "/artists/2550675",
+            "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+            "id": 2550675,
+            "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Warren Zeiders",
+            "url": "https://genius.com/artists/Warren-zeiders"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2550675",
+                "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+                "id": 2550675,
+                "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Warren Zeiders",
+                "url": "https://genius.com/artists/Warren-zeiders"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/2977966",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2977966,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ethan Barrette",
+                    "url": "https://genius.com/artists/Ethan-barrette"
+                },
+                {
+                    "api_path": "/artists/1501907",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1501907,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Kalmusky",
+                    "url": "https://genius.com/artists/David-kalmusky"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/670298",
+                    "header_image_url": "https://images.genius.com/a4455b6d57ae265b49a4206c02cddc8a.197x197x1.jpg",
+                    "id": 670298,
+                    "image_url": "https://images.genius.com/a4455b6d57ae265b49a4206c02cddc8a.197x197x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Dugmore",
+                    "url": "https://genius.com/artists/Dan-dugmore"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1003323",
+                    "header_image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "id": 1003323,
+                    "image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cohen",
+                    "url": "https://genius.com/artists/Dave-cohen"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/671041",
+                    "header_image_url": "https://images.genius.com/12c10546fd8de63b150c3b3086381b45.431x431x1.png",
+                    "id": 671041,
+                    "image_url": "https://images.genius.com/12c10546fd8de63b150c3b3086381b45.431x431x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kenny Greenberg",
+                    "url": "https://genius.com/artists/Kenny-greenberg"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/647004",
+                    "header_image_url": "https://images.genius.com/8f58d6e43a7742ce2cf72f9a35b2d975.226x226x1.webp",
+                    "id": 647004,
+                    "image_url": "https://images.genius.com/8f58d6e43a7742ce2cf72f9a35b2d975.226x226x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Miles McPherson",
+                    "url": "https://genius.com/artists/Miles-mcpherson"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/647004",
+                    "header_image_url": "https://images.genius.com/8f58d6e43a7742ce2cf72f9a35b2d975.226x226x1.webp",
+                    "id": 647004,
+                    "image_url": "https://images.genius.com/8f58d6e43a7742ce2cf72f9a35b2d975.226x226x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Miles McPherson",
+                    "url": "https://genius.com/artists/Miles-mcpherson"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1013171",
+                    "header_image_url": "https://images.genius.com/fa772fd7e6120db31cab17de7b139c0a.300x300x1.jpg",
+                    "id": 1013171,
+                    "image_url": "https://images.genius.com/fa772fd7e6120db31cab17de7b139c0a.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lex Price",
+                    "url": "https://genius.com/artists/Lex-price"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1209339",
+                    "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "id": 1209339,
+                    "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ilya Toshinskiy",
+                    "url": "https://genius.com/artists/Ilya-toshinskiy"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2550675",
+                    "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+                    "id": 2550675,
+                    "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warren Zeiders",
+                    "url": "https://genius.com/artists/Warren-zeiders"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3896799",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3896799,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Frank Reid Shippen",
+                    "url": "https://genius.com/artists/Frank-reid-shippen"
+                },
+                {
+                    "api_path": "/artists/1444116",
+                    "header_image_url": "https://images.genius.com/e7143da4d1b8074b15e00935721e8db5.900x900x1.jpg",
+                    "id": 1444116,
+                    "image_url": "https://images.genius.com/25ed6b8e8caf31934ad56032951a9ce5.900x900x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alan JS Han",
+                    "url": "https://genius.com/artists/Alan-js-han"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2977966",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2977966,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ethan Barrette",
+                    "url": "https://genius.com/artists/Ethan-barrette"
+                },
+                {
+                    "api_path": "/artists/3040404",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3040404,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Towles",
+                    "url": "https://genius.com/artists/Brandon-towles"
+                },
+                {
+                    "api_path": "/artists/1501907",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1501907,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Kalmusky",
+                    "url": "https://genius.com/artists/David-kalmusky"
+                },
+                {
+                    "api_path": "/artists/1180575",
+                    "header_image_url": "https://images.genius.com/191365521de28e5b6f8260bcae9462a5.150x150x1.jpg",
+                    "id": 1180575,
+                    "image_url": "https://images.genius.com/191365521de28e5b6f8260bcae9462a5.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Buckley Miller",
+                    "url": "https://genius.com/artists/Buckley-miller"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1207673",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1207673,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Bacigalupi",
+                    "url": "https://genius.com/artists/Daniel-bacigalupi"
+                },
+                {
+                    "api_path": "/artists/3314247",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3314247,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matt Boerum",
+                    "url": "https://genius.com/artists/Matt-boerum"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6228729,
+        "annotator_login": "Ellie_Hutchinson",
+        "api_path": "/referents/28041917",
+        "classification": "needs_exegesis",
+        "fragment": "Pretty Little Poison",
+        "id": 28041917,
+        "is_description": true,
+        "path": "/28041917/Warren-zeiders-pretty-little-poison/Pretty-little-poison",
+        "range": {
+            "content": "Pretty Little Poison"
+        },
+        "song_id": 8923493,
+        "url": "https://genius.com/28041917/Warren-zeiders-pretty-little-poison/Pretty-little-poison",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8923493",
+            "client_timestamps": {
+                "updated_by_human_at": 1737509173,
+                "lyrics_updated_at": 1737509173
+            },
+            "context": "Warren Zeiders",
+            "id": 8923493,
+            "image_url": "https://images.genius.com/3a5d69f7584defd522b7199f7412a1bf.1000x1000x1.png",
+            "link_title": "Pretty Little Poison by\u00a0Warren\u00a0Zeiders",
+            "title": "Pretty Little Poison",
+            "type": "Song",
+            "url": "https://genius.com/Warren-zeiders-pretty-little-poison-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28041917",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 28041917,
+                "pinned": false,
+                "share_url": "https://genius.com/28041917",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/28041917/Warren-zeiders-pretty-little-poison/Pretty-little-poison",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6228729",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/9b87de8bb0889dfc48b5cf30311589c6",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/9b87de8bb0889dfc48b5cf30311589c6",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/9b87de8bb0889dfc48b5cf30311589c6",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/9b87de8bb0889dfc48b5cf30311589c6",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/9b87de8bb0889dfc48b5cf30311589c6",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 6228729,
+                            "iq": 84719,
+                            "login": "Ellie_Hutchinson",
+                            "name": "Ellie_Hutchinson",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Ellie_Hutchinson",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/93685",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+        "human_readable_role_for_display": "Staff",
+        "id": 93685,
+        "iq": 1603974,
+        "login": "snow",
+        "name": "KST (snow)",
+        "role_for_display": "staff",
+        "url": "https://genius.com/snow",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=DhCJtYIMPno"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/100748",
+            "header_image_url": "https://images.genius.com/8919ea24a00635ea67dfe18406ad85b5.640x480x1.jpg",
+            "id": 100748,
+            "image_url": "https://images.genius.com/0a2c2316415ef91a19287d5996925f2b.798x798x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ross Copperman",
+            "url": "https://genius.com/artists/Ross-copperman"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2293781",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2293781,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jared Keim",
+            "url": "https://genius.com/artists/Jared-keim"
+        },
+        {
+            "api_path": "/artists/405522",
+            "header_image_url": "https://images.genius.com/7541f4ace036f177575ca3c8f0eb0e8e.225x225x1.jpg",
+            "id": 405522,
+            "image_url": "https://images.genius.com/7541f4ace036f177575ca3c8f0eb0e8e.225x225x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ryan Beaver",
+            "url": "https://genius.com/artists/Ryan-beaver"
+        },
+        {
+            "api_path": "/artists/2550675",
+            "header_image_url": "https://images.genius.com/2fd9ffaa916a55557dce1268ef1b486a.1000x333x1.jpg",
+            "id": 2550675,
+            "image_url": "https://images.genius.com/b63be24dd56cd24e1e8432a876ed67e8.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Warren Zeiders",
+            "url": "https://genius.com/artists/Warren-zeiders"
+        }
+    ],
+    "artist": "Warren Zeiders",
+    "lyrics": "11 ContributorsPretty Little Poison Lyrics\nEvery night, 'round about this time\nIt's like she knows I'm lonely\nRolls up when the wine is gone\nLike a record on repeat\nLeanin' on old memories\nAnd talkin' 'bout what used to be\nShe'll probably be the death of me\nBut damn if it ain't sweet\n\nShe's my pretty little poison\nMy heartache in the night\nWith a kiss on her lips just like cyanide\nYeah, she came with a warnin'\nBut I didn't mind\nI'll go out on that high every time\nShe's my pretty little poison\nMy pretty littl\u0435 poison\n\nShadows dancin' down the hall\nWhispers that she wants m\u0435\nTry my best not to fall\nWhen she falls into me\nWe all need some kind of fix\nFor me, she's the one I'll pick\nNothin' else will do the trick\nShe's all I need\n\nShe's my pretty little poison\nMy heartache in the night\nWith a kiss on her lips just like cyanide\nYeah, she came with a warnin'\nBut I didn't mind\nI'll go out on that high every time\nShe's my pretty little poison\nMy pretty little poison\n\nFor some, I guess it's alcohol\nI don't want none at all\nI just want you\nNo, I just want you\n\nMy pretty little poison\nMy heartache in the night\nWith a kiss on her lips just like cyanide\nYeah, she came with a warnin'\nBut I didn't mind\nI'll go out on that high every time\nShe's my pretty little poison\nMy pretty little poison\nShe's my pretty little poison"
+}

@@ -1,0 +1,986 @@
+{
+    "_type": "song",
+    "annotation_count": 22,
+    "api_path": "/songs/10191332",
+    "artist_names": "Future & Metro Boomin",
+    "full_title": "Fried (She a Vibe) by\u00a0Future & Metro\u00a0Boomin",
+    "header_image_thumbnail_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.300x300x1.png",
+    "header_image_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.1000x1000x1.png",
+    "id": 10191332,
+    "instrumental": false,
+    "lyrics_owner_id": 14287967,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747707347,
+    "path": "/Future-and-metro-boomin-fried-she-a-vibe-lyrics",
+    "primary_artist_names": "Future & Metro Boomin",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Future-and-metro-boomin-fried-she-a-vibe-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 22
+    },
+    "release_date_for_display": "March 22, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 22, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 3,
+        "contributors": 66,
+        "iq_earners": 66,
+        "transcribers": 5,
+        "unreviewed_annotations": 19,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 104117
+    },
+    "title": "Fried (She a Vibe)",
+    "title_with_featured": "Fried (She a Vibe)",
+    "updated_by_human_at": 1747700171,
+    "url": "https://genius.com/Future-and-metro-boomin-fried-she-a-vibe-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/33010",
+            "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+            "id": 33010,
+            "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Metro Boomin",
+            "url": "https://genius.com/artists/Metro-boomin"
+        }
+    ],
+    "apple_music_id": "1737150451",
+    "apple_music_player_url": "https://genius.com/songs/10191332/apple_music_player",
+    "description": {
+        "plain": "Future flows like water in Fried (She a Vibe) featuring an angelic beat from producers Metro Boomin and Doughboy.\n\nFuture fantasizes about his Spanish-speaking woman, eventually going for her after his main girl said not to."
+    },
+    "embed_content": "<div id='rg_embed_link_10191332' class='rg_embed_link' data-song-id='10191332'>Read <a href='https://genius.com/Future-and-metro-boomin-fried-she-a-vibe-lyrics'>\u201cFried (She a Vibe)\u201d by Future & Metro\u00a0Boomin</a> on Genius</div> <script crossorigin src='//genius.com/songs/10191332/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-03-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#0d0820",
+    "song_art_secondary_color": "#2b263b",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1000624",
+        "cover_art_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.1000x1000x1.png",
+        "full_title": "WE DON\u2019T TRUST YOU by Future & Metro Boomin",
+        "id": 1000624,
+        "name": "WE DON\u2019T TRUST YOU",
+        "primary_artist_names": "Future & Metro Boomin",
+        "release_date_for_display": "March 22, 2024",
+        "url": "https://genius.com/albums/Future-and-metro-boomin/We-dont-trust-you",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            },
+            {
+                "api_path": "/artists/33010",
+                "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+                "id": 33010,
+                "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Metro Boomin",
+                "url": "https://genius.com/artists/Metro-boomin"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                },
+                {
+                    "api_path": "/artists/992219",
+                    "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+                    "id": 992219,
+                    "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner-Tamerlane Publishing Corp.",
+                    "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+                },
+                {
+                    "api_path": "/artists/1102734",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1102734,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nayvadius Maximus Music",
+                    "url": "https://genius.com/artists/Nayvadius-maximus-music"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/2197",
+                    "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                    "id": 2197,
+                    "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Future",
+                    "url": "https://genius.com/artists/Future",
+                    "iq": 5038
+                },
+                {
+                    "api_path": "/artists/33010",
+                    "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+                    "id": 33010,
+                    "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Metro Boomin",
+                    "url": "https://genius.com/artists/Metro-boomin"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/33010",
+                    "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+                    "id": 33010,
+                    "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Metro Boomin",
+                    "url": "https://genius.com/artists/Metro-boomin"
+                },
+                {
+                    "api_path": "/artists/1179666",
+                    "header_image_url": "https://images.genius.com/6a3a29d89cf2de59b5bb92ddba7fd78d.813x813x1.jpg",
+                    "id": 1179666,
+                    "image_url": "https://images.genius.com/6a3a29d89cf2de59b5bb92ddba7fd78d.813x813x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ethan Stevens",
+                    "url": "https://genius.com/artists/Ethan-stevens"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/643338",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 643338,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Victor Luevanos",
+                    "url": "https://genius.com/artists/Victor-luevanos"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1004848",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1004848,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MYBOYROACH",
+                    "url": "https://genius.com/artists/Myboyroach"
+                },
+                {
+                    "api_path": "/artists/1179666",
+                    "header_image_url": "https://images.genius.com/6a3a29d89cf2de59b5bb92ddba7fd78d.813x813x1.jpg",
+                    "id": 1179666,
+                    "image_url": "https://images.genius.com/6a3a29d89cf2de59b5bb92ddba7fd78d.813x813x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ethan Stevens",
+                    "url": "https://genius.com/artists/Ethan-stevens"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/1220283",
+                    "header_image_url": "https://images.genius.com/ae59a530b870854676c81cc8f2278842.630x630x1.jpg",
+                    "id": 1220283,
+                    "image_url": "https://images.genius.com/ae59a530b870854676c81cc8f2278842.630x630x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boominati Worldwide",
+                    "url": "https://genius.com/artists/Boominati-worldwide"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/1220283",
+                    "header_image_url": "https://images.genius.com/ae59a530b870854676c81cc8f2278842.630x630x1.jpg",
+                    "id": 1220283,
+                    "image_url": "https://images.genius.com/ae59a530b870854676c81cc8f2278842.630x630x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Boominati Worldwide",
+                    "url": "https://genius.com/artists/Boominati-worldwide"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 8011159,
+        "annotator_login": "Mr_McClean1",
+        "api_path": "/referents/31231382",
+        "classification": "unreviewed",
+        "fragment": "Fried (She a Vibe)",
+        "id": 31231382,
+        "is_description": true,
+        "path": "/31231382/Future-and-metro-boomin-fried-she-a-vibe/Fried-she-a-vibe",
+        "range": {
+            "content": "Fried (She a Vibe)"
+        },
+        "song_id": 10191332,
+        "url": "https://genius.com/31231382/Future-and-metro-boomin-fried-she-a-vibe/Fried-she-a-vibe",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10191332",
+            "client_timestamps": {
+                "updated_by_human_at": 1747700171,
+                "lyrics_updated_at": 1747707347
+            },
+            "context": "Future & Metro Boomin",
+            "id": 10191332,
+            "image_url": "https://images.genius.com/20254687c3cb0bba29f79f53ecb922c7.1000x1000x1.png",
+            "link_title": "Fried (She a Vibe) by\u00a0Future & Metro\u00a0Boomin",
+            "title": "Fried (She a Vibe)",
+            "type": "Song",
+            "url": "https://genius.com/Future-and-metro-boomin-fried-she-a-vibe-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31231382",
+                "body": {
+                    "plain": "Future flows like water in Fried (She a Vibe) featuring an angelic beat from producers Metro Boomin and Doughboy.\n\nFuture fantasizes about his Spanish-speaking woman, eventually going for her after his main girl said not to."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31231382,
+                "pinned": false,
+                "share_url": "https://genius.com/31231382",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31231382/Future-and-metro-boomin-fried-she-a-vibe/Fried-she-a-vibe",
+                "verified": false,
+                "votes_total": 15,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/8011159",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://lh5.googleusercontent.com/-cLLDprHSs-A/AAAAAAAAAAI/AAAAAAAAANg/83n4HjPKcNc/photo.jpg",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://lh5.googleusercontent.com/-cLLDprHSs-A/AAAAAAAAAAI/AAAAAAAAANg/83n4HjPKcNc/photo.jpg",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://lh5.googleusercontent.com/-cLLDprHSs-A/AAAAAAAAAAI/AAAAAAAAANg/83n4HjPKcNc/photo.jpg",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://lh5.googleusercontent.com/-cLLDprHSs-A/AAAAAAAAAAI/AAAAAAAAANg/83n4HjPKcNc/photo.jpg",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/msm21gaeb2",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 8011159,
+                            "iq": 379,
+                            "login": "Mr_McClean1",
+                            "name": "Mr_McClean1",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Mr_McClean1",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=0Z8eMHVwFDw"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/33010",
+            "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+            "id": 33010,
+            "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Metro Boomin",
+            "url": "https://genius.com/artists/Metro-boomin"
+        },
+        {
+            "api_path": "/artists/36086",
+            "header_image_url": "https://images.genius.com/2bfa525e8d5384ee93910e107e89e7f7.739x667x1.png",
+            "id": 36086,
+            "image_url": "https://images.genius.com/517978eab58a253321079b9b65f3d39c.724x724x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Doughboy Beatz",
+            "url": "https://genius.com/artists/Doughboy-beatz",
+            "iq": 380
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": [
+                {
+                    "annotation_count": 24,
+                    "api_path": "/songs/220929",
+                    "artist_names": "Future",
+                    "full_title": "How It Was by\u00a0Future",
+                    "header_image_thumbnail_url": "https://images.genius.com/a977a7360ae6031ae204635b7abe34b0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a977a7360ae6031ae204635b7abe34b0.500x500x1.jpg",
+                    "id": 220929,
+                    "lyrics_owner_id": 238737,
+                    "lyrics_state": "complete",
+                    "path": "/Future-how-it-was-lyrics",
+                    "primary_artist_names": "Future",
+                    "pyongs_count": 44,
+                    "relationships_index_url": "https://genius.com/Future-how-it-was-sample",
+                    "release_date_components": {
+                        "year": 2013,
+                        "month": 12,
+                        "day": 17
+                    },
+                    "release_date_for_display": "December 17, 2013",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 17, 2013",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a977a7360ae6031ae204635b7abe34b0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a977a7360ae6031ae204635b7abe34b0.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 19,
+                        "hot": false,
+                        "pageviews": 193607
+                    },
+                    "title": "How It Was",
+                    "title_with_featured": "How It Was",
+                    "url": "https://genius.com/Future-how-it-was-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2197",
+                        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                        "id": 2197,
+                        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Future",
+                        "url": "https://genius.com/artists/Future",
+                        "iq": 5038
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2197",
+                            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                            "id": 2197,
+                            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Future",
+                            "url": "https://genius.com/artists/Future",
+                            "iq": 5038
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10245672",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Future & Metro Boomin - Fried (She a Vibe) (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/c1e268c9d1fbbd6a9e96dc4fd952082a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c1e268c9d1fbbd6a9e96dc4fd952082a.1000x1000x1.png",
+                    "id": 10245672,
+                    "lyrics_owner_id": 11484166,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-future-and-metro-boomin-fried-she-a-vibe-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-future-and-metro-boomin-fried-she-a-vibe-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 22
+                    },
+                    "release_date_for_display": "March 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c1e268c9d1fbbd6a9e96dc4fd952082a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c1e268c9d1fbbd6a9e96dc4fd952082a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Future & Metro Boomin - Fried (She a Vibe) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Future & Metro Boomin - Fried (She a Vibe) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-future-and-metro-boomin-fried-she-a-vibe-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10245672",
+            "id": 10245672,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-future-and-metro-boomin-fried-she-a-vibe-traduccion-al-espanol-lyrics",
+            "title": "Future & Metro Boomin - Fried (She a Vibe) (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-future-and-metro-boomin-fried-she-a-vibe-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/33010",
+            "header_image_url": "https://images.genius.com/3fcc3f1cc6e4c8903e86b46f6f106a0f.640x640x1.jpg",
+            "id": 33010,
+            "image_url": "https://images.genius.com/d9bff95e8791db7b367966e783aca77b.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Metro Boomin",
+            "url": "https://genius.com/artists/Metro-boomin"
+        },
+        {
+            "api_path": "/artists/36086",
+            "header_image_url": "https://images.genius.com/2bfa525e8d5384ee93910e107e89e7f7.739x667x1.png",
+            "id": 36086,
+            "image_url": "https://images.genius.com/517978eab58a253321079b9b65f3d39c.724x724x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Doughboy Beatz",
+            "url": "https://genius.com/artists/Doughboy-beatz",
+            "iq": 380
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "66 ContributorsTranslationsEspa\u00f1olFried (She a Vibe) Lyrics\n(Metro)\nYeah, I'm fried\nYeah, I'm fried\nYeah, I'm fried\nYeah\nYeah, I'm fried\nYeah\n\nYeah, I'm fried\nYeah, I'm fried\nI just blew a check in the strip club on a Wednesday\nShe ain't goin', then I'ma ask her what her friend say\nYeah, I'm fried\nYeah, I'm fried\nYeah, I'm fried\nI'm still high from the night before and I popped another one\nDo you roll, roll, roll, like the stone?\nDo you got more than two or three phones?\nDo you?\n\nI'm fri\u0435d, yes, fried\nI'm fucked up 'bout lil' shorty, sh\u0435 a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\n\nI'm fucked up 'bout lil' shorty\nHold a nigga down and she tote my Glock 40\nBust her down, ice her out just like my artists\nEvery time we link, it's like we throwin' a private party\nYeah, yeah, walk inside the strip club, I'm just a walkin' bankroll\nI don't want my old hoes 'cause them hoes all old\nLookin' for that young shit, twenty-four\nBaby have buns, shit, I'm bendin' it over\nBig pimpin', rockin' with her like I'm Dame Dash\nShe waitressin' at Starlets, ain't too many I ain't had\nShe Spanish, she can't call me, \"Papi,\" I make her call me, \"Dad\"\nHer panties off, she come through every time when I smash\nShe ain't try to charge, but anyway, I gave her a lil' cash\nI'm poppin' it off, I'm tryna make her ex-nigga mad\nLeaned up, just took two pills, damn, a nigga throwed\nUnderhand, overhand, the money gettin' blowed\n\nYeah, I'm fried\nYeah, I'm fried\nI just blew a check in the strip club on a Wednesday\nI don't care if she ain't goin', then ask her what her friend say\nI bet she say, \"Comprende\"\nYeah, yeah, fried\nYeah, I'm fried\nI fuck with shorty 'cause shorty is a vibe\nRight\nTo my left and my right\nAnd my front\nI got blunts and I love puttin' on stunts, uh, yeah\n\nTake a shot every day, we gon' get high every day\nTold my girl I been cuttin' off shorty, wouldn't hit her anyway\nSame day, any way, then had to make sure she sign an NDA\nPretty girls all across the world, they know sensei\nThis mud got my mind gone, different tax bracket, different time zone\nDrink out the Styrofoam, but I ain't never been this high though\nI just got my roll on, I ain't popped like this in so long\nI just like to vibe on her, went plain jane, two-tone\nTook a couple uppers, downers, mixed 'em up together\nRunnin' through this money like it's never felt better\nI just went to Cleef and bought the store from overseas\nShorty got me blowin' money fast like Meech\n\nI'm fried, yes, fried\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fried, yes, fried\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\nI'm fucked up 'bout lil' shorty, she a vibe\n\nYou know, we the best in the business\nWhy you think I mean when I say that?\nWhat the fuck you think I mean when I say that, man?\nWe the best in the business\nThere is no competition for us, man"
+}

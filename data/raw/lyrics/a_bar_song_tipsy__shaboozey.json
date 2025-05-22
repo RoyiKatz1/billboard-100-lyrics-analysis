@@ -1,0 +1,1824 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/10109093",
+    "artist_names": "Shaboozey",
+    "full_title": "A Bar Song (Tipsy) by\u00a0Shaboozey",
+    "header_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+    "header_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+    "id": 10109093,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747342564,
+    "path": "/Shaboozey-a-bar-song-tipsy-lyrics",
+    "primary_artist_names": "Shaboozey",
+    "pyongs_count": 7,
+    "relationships_index_url": "https://genius.com/Shaboozey-a-bar-song-tipsy-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 12
+    },
+    "release_date_for_display": "April 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 52,
+        "iq_earners": 52,
+        "transcribers": 4,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 555635
+    },
+    "title": "A Bar Song (Tipsy)",
+    "title_with_featured": "A Bar Song (Tipsy)",
+    "updated_by_human_at": 1747342564,
+    "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/69508",
+        "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+        "id": 69508,
+        "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Shaboozey",
+        "url": "https://genius.com/artists/Shaboozey"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        }
+    ],
+    "apple_music_id": "1737085899",
+    "apple_music_player_url": "https://genius.com/songs/10109093/apple_music_player",
+    "description": {
+        "plain": "\u201cA Bar Song (Tipsy)\u201d is a country song by Shaboozey released on April 12th 2024. The song is notable for featuring an interpolation of J-Kwon\u2019s 2004 party anthem \u201cTipsy\u201d. The song is a part of his 2024 album \u201cWhere I\u2019ve Been, Isn\u2019t Where I\u2019m Going\u201d"
+    },
+    "embed_content": "<div id='rg_embed_link_10109093' class='rg_embed_link' data-song-id='10109093'>Read <a href='https://genius.com/Shaboozey-a-bar-song-tipsy-lyrics'>\u201cA Bar Song (Tipsy)\u201d by Shaboozey</a> on Genius</div> <script crossorigin src='//genius.com/songs/10109093/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-04-12",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#1c1711",
+    "song_art_secondary_color": "#c3dd90",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1375881",
+        "cover_art_url": "https://images.genius.com/54741f0fdbb7f0fdc623932e8232ac77.1000x1000x1.png",
+        "full_title": "Where I\u2019ve Been Isn\u2019t Where I\u2019m Going: The Complete Edition by Shaboozey",
+        "id": 1375881,
+        "name": "Where I\u2019ve Been Isn\u2019t Where I\u2019m Going: The Complete Edition",
+        "primary_artist_names": "Shaboozey",
+        "release_date_for_display": "April 25, 2025",
+        "url": "https://genius.com/albums/Shaboozey/Where-ive-been-isnt-where-im-going-the-complete-edition",
+        "artist": {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/69508",
+                "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                "id": 69508,
+                "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Shaboozey",
+                "url": "https://genius.com/artists/Shaboozey"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/405993",
+                    "header_image_url": "https://images.genius.com/d2fa36bfa4373a02fb7e4038397fc93d.960x640x1.jpg",
+                    "id": 405993,
+                    "image_url": "https://images.genius.com/4ce9dfa358d44f276c174d564c363489.698x698x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Mark Nelson",
+                    "url": "https://genius.com/artists/John-mark-nelson"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/69508",
+                    "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                    "id": 69508,
+                    "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shaboozey",
+                    "url": "https://genius.com/artists/Shaboozey"
+                },
+                {
+                    "api_path": "/artists/3963455",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3963455,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerrel Jones",
+                    "url": "https://genius.com/artists/Jerrel-jones"
+                },
+                {
+                    "api_path": "/artists/100944",
+                    "header_image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+                    "id": 100944,
+                    "image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Capo (Trackboyz)",
+                    "url": "https://genius.com/artists/Capo-trackboyz"
+                },
+                {
+                    "api_path": "/artists/133136",
+                    "header_image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+                    "id": 133136,
+                    "image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Williams",
+                    "url": "https://genius.com/artists/Mark-williams"
+                },
+                {
+                    "api_path": "/artists/634355",
+                    "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "id": 634355,
+                    "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nevin",
+                    "url": "https://genius.com/artists/Nevin"
+                },
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/69508",
+                    "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                    "id": 69508,
+                    "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shaboozey",
+                    "url": "https://genius.com/artists/Shaboozey"
+                },
+                {
+                    "api_path": "/artists/3963455",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3963455,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerrel Jones",
+                    "url": "https://genius.com/artists/Jerrel-jones"
+                },
+                {
+                    "api_path": "/artists/100944",
+                    "header_image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+                    "id": 100944,
+                    "image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Capo (Trackboyz)",
+                    "url": "https://genius.com/artists/Capo-trackboyz"
+                },
+                {
+                    "api_path": "/artists/133136",
+                    "header_image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+                    "id": 133136,
+                    "image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Williams",
+                    "url": "https://genius.com/artists/Mark-williams"
+                },
+                {
+                    "api_path": "/artists/634355",
+                    "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "id": 634355,
+                    "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nevin",
+                    "url": "https://genius.com/artists/Nevin"
+                },
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                }
+            ]
+        },
+        {
+            "label": "A&R Administrator",
+            "artists": [
+                {
+                    "api_path": "/artists/3699853",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3699853,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brianna Jordan",
+                    "url": "https://genius.com/artists/Brianna-jordan"
+                },
+                {
+                    "api_path": "/artists/3383515",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3383515,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lucy Pogoriler",
+                    "url": "https://genius.com/artists/Lucy-pogoriler"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1068787",
+                    "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "id": 1068787,
+                    "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Cook",
+                    "url": "https://genius.com/artists/Sean-cook"
+                },
+                {
+                    "api_path": "/artists/2090909",
+                    "header_image_url": "https://images.genius.com/51cbe49389046200bbe4938eead5f67d.1000x992x1.jpg",
+                    "id": 2090909,
+                    "image_url": "https://images.genius.com/b4b3518815bb360319a5ac511ddcecf5.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Skyler The Engineer",
+                    "url": "https://genius.com/artists/Skyler-the-engineer",
+                    "iq": 122
+                }
+            ]
+        },
+        {
+            "label": "Fiddle",
+            "artists": [
+                {
+                    "api_path": "/artists/3937442",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3937442,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lily Honigberg",
+                    "url": "https://genius.com/artists/Lily-honigberg"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2993696",
+                    "header_image_url": "https://images.genius.com/bc722f2d97f6b904d00cf3632dce897c.1000x1000x1.png",
+                    "id": 2993696,
+                    "image_url": "https://images.genius.com/bc722f2d97f6b904d00cf3632dce897c.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raul Lopez (Engineer)",
+                    "url": "https://genius.com/artists/Raul-lopez-engineer"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                },
+                {
+                    "api_path": "/artists/3912282",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3912282,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "American Dogwood",
+                    "url": "https://genius.com/artists/American-dogwood"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1067746",
+                    "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+                    "id": 1067746,
+                    "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMPIRE",
+                    "url": "https://genius.com/artists/Empire"
+                },
+                {
+                    "api_path": "/artists/3912282",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3912282,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "American Dogwood",
+                    "url": "https://genius.com/artists/American-dogwood"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 9539809,
+        "annotator_login": "Yuyuyu62",
+        "api_path": "/referents/31012453",
+        "classification": "unreviewed",
+        "fragment": "A Bar Song (Tipsy)",
+        "id": 31012453,
+        "is_description": true,
+        "path": "/31012453/Shaboozey-a-bar-song-tipsy/A-bar-song-tipsy",
+        "range": {
+            "content": "A Bar Song (Tipsy)"
+        },
+        "song_id": 10109093,
+        "url": "https://genius.com/31012453/Shaboozey-a-bar-song-tipsy/A-bar-song-tipsy",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10109093",
+            "client_timestamps": {
+                "updated_by_human_at": 1747342564,
+                "lyrics_updated_at": 1747342564
+            },
+            "context": "Shaboozey",
+            "id": 10109093,
+            "image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+            "link_title": "A Bar Song (Tipsy) by\u00a0Shaboozey",
+            "title": "A Bar Song (Tipsy)",
+            "type": "Song",
+            "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31012453",
+                "body": {
+                    "plain": "\u201cA Bar Song (Tipsy)\u201d is a country song by Shaboozey released on April 12th 2024. The song is notable for featuring an interpolation of J-Kwon\u2019s 2004 party anthem \u201cTipsy\u201d. The song is a part of his 2024 album \u201cWhere I\u2019ve Been, Isn\u2019t Where I\u2019m Going\u201d"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31012453,
+                "pinned": false,
+                "share_url": "https://genius.com/31012453",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31012453/Shaboozey-a-bar-song-tipsy/A-bar-song-tipsy",
+                "verified": false,
+                "votes_total": 23,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/9539809",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/70521f6e7c044c153c4c20c5366cc2b8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/70521f6e7c044c153c4c20c5366cc2b8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/70521f6e7c044c153c4c20c5366cc2b8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/70521f6e7c044c153c4c20c5366cc2b8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/70521f6e7c044c153c4c20c5366cc2b8",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 9539809,
+                            "iq": 473,
+                            "login": "Yuyuyu62",
+                            "name": "Yuyuyu62",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Yuyuyu62",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4019648",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/c405602a0aeeb242060f83f3b6879763",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/72b9e74920cb6c6d5eb219fb84c1a7bc.1000x369x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4019648,
+        "iq": 13790,
+        "login": "whostrstn",
+        "name": "\u200btrstn",
+        "role_for_display": "editor",
+        "url": "https://genius.com/whostrstn",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "shaboozey",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/shaboozey/shaboozey-a-bar-song-tipsy"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=t7bQwwqW-Hc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/634355",
+            "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "id": 634355,
+            "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nevin",
+            "url": "https://genius.com/artists/Nevin"
+        },
+        {
+            "api_path": "/artists/1068787",
+            "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "id": 1068787,
+            "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Cook",
+            "url": "https://genius.com/artists/Sean-cook"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 10,
+                    "api_path": "/songs/2588",
+                    "artist_names": "J-Kwon",
+                    "full_title": "Tipsy by\u00a0J-Kwon",
+                    "header_image_thumbnail_url": "https://images.genius.com/4b95b95f4a632804fb5385f8458d8e4f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4b95b95f4a632804fb5385f8458d8e4f.1000x1000x1.png",
+                    "id": 2588,
+                    "lyrics_owner_id": 588,
+                    "lyrics_state": "complete",
+                    "path": "/J-kwon-tipsy-lyrics",
+                    "primary_artist_names": "J-Kwon",
+                    "pyongs_count": 19,
+                    "relationships_index_url": "https://genius.com/J-kwon-tipsy-sample",
+                    "release_date_components": {
+                        "year": 2004,
+                        "month": 2,
+                        "day": 10
+                    },
+                    "release_date_for_display": "February 10, 2004",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 10, 2004",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4b95b95f4a632804fb5385f8458d8e4f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4b95b95f4a632804fb5385f8458d8e4f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false,
+                        "pageviews": 380466
+                    },
+                    "title": "Tipsy",
+                    "title_with_featured": "Tipsy",
+                    "url": "https://genius.com/J-kwon-tipsy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1206",
+                        "header_image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+                        "id": 1206,
+                        "image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "J-Kwon",
+                        "url": "https://genius.com/artists/J-kwon"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1206",
+                            "header_image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+                            "id": 1206,
+                            "image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "J-Kwon",
+                            "url": "https://genius.com/artists/J-kwon"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/11224573",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2024 (Blame It On The Whiskey) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "id": 11224573,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "title_with_featured": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 6,
+                    "api_path": "/songs/11790272",
+                    "artist_names": "indawgnito",
+                    "full_title": "A Mine Song (A Minecraft Parody) by\u00a0indawgnito",
+                    "header_image_thumbnail_url": "https://images.genius.com/c93076c1ddd6bc178c5c7caf423652dd.300x169x1.jpg",
+                    "header_image_url": "https://images.genius.com/c93076c1ddd6bc178c5c7caf423652dd.686x386x1.jpg",
+                    "id": 11790272,
+                    "lyrics_owner_id": 22872693,
+                    "lyrics_state": "complete",
+                    "path": "/Indawgnito-a-mine-song-a-minecraft-parody-lyrics",
+                    "primary_artist_names": "indawgnito",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Indawgnito-a-mine-song-a-minecraft-parody-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 2,
+                        "day": 8
+                    },
+                    "release_date_for_display": "February 8, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 8, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c93076c1ddd6bc178c5c7caf423652dd.300x169x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/c93076c1ddd6bc178c5c7caf423652dd.686x386x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 6,
+                        "hot": false
+                    },
+                    "title": "A Mine Song (A Minecraft Parody)",
+                    "title_with_featured": "A Mine Song (A Minecraft Parody)",
+                    "url": "https://genius.com/Indawgnito-a-mine-song-a-minecraft-parody-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4400945",
+                        "header_image_url": "https://images.genius.com/775d883a8424a00c2187daf831fa3a21.900x900x1.jpg",
+                        "id": 4400945,
+                        "image_url": "https://images.genius.com/775d883a8424a00c2187daf831fa3a21.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "indawgnito",
+                        "url": "https://genius.com/artists/Indawgnito"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4400945",
+                            "header_image_url": "https://images.genius.com/775d883a8424a00c2187daf831fa3a21.900x900x1.jpg",
+                            "id": 4400945,
+                            "image_url": "https://images.genius.com/775d883a8424a00c2187daf831fa3a21.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "indawgnito",
+                            "url": "https://genius.com/artists/Indawgnito"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11583251",
+                    "artist_names": "Cami-Cat",
+                    "full_title": "A Bar Song (Tipsy) by\u00a0Cami-Cat",
+                    "header_image_thumbnail_url": "https://images.genius.com/7de7cd124e86b37635dc826a071207f3.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7de7cd124e86b37635dc826a071207f3.1000x1000x1.jpg",
+                    "id": 11583251,
+                    "lyrics_owner_id": 16419049,
+                    "lyrics_state": "complete",
+                    "path": "/Cami-cat-a-bar-song-tipsy-lyrics",
+                    "primary_artist_names": "Cami-Cat",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cami-cat-a-bar-song-tipsy-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 18
+                    },
+                    "release_date_for_display": "January 18, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 18, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7de7cd124e86b37635dc826a071207f3.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7de7cd124e86b37635dc826a071207f3.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "A Bar Song (Tipsy)",
+                    "title_with_featured": "A Bar Song (Tipsy)",
+                    "url": "https://genius.com/Cami-cat-a-bar-song-tipsy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1185857",
+                        "header_image_url": "https://images.genius.com/36445bd11e97d59ee1218c7eec3d4ae1.1000x563x1.jpg",
+                        "id": 1185857,
+                        "image_url": "https://images.genius.com/ce96c70b4a53d49d722282eca03706a0.800x800x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cami-Cat",
+                        "url": "https://genius.com/artists/Cami-cat"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1185857",
+                            "header_image_url": "https://images.genius.com/36445bd11e97d59ee1218c7eec3d4ae1.1000x563x1.jpg",
+                            "id": 1185857,
+                            "image_url": "https://images.genius.com/ce96c70b4a53d49d722282eca03706a0.800x800x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cami-Cat",
+                            "url": "https://genius.com/artists/Cami-cat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11625456",
+                    "artist_names": "Yussi",
+                    "full_title": "A Bar Song (Tipsy) by\u00a0Yussi",
+                    "header_image_thumbnail_url": "https://images.genius.com/cfc8df0b83db3f2dcddca1bb0852da8f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cfc8df0b83db3f2dcddca1bb0852da8f.1000x1000x1.png",
+                    "id": 11625456,
+                    "lyrics_owner_id": 7265552,
+                    "lyrics_state": "complete",
+                    "path": "/Yussi-a-bar-song-tipsy-lyrics",
+                    "primary_artist_names": "Yussi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Yussi-a-bar-song-tipsy-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 21
+                    },
+                    "release_date_for_display": "March 21, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 21, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cfc8df0b83db3f2dcddca1bb0852da8f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cfc8df0b83db3f2dcddca1bb0852da8f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "A Bar Song (Tipsy)",
+                    "title_with_featured": "A Bar Song (Tipsy)",
+                    "url": "https://genius.com/Yussi-a-bar-song-tipsy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3124166",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 3124166,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yussi",
+                        "url": "https://genius.com/artists/Yussi"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3124166",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 3124166,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yussi",
+                            "url": "https://genius.com/artists/Yussi"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11243226",
+                    "artist_names": "SurplusPotatoes & Arthur Morgan (Ft. Lenny Summers)",
+                    "full_title": "A Bar Song by\u00a0SurplusPotatoes & Arthur\u00a0Morgan (Ft.\u00a0Lenny\u00a0Summers)",
+                    "header_image_thumbnail_url": "https://images.genius.com/8c79982c8a3032bc9a0d92d75beb9537.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8c79982c8a3032bc9a0d92d75beb9537.500x500x1.jpg",
+                    "id": 11243226,
+                    "lyrics_owner_id": 22632303,
+                    "lyrics_state": "complete",
+                    "path": "/Surpluspotatoes-and-arthur-morgan-a-bar-song-lyrics",
+                    "primary_artist_names": "SurplusPotatoes & Arthur Morgan",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Surpluspotatoes-and-arthur-morgan-a-bar-song-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8c79982c8a3032bc9a0d92d75beb9537.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8c79982c8a3032bc9a0d92d75beb9537.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "A Bar Song",
+                    "title_with_featured": "A Bar Song (Ft.\u00a0Lenny\u00a0Summers)",
+                    "url": "https://genius.com/Surpluspotatoes-and-arthur-morgan-a-bar-song-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/4240865",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4240865,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lenny Summers",
+                            "url": "https://genius.com/artists/Lenny-summers"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/4187400",
+                        "header_image_url": "https://images.genius.com/4ed39b8df9d77d9a3bcbbb37e8861c91.900x900x1.jpg",
+                        "id": 4187400,
+                        "image_url": "https://images.genius.com/5357b08c09d41a2cf0942ca74525c43f.900x900x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "SurplusPotatoes",
+                        "url": "https://genius.com/artists/Surpluspotatoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4187400",
+                            "header_image_url": "https://images.genius.com/4ed39b8df9d77d9a3bcbbb37e8861c91.900x900x1.jpg",
+                            "id": 4187400,
+                            "image_url": "https://images.genius.com/5357b08c09d41a2cf0942ca74525c43f.900x900x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "SurplusPotatoes",
+                            "url": "https://genius.com/artists/Surpluspotatoes"
+                        },
+                        {
+                            "api_path": "/artists/2335416",
+                            "header_image_url": "https://images.genius.com/da7f65085ca5805205cf695eac071cb8.650x371x1.webp",
+                            "id": 2335416,
+                            "image_url": "https://images.genius.com/c6f1e52d7c85324b98f006e35b2d9273.593x593x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Arthur Morgan",
+                            "url": "https://genius.com/artists/Arthur-morgan"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11185456",
+                    "artist_names": "Shaboozey",
+                    "full_title": "A Bar Song (Tipsy) [Instrumental] by\u00a0Shaboozey",
+                    "header_image_thumbnail_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.1000x1000x1.png",
+                    "id": 11185456,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Shaboozey-a-bar-song-tipsy-instrumental-lyrics",
+                    "primary_artist_names": "Shaboozey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Shaboozey-a-bar-song-tipsy-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 3
+                    },
+                    "release_date_for_display": "December 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "A Bar Song (Tipsy) [Instrumental]",
+                    "title_with_featured": "A Bar Song (Tipsy) [Instrumental]",
+                    "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/69508",
+                        "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                        "id": 69508,
+                        "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shaboozey",
+                        "url": "https://genius.com/artists/Shaboozey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/69508",
+                            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                            "id": 69508,
+                            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Shaboozey",
+                            "url": "https://genius.com/artists/Shaboozey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11185444",
+                    "artist_names": "Shaboozey",
+                    "full_title": "\u200eA Bar Song (Tipsy) [Demo Version] by\u00a0Shaboozey",
+                    "header_image_thumbnail_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.1000x1000x1.png",
+                    "id": 11185444,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Shaboozey-a-bar-song-tipsy-demo-version-lyrics",
+                    "primary_artist_names": "Shaboozey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Shaboozey-a-bar-song-tipsy-demo-version-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 3
+                    },
+                    "release_date_for_display": "December 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/51a169d1e15f7192921ecd62249c7df1.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u200eA Bar Song (Tipsy) [Demo Version]",
+                    "title_with_featured": "\u200eA Bar Song (Tipsy) [Demo Version]",
+                    "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-demo-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/69508",
+                        "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                        "id": 69508,
+                        "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shaboozey",
+                        "url": "https://genius.com/artists/Shaboozey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/69508",
+                            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                            "id": 69508,
+                            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Shaboozey",
+                            "url": "https://genius.com/artists/Shaboozey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11023443",
+                    "artist_names": "Shaboozey",
+                    "full_title": "A Bar Song (RetroVision Flip) by\u00a0Shaboozey",
+                    "header_image_thumbnail_url": "https://images.genius.com/49e7430015425e9fb17850715cff407c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/49e7430015425e9fb17850715cff407c.1000x1000x1.png",
+                    "id": 11023443,
+                    "lyrics_owner_id": 13662641,
+                    "lyrics_state": "complete",
+                    "path": "/Shaboozey-a-bar-song-retrovision-flip-lyrics",
+                    "primary_artist_names": "Shaboozey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Shaboozey-a-bar-song-retrovision-flip-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 28
+                    },
+                    "release_date_for_display": "June 28, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 28, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/49e7430015425e9fb17850715cff407c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/49e7430015425e9fb17850715cff407c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "A Bar Song (RetroVision Flip)",
+                    "title_with_featured": "A Bar Song (RetroVision Flip)",
+                    "url": "https://genius.com/Shaboozey-a-bar-song-retrovision-flip-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/69508",
+                        "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                        "id": 69508,
+                        "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Shaboozey",
+                        "url": "https://genius.com/artists/Shaboozey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/69508",
+                            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                            "id": 69508,
+                            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Shaboozey",
+                            "url": "https://genius.com/artists/Shaboozey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10570298",
+                    "artist_names": "Mike Teezy",
+                    "full_title": "He Missed Me by\u00a0Mike\u00a0Teezy",
+                    "header_image_thumbnail_url": "https://images.genius.com/c4f84036cc3f95094680706cff3f4d21.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c4f84036cc3f95094680706cff3f4d21.1000x1000x1.png",
+                    "id": 10570298,
+                    "lyrics_owner_id": 22055469,
+                    "lyrics_state": "complete",
+                    "path": "/Mike-teezy-he-missed-me-lyrics",
+                    "primary_artist_names": "Mike Teezy",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Mike-teezy-he-missed-me-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 21
+                    },
+                    "release_date_for_display": "June 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c4f84036cc3f95094680706cff3f4d21.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c4f84036cc3f95094680706cff3f4d21.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "He Missed Me",
+                    "title_with_featured": "He Missed Me",
+                    "url": "https://genius.com/Mike-teezy-he-missed-me-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/21864",
+                        "header_image_url": "https://images.genius.com/f4c9944f9f5c29e7b6da211b48132880.1000x667x1.jpg",
+                        "id": 21864,
+                        "image_url": "https://images.genius.com/7467e24ea42df2d38fe978cb5cb48a8b.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mike Teezy",
+                        "url": "https://genius.com/artists/Mike-teezy",
+                        "iq": 2060
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/21864",
+                            "header_image_url": "https://images.genius.com/f4c9944f9f5c29e7b6da211b48132880.1000x667x1.jpg",
+                            "id": 21864,
+                            "image_url": "https://images.genius.com/7467e24ea42df2d38fe978cb5cb48a8b.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Mike Teezy",
+                            "url": "https://genius.com/artists/Mike-teezy",
+                            "iq": 2060
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10485151",
+                    "artist_names": "Gabriel Storm",
+                    "full_title": "The Church song (Holy) by\u00a0Gabriel\u00a0Storm",
+                    "header_image_thumbnail_url": "https://images.genius.com/4af988164af41b65936f0353e293a7b6.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4af988164af41b65936f0353e293a7b6.640x640x1.jpg",
+                    "id": 10485151,
+                    "lyrics_owner_id": 15310250,
+                    "lyrics_state": "complete",
+                    "path": "/Gabriel-storm-the-church-song-holy-lyrics",
+                    "primary_artist_names": "Gabriel Storm",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Gabriel-storm-the-church-song-holy-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 10
+                    },
+                    "release_date_for_display": "May 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4af988164af41b65936f0353e293a7b6.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4af988164af41b65936f0353e293a7b6.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "The Church song (Holy)",
+                    "title_with_featured": "The Church song (Holy)",
+                    "url": "https://genius.com/Gabriel-storm-the-church-song-holy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3977101",
+                        "header_image_url": "https://images.genius.com/dcf96c3b65e137eda316a55c0f1dab91.767x136x1.jpg",
+                        "id": 3977101,
+                        "image_url": "https://images.genius.com/77eec464678abcba68d924557a0c53af.555x555x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gabriel Storm",
+                        "url": "https://genius.com/artists/Gabriel-storm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3977101",
+                            "header_image_url": "https://images.genius.com/dcf96c3b65e137eda316a55c0f1dab91.767x136x1.jpg",
+                            "id": 3977101,
+                            "image_url": "https://images.genius.com/77eec464678abcba68d924557a0c53af.555x555x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Gabriel Storm",
+                            "url": "https://genius.com/artists/Gabriel-storm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Shaboozey-a-bar-song-tipsy-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10335465",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Shaboozey - A Bar Song (Tipsy) (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/82ef4be0c5e558b070febdf84256c8c4.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/82ef4be0c5e558b070febdf84256c8c4.750x750x1.jpg",
+                    "id": 10335465,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-shaboozey-a-bar-song-tipsy-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-shaboozey-a-bar-song-tipsy-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    },
+                    "release_date_for_display": "April 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/82ef4be0c5e558b070febdf84256c8c4.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/82ef4be0c5e558b070febdf84256c8c4.750x750x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Shaboozey - A Bar Song (Tipsy) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Shaboozey - A Bar Song (Tipsy) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-shaboozey-a-bar-song-tipsy-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10425397",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Shaboozey - A Bar Song (Tipsy) [Deutsche \u00dcbersetzung] by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "id": 10425397,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-shaboozey-a-bar-song-tipsy-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-shaboozey-a-bar-song-tipsy-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    },
+                    "release_date_for_display": "April 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 8319
+                    },
+                    "title": "Shaboozey - A Bar Song (Tipsy) [Deutsche \u00dcbersetzung]",
+                    "title_with_featured": "Shaboozey - A Bar Song (Tipsy) [Deutsche \u00dcbersetzung]",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-shaboozey-a-bar-song-tipsy-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10981250",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Shaboozey-A Bar Song (Tipsy) (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                    "id": 10981250,
+                    "lyrics_owner_id": 21648966,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-shaboozey-a-bar-song-tipsy-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-shaboozey-a-bar-song-tipsy-traduction-francaise-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Shaboozey-A Bar Song (Tipsy) (Traduction Fran\u00e7aise)",
+                    "title_with_featured": "Shaboozey-A Bar Song (Tipsy) (Traduction Fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-shaboozey-a-bar-song-tipsy-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10695721",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Shaboozey - A Bar Song (Tipsy) [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434] by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "id": 10695721,
+                    "lyrics_owner_id": 21998695,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-shaboozey-a-bar-song-tipsy-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-shaboozey-a-bar-song-tipsy-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    },
+                    "release_date_for_display": "April 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Shaboozey - A Bar Song (Tipsy) [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434]",
+                    "title_with_featured": "Shaboozey - A Bar Song (Tipsy) [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434]",
+                    "url": "https://genius.com/Genius-ukrainian-translations-shaboozey-a-bar-song-tipsy-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/10462757",
+                    "artist_names": "Genius Norske Oversettelser",
+                    "full_title": "Shaboozey - A Bar Song (Tipsy) (Norsk Oversettelse) by\u00a0Genius\u00a0Norske Oversettelser",
+                    "header_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "id": 10462757,
+                    "lyrics_owner_id": 6936343,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-norske-oversettelser-shaboozey-a-bar-song-tipsy-norsk-oversettelse-lyrics",
+                    "primary_artist_names": "Genius Norske Oversettelser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-norske-oversettelser-shaboozey-a-bar-song-tipsy-norsk-oversettelse-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 12
+                    },
+                    "release_date_for_display": "April 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/69460859f060839ae351dce785214220.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/69460859f060839ae351dce785214220.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Shaboozey - A Bar Song (Tipsy) (Norsk Oversettelse)",
+                    "title_with_featured": "Shaboozey - A Bar Song (Tipsy) (Norsk Oversettelse)",
+                    "url": "https://genius.com/Genius-norske-oversettelser-shaboozey-a-bar-song-tipsy-norsk-oversettelse-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3461450",
+                        "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                        "id": 3461450,
+                        "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Norske Oversettelser",
+                        "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3461450",
+                            "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                            "id": 3461450,
+                            "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Norske Oversettelser",
+                            "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10335465",
+            "id": 10335465,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-shaboozey-a-bar-song-tipsy-traduccion-al-espanol-lyrics",
+            "title": "Shaboozey - A Bar Song (Tipsy) (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-shaboozey-a-bar-song-tipsy-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10425397",
+            "id": 10425397,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-shaboozey-a-bar-song-tipsy-deutsche-ubersetzung-lyrics",
+            "title": "Shaboozey - A Bar Song (Tipsy) [Deutsche \u00dcbersetzung]",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-shaboozey-a-bar-song-tipsy-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10981250",
+            "id": 10981250,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-shaboozey-a-bar-song-tipsy-traduction-francaise-lyrics",
+            "title": "Shaboozey-A Bar Song (Tipsy) (Traduction Fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-shaboozey-a-bar-song-tipsy-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10695721",
+            "id": 10695721,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-shaboozey-a-bar-song-tipsy-lyrics",
+            "title": "Shaboozey - A Bar Song (Tipsy) [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434]",
+            "url": "https://genius.com/Genius-ukrainian-translations-shaboozey-a-bar-song-tipsy-lyrics"
+        },
+        {
+            "api_path": "/songs/10462757",
+            "id": 10462757,
+            "language": "no",
+            "lyrics_state": "complete",
+            "path": "/Genius-norske-oversettelser-shaboozey-a-bar-song-tipsy-norsk-oversettelse-lyrics",
+            "title": "Shaboozey - A Bar Song (Tipsy) (Norsk Oversettelse)",
+            "url": "https://genius.com/Genius-norske-oversettelser-shaboozey-a-bar-song-tipsy-norsk-oversettelse-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/69508",
+            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+            "id": 69508,
+            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Shaboozey",
+            "url": "https://genius.com/artists/Shaboozey"
+        },
+        {
+            "api_path": "/artists/3963455",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3963455,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jerrel Jones",
+            "url": "https://genius.com/artists/Jerrel-jones"
+        },
+        {
+            "api_path": "/artists/100944",
+            "header_image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+            "id": 100944,
+            "image_url": "https://images.genius.com/23813e63613bceaab58c230ef4aa52da.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Capo (Trackboyz)",
+            "url": "https://genius.com/artists/Capo-trackboyz"
+        },
+        {
+            "api_path": "/artists/133136",
+            "header_image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+            "id": 133136,
+            "image_url": "https://images.genius.com/48bf75332587287d56a0046588d44bb5.498x498x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mark Williams",
+            "url": "https://genius.com/artists/Mark-williams"
+        },
+        {
+            "api_path": "/artists/634355",
+            "header_image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "id": 634355,
+            "image_url": "https://images.genius.com/e99c8c9de7e777c007861ff582bd2fe1.714x714x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nevin",
+            "url": "https://genius.com/artists/Nevin"
+        },
+        {
+            "api_path": "/artists/1068787",
+            "header_image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "id": 1068787,
+            "image_url": "https://images.genius.com/9808e76cfeb67e67ac158b0f3172175a.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Cook",
+            "url": "https://genius.com/artists/Sean-cook"
+        },
+        {
+            "api_path": "/artists/1206",
+            "header_image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+            "id": 1206,
+            "image_url": "https://images.genius.com/c3417a4552eb8e5460feb1abcbba8b5a.415x415x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "J-Kwon",
+            "url": "https://genius.com/artists/J-kwon"
+        }
+    ],
+    "artist": "Shaboozey",
+    "lyrics": "52 ContributorsTranslationsEspa\u00f1olDeutschFran\u00e7ais\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430NorskA Bar Song (Tipsy) Lyrics\nMy baby want a Birkin, she's been tellin' me all night long\nGasoline and groceries, the list goes on and on\nThis nine-to-five ain't workin', why the hell do I work so hard?\nI can't worry 'bout my problems, I can't take 'em when I'm gone, uh\n\nOne, here comes the two to the three to the four\nTell 'em \"Bring another round,\" we need plenty more\nTwo-steppin' on the table, she don't need a dance floor\nOh my, good Lord\n\nSomeone pour me up a double shot of whiskey\nThey know me and Jack Dani\u0435l's got a history\nThere's a party downtown near 5th Street\nEv\u0435rybody at the bar gettin' tipsy\n\nEverybody at the bar gettin' tipsy\nEverybody at the bar gettin' tipsy\n\nI've been Boozey since I left\nI ain't changin' for a check\nTell my ma I ain't forget (Oh, Lord), I\nWoke up drunk at 10 a.m.\u200b\nWe gon' do this shit again\nTell your girl to bring a friend, oh, Lord\n\nOne, here comes the two to the three to the four\nTell 'em \"Bring another round,\" we need plenty more\nTwo-steppin' on the table, she don't need a dance floor\nOh my, good Lord\n\nSomeone pour me up a double shot of whiskey (Double shot of whiskey)\nThey know me and Jack Daniel's got a history (We go way back)\nThere's a party downtown near 5th Street\nEverybody at the bar gettin' tipsy\n\nEverybody at the bar gettin' tipsy (At the bar gettin' tipsy)\nEverybody at the bar gettin' tipsy\n\nOne, here comes the two to the three to the four\nWhen it's last call and they kick us out the door\nIt's gettin' kind of late, but the ladies want some more\nOh my, good Lord (Tell 'em drinks on me)\n\nSomeone pour me up a double shot of whiskey (Double shot of whiskey)\nThey know me and Jack Daniel's got a history (Way back)\nThere's a party downtown near 5th Street (Come on)\nEverybody at the bar gettin' tipsy (Woo-ooh)\nSomeone pour me up a double shot of whiskey (Double shot of whiskey)\nThey know me and Jack Daniel's got a history (It's Jack D)\nAt the bottom of a bottle, don't miss me (Baby, don't miss me)\nEverybody at the bar gettin' tipsy (At the bar gettin' tipsy)\n\nEverybody at the bar gettin' tipsy\nEverybody at the bar gettin' tipsy\n\nThat's fuckin' messed up, bro, they kicked me out the bar"
+}

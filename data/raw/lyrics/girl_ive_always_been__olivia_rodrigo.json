@@ -1,0 +1,1510 @@
+{
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/9497290",
+    "artist_names": "Olivia Rodrigo",
+    "full_title": "girl i've always been by\u00a0Olivia\u00a0Rodrigo",
+    "header_image_thumbnail_url": "https://images.genius.com/1204358e59c7b409a709fdd7c8381e8b.300x300x1.png",
+    "header_image_url": "https://images.genius.com/1204358e59c7b409a709fdd7c8381e8b.900x900x1.png",
+    "id": 9497290,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1743307549,
+    "path": "/Olivia-rodrigo-girl-ive-always-been-lyrics",
+    "primary_artist_names": "Olivia Rodrigo",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Olivia-rodrigo-girl-ive-always-been-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 9,
+        "day": 8
+    },
+    "release_date_for_display": "September 8, 2023",
+    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1204358e59c7b409a709fdd7c8381e8b.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/1204358e59c7b409a709fdd7c8381e8b.900x900x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 56,
+        "iq_earners": 56,
+        "transcribers": 5,
+        "unreviewed_annotations": 13,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 131144
+    },
+    "title": "girl i\u2019ve always been",
+    "title_with_featured": "girl i've always been",
+    "updated_by_human_at": 1743307549,
+    "url": "https://genius.com/Olivia-rodrigo-girl-ive-always-been-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1599675",
+        "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+        "id": 1599675,
+        "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Olivia Rodrigo",
+        "url": "https://genius.com/artists/Olivia-rodrigo",
+        "iq": 2489
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1599675",
+            "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+            "id": 1599675,
+            "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Olivia Rodrigo",
+            "url": "https://genius.com/artists/Olivia-rodrigo",
+            "iq": 2489
+        }
+    ],
+    "apple_music_id": "1736996084",
+    "apple_music_player_url": "https://genius.com/songs/9497290/apple_music_player",
+    "description": {
+        "plain": "The track was first hinted at in an infomercial for the album posted to her team\u2019s social media accounts. A glitch in the video revealed four additional tracks that weren\u2019t initially on the album. Upon the album\u2019s release, it was revealed that each vinyl variant contained a hidden track. \u201cgirl i\u2019ve always been\u201d is currently only available on \u201cGUTS (S purple vinyl).\u201d"
+    },
+    "embed_content": "<div id='rg_embed_link_9497290' class='rg_embed_link' data-song-id='9497290'>Read <a href='https://genius.com/Olivia-rodrigo-girl-ive-always-been-lyrics'>\u201cgirl i've always been\u201d by Olivia\u00a0Rodrigo</a> on Genius</div> <script crossorigin src='//genius.com/songs/9497290/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Amusement Studios, Los Angeles, CA",
+    "release_date": "2023-09-08",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#785ba3",
+    "song_art_secondary_color": "#3e2f54",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1158939",
+        "cover_art_url": "https://images.genius.com/02fc0cedb961ab29fcaf3e5e48db681e.1000x1000x1.png",
+        "full_title": "GUTS (spilled) by Olivia Rodrigo",
+        "id": 1158939,
+        "name": "GUTS (spilled)",
+        "primary_artist_names": "Olivia Rodrigo",
+        "release_date_for_display": "March 22, 2024",
+        "url": "https://genius.com/albums/Olivia-rodrigo/Guts-spilled",
+        "artist": {
+            "api_path": "/artists/1599675",
+            "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+            "id": 1599675,
+            "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Olivia Rodrigo",
+            "url": "https://genius.com/artists/Olivia-rodrigo",
+            "iq": 2489
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1599675",
+                "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+                "id": 1599675,
+                "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Olivia Rodrigo",
+                "url": "https://genius.com/artists/Olivia-rodrigo",
+                "iq": 2489
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/3669900",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3669900,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Amusement Studios",
+                    "url": "https://genius.com/artists/Amusement-studios"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/552467",
+                    "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+                    "id": 552467,
+                    "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Nigro",
+                    "url": "https://genius.com/artists/Dan-nigro"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1599675",
+                    "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+                    "id": 1599675,
+                    "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Olivia Rodrigo",
+                    "url": "https://genius.com/artists/Olivia-rodrigo",
+                    "iq": 2489
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/552467",
+                    "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+                    "id": 552467,
+                    "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Nigro",
+                    "url": "https://genius.com/artists/Dan-nigro"
+                }
+            ]
+        },
+        {
+            "label": "Instrumentation",
+            "artists": [
+                {
+                    "api_path": "/artists/552467",
+                    "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+                    "id": 552467,
+                    "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Nigro",
+                    "url": "https://genius.com/artists/Dan-nigro"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/552467",
+                    "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+                    "id": 552467,
+                    "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Nigro",
+                    "url": "https://genius.com/artists/Dan-nigro"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/552467",
+                    "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+                    "id": 552467,
+                    "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Nigro",
+                    "url": "https://genius.com/artists/Dan-nigro"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2676120",
+                    "header_image_url": "https://images.genius.com/3fbfda8df35710d0c517c6106e1a5102.1000x333x1.jpg",
+                    "id": 2676120,
+                    "image_url": "https://images.genius.com/fb32455a8bacaf0bf60cf0d6c1305697.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Liv Laf Luv",
+                    "url": "https://genius.com/artists/Liv-laf-luv"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/32167",
+                    "header_image_url": "https://images.genius.com/08ff1c06f854afac6a1ac9a571993b65.800x1000x1.jpg",
+                    "id": 32167,
+                    "image_url": "https://images.genius.com/729fcb934d987cf99315cc68b596d42d.837x837x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Geffen Records",
+                    "url": "https://genius.com/artists/Geffen-records"
+                },
+                {
+                    "api_path": "/artists/1599675",
+                    "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+                    "id": 1599675,
+                    "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Olivia Rodrigo",
+                    "url": "https://genius.com/artists/Olivia-rodrigo",
+                    "iq": 2489
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1599675",
+                    "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+                    "id": 1599675,
+                    "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Olivia Rodrigo",
+                    "url": "https://genius.com/artists/Olivia-rodrigo",
+                    "iq": 2489
+                },
+                {
+                    "api_path": "/artists/32167",
+                    "header_image_url": "https://images.genius.com/08ff1c06f854afac6a1ac9a571993b65.800x1000x1.jpg",
+                    "id": 32167,
+                    "image_url": "https://images.genius.com/729fcb934d987cf99315cc68b596d42d.837x837x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Geffen Records",
+                    "url": "https://genius.com/artists/Geffen-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/32167",
+                    "header_image_url": "https://images.genius.com/08ff1c06f854afac6a1ac9a571993b65.800x1000x1.jpg",
+                    "id": 32167,
+                    "image_url": "https://images.genius.com/729fcb934d987cf99315cc68b596d42d.837x837x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Geffen Records",
+                    "url": "https://genius.com/artists/Geffen-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21116909,
+        "annotator_login": "islaros7",
+        "api_path": "/referents/29476360",
+        "classification": "unreviewed",
+        "fragment": "girl i\u2019ve always been",
+        "id": 29476360,
+        "is_description": true,
+        "path": "/29476360/Olivia-rodrigo-girl-ive-always-been/Girl-ive-always-been",
+        "range": {
+            "content": "girl i've always been"
+        },
+        "song_id": 9497290,
+        "url": "https://genius.com/29476360/Olivia-rodrigo-girl-ive-always-been/Girl-ive-always-been",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9497290",
+            "client_timestamps": {
+                "updated_by_human_at": 1743307549,
+                "lyrics_updated_at": 1743307549
+            },
+            "context": "Olivia Rodrigo",
+            "id": 9497290,
+            "image_url": "https://images.genius.com/1204358e59c7b409a709fdd7c8381e8b.900x900x1.png",
+            "link_title": "girl i\u2019ve always been by\u00a0Olivia\u00a0Rodrigo",
+            "title": "girl i've always been",
+            "type": "Song",
+            "url": "https://genius.com/Olivia-rodrigo-girl-ive-always-been-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29476360",
+                "body": {
+                    "plain": "The track was first hinted at in an infomercial for the album posted to her team\u2019s social media accounts. A glitch in the video revealed four additional tracks that weren\u2019t initially on the album. Upon the album\u2019s release, it was revealed that each vinyl variant contained a hidden track. \u201cgirl i\u2019ve always been\u201d is currently only available on \u201cGUTS (S purple vinyl).\u201d"
+                },
+                "comment_count": 1,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 29476360,
+                "pinned": false,
+                "share_url": "https://genius.com/29476360",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/29476360/Olivia-rodrigo-girl-ive-always-been/Girl-ive-always-been",
+                "verified": false,
+                "votes_total": 31,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.6290322580645161,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/19665419",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/0rv2kgzrutsc",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/0rv2kgzrutsc",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/0rv2kgzrutsc",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/0rv2kgzrutsc",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/viqsymj4ukq",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 19665419,
+                            "iq": 2363,
+                            "login": "mythoughtsyoucant_decode",
+                            "name": "mythoughtsyoucant_decode",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/mythoughtsyoucant_decode",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.22580645161290325,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21116909",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/9daf0af3a8e7041a7a8a546b3521c35a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/9daf0af3a8e7041a7a8a546b3521c35a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/9daf0af3a8e7041a7a8a546b3521c35a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/9daf0af3a8e7041a7a8a546b3521c35a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/9daf0af3a8e7041a7a8a546b3521c35a",
+                            "human_readable_role_for_display": null,
+                            "id": 21116909,
+                            "iq": 282,
+                            "login": "islaros7",
+                            "name": "islaros7",
+                            "role_for_display": null,
+                            "url": "https://genius.com/islaros7",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.0967741935483871,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/9453294",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/adg9omprum",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/adg9omprum",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/adg9omprum",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/adg9omprum",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/ui1z3nbbose",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 9453294,
+                            "iq": 3721,
+                            "login": "HamburgerManburger",
+                            "name": "HamburgerManburger",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/HamburgerManburger",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.04838709677419355,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21361762",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/290a02a3b88a580206d8a9a95b913fe0",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/290a02a3b88a580206d8a9a95b913fe0",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/290a02a3b88a580206d8a9a95b913fe0",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/290a02a3b88a580206d8a9a95b913fe0",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/290a02a3b88a580206d8a9a95b913fe0",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21361762,
+                            "iq": 1213,
+                            "login": "pynez",
+                            "name": "pynez",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/pynez",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/13273252",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/b5b163b0de670e01858f6592e4de2ba1",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/b5b163b0de670e01858f6592e4de2ba1",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/b5b163b0de670e01858f6592e4de2ba1",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/b5b163b0de670e01858f6592e4de2ba1",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/9d6b96a9ac4646b13ed17db9e863d55c.1000x333x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 13273252,
+        "iq": 278483,
+        "login": "camis07",
+        "name": "\u200bcamis07",
+        "role_for_display": "editor",
+        "url": "https://genius.com/camis07",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=1-dT9r5nbks"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/552467",
+            "header_image_url": "https://images.genius.com/fb54a8619c1af8450fba398910cb878c.1000x661x1.jpg",
+            "id": 552467,
+            "image_url": "https://images.genius.com/76ad565455bdbb170e30e47ce6021c7f.550x550x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dan Nigro",
+            "url": "https://genius.com/artists/Dan-nigro"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8775338",
+                    "artist_names": "\u200bmilo is gone",
+                    "full_title": "Captors I call \u201cfriends\u201d by\u00a0\u200bmilo\u00a0is gone",
+                    "header_image_thumbnail_url": "https://images.genius.com/35df188e9ad19e33dfc79897c0c60389.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/35df188e9ad19e33dfc79897c0c60389.1000x1000x1.jpg",
+                    "id": 8775338,
+                    "lyrics_owner_id": 14407766,
+                    "lyrics_state": "complete",
+                    "path": "/Milo-is-gone-captors-i-call-friends-lyrics",
+                    "primary_artist_names": "\u200bmilo is gone",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Milo-is-gone-captors-i-call-friends-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 9
+                    },
+                    "release_date_for_display": "September 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35df188e9ad19e33dfc79897c0c60389.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/35df188e9ad19e33dfc79897c0c60389.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Captors I call \u201cfriends\u201d",
+                    "title_with_featured": "Captors I call \u201cfriends\u201d",
+                    "url": "https://genius.com/Milo-is-gone-captors-i-call-friends-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4004757",
+                        "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                        "id": 4004757,
+                        "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bmilo is gone",
+                        "url": "https://genius.com/artists/Milo-is-gone"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4004757",
+                            "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                            "id": 4004757,
+                            "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bmilo is gone",
+                            "url": "https://genius.com/artists/Milo-is-gone"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Olivia-rodrigo-girl-ive-always-been-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9708331",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Olivia Rodrigo - girl i\u2019ve always been (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/13c0be6b5524803102ecc7238da3c43b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/13c0be6b5524803102ecc7238da3c43b.1000x1000x1.png",
+                    "id": 9708331,
+                    "lyrics_owner_id": 12456003,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-olivia-rodrigo-girl-ive-always-been-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-olivia-rodrigo-girl-ive-always-been-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/13c0be6b5524803102ecc7238da3c43b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/13c0be6b5524803102ecc7238da3c43b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Olivia Rodrigo - girl i\u2019ve always been (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-olivia-rodrigo-girl-ive-always-been-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9499137",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Olivia Rodrigo - girl i've always been (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/a10d6c2faa581e3757bacd19e00ba3c1.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a10d6c2faa581e3757bacd19e00ba3c1.315x315x1.png",
+                    "id": 9499137,
+                    "lyrics_owner_id": 21083432,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviriler-olivia-rodrigo-girl-ive-always-been-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviriler-olivia-rodrigo-girl-ive-always-been-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a10d6c2faa581e3757bacd19e00ba3c1.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a10d6c2faa581e3757bacd19e00ba3c1.315x315x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Olivia Rodrigo - girl i've always been (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviriler-olivia-rodrigo-girl-ive-always-been-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9498749",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Olivia Rodrigo - girl i've always been (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/02fc0cedb961ab29fcaf3e5e48db681e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/02fc0cedb961ab29fcaf3e5e48db681e.1000x1000x1.png",
+                    "id": 9498749,
+                    "lyrics_owner_id": 17336116,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-olivia-rodrigo-girl-ive-always-been-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-olivia-rodrigo-girl-ive-always-been-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/02fc0cedb961ab29fcaf3e5e48db681e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/02fc0cedb961ab29fcaf3e5e48db681e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Olivia Rodrigo - girl i've always been (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-olivia-rodrigo-girl-ive-always-been-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9497299",
+                    "artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "full_title": "Olivia Rodrigo - girl i\u2019ve always been (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629) by\u00a0Genius\u00a0Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "header_image_thumbnail_url": "https://images.genius.com/a50dcc60ae29d5e0c9fc23e54f3259fc.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a50dcc60ae29d5e0c9fc23e54f3259fc.1000x1000x1.jpg",
+                    "id": 9497299,
+                    "lyrics_owner_id": 20869951,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-arabic-translations-olivia-rodrigo-girl-ive-always-been-lyrics",
+                    "primary_artist_names": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-arabic-translations-olivia-rodrigo-girl-ive-always-been-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "2023",
+                    "release_date_with_abbreviated_month_for_display": "2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a50dcc60ae29d5e0c9fc23e54f3259fc.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a50dcc60ae29d5e0c9fc23e54f3259fc.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "title_with_featured": "Olivia Rodrigo - girl i\u2019ve always been (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                    "url": "https://genius.com/Genius-arabic-translations-olivia-rodrigo-girl-ive-always-been-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/211029",
+                        "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                        "id": 211029,
+                        "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                        "url": "https://genius.com/artists/Genius-arabic-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/211029",
+                            "header_image_url": "https://images.genius.com/01a65811750aa081d030eda7449de1b0.1000x1000x1.png",
+                            "id": 211029,
+                            "image_url": "https://images.genius.com/016c76ec565485f573f8c1c720cd8729.988x988x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Arabic Translations (\u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+                            "url": "https://genius.com/artists/Genius-arabic-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9500919",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Olivia Rodrigo - g\u200eirl i\u2019ve always been (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/a68e6b923d1258068184e66fa8f17f9a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a68e6b923d1258068184e66fa8f17f9a.997x997x1.png",
+                    "id": 9500919,
+                    "lyrics_owner_id": 13273252,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-olivia-rodrigo-girl-ive-always-been-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-olivia-rodrigo-girl-ive-always-been-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a68e6b923d1258068184e66fa8f17f9a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a68e6b923d1258068184e66fa8f17f9a.997x997x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - g\u200eirl i\u2019ve always been (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Olivia Rodrigo - g\u200eirl i\u2019ve always been (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-olivia-rodrigo-girl-ive-always-been-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11877926",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Olivia Rodrigo - girl i\u2019ve always been (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/6e4beb357f19bb21e44f5e4fc997b110.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6e4beb357f19bb21e44f5e4fc997b110.340x340x1.png",
+                    "id": 11877926,
+                    "lyrics_owner_id": 21688824,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-olivia-rodrigo-girl-ive-always-been-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-olivia-rodrigo-girl-ive-always-been-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6e4beb357f19bb21e44f5e4fc997b110.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6e4beb357f19bb21e44f5e4fc997b110.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Olivia Rodrigo - girl i\u2019ve always been (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-olivia-rodrigo-girl-ive-always-been-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11835001",
+                    "artist_names": "Genius Nederlandse Vertalingen",
+                    "full_title": "Olivia Rodrigo - girl i\u2019ve always been (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+                    "header_image_thumbnail_url": "https://images.genius.com/d97ff37f0721787cf9cf1798ec932c1a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d97ff37f0721787cf9cf1798ec932c1a.315x315x1.png",
+                    "id": 11835001,
+                    "lyrics_owner_id": 22578993,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-nederlandse-vertalingen-olivia-rodrigo-girl-ive-always-been-nederlandse-vertaling-lyrics",
+                    "primary_artist_names": "Genius Nederlandse Vertalingen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-olivia-rodrigo-girl-ive-always-been-nederlandse-vertaling-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d97ff37f0721787cf9cf1798ec932c1a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d97ff37f0721787cf9cf1798ec932c1a.315x315x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (Nederlandse Vertaling)",
+                    "title_with_featured": "Olivia Rodrigo - girl i\u2019ve always been (Nederlandse Vertaling)",
+                    "url": "https://genius.com/Genius-nederlandse-vertalingen-olivia-rodrigo-girl-ive-always-been-nederlandse-vertaling-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1805866",
+                        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                        "id": 1805866,
+                        "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Nederlandse Vertalingen",
+                        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1805866",
+                            "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                            "id": 1805866,
+                            "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Nederlandse Vertalingen",
+                            "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10190617",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Olivia Rodrigo - girl i've always been (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/5559f25c7d30a655f7d4c67ea9888e57.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5559f25c7d30a655f7d4c67ea9888e57.531x531x1.png",
+                    "id": 10190617,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-olivia-rodrigo-girl-ive-always-been-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-olivia-rodrigo-girl-ive-always-been-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5559f25c7d30a655f7d4c67ea9888e57.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5559f25c7d30a655f7d4c67ea9888e57.531x531x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Olivia Rodrigo - girl i've always been (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-olivia-rodrigo-girl-ive-always-been-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10186447",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Olivia Rodrigo - girl i've always been (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/5bcbd4f5e4775ebf3e3f872673864d8f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5bcbd4f5e4775ebf3e3f872673864d8f.682x682x1.png",
+                    "id": 10186447,
+                    "lyrics_owner_id": 20155240,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-olivia-rodrigo-girl-ive-always-been-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-olivia-rodrigo-girl-ive-always-been-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 9,
+                        "day": 8
+                    },
+                    "release_date_for_display": "September 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5bcbd4f5e4775ebf3e3f872673864d8f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5bcbd4f5e4775ebf3e3f872673864d8f.682x682x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Olivia Rodrigo - girl i\u2019ve always been (Traduzione Italiana)",
+                    "title_with_featured": "Olivia Rodrigo - girl i've always been (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-olivia-rodrigo-girl-ive-always-been-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9708331",
+            "id": 9708331,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-olivia-rodrigo-girl-ive-always-been-traduction-francaise-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-olivia-rodrigo-girl-ive-always-been-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/9499137",
+            "id": 9499137,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviriler-olivia-rodrigo-girl-ive-always-been-turkce-ceviri-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviriler-olivia-rodrigo-girl-ive-always-been-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/9498749",
+            "id": 9498749,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-olivia-rodrigo-girl-ive-always-been-traduccion-al-espanol-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-olivia-rodrigo-girl-ive-always-been-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/9497299",
+            "id": 9497299,
+            "language": "ar",
+            "lyrics_state": "complete",
+            "path": "/Genius-arabic-translations-olivia-rodrigo-girl-ive-always-been-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (\u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+            "url": "https://genius.com/Genius-arabic-translations-olivia-rodrigo-girl-ive-always-been-lyrics"
+        },
+        {
+            "api_path": "/songs/9500919",
+            "id": 9500919,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-olivia-rodrigo-girl-ive-always-been-traducao-em-portugues-lyrics",
+            "title": "Olivia Rodrigo - g\u200eirl i\u2019ve always been (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-olivia-rodrigo-girl-ive-always-been-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/11877926",
+            "id": 11877926,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-olivia-rodrigo-girl-ive-always-been-polskie-tumaczenie-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-olivia-rodrigo-girl-ive-always-been-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/11835001",
+            "id": 11835001,
+            "language": "nl",
+            "lyrics_state": "complete",
+            "path": "/Genius-nederlandse-vertalingen-olivia-rodrigo-girl-ive-always-been-nederlandse-vertaling-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (Nederlandse Vertaling)",
+            "url": "https://genius.com/Genius-nederlandse-vertalingen-olivia-rodrigo-girl-ive-always-been-nederlandse-vertaling-lyrics"
+        },
+        {
+            "api_path": "/songs/10190617",
+            "id": 10190617,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-olivia-rodrigo-girl-ive-always-been-deutsche-ubersetzung-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-olivia-rodrigo-girl-ive-always-been-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10186447",
+            "id": 10186447,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-olivia-rodrigo-girl-ive-always-been-traduzione-italiana-lyrics",
+            "title": "Olivia Rodrigo - girl i\u2019ve always been (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-olivia-rodrigo-girl-ive-always-been-traduzione-italiana-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1599675",
+            "header_image_url": "https://images.genius.com/33526fae949eca0c337d03fa9b93b364.1000x562x1.png",
+            "id": 1599675,
+            "image_url": "https://images.genius.com/c5ac485bb6226b0c529caf6c6a813539.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Olivia Rodrigo",
+            "url": "https://genius.com/artists/Olivia-rodrigo",
+            "iq": 2489
+        }
+    ],
+    "artist": "Olivia Rodrigo",
+    "lyrics": "56 ContributorsTranslationsFran\u00e7aisT\u00fcrk\u00e7eEnglish\u0627\u0644\u0639\u0631\u0628\u064a\u0629Portugu\u00easPolskiNederlandsDeutschItalianogirl i\u2019ve always been Lyrics\nReady?\nAre you ready?\nYeah (I'm gonna scare you again)\nDon't scare me again\nA-five, a-six, five, six, seven, eight\n\n\"Baby doll, you have changed\"\nThat's the thing you always say\nCursin' me, trash my name\nI rained all over your parade\nNow you're on my couch, you're fightin' tears\nYou say I'm cruel beyond my years\nAnd as I'm walkin' out that door\nSay you don't know me anymore\n\nWell, I have captors I call friends\nI got panic rooms inside my head\nAnd I get down with crooked men\nBut I am the girl I've always been\nI got wrapped up in the game again\nAnd you woke up in an empty bed\nAnd I can't say I'm a perfect ten\nBut I am the girl I've always been\n\nSo don't say that I've been actin' different\nI'm nothin' if I'm not consistent\nYou knew everything you'd be gettin'\nI told you right from the beginnin'\nNow you're on my case, how could I go?\nYou never dreamed I'd be so cold\nAnd then, with venom on your tongue\nYou ask me who I have become\n\nWell, I have captors I call friends\nI got panic rooms inside my head\nAnd I get down with crooked men\nBut I am the girl I've always been\nI got wrapped up in the game again\nAnd you woke up in an empty bed\nAnd I can't say I'm a perfect ten\nBut I am the girl I've always been\n\nYeah, I'm a candle in the wind\nI'll turn you out, I'll turn you in\nBut I am the girl I've always been, ah"
+}

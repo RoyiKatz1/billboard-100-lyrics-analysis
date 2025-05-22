@@ -1,0 +1,929 @@
+{
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/10114891",
+    "artist_names": "Luke Bryan",
+    "full_title": "Love You, Miss You, Mean It by\u00a0Luke\u00a0Bryan",
+    "header_image_thumbnail_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.1000x1000x1.png",
+    "id": 10114891,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728146968,
+    "path": "/Luke-bryan-love-you-miss-you-mean-it-lyrics",
+    "primary_artist_names": "Luke Bryan",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Luke-bryan-love-you-miss-you-mean-it-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 5
+    },
+    "release_date_for_display": "April 5, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 10,
+        "iq_earners": 10,
+        "transcribers": 2,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 21330
+    },
+    "title": "Love You, Miss You, Mean It",
+    "title_with_featured": "Love You, Miss You, Mean It",
+    "updated_by_human_at": 1734779058,
+    "url": "https://genius.com/Luke-bryan-love-you-miss-you-mean-it-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/22764",
+        "header_image_url": "https://images.genius.com/095acc41bfcda0299d8c546e695fe5b1.1000x333x1.jpg",
+        "id": 22764,
+        "image_url": "https://images.genius.com/b74a4f6de2699d507dc289d91604e807.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Luke Bryan",
+        "url": "https://genius.com/artists/Luke-bryan"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/22764",
+            "header_image_url": "https://images.genius.com/095acc41bfcda0299d8c546e695fe5b1.1000x333x1.jpg",
+            "id": 22764,
+            "image_url": "https://images.genius.com/b74a4f6de2699d507dc289d91604e807.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Luke Bryan",
+            "url": "https://genius.com/artists/Luke-bryan"
+        }
+    ],
+    "apple_music_id": "1737278881",
+    "apple_music_player_url": "https://genius.com/songs/10114891/apple_music_player",
+    "description": {
+        "plain": "this song is from the single  Love You, Miss You, Mean It performed by Luke Bryan was written by Ben Hayslip, Jacob Rice, Jordan Minton and Rhett Akins, and produced by Jeff  & Jody  Stevens and explores two teenagers who are in love but life gets in the way of their relationship turning it sour ultimately though by the end of the song life brings the two lovers back together."
+    },
+    "embed_content": "<div id='rg_embed_link_10114891' class='rg_embed_link' data-song-id='10114891'>Read <a href='https://genius.com/Luke-bryan-love-you-miss-you-mean-it-lyrics'>\u201cLove You, Miss You, Mean It\u201d by Luke\u00a0Bryan</a> on Genius</div> <script crossorigin src='//genius.com/songs/10114891/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-04-05",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bc4637",
+    "song_art_secondary_color": "#6c3630",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1220300",
+        "cover_art_url": "https://images.genius.com/87c03ea48797407a4da865a5c400430a.1000x1000x1.png",
+        "full_title": "Mind Of A Country Boy by Luke Bryan",
+        "id": 1220300,
+        "name": "Mind Of A Country Boy",
+        "primary_artist_names": "Luke Bryan",
+        "release_date_for_display": "September 27, 2024",
+        "url": "https://genius.com/albums/Luke-bryan/Mind-of-a-country-boy",
+        "artist": {
+            "api_path": "/artists/22764",
+            "header_image_url": "https://images.genius.com/095acc41bfcda0299d8c546e695fe5b1.1000x333x1.jpg",
+            "id": 22764,
+            "image_url": "https://images.genius.com/b74a4f6de2699d507dc289d91604e807.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Luke Bryan",
+            "url": "https://genius.com/artists/Luke-bryan"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/22764",
+                "header_image_url": "https://images.genius.com/095acc41bfcda0299d8c546e695fe5b1.1000x333x1.jpg",
+                "id": 22764,
+                "image_url": "https://images.genius.com/b74a4f6de2699d507dc289d91604e807.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Luke Bryan",
+                "url": "https://genius.com/artists/Luke-bryan"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/4084957",
+                    "header_image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "id": 4084957,
+                    "image_url": "https://images.genius.com/7dec99cea6335a889e4810dbabc7fef1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dustin Haney",
+                    "url": "https://genius.com/artists/Dustin-haney"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/461370",
+                    "header_image_url": "https://images.genius.com/f502c6d35f354eb282baec75b088896f.387x387x1.png",
+                    "id": 461370,
+                    "image_url": "https://images.genius.com/f502c6d35f354eb282baec75b088896f.387x387x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ben Hayslip",
+                    "url": "https://genius.com/artists/Ben-hayslip"
+                },
+                {
+                    "api_path": "/artists/2672988",
+                    "header_image_url": "https://images.genius.com/d6d8bb7fbf5cb513a74c36af31687a0d.1000x1000x1.jpg",
+                    "id": 2672988,
+                    "image_url": "https://images.genius.com/d6d8bb7fbf5cb513a74c36af31687a0d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jacob Rice",
+                    "url": "https://genius.com/artists/Jacob-rice"
+                },
+                {
+                    "api_path": "/artists/1377030",
+                    "header_image_url": "https://images.genius.com/0edc6f77f3c62ad5b5805650a28e4548.1000x1000x1.jpg",
+                    "id": 1377030,
+                    "image_url": "https://images.genius.com/0edc6f77f3c62ad5b5805650a28e4548.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jordan Minton",
+                    "url": "https://genius.com/artists/Jordan-minton"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/22764",
+                    "header_image_url": "https://images.genius.com/095acc41bfcda0299d8c546e695fe5b1.1000x333x1.jpg",
+                    "id": 22764,
+                    "image_url": "https://images.genius.com/b74a4f6de2699d507dc289d91604e807.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luke Bryan",
+                    "url": "https://genius.com/artists/Luke-bryan"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1445275",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1445275,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Galloway",
+                    "url": "https://genius.com/artists/Tim-galloway"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2155030",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2155030,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trey Keller",
+                    "url": "https://genius.com/artists/Trey-keller"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2109726",
+                    "header_image_url": "https://images.genius.com/5f8e45679a053d1b955ce8c50ff999be.607x607x1.png",
+                    "id": 2109726,
+                    "image_url": "https://images.genius.com/5f8e45679a053d1b955ce8c50ff999be.607x607x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eddy Dunlap",
+                    "url": "https://genius.com/artists/Eddy-dunlap"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/158702",
+                    "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "id": 158702,
+                    "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmie Lee Sloas",
+                    "url": "https://genius.com/artists/Jimmie-lee-sloas"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1482300",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1482300,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Dorn",
+                    "url": "https://genius.com/artists/David-dorn"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2132598",
+                    "header_image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "id": 2132598,
+                    "image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sol Philcox-Littlefield",
+                    "url": "https://genius.com/artists/Sol-philcox-littlefield"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/984324",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 984324,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Evan Hutchings",
+                    "url": "https://genius.com/artists/Evan-hutchings"
+                }
+            ]
+        },
+        {
+            "label": "Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/259377",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 259377,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Johnson",
+                    "url": "https://genius.com/artists/Scott-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/562140",
+                    "header_image_url": "https://images.genius.com/12dd7573b641569620cbd9859d55d5e0.240x240x1.png",
+                    "id": 562140,
+                    "image_url": "https://images.genius.com/12dd7573b641569620cbd9859d55d5e0.240x240x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Hood",
+                    "url": "https://genius.com/artists/Brandon-hood"
+                },
+                {
+                    "api_path": "/artists/643888",
+                    "header_image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "id": 643888,
+                    "image_url": "https://images.genius.com/acca913d11d76456b6cf1a73fc7679e7.430x430x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Drew Bollman",
+                    "url": "https://genius.com/artists/Drew-bollman"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638278",
+                    "header_image_url": "https://images.genius.com/1e62c53bdcb451a1f0bb12bfe2cbf003.500x500x1.png",
+                    "id": 638278,
+                    "image_url": "https://images.genius.com/47d96abc8d728344fcefc1ef9f9ba63f.500x500x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nathan Dantzler",
+                    "url": "https://genius.com/artists/Nathan-dantzler"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                },
+                {
+                    "api_path": "/artists/1585424",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1585424,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kyle Blunt",
+                    "url": "https://genius.com/artists/Kyle-blunt"
+                },
+                {
+                    "api_path": "/artists/1008705",
+                    "header_image_url": "https://images.genius.com/ab6423ff16c8e41d8361c22c89cd7062.512x512x1.jpg",
+                    "id": 1008705,
+                    "image_url": "https://images.genius.com/ab6423ff16c8e41d8361c22c89cd7062.512x512x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cook",
+                    "url": "https://genius.com/artists/Dave-cook"
+                },
+                {
+                    "api_path": "/artists/3314231",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3314231,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nate Juliano",
+                    "url": "https://genius.com/artists/Nate-juliano"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1026115",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1026115,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Juliano",
+                    "url": "https://genius.com/artists/Jeff-juliano"
+                },
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                },
+                {
+                    "api_path": "/artists/1585423",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1585423,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Cortelyou",
+                    "url": "https://genius.com/artists/Justin-cortelyou"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1026115",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1026115,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Juliano",
+                    "url": "https://genius.com/artists/Jeff-juliano"
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/411979",
+                    "header_image_url": "https://images.genius.com/50aa31af6a3ba1c0a5b721ded0370655.266x266x1.png",
+                    "id": 411979,
+                    "image_url": "https://images.genius.com/50aa31af6a3ba1c0a5b721ded0370655.266x266x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Stevens",
+                    "url": "https://genius.com/artists/Jeff-stevens"
+                },
+                {
+                    "api_path": "/artists/411980",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 411980,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jody Stevens",
+                    "url": "https://genius.com/artists/Jody-stevens"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 12602923,
+        "annotator_login": "DJ_Indie",
+        "api_path": "/referents/31343236",
+        "classification": "unreviewed",
+        "fragment": "Love You, Miss You, Mean It",
+        "id": 31343236,
+        "is_description": true,
+        "path": "/31343236/Luke-bryan-love-you-miss-you-mean-it/Love-you-miss-you-mean-it",
+        "range": {
+            "content": "Love You, Miss You, Mean It"
+        },
+        "song_id": 10114891,
+        "url": "https://genius.com/31343236/Luke-bryan-love-you-miss-you-mean-it/Love-you-miss-you-mean-it",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10114891",
+            "client_timestamps": {
+                "updated_by_human_at": 1734779058,
+                "lyrics_updated_at": 1728146968
+            },
+            "context": "Luke Bryan",
+            "id": 10114891,
+            "image_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.1000x1000x1.png",
+            "link_title": "Love You, Miss You, Mean It by\u00a0Luke\u00a0Bryan",
+            "title": "Love You, Miss You, Mean It",
+            "type": "Song",
+            "url": "https://genius.com/Luke-bryan-love-you-miss-you-mean-it-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31343236",
+                "body": {
+                    "plain": "this song is from the single  Love You, Miss You, Mean It performed by Luke Bryan was written by Ben Hayslip, Jacob Rice, Jordan Minton and Rhett Akins, and produced by Jeff  & Jody  Stevens and explores two teenagers who are in love but life gets in the way of their relationship turning it sour ultimately though by the end of the song life brings the two lovers back together."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31343236,
+                "pinned": false,
+                "share_url": "https://genius.com/31343236",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31343236/Luke-bryan-love-you-miss-you-mean-it/Love-you-miss-you-mean-it",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12602923",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/36a918551e039d47fb4701438ba83596",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/36a918551e039d47fb4701438ba83596",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/36a918551e039d47fb4701438ba83596",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/36a918551e039d47fb4701438ba83596",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/lgtlbcefi2",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 12602923,
+                            "iq": 400,
+                            "login": "DJ_Indie",
+                            "name": "DJ_Indie",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/DJ_Indie",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/3499648",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/78009f612c433d3980da50827bb007ce",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/18578d19ddc62eab620152089692ccd5.1000x1000x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 3499648,
+        "iq": 1952777,
+        "login": "AlexanderJamesM",
+        "name": "AlexanderJamesM",
+        "role_for_display": "editor",
+        "url": "https://genius.com/AlexanderJamesM",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=KEgILEsgyN0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/411979",
+            "header_image_url": "https://images.genius.com/50aa31af6a3ba1c0a5b721ded0370655.266x266x1.png",
+            "id": 411979,
+            "image_url": "https://images.genius.com/50aa31af6a3ba1c0a5b721ded0370655.266x266x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jeff Stevens",
+            "url": "https://genius.com/artists/Jeff-stevens"
+        },
+        {
+            "api_path": "/artists/411980",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 411980,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jody Stevens",
+            "url": "https://genius.com/artists/Jody-stevens"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10491758",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Luke Bryan - Love You, Miss You, Mean It (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.1000x1000x1.png",
+                    "id": 10491758,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-luke-bryan-love-you-miss-you-mean-it-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-luke-bryan-love-you-miss-you-mean-it-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 5
+                    },
+                    "release_date_for_display": "April 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b993c0d3eff190565e12b69fb43a056a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Luke Bryan - Love You, Miss You, Mean It (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Luke Bryan - Love You, Miss You, Mean It (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-luke-bryan-love-you-miss-you-mean-it-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10491758",
+            "id": 10491758,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-luke-bryan-love-you-miss-you-mean-it-traduccion-al-espanol-lyrics",
+            "title": "Luke Bryan - Love You, Miss You, Mean It (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-luke-bryan-love-you-miss-you-mean-it-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/461370",
+            "header_image_url": "https://images.genius.com/f502c6d35f354eb282baec75b088896f.387x387x1.png",
+            "id": 461370,
+            "image_url": "https://images.genius.com/f502c6d35f354eb282baec75b088896f.387x387x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ben Hayslip",
+            "url": "https://genius.com/artists/Ben-hayslip"
+        },
+        {
+            "api_path": "/artists/2672988",
+            "header_image_url": "https://images.genius.com/d6d8bb7fbf5cb513a74c36af31687a0d.1000x1000x1.jpg",
+            "id": 2672988,
+            "image_url": "https://images.genius.com/d6d8bb7fbf5cb513a74c36af31687a0d.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jacob Rice",
+            "url": "https://genius.com/artists/Jacob-rice"
+        },
+        {
+            "api_path": "/artists/1377030",
+            "header_image_url": "https://images.genius.com/0edc6f77f3c62ad5b5805650a28e4548.1000x1000x1.jpg",
+            "id": 1377030,
+            "image_url": "https://images.genius.com/0edc6f77f3c62ad5b5805650a28e4548.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jordan Minton",
+            "url": "https://genius.com/artists/Jordan-minton"
+        },
+        {
+            "api_path": "/artists/333845",
+            "header_image_url": "https://images.genius.com/db12b290828e9fae94ea5a2ca728fb2e.300x300x1.jpg",
+            "id": 333845,
+            "image_url": "https://images.genius.com/db12b290828e9fae94ea5a2ca728fb2e.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rhett Akins",
+            "url": "https://genius.com/artists/Rhett-akins"
+        }
+    ],
+    "artist": "Luke Bryan",
+    "lyrics": "10 ContributorsTranslationsEspa\u00f1olLove You, Miss You, Mean It Lyrics\nWe were small-town meant to be\nMy momma loved her, her daddy loved me\nWe burned up the road between her house and mine\nWe'd kiss in her driveway\nAnd by the time I hit the highway\nShe called to tell me goodnight one more time\n\nAnd she'd say, \"Love you, miss you, mean it\nBoy, I'll see you when I'm dreamin'\nI can't wait to feel you hold me again\nTill then, I'll be countin' down the minutes\nI'll be climbin' up these walls\nYour kiss, I want it, need it\nLove you, miss you, mean it, baby\"\n\nWhen graduation came\nUGA was callin' her name\nWe thought two hundred miles wasn't nothin' we couldn't get through\nBut after that first fall\nThe time got longer between the calls\nAnd I couldn't help but wonder what happened to\n\nMy little love you, miss you, mean it\nGirl, I'll see you when I'm dreamin'\nI can't wait to feel you hold me again\nTill then I'll be countin' down the minutes\nI'll be climbin' up these walls\nYour kiss, I want it, need it\nLove you, miss you, mean it, baby, yeah\n(Woo, uh)\n\nYears went by, pages got turned\nBut I never did forget about her\nLate one night, out of the blue\nMy phone lit up and my heart did too\n\nShe said, \"I don't know about you\nBut I love you, miss you, meant it\nI still see you when I'm dreamin'\nI just wanna feel you hold me again\nAnd I've been countin' down the minutes\nI'll keep climbin' up these walls\nYour kiss, I want it, need it\nLove you, miss you, mean it, baby\"\n\n(Love you, miss you, mean it)\nLove you, miss you, mean it, baby\n(Love you, miss you, mean it)\nLove you, miss you, mean it, baby"
+}

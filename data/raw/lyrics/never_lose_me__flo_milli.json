@@ -1,0 +1,1819 @@
+{
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/9788013",
+    "artist_names": "Flo Milli",
+    "full_title": "Never Lose Me by\u00a0Flo\u00a0Milli",
+    "header_image_thumbnail_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.300x300x1.png",
+    "header_image_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.1000x1000x1.png",
+    "id": 9788013,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1737547321,
+    "path": "/Flo-milli-never-lose-me-lyrics",
+    "primary_artist_names": "Flo Milli",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 12,
+        "day": 1
+    },
+    "release_date_for_display": "December 1, 2023",
+    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 39,
+        "iq_earners": 39,
+        "transcribers": 2,
+        "unreviewed_annotations": 10,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 230418
+    },
+    "title": "Never Lose Me",
+    "title_with_featured": "Never Lose Me",
+    "updated_by_human_at": 1737547321,
+    "url": "https://genius.com/Flo-milli-never-lose-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1649468",
+        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+        "id": 1649468,
+        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Flo Milli",
+        "url": "https://genius.com/artists/Flo-milli",
+        "iq": 1974
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1649468",
+            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+            "id": 1649468,
+            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Flo Milli",
+            "url": "https://genius.com/artists/Flo-milli",
+            "iq": 1974
+        }
+    ],
+    "apple_music_id": "1718814729",
+    "apple_music_player_url": "https://genius.com/songs/9788013/apple_music_player",
+    "description": {
+        "plain": "\u201cNever Lose Me\u201d is a track by Flo Milli featured on her highly anticipated second studio album Fine Ho, Stay.\n\nA viral hit, \u201cNever Lose Me\u201d is not only an anthem for the ladies, but an affirmation of Flo\u2019s self-worth, confidence and loyalty."
+    },
+    "embed_content": "<div id='rg_embed_link_9788013' class='rg_embed_link' data-song-id='9788013'>Read <a href='https://genius.com/Flo-milli-never-lose-me-lyrics'>\u201cNever Lose Me\u201d by Flo\u00a0Milli</a> on Genius</div> <script crossorigin src='//genius.com/songs/9788013/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-12-01",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#844b39",
+    "song_art_secondary_color": "#5a2a3c",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1065244",
+        "cover_art_url": "https://images.genius.com/de54fb6c0d25191db9efb1928485d33d.1000x1000x1.png",
+        "full_title": "Fine Ho, Stay by Flo Milli",
+        "id": 1065244,
+        "name": "Fine Ho, Stay",
+        "primary_artist_names": "Flo Milli",
+        "release_date_for_display": "March 15, 2024",
+        "url": "https://genius.com/albums/Flo-milli/Fine-ho-stay",
+        "artist": {
+            "api_path": "/artists/1649468",
+            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+            "id": 1649468,
+            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Flo Milli",
+            "url": "https://genius.com/artists/Flo-milli",
+            "iq": 1974
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1649468",
+                "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                "id": 1649468,
+                "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Flo Milli",
+                "url": "https://genius.com/artists/Flo-milli",
+                "iq": 1974
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3361833",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3361833,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u201994 Sounds",
+                    "url": "https://genius.com/artists/94-sounds"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3361833",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3361833,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u201994 Sounds",
+                    "url": "https://genius.com/artists/94-sounds"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3896714",
+                    "header_image_url": "https://images.genius.com/1b7dd6c0827bdc4642f3f40db0f14306.1000x333x1.jpg",
+                    "id": 3896714,
+                    "image_url": "https://images.genius.com/cdba3cac4c8de75d45d6bff6daca9bc5.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200b\u200b\u200bconjust8",
+                    "url": "https://genius.com/artists/Conjust8"
+                },
+                {
+                    "api_path": "/artists/2941829",
+                    "header_image_url": "https://images.genius.com/fd4b17e85ed882a63e9ed631d96dc4a5.1000x1000x1.png",
+                    "id": 2941829,
+                    "image_url": "https://images.genius.com/fd4b17e85ed882a63e9ed631d96dc4a5.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hayden Duncan",
+                    "url": "https://genius.com/artists/Hayden-duncan"
+                },
+                {
+                    "api_path": "/artists/3750310",
+                    "header_image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "id": 3750310,
+                    "image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Terena Dawn",
+                    "url": "https://genius.com/artists/Terena-dawn"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2540138",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2540138,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Issa Naif",
+                    "url": "https://genius.com/artists/Issa-naif"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3361833",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3361833,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u201994 Sounds",
+                    "url": "https://genius.com/artists/94-sounds"
+                },
+                {
+                    "api_path": "/artists/154526",
+                    "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+                    "id": 154526,
+                    "image_url": "https://images.genius.com/fa2b9704a72bb2257898bf4f6a12876e.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "RCA Records",
+                    "url": "https://genius.com/artists/Rca-records"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/648244",
+                    "header_image_url": "https://images.genius.com/a74508bdf5e1bf26f8263837990882ec.980x320x1.jpg",
+                    "id": 648244,
+                    "image_url": "https://images.genius.com/12d02c504d55a59a1bdb85fcf0bcb64a.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Athens",
+                    "url": "https://genius.com/artists/Chris-athens"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                },
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                },
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 122184,
+        "annotator_login": "GeniusFan4Life",
+        "api_path": "/referents/30748280",
+        "classification": "unreviewed",
+        "fragment": "Never Lose Me",
+        "id": 30748280,
+        "is_description": true,
+        "path": "/30748280/Flo-milli-never-lose-me/Never-lose-me",
+        "range": {
+            "content": "Never Lose Me"
+        },
+        "song_id": 9788013,
+        "url": "https://genius.com/30748280/Flo-milli-never-lose-me/Never-lose-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9788013",
+            "client_timestamps": {
+                "updated_by_human_at": 1737547321,
+                "lyrics_updated_at": 1737547321
+            },
+            "context": "Flo Milli",
+            "id": 9788013,
+            "image_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.1000x1000x1.png",
+            "link_title": "Never Lose Me by\u00a0Flo\u00a0Milli",
+            "title": "Never Lose Me",
+            "type": "Song",
+            "url": "https://genius.com/Flo-milli-never-lose-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30748280",
+                "body": {
+                    "plain": "\u201cNever Lose Me\u201d is a track by Flo Milli featured on her highly anticipated second studio album Fine Ho, Stay.\n\nA viral hit, \u201cNever Lose Me\u201d is not only an anthem for the ladies, but an affirmation of Flo\u2019s self-worth, confidence and loyalty."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30748280,
+                "pinned": false,
+                "share_url": "https://genius.com/30748280",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30748280/Flo-milli-never-lose-me/Never-lose-me",
+                "verified": false,
+                "votes_total": 9,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/122184",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 122184,
+                            "iq": 2899,
+                            "login": "GeniusFan4Life",
+                            "name": "GeniusFan4Life",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/GeniusFan4Life",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897259,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/54639",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+        "human_readable_role_for_display": "Staff",
+        "id": 54639,
+        "iq": 3897259,
+        "login": "WriteNProppa",
+        "name": "WriteNProppa",
+        "role_for_display": "staff",
+        "url": "https://genius.com/WriteNProppa",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=z67xXk8aNIk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1517108",
+            "header_image_url": "https://images.genius.com/1415c19edadbbe688ff1c1258e9c91a4.1000x1000x1.jpg",
+            "id": 1517108,
+            "image_url": "https://images.genius.com/1415c19edadbbe688ff1c1258e9c91a4.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bgerreaux",
+            "url": "https://genius.com/artists/Gerreaux"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": "https://genius.com/Flo-milli-never-lose-me-sample/samples",
+            "songs": [
+                {
+                    "annotation_count": 20,
+                    "api_path": "/songs/8805872",
+                    "artist_names": "Babyface Ray & 42 Dugg",
+                    "full_title": "Ron Artest by\u00a0Babyface\u00a0Ray & 42\u00a0Dugg",
+                    "header_image_thumbnail_url": "https://images.genius.com/1669feaf723d2ce5b5a6f976c761ee8a.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/1669feaf723d2ce5b5a6f976c761ee8a.1000x1000x1.jpg",
+                    "id": 8805872,
+                    "lyrics_owner_id": 1599419,
+                    "lyrics_state": "complete",
+                    "path": "/Babyface-ray-and-42-dugg-ron-artest-lyrics",
+                    "primary_artist_names": "Babyface Ray & 42 Dugg",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Babyface-ray-and-42-dugg-ron-artest-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 2,
+                        "day": 8
+                    },
+                    "release_date_for_display": "February 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/1669feaf723d2ce5b5a6f976c761ee8a.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/1669feaf723d2ce5b5a6f976c761ee8a.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 19,
+                        "hot": false,
+                        "pageviews": 46826
+                    },
+                    "title": "Ron Artest",
+                    "title_with_featured": "Ron Artest",
+                    "url": "https://genius.com/Babyface-ray-and-42-dugg-ron-artest-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/419073",
+                        "header_image_url": "https://images.genius.com/e2a3fd696fe421b3814475c9eb6c51f6.827x827x1.png",
+                        "id": 419073,
+                        "image_url": "https://images.genius.com/61b5f2a31c301277924b97575d140599.827x827x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Babyface Ray",
+                        "url": "https://genius.com/artists/Babyface-ray",
+                        "iq": 110
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/419073",
+                            "header_image_url": "https://images.genius.com/e2a3fd696fe421b3814475c9eb6c51f6.827x827x1.png",
+                            "id": 419073,
+                            "image_url": "https://images.genius.com/61b5f2a31c301277924b97575d140599.827x827x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Babyface Ray",
+                            "url": "https://genius.com/artists/Babyface-ray",
+                            "iq": 110
+                        },
+                        {
+                            "api_path": "/artists/1426415",
+                            "header_image_url": "https://images.genius.com/ad65c5ff7b1f6ddd915ff5655c1e4f6d.1000x561x1.jpg",
+                            "id": 1426415,
+                            "image_url": "https://images.genius.com/c2cd8f36e6f5b8b0774e31dc1c5bd245.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "42 Dugg",
+                            "url": "https://genius.com/artists/42-dugg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": "https://genius.com/Flo-milli-never-lose-me-sample/samples",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10712298",
+                    "artist_names": "Lil Dreezy (Rapper)",
+                    "full_title": "Evil by\u00a0Lil\u00a0Dreezy (Rapper)",
+                    "header_image_thumbnail_url": "https://images.genius.com/a4f2c1b583731df2f5bb0ef781305bf0.160x160x1.jpg",
+                    "header_image_url": "https://images.genius.com/a4f2c1b583731df2f5bb0ef781305bf0.160x160x1.jpg",
+                    "id": 10712298,
+                    "lyrics_owner_id": 20961225,
+                    "lyrics_state": "complete",
+                    "path": "/Lil-dreezy-rapper-evil-lyrics",
+                    "primary_artist_names": "Lil Dreezy (Rapper)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Lil-dreezy-rapper-evil-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 29
+                    },
+                    "release_date_for_display": "July 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a4f2c1b583731df2f5bb0ef781305bf0.160x160x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a4f2c1b583731df2f5bb0ef781305bf0.160x160x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Evil",
+                    "title_with_featured": "Evil",
+                    "url": "https://genius.com/Lil-dreezy-rapper-evil-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3594559",
+                        "header_image_url": "https://images.genius.com/eb3ee8dc6e4920a0af7ba5fa4a9ba7a5.1000x667x1.jpg",
+                        "id": 3594559,
+                        "image_url": "https://images.genius.com/942648ad3a3d8345e53059f0ed17cf95.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lil Dreezy (Rapper)",
+                        "url": "https://genius.com/artists/Lil-dreezy-rapper"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3594559",
+                            "header_image_url": "https://images.genius.com/eb3ee8dc6e4920a0af7ba5fa4a9ba7a5.1000x667x1.jpg",
+                            "id": 3594559,
+                            "image_url": "https://images.genius.com/942648ad3a3d8345e53059f0ed17cf95.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Lil Dreezy (Rapper)",
+                            "url": "https://genius.com/artists/Lil-dreezy-rapper"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10283202",
+                    "artist_names": "JDK Johnny",
+                    "full_title": "Freestyle by\u00a0JDK\u00a0Johnny",
+                    "header_image_thumbnail_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                    "id": 10283202,
+                    "lyrics_owner_id": 16356549,
+                    "lyrics_state": "complete",
+                    "path": "/Jdk-johnny-freestyle-lyrics",
+                    "primary_artist_names": "JDK Johnny",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jdk-johnny-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 14
+                    },
+                    "release_date_for_display": "February 14, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 14, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Freestyle",
+                    "title_with_featured": "Freestyle",
+                    "url": "https://genius.com/Jdk-johnny-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3839887",
+                        "header_image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                        "id": 3839887,
+                        "image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "JDK Johnny",
+                        "url": "https://genius.com/artists/Jdk-johnny"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3839887",
+                            "header_image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                            "id": 3839887,
+                            "image_url": "https://images.genius.com/32d5cc1a96efa342593847913aff2e7e.366x366x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "JDK Johnny",
+                            "url": "https://genius.com/artists/Jdk-johnny"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10151573",
+                    "artist_names": "Yung Poggerz & Yung Poggerz",
+                    "full_title": "Never Had A Bitch by\u00a0Yung\u00a0Poggerz & Yung\u00a0Poggerz",
+                    "header_image_thumbnail_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                    "id": 10151573,
+                    "lyrics_owner_id": 8340332,
+                    "lyrics_state": "complete",
+                    "path": "/Yung-poggerz-never-had-a-bitch-lyrics",
+                    "primary_artist_names": "Yung Poggerz & Yung Poggerz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Yung-poggerz-never-had-a-bitch-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Had A Bitch",
+                    "title_with_featured": "Never Had A Bitch",
+                    "url": "https://genius.com/Yung-poggerz-never-had-a-bitch-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3224531",
+                        "header_image_url": "https://images.genius.com/c48d4df195a8bd7862c56cb34a62bca6.1000x1000x1.jpg",
+                        "id": 3224531,
+                        "image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yung Poggerz",
+                        "url": "https://genius.com/artists/Yung-poggerz"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3224531",
+                            "header_image_url": "https://images.genius.com/c48d4df195a8bd7862c56cb34a62bca6.1000x1000x1.jpg",
+                            "id": 3224531,
+                            "image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yung Poggerz",
+                            "url": "https://genius.com/artists/Yung-poggerz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Flo-milli-never-lose-me-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 12,
+                    "api_path": "/songs/9715249",
+                    "artist_names": "Flo Milli (Ft. Lil Yachty)",
+                    "full_title": "Never Lose Me (Remix) by\u00a0Flo\u00a0Milli (Ft.\u00a0Lil\u00a0Yachty)",
+                    "header_image_thumbnail_url": "https://images.genius.com/5346080363edc8105284532ab53ee756.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5346080363edc8105284532ab53ee756.1000x1000x1.png",
+                    "id": 9715249,
+                    "lyrics_owner_id": 498964,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-remix-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-remix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5346080363edc8105284532ab53ee756.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5346080363edc8105284532ab53ee756.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 11,
+                        "hot": false,
+                        "pageviews": 63058
+                    },
+                    "title": "Never Lose Me (Remix)",
+                    "title_with_featured": "Never Lose Me (Remix) (Ft.\u00a0Lil\u00a0Yachty)",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-remix-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/610968",
+                            "header_image_url": "https://images.genius.com/ed1f4a49b17ae373dbc76c8f4e52f720.801x1000x1.jpg",
+                            "id": 610968,
+                            "image_url": "https://images.genius.com/e9ed7a062d51e2c00a01c863ce55826f.851x851x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Lil Yachty",
+                            "url": "https://genius.com/artists/Lil-yachty",
+                            "iq": 14297
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/9872985",
+                    "artist_names": "Flo Milli (Ft. Bryson Tiller)",
+                    "full_title": "Never Lose Me (Bryson Tiller Remix) by\u00a0Flo\u00a0Milli (Ft.\u00a0Bryson\u00a0Tiller)",
+                    "header_image_thumbnail_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.1000x1000x1.png",
+                    "id": 9872985,
+                    "lyrics_owner_id": 21165353,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-bryson-tiller-remix-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-bryson-tiller-remix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 24
+                    },
+                    "release_date_for_display": "December 24, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 24, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false,
+                        "pageviews": 10781
+                    },
+                    "title": "Never Lose Me (Bryson Tiller Remix)",
+                    "title_with_featured": "Never Lose Me (Bryson Tiller Remix) (Ft.\u00a0Bryson\u00a0Tiller)",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-bryson-tiller-remix-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/264368",
+                            "header_image_url": "https://images.genius.com/f4587604f4fde86c716b5d2c63dcd198.507x507x1.jpg",
+                            "id": 264368,
+                            "image_url": "https://images.genius.com/f4587604f4fde86c716b5d2c63dcd198.507x507x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Bryson Tiller",
+                            "url": "https://genius.com/artists/Bryson-tiller",
+                            "iq": 21985
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9872997",
+                    "artist_names": "Flo Milli",
+                    "full_title": "Never Lose Me (Slowed Down) by\u00a0Flo\u00a0Milli",
+                    "header_image_thumbnail_url": "https://images.genius.com/b3de13e1cbc87447e597665c6449ad14.300x169x1.png",
+                    "header_image_url": "https://images.genius.com/b3de13e1cbc87447e597665c6449ad14.1000x562x1.png",
+                    "id": 9872997,
+                    "lyrics_owner_id": 21165353,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-slowed-down-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-slowed-down-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 24
+                    },
+                    "release_date_for_display": "December 24, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 24, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b3de13e1cbc87447e597665c6449ad14.300x169x1.png",
+                    "song_art_image_url": "https://images.genius.com/b3de13e1cbc87447e597665c6449ad14.1000x562x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Lose Me (Slowed Down)",
+                    "title_with_featured": "Never Lose Me (Slowed Down)",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-slowed-down-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9872996",
+                    "artist_names": "Flo Milli",
+                    "full_title": "Never Lose Me (Sped Up) by\u00a0Flo\u00a0Milli",
+                    "header_image_thumbnail_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.1000x1000x1.png",
+                    "id": 9872996,
+                    "lyrics_owner_id": 21165353,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-sped-up-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-sped-up-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 24
+                    },
+                    "release_date_for_display": "December 24, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 24, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/bb2037c0164e47c0b253cf4a672dda35.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Lose Me (Sped Up)",
+                    "title_with_featured": "Never Lose Me (Sped Up)",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-sped-up-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9835506",
+                    "artist_names": "Tae Mari",
+                    "full_title": "Never Lose Me (Tae Mix) by\u00a0Tae\u00a0Mari",
+                    "header_image_thumbnail_url": "https://images.genius.com/5a9a1403ccf991b8fdd0f881880a264c.240x240x1.jpg",
+                    "header_image_url": "https://images.genius.com/5a9a1403ccf991b8fdd0f881880a264c.240x240x1.jpg",
+                    "id": 9835506,
+                    "lyrics_owner_id": 10237014,
+                    "lyrics_state": "complete",
+                    "path": "/Tae-mari-never-lose-me-tae-mix-lyrics",
+                    "primary_artist_names": "Tae Mari",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tae-mari-never-lose-me-tae-mix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 4
+                    },
+                    "release_date_for_display": "December 4, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 4, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5a9a1403ccf991b8fdd0f881880a264c.240x240x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5a9a1403ccf991b8fdd0f881880a264c.240x240x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Never Lose Me (Tae Mix)",
+                    "title_with_featured": "Never Lose Me (Tae Mix)",
+                    "url": "https://genius.com/Tae-mari-never-lose-me-tae-mix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3598636",
+                        "header_image_url": "https://images.genius.com/8812ceec4c4767c32684ccad567108cc.1000x1000x1.png",
+                        "id": 3598636,
+                        "image_url": "https://images.genius.com/8812ceec4c4767c32684ccad567108cc.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tae Mari",
+                        "url": "https://genius.com/artists/Tae-mari"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3598636",
+                            "header_image_url": "https://images.genius.com/8812ceec4c4767c32684ccad567108cc.1000x1000x1.png",
+                            "id": 3598636,
+                            "image_url": "https://images.genius.com/8812ceec4c4767c32684ccad567108cc.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tae Mari",
+                            "url": "https://genius.com/artists/Tae-mari"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10103353",
+                    "artist_names": "Che Ecru",
+                    "full_title": "KOALA FATHER (Never Lose Me Remix) by\u00a0Che\u00a0Ecru",
+                    "header_image_thumbnail_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.829x829x1.jpg",
+                    "id": 10103353,
+                    "lyrics_owner_id": 9796015,
+                    "lyrics_state": "complete",
+                    "path": "/Che-ecru-koala-father-never-lose-me-remix-lyrics",
+                    "primary_artist_names": "Che Ecru",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Che-ecru-koala-father-never-lose-me-remix-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.829x829x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "KOALA FATHER (Never Lose Me Remix)",
+                    "title_with_featured": "KOALA FATHER (Never Lose Me Remix)",
+                    "url": "https://genius.com/Che-ecru-koala-father-never-lose-me-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/607732",
+                        "header_image_url": "https://images.genius.com/57d0162d9fa4456dae3b0e96d0ba36f4.1000x563x1.jpg",
+                        "id": 607732,
+                        "image_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.829x829x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Che Ecru",
+                        "url": "https://genius.com/artists/Che-ecru",
+                        "iq": 1149
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/607732",
+                            "header_image_url": "https://images.genius.com/57d0162d9fa4456dae3b0e96d0ba36f4.1000x563x1.jpg",
+                            "id": 607732,
+                            "image_url": "https://images.genius.com/49c8c98c3df0aab9c8f9b227989f7c8b.829x829x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Che Ecru",
+                            "url": "https://genius.com/artists/Che-ecru",
+                            "iq": 1149
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9953537",
+                    "artist_names": "Wiz Khalifa",
+                    "full_title": "Never Lose Freestyle by\u00a0Wiz\u00a0Khalifa",
+                    "header_image_thumbnail_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.451x451x1.png",
+                    "id": 9953537,
+                    "lyrics_owner_id": 710532,
+                    "lyrics_state": "complete",
+                    "path": "/Wiz-khalifa-never-lose-freestyle-lyrics",
+                    "primary_artist_names": "Wiz Khalifa",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Wiz-khalifa-never-lose-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 17
+                    },
+                    "release_date_for_display": "January 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.451x451x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Lose Freestyle",
+                    "title_with_featured": "Never Lose Freestyle",
+                    "url": "https://genius.com/Wiz-khalifa-never-lose-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/310",
+                        "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+                        "id": 310,
+                        "image_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.451x451x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Wiz Khalifa",
+                        "url": "https://genius.com/artists/Wiz-khalifa",
+                        "iq": 10391
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/310",
+                            "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+                            "id": 310,
+                            "image_url": "https://images.genius.com/c4da3b6f3d0642c4ee111f19369a0d84.451x451x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Wiz Khalifa",
+                            "url": "https://genius.com/artists/Wiz-khalifa",
+                            "iq": 10391
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 10,
+                    "api_path": "/songs/9961142",
+                    "artist_names": "Flo Milli (Ft. Cardi B & SZA)",
+                    "full_title": "Never Lose Me (SZA & Cardi B Remix) by\u00a0Flo\u00a0Milli (Ft.\u00a0Cardi\u00a0B & SZA)",
+                    "header_image_thumbnail_url": "https://images.genius.com/de54fb6c0d25191db9efb1928485d33d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/de54fb6c0d25191db9efb1928485d33d.1000x1000x1.png",
+                    "id": 9961142,
+                    "lyrics_owner_id": 11809232,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-sza-and-cardi-b-remix-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-sza-and-cardi-b-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 15
+                    },
+                    "release_date_for_display": "March 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/de54fb6c0d25191db9efb1928485d33d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/de54fb6c0d25191db9efb1928485d33d.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 10,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 166952
+                    },
+                    "title": "Never Lose Me (SZA & Cardi B Remix)",
+                    "title_with_featured": "Never Lose Me (SZA & Cardi B Remix) (Ft.\u00a0Cardi\u00a0B & SZA)",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-sza-and-cardi-b-remix-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/41579",
+                            "header_image_url": "https://images.genius.com/007f128d9af87fceee1196d9cda4fb97.1000x250x1.webp",
+                            "id": 41579,
+                            "image_url": "https://images.genius.com/c76f14cd51ed597e56a2c29500acaf59.736x736x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "SZA",
+                            "url": "https://genius.com/artists/Sza",
+                            "iq": 6560
+                        },
+                        {
+                            "api_path": "/artists/621678",
+                            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                            "id": 621678,
+                            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Cardi B",
+                            "url": "https://genius.com/artists/Cardi-b",
+                            "iq": 1315
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10151573",
+                    "artist_names": "Yung Poggerz & Yung Poggerz",
+                    "full_title": "Never Had A Bitch by\u00a0Yung\u00a0Poggerz & Yung\u00a0Poggerz",
+                    "header_image_thumbnail_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                    "id": 10151573,
+                    "lyrics_owner_id": 8340332,
+                    "lyrics_state": "complete",
+                    "path": "/Yung-poggerz-never-had-a-bitch-lyrics",
+                    "primary_artist_names": "Yung Poggerz & Yung Poggerz",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Yung-poggerz-never-had-a-bitch-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Had A Bitch",
+                    "title_with_featured": "Never Had A Bitch",
+                    "url": "https://genius.com/Yung-poggerz-never-had-a-bitch-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3224531",
+                        "header_image_url": "https://images.genius.com/c48d4df195a8bd7862c56cb34a62bca6.1000x1000x1.jpg",
+                        "id": 3224531,
+                        "image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Yung Poggerz",
+                        "url": "https://genius.com/artists/Yung-poggerz"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3224531",
+                            "header_image_url": "https://images.genius.com/c48d4df195a8bd7862c56cb34a62bca6.1000x1000x1.jpg",
+                            "id": 3224531,
+                            "image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yung Poggerz",
+                            "url": "https://genius.com/artists/Yung-poggerz"
+                        },
+                        {
+                            "api_path": "/artists/3224531",
+                            "header_image_url": "https://images.genius.com/c48d4df195a8bd7862c56cb34a62bca6.1000x1000x1.jpg",
+                            "id": 3224531,
+                            "image_url": "https://images.genius.com/b4606d3f3fec978c4880fc30dd989e58.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Yung Poggerz",
+                            "url": "https://genius.com/artists/Yung-poggerz"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10582704",
+                    "artist_names": "\u200bboyband",
+                    "full_title": "\u200b\u200bnever lose me but it's goth by\u00a0\u200bboyband",
+                    "header_image_thumbnail_url": "https://images.genius.com/f4d6ba71a91c74536a845b6003c31f67.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f4d6ba71a91c74536a845b6003c31f67.500x500x1.jpg",
+                    "id": 10582704,
+                    "lyrics_owner_id": 9387139,
+                    "lyrics_state": "unreleased",
+                    "path": "/Boyband-never-lose-me-but-its-goth-lyrics",
+                    "primary_artist_names": "\u200bboyband",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Boyband-never-lose-me-but-its-goth-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 28
+                    },
+                    "release_date_for_display": "January 28, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 28, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f4d6ba71a91c74536a845b6003c31f67.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f4d6ba71a91c74536a845b6003c31f67.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "\u200b\u200bnever lose me but it\u2019s goth",
+                    "title_with_featured": "\u200b\u200bnever lose me but it's goth",
+                    "url": "https://genius.com/Boyband-never-lose-me-but-its-goth-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/168449",
+                        "header_image_url": "https://images.genius.com/1a4b72c2397bcca0d384027f675e6637.667x1000x1.jpg",
+                        "id": 168449,
+                        "image_url": "https://images.genius.com/1a393b02d38a8032d51446a56da89819.320x320x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "\u200bboyband",
+                        "url": "https://genius.com/artists/Boyband",
+                        "iq": 812
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/168449",
+                            "header_image_url": "https://images.genius.com/1a4b72c2397bcca0d384027f675e6637.667x1000x1.jpg",
+                            "id": 168449,
+                            "image_url": "https://images.genius.com/1a393b02d38a8032d51446a56da89819.320x320x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "\u200bboyband",
+                            "url": "https://genius.com/artists/Boyband",
+                            "iq": 812
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10502149",
+                    "artist_names": "Flo Milli",
+                    "full_title": "Never Lose Me (DJ Taj & Tricks Remix) [Mixed] by\u00a0Flo\u00a0Milli",
+                    "header_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "id": 10502149,
+                    "lyrics_owner_id": 11677218,
+                    "lyrics_state": "complete",
+                    "path": "/Flo-milli-never-lose-me-dj-taj-and-tricks-remix-mixed-lyrics",
+                    "primary_artist_names": "Flo Milli",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Flo-milli-never-lose-me-dj-taj-and-tricks-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Never Lose Me (DJ Taj & Tricks Remix) [Mixed]",
+                    "title_with_featured": "Never Lose Me (DJ Taj & Tricks Remix) [Mixed]",
+                    "url": "https://genius.com/Flo-milli-never-lose-me-dj-taj-and-tricks-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1649468",
+                        "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                        "id": 1649468,
+                        "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Flo Milli",
+                        "url": "https://genius.com/artists/Flo-milli",
+                        "iq": 1974
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1649468",
+                            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+                            "id": 1649468,
+                            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Flo Milli",
+                            "url": "https://genius.com/artists/Flo-milli",
+                            "iq": 1974
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10016901",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Flo Milli - Never Lose Me (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.1000x1000x1.png",
+                    "id": 10016901,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-flo-milli-never-lose-me-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-flo-milli-never-lose-me-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/589c6375bdbd0df5d7dd6639b4869343.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Flo Milli - Never Lose Me (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Flo Milli - Never Lose Me (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-flo-milli-never-lose-me-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10170657",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Flo Milli - Never Lose Me (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/18f4de12e100ec4d91579aeb99721800.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/18f4de12e100ec4d91579aeb99721800.1000x1000x1.png",
+                    "id": 10170657,
+                    "lyrics_owner_id": 9927287,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-flo-milli-never-lose-me-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-flo-milli-never-lose-me-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 1
+                    },
+                    "release_date_for_display": "December 1, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 1, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/18f4de12e100ec4d91579aeb99721800.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/18f4de12e100ec4d91579aeb99721800.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Flo Milli - Never Lose Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Flo Milli - Never Lose Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-flo-milli-never-lose-me-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10016901",
+            "id": 10016901,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-flo-milli-never-lose-me-deutsche-ubersetzung-lyrics",
+            "title": "Flo Milli - Never Lose Me (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-flo-milli-never-lose-me-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10170657",
+            "id": 10170657,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-flo-milli-never-lose-me-traduccion-al-espanol-lyrics",
+            "title": "Flo Milli - Never Lose Me (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-flo-milli-never-lose-me-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1649468",
+            "header_image_url": "https://images.genius.com/b1290b5377931f80214f69f4e18c1cdf.600x200x1.jpg",
+            "id": 1649468,
+            "image_url": "https://images.genius.com/2587175a1000778f5ced778b12d5692e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Flo Milli",
+            "url": "https://genius.com/artists/Flo-milli",
+            "iq": 1974
+        },
+        {
+            "api_path": "/artists/1517108",
+            "header_image_url": "https://images.genius.com/1415c19edadbbe688ff1c1258e9c91a4.1000x1000x1.jpg",
+            "id": 1517108,
+            "image_url": "https://images.genius.com/1415c19edadbbe688ff1c1258e9c91a4.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bgerreaux",
+            "url": "https://genius.com/artists/Gerreaux"
+        },
+        {
+            "api_path": "/artists/419073",
+            "header_image_url": "https://images.genius.com/e2a3fd696fe421b3814475c9eb6c51f6.827x827x1.png",
+            "id": 419073,
+            "image_url": "https://images.genius.com/61b5f2a31c301277924b97575d140599.827x827x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Babyface Ray",
+            "url": "https://genius.com/artists/Babyface-ray",
+            "iq": 110
+        },
+        {
+            "api_path": "/artists/1426415",
+            "header_image_url": "https://images.genius.com/ad65c5ff7b1f6ddd915ff5655c1e4f6d.1000x561x1.jpg",
+            "id": 1426415,
+            "image_url": "https://images.genius.com/c2cd8f36e6f5b8b0774e31dc1c5bd245.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "42 Dugg",
+            "url": "https://genius.com/artists/42-dugg"
+        },
+        {
+            "api_path": "/artists/325858",
+            "header_image_url": "https://images.genius.com/6ca08beed56c1c86f89175ed2c72e96e.1000x1000x1.jpg",
+            "id": 325858,
+            "image_url": "https://images.genius.com/6ca08beed56c1c86f89175ed2c72e96e.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dougie F",
+            "url": "https://genius.com/artists/Dougie-f",
+            "iq": 483
+        },
+        {
+            "api_path": "/artists/3752925",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3752925,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Hitoshi Kirigaya",
+            "url": "https://genius.com/artists/Hitoshi-kirigaya"
+        }
+    ],
+    "artist": "Flo Milli",
+    "lyrics": "39 ContributorsTranslationsDeutschEspa\u00f1olNever Lose Me Lyrics\nNever had a bitch like me in your life\nYou ain't never had a bitch like me in your life, uh\nNever had a bitch like me in your life\nYou ain't never had a bitch like me in your life (Yeah)\n\nHe speed in the Wraith while his hand on my coochie (Yeah)\nHe touchin' Emilio Pucci (Uh)\nDoin' good, bitch, I'm gucci (I'm good)\nFly to Asia, he feedin' me sushi (Ooh)\nWhen we fuckin', it feel like a movie\nRaw bitch, ain't never been a groupie\nStiff on a ho, I like my nigga bougie (Yeah)\nTell me you don't nev\u0435r wanna lose me\n\nTell m\u0435 you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me (Lose me)\nTell me you don't never\u2014\n\nKeep me a Haitian, I love me a Zoe\nI've been thinkin' 'bout you on the road\nWe havin' rich sex on a boat\nHe hit it back to back like it's dope (Like it's dope)\nHow you gon' prove you could treat me right?\nYou stole my heart like a thief in the night\nYeah, he my man, he was never your type\nIf you try me, ho, it's on sight\nHe totin' the Uzi, but he actin' real bougie (Bougie, yeah)\nI like to fight over dick, ho, don't get hit with the two-piece (Two-piece)\nYou know you can call if you need me\nTell me you ain't never ever leavin' (No)\nWhen I suck it, I look in your eyes (Yeah)\nYou better fuck me like you mean it (Fuck me like you mean it)\n\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me\nTell me you don't never wanna lose me (Lose me)\nTell me you don't never\u2014\n\nHe speed in the Wraith while his hand on my coochie\nDoin' good, bitch, I'm gucci\nWhen we fuckin', it feel like a movie\nBe stiff on a ho, I like my nigga bougie (Yeah)\nTell me you don't never wanna lose me"
+}

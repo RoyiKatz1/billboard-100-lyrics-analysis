@@ -1,0 +1,883 @@
+{
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/10894188",
+    "artist_names": "Future",
+    "full_title": "OCEAN by\u00a0Future",
+    "header_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "id": 10894188,
+    "instrumental": false,
+    "lyrics_owner_id": 13688155,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1729730170,
+    "path": "/Future-ocean-lyrics",
+    "primary_artist_names": "Future",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Future-ocean-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 48,
+        "iq_earners": 48,
+        "transcribers": 9,
+        "unreviewed_annotations": 11,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 61686
+    },
+    "title": "OCEAN",
+    "title_with_featured": "OCEAN",
+    "updated_by_human_at": 1742654473,
+    "url": "https://genius.com/Future-ocean-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 5038
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        }
+    ],
+    "apple_music_id": "1767829655",
+    "apple_music_player_url": "https://genius.com/songs/10894188/apple_music_player",
+    "description": {
+        "plain": "In \u201cOCEAN,\u201d Future delves into the themes of pain and loss. He reflects on the struggles he has been through, the street violence he has witnessed, his upbringing in the hood, and the people he has lost.\n\nFuture describes the emotional pain from these experiences but also expresses resilience, highlighting the fact that he has found success despite the hardships."
+    },
+    "embed_content": "<div id='rg_embed_link_10894188' class='rg_embed_link' data-song-id='10894188'>Read <a href='https://genius.com/Future-ocean-lyrics'>\u201cOCEAN\u201d by Future</a> on Genius</div> <script crossorigin src='//genius.com/songs/10894188/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fa5ccf",
+    "song_art_secondary_color": "#fa64e7",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1189209",
+        "cover_art_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+        "full_title": "MIXTAPE PLUTO by Future",
+        "id": 1189209,
+        "name": "MIXTAPE PLUTO",
+        "primary_artist_names": "Future",
+        "release_date_for_display": "September 20, 2024",
+        "url": "https://genius.com/albums/Future/Mixtape-pluto",
+        "artist": {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2197",
+                "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+                "id": 2197,
+                "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Future",
+                "url": "https://genius.com/artists/Future",
+                "iq": 5038
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3491950",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3491950,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kai Sato",
+                    "url": "https://genius.com/artists/Kai-sato"
+                },
+                {
+                    "api_path": "/artists/3886394",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886394,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Fugeri",
+                    "url": "https://genius.com/artists/Aaron-fugeri"
+                },
+                {
+                    "api_path": "/artists/4148812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4148812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Spence",
+                    "url": "https://genius.com/artists/Dylan-spence"
+                },
+                {
+                    "api_path": "/artists/3103472",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3103472,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Dunn",
+                    "url": "https://genius.com/artists/James-dunn"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2981840",
+                    "header_image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "id": 2981840,
+                    "image_url": "https://images.genius.com/0e489b2b82b1a5002314575803b802a4.709x709x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Blatz",
+                    "url": "https://genius.com/artists/Brandon-blatz"
+                },
+                {
+                    "api_path": "/artists/640014",
+                    "header_image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "id": 640014,
+                    "image_url": "https://images.genius.com/6bf42f8958d4e9916db1fd12381b36a4.620x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mixed by Ali",
+                    "url": "https://genius.com/artists/Mixed-by-ali"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/655127",
+                    "header_image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "id": 655127,
+                    "image_url": "https://images.genius.com/0ce7cae78095b3544974493ebcb20ca8.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Manco",
+                    "url": "https://genius.com/artists/Eric-manco"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1963500",
+                    "header_image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "id": 1963500,
+                    "image_url": "https://images.genius.com/c5c75e1ecc964e6f176f33f11f9d3652.502x502x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nicolas de Porcel",
+                    "url": "https://genius.com/artists/Nicolas-de-porcel"
+                },
+                {
+                    "api_path": "/artists/2803023",
+                    "header_image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "id": 2803023,
+                    "image_url": "https://images.genius.com/69b70952f3d57ae10d09823018763f61.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Demitrius Lewis II",
+                    "url": "https://genius.com/artists/Demitrius-lewis-ii"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3886396",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3886396,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wilburn Holding Co.",
+                    "url": "https://genius.com/artists/Wilburn-holding-co"
+                },
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 13059087,
+        "annotator_login": "madajj",
+        "api_path": "/referents/33042765",
+        "classification": "unreviewed",
+        "fragment": "OCEAN",
+        "id": 33042765,
+        "is_description": true,
+        "path": "/33042765/Future-ocean/Ocean",
+        "range": {
+            "content": "OCEAN"
+        },
+        "song_id": 10894188,
+        "url": "https://genius.com/33042765/Future-ocean/Ocean",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10894188",
+            "client_timestamps": {
+                "updated_by_human_at": 1742654473,
+                "lyrics_updated_at": 1729730170
+            },
+            "context": "Future",
+            "id": 10894188,
+            "image_url": "https://images.genius.com/512b5bc34892018969d9cf3953dde1c1.1000x1000x1.png",
+            "link_title": "OCEAN by\u00a0Future",
+            "title": "OCEAN",
+            "type": "Song",
+            "url": "https://genius.com/Future-ocean-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33042765",
+                "body": {
+                    "plain": "In \u201cOCEAN,\u201d Future delves into the themes of pain and loss. He reflects on the struggles he has been through, the street violence he has witnessed, his upbringing in the hood, and the people he has lost.\n\nFuture describes the emotional pain from these experiences but also expresses resilience, highlighting the fact that he has found success despite the hardships."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33042765,
+                "pinned": false,
+                "share_url": "https://genius.com/33042765",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33042765/Future-ocean/Ocean",
+                "verified": false,
+                "votes_total": 5,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/13059087",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e9e4bd297f248ad0a9c53a3e9c408b1f",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e9e4bd297f248ad0a9c53a3e9c408b1f",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e9e4bd297f248ad0a9c53a3e9c408b1f",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e9e4bd297f248ad0a9c53a3e9c408b1f",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/e9e4bd297f248ad0a9c53a3e9c408b1f",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 13059087,
+                            "iq": 2221,
+                            "login": "madajj",
+                            "name": "madajj",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/madajj",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=yLiJeWKQa2w"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/34340",
+            "header_image_url": "https://images.genius.com/341a05a822aafcf548632312eb998dd9.680x440x1.jpg",
+            "id": 34340,
+            "image_url": "https://images.genius.com/53cb8c331baff691ea15d3e7d4b93265.440x440x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Honorable C.N.O.T.E.",
+            "url": "https://genius.com/artists/Honorable-cnote",
+            "iq": 439
+        },
+        {
+            "api_path": "/artists/194390",
+            "header_image_url": "https://images.genius.com/0e2473eed30e0f73818092f81ce038d3.1000x1000x1.png",
+            "id": 194390,
+            "image_url": "https://images.genius.com/9b3156d4d593be6b947bd7add8b7f1a1.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dez Wright",
+            "url": "https://genius.com/artists/Dez-wright",
+            "iq": 225
+        },
+        {
+            "api_path": "/artists/1998812",
+            "header_image_url": "https://images.genius.com/a0be8018ce0b169bd376b04857861420.700x700x1.jpg",
+            "id": 1998812,
+            "image_url": "https://images.genius.com/9a9f39994e5e1ede7b5b67eb3f0b32c5.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Mu Lean",
+            "url": "https://genius.com/artists/Mu-lean",
+            "iq": 143
+        },
+        {
+            "api_path": "/artists/2316579",
+            "header_image_url": "https://images.genius.com/dd92e296f58bcc6cd8bd29dadf8632c3.638x609x1.jpg",
+            "id": 2316579,
+            "image_url": "https://images.genius.com/b5df60663265b6571c94f341a7319ea6.254x254x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jack Uriah",
+            "url": "https://genius.com/artists/Jack-uriah",
+            "iq": 319
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10910866",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Future - OCEAN (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "id": 10910866,
+                    "lyrics_owner_id": 21506730,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-future-ocean-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-future-ocean-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a23ce323a5d8417a2b32fed56c097b51.596x596x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Future - OCEAN (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Future - OCEAN (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-future-ocean-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10910866",
+            "id": 10910866,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-future-ocean-traduction-francaise-lyrics",
+            "title": "Future - OCEAN (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-future-ocean-traduction-francaise-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2197",
+            "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+            "id": 2197,
+            "image_url": "https://images.genius.com/c4e27b6509363bb9dec7cf64f4167b94.900x900x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Future",
+            "url": "https://genius.com/artists/Future",
+            "iq": 5038
+        },
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/34340",
+            "header_image_url": "https://images.genius.com/341a05a822aafcf548632312eb998dd9.680x440x1.jpg",
+            "id": 34340,
+            "image_url": "https://images.genius.com/53cb8c331baff691ea15d3e7d4b93265.440x440x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Honorable C.N.O.T.E.",
+            "url": "https://genius.com/artists/Honorable-cnote",
+            "iq": 439
+        },
+        {
+            "api_path": "/artists/2316579",
+            "header_image_url": "https://images.genius.com/dd92e296f58bcc6cd8bd29dadf8632c3.638x609x1.jpg",
+            "id": 2316579,
+            "image_url": "https://images.genius.com/b5df60663265b6571c94f341a7319ea6.254x254x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jack Uriah",
+            "url": "https://genius.com/artists/Jack-uriah",
+            "iq": 319
+        },
+        {
+            "api_path": "/artists/194390",
+            "header_image_url": "https://images.genius.com/0e2473eed30e0f73818092f81ce038d3.1000x1000x1.png",
+            "id": 194390,
+            "image_url": "https://images.genius.com/9b3156d4d593be6b947bd7add8b7f1a1.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dez Wright",
+            "url": "https://genius.com/artists/Dez-wright",
+            "iq": 225
+        },
+        {
+            "api_path": "/artists/1998812",
+            "header_image_url": "https://images.genius.com/a0be8018ce0b169bd376b04857861420.700x700x1.jpg",
+            "id": 1998812,
+            "image_url": "https://images.genius.com/9a9f39994e5e1ede7b5b67eb3f0b32c5.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Mu Lean",
+            "url": "https://genius.com/artists/Mu-lean",
+            "iq": 143
+        }
+    ],
+    "artist": "Future",
+    "lyrics": "48 ContributorsTranslationsFran\u00e7aisOCEAN Lyrics\nI got enough tears to fill the ocean for all these losses took in this shit\n\nGot a cousin I ain't seen in years, when we came up, sleepin' on the same bed\nAnd my main dog maxed in the fed, kept my lil' one names off warfare\nJunior Boss went out, his gun blowin', always said he'd take a nigga with him\nRider squad goin' on a rampage, 700 Block kill niggas, madman (Murk)\nWe gotta fill up this pain, it ain't no comparing what made niggas feel (700)\nLil' homie just threw back three pills, he starvin' for bodies, he ready to go kill (Yeah)\nHide the Draco, the TEC match the weather (Woo)\nRed tomato, tonight is gettin\u2019 fatal (Grr)\nHad the powder goin' crazy in Decatur\nHad the stylist copyin' me and Abel\nMan, this loyalty rap shit is real\nYou hold on a nigga, you fly in like J Bo (Hey)\nTaking India all of my pesos (Hey)\nHad to pop me a bean, pour some Tris (Yeah)\nTook some niggas off that I forget\nHope the karma don't catch up again\nTo the DA, he done brought up a text\nEverything tens or fours or checks\nMy doggy was slidin', I was still on a jet\nThought of my granny, my tears on my chest\nBeen with them killers since I was a jit\nRaised in Lil Mexico, niggas in trenches\nTell 'em fuck 12, addicted to steppin'\nI know that gutter shit run through my flesh (I know that)\nDon't speak on my fam 'cause it'll get tense\nHo leakin' my name, I might get her spint\nI'm runnin' my hood from a whole 'nother state now, Skyami the playground\nI done ran up a check, I done bought me a cake now, I can go buy a case now\nAll the shit I done did to come up out of state now, plus a nigga get laid down\nSoon as Josh got out, gave him bag of that blue shit\nCouple Cubans, some rocks, and some new shit\nPlenty hundreds, don't know what to do with 'em\nI was happy my bitch got a new nigga\nI'm a street nigga, I'll never be cool with 'em\nHo get out of pocket, nothin' to do with her\nPlugged you like a socket, kept it true with you (Freeband, Freeband Gang)\n\nSo many tears, I could fill up an ocean\n'Fore the fame came, I was already in motion\nAnd some my young niggas play, best believe niggas soakin', yeah\nOut of state, up a stash, two hundred, I'm coastin', yeah\n\nCan't forget about Man, he was there before all this, yeah\nUncle Snoopy got killed, he the reason I'm an artist, yeah\nI was posted on the corner, I was goin' my hardest, yeah\nWalk you down in broad day, niggas know where my heart at, yeah\nOn the avenue, yellin' out, \"354 shit,\" nigga, kick in your door shit\nI was servin' my auntie when she was a dope head just to go and cop Dolce\nAnd my shirt button open when I do this, I'm focused, you can feel my emotions\nGet to trippin' on niggas, I know I'm the chosen 'cause when I was the brokest\nI'll go solo on a mission, a nigga gettin' active\nNigga ain't never gon' bap 'bout it\nCooked a four-way right up at the crack house\nAny problems with niggas, gon' crash out\nCooked that nigga, we gave him a smackdown\nWhen I send 'em, I know they gon' tell shit\nOut the kennel, my dog like a hell-pit\nLeft me dead, I survived, but you left me\nEvery day, I preach self-destruction\nDon't come lookin' for me at the wrong time\nGot a thirty like Curry right past nine\nFuck with G, niggas know I'm gon' frontline\nSit on niggas 'fore we get 'em hunted down\nRealest shit ever said, ain't no punchline\n\nSo many tears, I could fill up an ocean\n'Fore the fame came, I was already in motion\nAnd some my young niggas play, best believe niggas soakin', yeah\nOut of state, up a stash, two hundred, I'm coastin', yeah"
+}

@@ -1,0 +1,686 @@
+{
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/10087113",
+    "artist_names": "Lil Durk",
+    "full_title": "Old Days by\u00a0Lil\u00a0Durk",
+    "header_image_thumbnail_url": "https://images.genius.com/1ea1546c5d72691ecb12c392ee0a66d1.300x300x1.png",
+    "header_image_url": "https://images.genius.com/1ea1546c5d72691ecb12c392ee0a66d1.1000x1000x1.png",
+    "id": 10087113,
+    "instrumental": false,
+    "lyrics_owner_id": 7783479,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746917287,
+    "path": "/Lil-durk-old-days-lyrics",
+    "primary_artist_names": "Lil Durk",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Lil-durk-old-days-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 2,
+        "day": 23
+    },
+    "release_date_for_display": "February 23, 2024",
+    "release_date_with_abbreviated_month_for_display": "Feb. 23, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/1ea1546c5d72691ecb12c392ee0a66d1.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/1ea1546c5d72691ecb12c392ee0a66d1.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 4,
+        "contributors": 25,
+        "iq_earners": 25,
+        "transcribers": 2,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 54166
+    },
+    "title": "Old Days",
+    "title_with_featured": "Old Days",
+    "updated_by_human_at": 1746917287,
+    "url": "https://genius.com/Lil-durk-old-days-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/21964",
+        "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+        "id": 21964,
+        "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Lil Durk",
+        "url": "https://genius.com/artists/Lil-durk",
+        "iq": 10398
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/21964",
+            "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+            "id": 21964,
+            "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Lil Durk",
+            "url": "https://genius.com/artists/Lil-durk",
+            "iq": 10398
+        }
+    ],
+    "apple_music_id": "1730847144",
+    "apple_music_player_url": "https://genius.com/songs/10087113/apple_music_player",
+    "description": {
+        "plain": "\u201cOld Days\u201d is the lead single to Lil Durk\u2019s ninth studio album, Love Songs 4 the Streets 3. On the track, Lil Durk discusses his upbringing in Chicago and what it is like currently.\n\nThe track was first previewed on January 26, 2024, when Lil Durk snippeted the song via his social media pages. A few days later, on February 17, 2024, Lil Durk revealed the track\u2019s release date and posted a snippet of the song\u2019s music video on February 20, 2024."
+    },
+    "embed_content": "<div id='rg_embed_link_10087113' class='rg_embed_link' data-song-id='10087113'>Read <a href='https://genius.com/Lil-durk-old-days-lyrics'>\u201cOld Days\u201d by Lil\u00a0Durk</a> on Genius</div> <script crossorigin src='//genius.com/songs/10087113/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-02-23",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#cdd6e5",
+    "song_art_secondary_color": "#604724",
+    "song_art_text_color": "#000000",
+    "album": null,
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1274122",
+                    "header_image_url": "https://images.genius.com/e0ed33fd1f7684df99e73471c20e4dac.1000x370x1.jpg",
+                    "id": 1274122,
+                    "image_url": "https://images.genius.com/f5306bb9915a68f19e876d1d0b5f3ce0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alamo Records",
+                    "url": "https://genius.com/artists/Alamo-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 11277083,
+        "annotator_login": "mysterioususer",
+        "api_path": "/referents/30957634",
+        "classification": "accepted",
+        "fragment": "Old Days",
+        "id": 30957634,
+        "is_description": true,
+        "path": "/30957634/Lil-durk-old-days/Old-days",
+        "range": {
+            "content": "Old Days"
+        },
+        "song_id": 10087113,
+        "url": "https://genius.com/30957634/Lil-durk-old-days/Old-days",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10087113",
+            "client_timestamps": {
+                "updated_by_human_at": 1746917287,
+                "lyrics_updated_at": 1746917287
+            },
+            "context": "Lil Durk",
+            "id": 10087113,
+            "image_url": "https://images.genius.com/1ea1546c5d72691ecb12c392ee0a66d1.1000x1000x1.png",
+            "link_title": "Old Days by\u00a0Lil\u00a0Durk",
+            "title": "Old Days",
+            "type": "Song",
+            "url": "https://genius.com/Lil-durk-old-days-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30957634",
+                "body": {
+                    "plain": "\u201cOld Days\u201d is the lead single to Lil Durk\u2019s ninth studio album, Love Songs 4 the Streets 3. On the track, Lil Durk discusses his upbringing in Chicago and what it is like currently.\n\nThe track was first previewed on January 26, 2024, when Lil Durk snippeted the song via his social media pages. A few days later, on February 17, 2024, Lil Durk revealed the track\u2019s release date and posted a snippet of the song\u2019s music video on February 20, 2024."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30957634,
+                "pinned": false,
+                "share_url": "https://genius.com/30957634",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/30957634/Lil-durk-old-days/Old-days",
+                "verified": false,
+                "votes_total": 8,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.6829268292682927,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11277083",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/f49403f4700d82942f543b5419276375",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/f49403f4700d82942f543b5419276375",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/f49403f4700d82942f543b5419276375",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/f49403f4700d82942f543b5419276375",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/f49403f4700d82942f543b5419276375",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 11277083,
+                            "iq": 51017,
+                            "login": "mysterioususer",
+                            "name": "mysterioususer",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/mysterioususer",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.3170731707317073,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/20314510",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/ff2f9831ffc4bf6d67d4405c2d1bb642.640x640x1.gif",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/2b41bb9eaa666f9c44d75f88314eb322.1000x667x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 20314510,
+                            "iq": 241447,
+                            "login": "janick",
+                            "name": "janick",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/janick",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=abZ15xSBlnM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/1104615",
+            "header_image_url": "https://images.genius.com/8f9b6b74aaf063bebb2da5b8f8f8d3fd.480x480x1.jpg",
+            "id": 1104615,
+            "image_url": "https://images.genius.com/8f9b6b74aaf063bebb2da5b8f8f8d3fd.480x480x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Smatt Sertified",
+            "url": "https://genius.com/artists/Smatt-sertified"
+        },
+        {
+            "api_path": "/artists/2052833",
+            "header_image_url": "https://images.genius.com/5147d36fb4f947abcc888f90e2aa6f51.405x405x1.png",
+            "id": 2052833,
+            "image_url": "https://images.genius.com/5147d36fb4f947abcc888f90e2aa6f51.405x405x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wasa",
+            "url": "https://genius.com/artists/Wasa"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/21964",
+            "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+            "id": 21964,
+            "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Lil Durk",
+            "url": "https://genius.com/artists/Lil-durk",
+            "iq": 10398
+        },
+        {
+            "api_path": "/artists/23315",
+            "header_image_url": "https://images.genius.com/9ccb92d2dbd9667919774e059ce1b2b5.772x1000x1.jpg",
+            "id": 23315,
+            "image_url": "https://images.genius.com/b442d08bbeb3aec51189f0a46146952b.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Southside",
+            "url": "https://genius.com/artists/Southside",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/1104615",
+            "header_image_url": "https://images.genius.com/8f9b6b74aaf063bebb2da5b8f8f8d3fd.480x480x1.jpg",
+            "id": 1104615,
+            "image_url": "https://images.genius.com/8f9b6b74aaf063bebb2da5b8f8f8d3fd.480x480x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Smatt Sertified",
+            "url": "https://genius.com/artists/Smatt-sertified"
+        },
+        {
+            "api_path": "/artists/2052833",
+            "header_image_url": "https://images.genius.com/5147d36fb4f947abcc888f90e2aa6f51.405x405x1.png",
+            "id": 2052833,
+            "image_url": "https://images.genius.com/5147d36fb4f947abcc888f90e2aa6f51.405x405x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wasa",
+            "url": "https://genius.com/artists/Wasa"
+        }
+    ],
+    "artist": "Lil Durk",
+    "lyrics": "25 ContributorsOld Days Lyrics\u201cOld Days\u201d is the lead single to Lil Durk\u2019s ninth studio album, Love Songs 4 the Streets 3. On the track, Lil Durk discusses his upbringing in Chicago and what it is like currently.\nThe track was first\u2026 Read More\u00a0\n(Uh)\nYou know, I been talkin' to my family on group FaceTime\nThey don't ask me for nothin', they just tell me that they miss me, know what I'm sayin'?\nI be, I be tellin' 'em it ain't about money, but I'ma send it anyways\nKnow what I'm sayin'? I love y'all\n\nAll the times I said granny, that's the passion that it's from\nHer condition scared me so much, I ain't visit her in months (Uh)\nChino visit me more than them and he only visit me just once (Uh)\nThe older rats got out before unc' and they around here like it's nothin'\nHow many niggas I used to fuck with told me fuck me over money?\nSaid th\u0435 block gon' get on his ass, that's why he ain't nev\u0435r make a comment\nThe autopsy of Von body had me coughin' up my vomit\nI miss the old days, the old ways, my history iconic\nI was takin' so many pills, I was so high, I really abused it\nStarted sellin' Percs, I turned around and started to use it\nTook my name off rehab, I replaced my name with Doodie's\nHad to get a pacemaker, my heart was skippin' deuces\nJumpin' over hurdles, Smurk life so exclusive\nAin't lied yet about nothin'\nI wish I could stop the war, I really wanna live in peace\nI wish I could stop the war, but it's too late for them to speak (Oh)\nI want the politics in my pocket, I wanna treat the 'Raq like Meek\nBut it's me, I'll do everything to show them I ain't weak\nI'm the streets, who ever thought I'd make a million off of beats?\nThey need Smurk now, they can make millions off of me\n\n(Wow-wow)\n(Wow-wow, wow-wow) I be prayin' for the street, nigga\n(Wow-wow, wow-wow) I be prayin' for the street, nigga\n\nTell Petey that I miss him, can somebody give my number to him?\nPlus he lost his son, that's my lil' cousin, he got trauma to him (Oh)\nCrib hot, window up, blackout, thunderstorm\nRondo mama know I love her even though I ain't been talkin' to her (Yeah, yeah, yeah)\nPlay with me, get backdoored, he rather let the oppers do it\nDon't get shot on my block 'cause St. Bernard ain't got no trauma unit (Oh)\nHe was filled with Xans and lean, now he filled with embalmin' fluid (Oh)\nThe killers gotta step in for the peace, can't no rappers do it, I can\nShout out to who locked up who was locked in (Oh)\nWhere them bloggers at that said Smurkio not top ten? (Woah, woah, woah)\nI beat my case in 2014, they let the cops in\nYou can't find no peace today, go walk inside a masjid (Oh)\n\nNow you got real street niggas that want motherfuckers in jail\nSo we into it with the opps, which is the police\nThe police, which is the\u2014, it's like, come on, bro, like the streets over with\nNiggas gotta understand that shit, man, it's nothin' left out here, bro\nLike, you just gotta protect yourself, protect your family, who you love\nYou can't be around all this shit, this shit ain't the same no more\nYou got rats doin' interviews, you got everybody stickin' together who doin' the wrong shit, bro\nWe real stand up niggas\nLike, when was it ever cool to backdoor somebody you love?\nWhen it was ever cool to set somebody up who you love?\nLike, this, this, this the new streets, like, I don't wanna be a part of that shit\nI wanna be a part of the, of the generational wealth part\nWhere it's still leadership around, when it's still organized, like\nThat's why I don't never respond to shit\nI'll never get on no interview and talk about nothin'\nWhoever say somethin' about me, go on 'head\nI never responded to no nigga in years, but guess what?\nI never been bitched, I never been slapped, I never been robbed, none of that shit\nSo have fun, but all real niggas fuck with me and they know what's up with me\n\n(Wow-wow, wow-wow) I be prayin' for the street, nigga\n(Wow-wow, wow-wow) I be prayin' for the street, nigga"
+}

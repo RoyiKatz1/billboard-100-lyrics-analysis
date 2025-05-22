@@ -1,0 +1,904 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/8779714",
+    "artist_names": "Morgan Wallen",
+    "full_title": "Thinkin\u2019 Bout Me by\u00a0Morgan\u00a0Wallen",
+    "header_image_thumbnail_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+    "id": 8779714,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1724001570,
+    "path": "/Morgan-wallen-thinkin-bout-me-lyrics",
+    "primary_artist_names": "Morgan Wallen",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Morgan-wallen-thinkin-bout-me-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 3,
+        "day": 3
+    },
+    "release_date_for_display": "March 3, 2023",
+    "release_date_with_abbreviated_month_for_display": "Mar. 3, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 13,
+        "iq_earners": 13,
+        "transcribers": 3,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 83796
+    },
+    "title": "Thinkin\u2019 Bout Me",
+    "title_with_featured": "Thinkin\u2019 Bout Me",
+    "updated_by_human_at": 1724001570,
+    "url": "https://genius.com/Morgan-wallen-thinkin-bout-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/987153",
+        "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+        "id": 987153,
+        "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Morgan Wallen",
+        "url": "https://genius.com/artists/Morgan-wallen",
+        "iq": 495
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/987153",
+            "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+            "id": 987153,
+            "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Morgan Wallen",
+            "url": "https://genius.com/artists/Morgan-wallen",
+            "iq": 495
+        }
+    ],
+    "apple_music_id": "1668202937",
+    "apple_music_player_url": "https://genius.com/songs/8779714/apple_music_player",
+    "description": {
+        "plain": "\u201cThinkin' Bout Me\u201d written by country artist Morgan Wallen is about how his ex-girlfriend left him for someone better and he talks about how whatever it is she\u2019s doing, if she\u2019s thinking about him."
+    },
+    "embed_content": "<div id='rg_embed_link_8779714' class='rg_embed_link' data-song-id='8779714'>Read <a href='https://genius.com/Morgan-wallen-thinkin-bout-me-lyrics'>\u201cThinkin\u2019 Bout Me\u201d by Morgan\u00a0Wallen</a> on Genius</div> <script crossorigin src='//genius.com/songs/8779714/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-03-03",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#946444",
+    "song_art_secondary_color": "#5a3d29",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/891731",
+        "cover_art_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+        "full_title": "One Thing At A Time by Morgan Wallen",
+        "id": 891731,
+        "name": "One Thing At A Time",
+        "primary_artist_names": "Morgan Wallen",
+        "release_date_for_display": "March 3, 2023",
+        "url": "https://genius.com/albums/Morgan-wallen/One-thing-at-a-time",
+        "artist": {
+            "api_path": "/artists/987153",
+            "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+            "id": 987153,
+            "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Morgan Wallen",
+            "url": "https://genius.com/artists/Morgan-wallen",
+            "iq": 495
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/987153",
+                "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+                "id": 987153,
+                "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Morgan Wallen",
+                "url": "https://genius.com/artists/Morgan-wallen",
+                "iq": 495
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638693",
+                    "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "id": 638693,
+                    "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ted Jensen",
+                    "url": "https://genius.com/artists/Ted-jensen"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1604942",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1604942,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Yount",
+                    "url": "https://genius.com/artists/Ryan-yount"
+                },
+                {
+                    "api_path": "/artists/1151178",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1151178,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Badum",
+                    "url": "https://genius.com/artists/Sean-badum"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/1674202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1674202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ally Gecewicz",
+                    "url": "https://genius.com/artists/Ally-gecewicz"
+                }
+            ]
+        },
+        {
+            "label": "A&R Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/3314009",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3314009,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ava Boney",
+                    "url": "https://genius.com/artists/Ava-boney"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1063126",
+                    "header_image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "id": 1063126,
+                    "image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Ditty",
+                    "url": "https://genius.com/artists/Josh-ditty"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1003323",
+                    "header_image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "id": 1003323,
+                    "image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cohen",
+                    "url": "https://genius.com/artists/Dave-cohen"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1130165",
+                    "header_image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "id": 1130165,
+                    "image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryan Sutton",
+                    "url": "https://genius.com/artists/Bryan-sutton"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/1458570",
+                    "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "id": 1458570,
+                    "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Roe",
+                    "url": "https://genius.com/artists/Jerry-roe"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1114586",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1114586,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eivind Nordland",
+                    "url": "https://genius.com/artists/Eivind-nordland"
+                },
+                {
+                    "api_path": "/artists/1213471",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1213471,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Cooke",
+                    "url": "https://genius.com/artists/Scott-cooke"
+                },
+                {
+                    "api_path": "/artists/1063126",
+                    "header_image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "id": 1063126,
+                    "image_url": "https://images.genius.com/ffd9ff73cb217ffb3d6c91f643076d27.186x186x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Ditty",
+                    "url": "https://genius.com/artists/Josh-ditty"
+                },
+                {
+                    "api_path": "/artists/1604942",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1604942,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Yount",
+                    "url": "https://genius.com/artists/Ryan-yount"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                },
+                {
+                    "api_path": "/artists/644116",
+                    "header_image_url": "https://images.genius.com/ea4142d8ae33bf38ec94315b6dd4d69c.290x290x1.jpg",
+                    "id": 644116,
+                    "image_url": "https://images.genius.com/ea4142d8ae33bf38ec94315b6dd4d69c.290x290x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Bukovac",
+                    "url": "https://genius.com/artists/Tom-bukovac"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/227633",
+                    "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+                    "id": 227633,
+                    "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joey Moi",
+                    "url": "https://genius.com/artists/Joey-moi"
+                },
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                },
+                {
+                    "api_path": "/artists/1114586",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1114586,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eivind Nordland",
+                    "url": "https://genius.com/artists/Eivind-nordland"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 12144139,
+        "annotator_login": "Morgan_Wallen_fan_girl",
+        "api_path": "/referents/29007051",
+        "classification": "unreviewed",
+        "fragment": "Thinkin\u2019 Bout Me",
+        "id": 29007051,
+        "is_description": true,
+        "path": "/29007051/Morgan-wallen-thinkin-bout-me/Thinkin-bout-me",
+        "range": {
+            "content": "Thinkin\u2019 Bout Me"
+        },
+        "song_id": 8779714,
+        "url": "https://genius.com/29007051/Morgan-wallen-thinkin-bout-me/Thinkin-bout-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/8779714",
+            "client_timestamps": {
+                "updated_by_human_at": 1724001570,
+                "lyrics_updated_at": 1724001570
+            },
+            "context": "Morgan Wallen",
+            "id": 8779714,
+            "image_url": "https://images.genius.com/a2124e16f9e39c243c01ef1f26aa5f45.1000x1000x1.png",
+            "link_title": "Thinkin\u2019 Bout Me by\u00a0Morgan\u00a0Wallen",
+            "title": "Thinkin\u2019 Bout Me",
+            "type": "Song",
+            "url": "https://genius.com/Morgan-wallen-thinkin-bout-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/29007051",
+                "body": {
+                    "plain": "\u201cThinkin' Bout Me\u201d written by country artist Morgan Wallen is about how his ex-girlfriend left him for someone better and he talks about how whatever it is she\u2019s doing, if she\u2019s thinking about him."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 29007051,
+                "pinned": false,
+                "share_url": "https://genius.com/29007051",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/29007051/Morgan-wallen-thinkin-bout-me/Thinkin-bout-me",
+                "verified": false,
+                "votes_total": 5,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12144139",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/6362765afef3c0b3ca895730f9f5c38d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/6362765afef3c0b3ca895730f9f5c38d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/6362765afef3c0b3ca895730f9f5c38d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/6362765afef3c0b3ca895730f9f5c38d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/jqlgo3gra7o",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 12144139,
+                            "iq": 1526,
+                            "login": "Morgan_Wallen_fan_girl",
+                            "name": "Morgan_Wallen_fan_girl",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Morgan_Wallen_fan_girl",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4733728",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/d1898630dba081b6d856ac22f7c2dd2a.1000x625x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4733728,
+        "iq": 671174,
+        "login": "JJEvans",
+        "name": "Jay Evans",
+        "role_for_display": "editor",
+        "url": "https://genius.com/JJEvans",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "morgan wallen",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/morgan-wallen/thinkin-bout-me?in=morgan-wallen/sets/one-thing-at-a-time-1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=5DCdL1zdpdM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/227633",
+            "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+            "id": 227633,
+            "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Joey Moi",
+            "url": "https://genius.com/artists/Joey-moi"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9885905",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2023 (Cut The Flowers) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "id": 9885905,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 26
+                    },
+                    "release_date_for_display": "December 26, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 26, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5e68e381a4a89333de3bb49f9720ab76.720x720x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2023 (Cut The Flowers)",
+                    "title_with_featured": "United State of Pop 2023 (Cut The Flowers)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2023-cut-the-flowers-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10522627",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Morgan Wallen - Thinkin\u2019 Bout Me (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/ccbfae4532de75eeabedca0d49f01013.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ccbfae4532de75eeabedca0d49f01013.1000x1000x1.png",
+                    "id": 10522627,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-morgan-wallen-thinkin-bout-me-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-thinkin-bout-me-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 3,
+                        "day": 3
+                    },
+                    "release_date_for_display": "March 3, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 3, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ccbfae4532de75eeabedca0d49f01013.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ccbfae4532de75eeabedca0d49f01013.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Morgan Wallen - Thinkin\u2019 Bout Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Morgan Wallen - Thinkin\u2019 Bout Me (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-thinkin-bout-me-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10522627",
+            "id": 10522627,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-morgan-wallen-thinkin-bout-me-traduccion-al-espanol-lyrics",
+            "title": "Morgan Wallen - Thinkin\u2019 Bout Me (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-morgan-wallen-thinkin-bout-me-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2557469",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2557469,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "John Byron",
+            "url": "https://genius.com/artists/John-byron"
+        },
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        }
+    ],
+    "artist": "Morgan Wallen",
+    "lyrics": "13 ContributorsTranslationsEspa\u00f1olThinkin\u2019 Bout Me Lyrics\nDon't know where you at, don't know where you've been\nDon't know nothin' 'bout that boy you're into\nDon't feel bad for you but I feel bad for him\nAnd all the hell you gon' be puttin' him through\nProbably tell him we're a burnt out flame\nProbably tell him that I ain't been on your mind\nHow I ain't nothin' but a long gone thing\nYou can cuss my name, but baby, don't you lie\n\nWhen you're tasting what he's drinking, are you thinkin' 'bout me?\nWhen you're ridin' where he's drivin', are you missin' my street?\nEvery time you close your eyes, tell me, who do you see?\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\nComin' over tonight, wish that truck in your drive was mine\nJust like you know it's supposed to be\nWhen you're up in his bed, am I up in your head?\nMakin' you crazy, tell me, baby, are you thinkin' 'bout me?\nAre you thinkin' 'bout, are you thinkin' 'bout\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\n\nDo you hide your phone? Did you change my name?\nWhen he wants to go to our go-to place\nDo you tell him you can't? Then go out of your way\nTo be somewhere, any damn where I ain't\n\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\nWhen you're ridin' where he's drivin', are you missin' my street?\nEvery time you close your eyes, tell me, who do you see?\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\nComin' over tonight, wish that truck in your drive was mine\nJust like you know it's supposed to be\nWhen you're up in his bed, am I up in your head?\nMakin' you crazy, tell me, baby, are you thinkin' 'bout me?\nAre you thinkin' 'bout, are you thinkin' 'bout\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\n\nDon't know where you at\nBut girl, I know where you oughta be\n\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\nWhen you're ridin' where he's drivin', are you missing my street?\nEvery time you close your eyes, tell me, who do you see?\nWhen you're tastin' what he's drinkin', are you thinkin' 'bout me?\nComin' over tonight, wish that truck in your drive was mine\nJust like you know it's supposed to be\nWhen you're up in his bed, am I up in your head?\nMakin' you crazy, tell me, baby, are you thinkin' 'bout me?\nYeah, are you thinkin' 'bout me?\nAre you thinkin' 'bout me?"
+}

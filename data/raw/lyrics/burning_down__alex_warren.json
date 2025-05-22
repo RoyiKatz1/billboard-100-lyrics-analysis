@@ -1,0 +1,906 @@
+{
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/10837241",
+    "artist_names": "Alex Warren",
+    "full_title": "Burning Down by\u00a0Alex\u00a0Warren",
+    "header_image_thumbnail_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.1000x1000x1.png",
+    "id": 10837241,
+    "instrumental": false,
+    "lyrics_owner_id": 15593447,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741052632,
+    "path": "/Alex-warren-burning-down-lyrics",
+    "primary_artist_names": "Alex Warren",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Alex-warren-burning-down-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 20
+    },
+    "release_date_for_display": "September 20, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 23,
+        "iq_earners": 23,
+        "transcribers": 3,
+        "unreviewed_annotations": 13,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 202871
+    },
+    "title": "Burning Down",
+    "title_with_featured": "Burning Down",
+    "updated_by_human_at": 1741052632,
+    "url": "https://genius.com/Alex-warren-burning-down-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1587760",
+        "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+        "id": 1587760,
+        "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Alex Warren",
+        "url": "https://genius.com/artists/Alex-warren"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1587760",
+            "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+            "id": 1587760,
+            "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Alex Warren",
+            "url": "https://genius.com/artists/Alex-warren"
+        }
+    ],
+    "apple_music_id": "1768757363",
+    "apple_music_player_url": "https://genius.com/songs/10837241/apple_music_player",
+    "description": {
+        "plain": "In 2020, a group of kids called Hype House Sky rocketed and Alex was (technically) one of the owners because he came up with the idea.\n\nIn Burning Down, Alex comes out with the truth of what really happened in Hype House and all the OG members, and his former \u201cfriend\u201d Thomas Petrou.\n\nIn the song Alex tells us Thomas betrayed Alex and gaslighted him, blamed him, treated him poorly. \u201cSaid I\u2019m the one who\u2019s wanted, For all the fires you started\u201d\nbut not even just Alex that got treated badly, it was everyone.\n\n\u201cHow do you sleep at night? No one to hide behind, Betrayed every alibi you had\u201d\n\nGeneral idea of the song is about how Thomas was treating him and all the other members terribly, and Thomas blamed Alex for all the fights/fires that would happened during Hype House and backstabbed Alex as he considered him a friend."
+    },
+    "embed_content": "<div id='rg_embed_link_10837241' class='rg_embed_link' data-song-id='10837241'>Read <a href='https://genius.com/Alex-warren-burning-down-lyrics'>\u201cBurning Down\u201d by Alex\u00a0Warren</a> on Genius</div> <script crossorigin src='//genius.com/songs/10837241/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-20",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#cf7440",
+    "song_art_secondary_color": "#5e2820",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/819742",
+        "cover_art_url": "https://images.genius.com/6c48b9c172c8181b38eb1a6a5d69efd9.1000x1000x1.png",
+        "full_title": "You\u2019ll Be Alright, Kid (Chapter 1) by Alex Warren",
+        "id": 819742,
+        "name": "You\u2019ll Be Alright, Kid (Chapter 1)",
+        "primary_artist_names": "Alex Warren",
+        "release_date_for_display": "September 27, 2024",
+        "url": "https://genius.com/albums/Alex-warren/Youll-be-alright-kid-chapter-1",
+        "artist": {
+            "api_path": "/artists/1587760",
+            "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+            "id": 1587760,
+            "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Alex Warren",
+            "url": "https://genius.com/artists/Alex-warren"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1587760",
+                "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+                "id": 1587760,
+                "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Alex Warren",
+                "url": "https://genius.com/artists/Alex-warren"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video VFX Artist",
+            "artists": [
+                {
+                    "api_path": "/artists/2970845",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2970845,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Crnovision",
+                    "url": "https://genius.com/artists/Crnovision"
+                },
+                {
+                    "api_path": "/artists/4234044",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4234044,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gabriel Pei\u010di\u0107",
+                    "url": "https://genius.com/artists/Gabriel-peicic"
+                },
+                {
+                    "api_path": "/artists/4244630",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4244630,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lovro Kerdi\u0107",
+                    "url": "https://genius.com/artists/Lovro-kerdic"
+                }
+            ]
+        },
+        {
+            "label": "Video VFX Supervisor",
+            "artists": [
+                {
+                    "api_path": "/artists/3721128",
+                    "header_image_url": "https://images.genius.com/386dc4c039c154ef31cc2a4ab5124ad6.1000x665x1.jpg",
+                    "id": 3721128,
+                    "image_url": "https://images.genius.com/6a3f62b9d42f75bf2be5cc7dcf752e8c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "\u200bk3ymee",
+                    "url": "https://genius.com/artists/K3ymee",
+                    "iq": 121
+                }
+            ]
+        },
+        {
+            "label": "Video VFX Department",
+            "artists": [
+                {
+                    "api_path": "/artists/4234043",
+                    "header_image_url": "https://images.genius.com/2310e8aba97d86480435687258bb78b8.320x320x1.jpg",
+                    "id": 4234043,
+                    "image_url": "https://images.genius.com/2310e8aba97d86480435687258bb78b8.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Typed VFX",
+                    "url": "https://genius.com/artists/Typed-vfx"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/652975",
+                    "header_image_url": "https://images.genius.com/27cc8959d82364c52cedbb5bbbd5f9bd.400x400x1.jpg",
+                    "id": 652975,
+                    "image_url": "https://images.genius.com/27cc8959d82364c52cedbb5bbbd5f9bd.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Ghenea",
+                    "url": "https://genius.com/artists/Alex-ghenea"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2303565",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2303565,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Bailey",
+                    "url": "https://genius.com/artists/Dan-bailey"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1072117",
+                    "header_image_url": "https://images.genius.com/afadf205c4cf84c82d581ca818edba81.900x597x1.jpg",
+                    "id": 1072117,
+                    "image_url": "https://images.genius.com/61b785acf503096373ed8315b434cec0.534x534x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mags Duval",
+                    "url": "https://genius.com/artists/Mags-duval"
+                },
+                {
+                    "api_path": "/artists/2083986",
+                    "header_image_url": "https://images.genius.com/f837468068a13275fd39c252ae8ab462.729x215x1.png",
+                    "id": 2083986,
+                    "image_url": "https://images.genius.com/ff3f5a0a511d6b135b393177d629b2f1.957x957x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "CAL",
+                    "url": "https://genius.com/artists/Cal"
+                },
+                {
+                    "api_path": "/artists/2077781",
+                    "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+                    "id": 2077781,
+                    "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Yaron",
+                    "url": "https://genius.com/artists/Adam-yaron"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22537131,
+        "annotator_login": "lordly_spell97",
+        "api_path": "/referents/32873280",
+        "classification": "unreviewed",
+        "fragment": "Burning Down",
+        "id": 32873280,
+        "is_description": true,
+        "path": "/32873280/Alex-warren-burning-down/Burning-down",
+        "range": {
+            "content": "Burning Down"
+        },
+        "song_id": 10837241,
+        "url": "https://genius.com/32873280/Alex-warren-burning-down/Burning-down",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10837241",
+            "client_timestamps": {
+                "updated_by_human_at": 1741052632,
+                "lyrics_updated_at": 1741052632
+            },
+            "context": "Alex Warren",
+            "id": 10837241,
+            "image_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.1000x1000x1.png",
+            "link_title": "Burning Down by\u00a0Alex\u00a0Warren",
+            "title": "Burning Down",
+            "type": "Song",
+            "url": "https://genius.com/Alex-warren-burning-down-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32873280",
+                "body": {
+                    "plain": "In 2020, a group of kids called Hype House Sky rocketed and Alex was (technically) one of the owners because he came up with the idea.\n\nIn Burning Down, Alex comes out with the truth of what really happened in Hype House and all the OG members, and his former \u201cfriend\u201d Thomas Petrou.\n\nIn the song Alex tells us Thomas betrayed Alex and gaslighted him, blamed him, treated him poorly. \u201cSaid I\u2019m the one who\u2019s wanted, For all the fires you started\u201d\nbut not even just Alex that got treated badly, it was everyone.\n\n\u201cHow do you sleep at night? No one to hide behind, Betrayed every alibi you had\u201d\n\nGeneral idea of the song is about how Thomas was treating him and all the other members terribly, and Thomas blamed Alex for all the fights/fires that would happened during Hype House and backstabbed Alex as he considered him a friend."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32873280,
+                "pinned": false,
+                "share_url": "https://genius.com/32873280",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32873280/Alex-warren-burning-down/Burning-down",
+                "verified": false,
+                "votes_total": 2,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22537131",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/a4b492de672fda0b80e49123e118b3d0",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/a4b492de672fda0b80e49123e118b3d0",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/a4b492de672fda0b80e49123e118b3d0",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/a4b492de672fda0b80e49123e118b3d0",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/a4b492de672fda0b80e49123e118b3d0",
+                            "human_readable_role_for_display": null,
+                            "id": 22537131,
+                            "iq": 109,
+                            "login": "lordly_spell97",
+                            "name": "lordly_spell97",
+                            "role_for_display": null,
+                            "url": "https://genius.com/lordly_spell97",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7277684",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/a9123dcb7f20a6bda11f1941af140d6c.999x999x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/a9123dcb7f20a6bda11f1941af140d6c.999x999x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/a9123dcb7f20a6bda11f1941af140d6c.999x999x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/a9123dcb7f20a6bda11f1941af140d6c.999x999x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/6ab6a0e987592610e5c350df478296fe.1000x241x1.png",
+        "human_readable_role_for_display": "Moderator",
+        "id": 7277684,
+        "iq": 51084,
+        "login": "Pearl",
+        "name": "Pearl",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/Pearl",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=QC_mOB2uBj4"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2077781",
+            "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+            "id": 2077781,
+            "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adam Yaron",
+            "url": "https://genius.com/artists/Adam-yaron"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11195477",
+                    "artist_names": "Alex Warren & Joe Jonas",
+                    "full_title": "Burning Down by\u00a0Alex\u00a0Warren & Joe\u00a0Jonas",
+                    "header_image_thumbnail_url": "https://images.genius.com/ad162e0acc274a8cfa1b7fa9d97fafd6.300x297x1.jpg",
+                    "header_image_url": "https://images.genius.com/ad162e0acc274a8cfa1b7fa9d97fafd6.1000x989x1.jpg",
+                    "id": 11195477,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Alex-warren-and-joe-jonas-burning-down-lyrics",
+                    "primary_artist_names": "Alex Warren & Joe Jonas",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Alex-warren-and-joe-jonas-burning-down-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ad162e0acc274a8cfa1b7fa9d97fafd6.300x297x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ad162e0acc274a8cfa1b7fa9d97fafd6.1000x989x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 17329
+                    },
+                    "title": "Burning Down",
+                    "title_with_featured": "Burning Down",
+                    "url": "https://genius.com/Alex-warren-and-joe-jonas-burning-down-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1587760",
+                        "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+                        "id": 1587760,
+                        "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Alex Warren",
+                        "url": "https://genius.com/artists/Alex-warren"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1587760",
+                            "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+                            "id": 1587760,
+                            "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Alex Warren",
+                            "url": "https://genius.com/artists/Alex-warren"
+                        },
+                        {
+                            "api_path": "/artists/16515",
+                            "header_image_url": "https://images.genius.com/f80dbc79d5b214bb0146d222b50e58c7.1000x1000x1.png",
+                            "id": 16515,
+                            "image_url": "https://images.genius.com/55f9b5eb4b374301c20b885905ce71fa.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Joe Jonas",
+                            "url": "https://genius.com/artists/Joe-jonas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10919064",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Alex Warren - Burning Down (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.1000x1000x1.png",
+                    "id": 10919064,
+                    "lyrics_owner_id": 7277684,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-alex-warren-burning-down-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-alex-warren-burning-down-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a5eac53f7304b398745cb069c6cc37de.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Alex Warren - Burning Down (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Alex Warren - Burning Down (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-alex-warren-burning-down-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10919064",
+            "id": 10919064,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-alex-warren-burning-down-deutsche-ubersetzung-lyrics",
+            "title": "Alex Warren - Burning Down (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-alex-warren-burning-down-deutsche-ubersetzung-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1587760",
+            "header_image_url": "https://images.genius.com/e63b0c009d04a21259e37e84dcaf659b.667x1000x1.jpg",
+            "id": 1587760,
+            "image_url": "https://images.genius.com/cc37854da042d860c56cf83a24d9c734.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Alex Warren",
+            "url": "https://genius.com/artists/Alex-warren"
+        },
+        {
+            "api_path": "/artists/2077781",
+            "header_image_url": "https://images.genius.com/918dd6b9247036ab22fbcecf3b80030e.468x52x1.png",
+            "id": 2077781,
+            "image_url": "https://images.genius.com/61ea8a2a6dd4237912c2d9e88a4b5f86.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Adam Yaron",
+            "url": "https://genius.com/artists/Adam-yaron"
+        },
+        {
+            "api_path": "/artists/2083986",
+            "header_image_url": "https://images.genius.com/f837468068a13275fd39c252ae8ab462.729x215x1.png",
+            "id": 2083986,
+            "image_url": "https://images.genius.com/ff3f5a0a511d6b135b393177d629b2f1.957x957x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "CAL",
+            "url": "https://genius.com/artists/Cal"
+        },
+        {
+            "api_path": "/artists/1072117",
+            "header_image_url": "https://images.genius.com/afadf205c4cf84c82d581ca818edba81.900x597x1.jpg",
+            "id": 1072117,
+            "image_url": "https://images.genius.com/61b785acf503096373ed8315b434cec0.534x534x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mags Duval",
+            "url": "https://genius.com/artists/Mags-duval"
+        }
+    ],
+    "artist": "Alex Warren",
+    "lyrics": "23 ContributorsTranslationsDeutschBurning Down Lyrics\nI guess you never know\nSomeone you think you know\nCan't see the knife when you're too close, too close\nIt scars forever when\nSomeone you called a friend\nShows you the truth can be so cold, so cold\n\nI'd wipe the dirt off your name\nWith the shirt off my back\nI thought that you'd do the same\nBut you didn't do that (Yeah)\n\nSaid I'm the one who's wanted\nFor all the fires you started\nYou knew the house was burning down\nI had to get out\nYou led your saints and sinners\nAnd fed 'em lies for dinn\u0435r\nYou knew the house was burning down\nAnd look at you now\n\n(Ooh-ooh, ooh-ooh, ooh-ooh)\n(Ooh-ooh, ooh-ooh, ooh) And look at you now\n\nHow do you sleep at night?\nNo on\u0435 to hide behind\nBetrayed every alibi you had, you had\nYou had every chance to make amends\nInstead, you got drunk on bitterness\nAnd you still claim that you're innocent, it's sad\nThat you\n\nSaid I'm the one who's wanted\nFor all the fires you started\nYou knew the house was burning down\nI had to get out\nYou led your saints and sinners\nAnd fed 'em lies for dinner\nYou knew the house was burning down\n(And look at you now)\n\nUsed to tell me you'd pray for me\nYou were praying for my downfall\nYou were digging a grave for me\nWe were sharing the same four walls\nUsed to tell me you'd pray for me\nYou were praying for my downfall\nYou were digging a grave for me\nWe were sharing the same four walls\nAnd you\n\nSaid I'm the one who's wanted\nFor all the fires you started\nYou knew the house was burning down\nI had to get out\nYou led your saints and sinners\nAnd fed 'em lies for dinner\nYou knew the house was burning down\n(And look at you now)\n\nUsed to tell me you'd pray for me (Pray for me)\nYou were praying for my downfall (For my downfall)\nYou were digging a grave for me\nWe were sharing the same four walls\nUsed to tell me you'd pray for me\nYou were praying for my downfall\nYou were digging a grave for me\nWe were sharing the same four walls\nAnd you"
+}

@@ -1,0 +1,1153 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10536449",
+    "artist_names": "Post Malone",
+    "full_title": "Yours by\u00a0Post\u00a0Malone",
+    "header_image_thumbnail_url": "https://images.genius.com/9636f9277400171d7ac3cdb65aadc44d.300x300x1.png",
+    "header_image_url": "https://images.genius.com/9636f9277400171d7ac3cdb65aadc44d.1000x1000x1.png",
+    "id": 10536449,
+    "instrumental": false,
+    "lyrics_owner_id": 21814324,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1727437471,
+    "path": "/Post-malone-yours-lyrics",
+    "primary_artist_names": "Post Malone",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Post-malone-yours-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 16
+    },
+    "release_date_for_display": "August 16, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9636f9277400171d7ac3cdb65aadc44d.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/9636f9277400171d7ac3cdb65aadc44d.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 28,
+        "iq_earners": 28,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 231931
+    },
+    "title": "Yours",
+    "title_with_featured": "Yours",
+    "updated_by_human_at": 1740803518,
+    "url": "https://genius.com/Post-malone-yours-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/326362",
+        "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+        "id": 326362,
+        "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Post Malone",
+        "url": "https://genius.com/artists/Post-malone",
+        "iq": 16344
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/326362",
+            "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+            "id": 326362,
+            "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Post Malone",
+            "url": "https://genius.com/artists/Post-malone",
+            "iq": 16344
+        }
+    ],
+    "apple_music_id": "1762473127",
+    "apple_music_player_url": "https://genius.com/songs/10536449/apple_music_player",
+    "description": {
+        "plain": "Malone first teased the song on June 16th through his social media platforms, which was Father\u2019s Day in the United States. The first live performance of this song prior to its official release was during \u201cA Night in Nashville\u201d at Music Marathon Works in Tennessee on July 16th, 2024.\n\nMalone is a father to one baby girl, who inspired the writing of this song. In his introduction, Malone acknowledged he may be getting ahead of himself: \u201cI wrote this song about my daughter getting married,\u201d he said. \u201cI got a two-year-old, and we got a long time to go.\u201d\n\nThis song embodies what the emotions for that day are going to be."
+    },
+    "embed_content": "<div id='rg_embed_link_10536449' class='rg_embed_link' data-song-id='10536449'>Read <a href='https://genius.com/Post-malone-yours-lyrics'>\u201cYours\u201d by Post\u00a0Malone</a> on Genius</div> <script crossorigin src='//genius.com/songs/10536449/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-16",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#f1ab0d",
+    "song_art_secondary_color": "#fcecc8",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1224658",
+        "cover_art_url": "https://images.genius.com/8760c33fc1d7b4002b73cc0acb57f441.1000x1000x1.png",
+        "full_title": "F-1 Trillion (Long Bed) by Post Malone",
+        "id": 1224658,
+        "name": "F-1 Trillion (Long Bed)",
+        "primary_artist_names": "Post Malone",
+        "release_date_for_display": "August 16, 2024",
+        "url": "https://genius.com/albums/Post-malone/F-1-trillion-long-bed",
+        "artist": {
+            "api_path": "/artists/326362",
+            "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+            "id": 326362,
+            "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Post Malone",
+            "url": "https://genius.com/artists/Post-malone",
+            "iq": 16344
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/326362",
+                "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+                "id": 326362,
+                "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Post Malone",
+                "url": "https://genius.com/artists/Post-malone",
+                "iq": 16344
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/326362",
+                    "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+                    "id": 326362,
+                    "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Post Malone",
+                    "url": "https://genius.com/artists/Post-malone",
+                    "iq": 16344
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1022741",
+                    "header_image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+                    "id": 1022741,
+                    "image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wes Hightower",
+                    "url": "https://genius.com/artists/Wes-hightower"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/643910",
+                    "header_image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+                    "id": 643910,
+                    "image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aaron Sterling",
+                    "url": "https://genius.com/artists/Aaron-sterling"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/671065",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 671065,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Craig Young",
+                    "url": "https://genius.com/artists/Craig-young"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/662411",
+                    "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "id": 662411,
+                    "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Wells",
+                    "url": "https://genius.com/artists/Derek-wells"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1181082",
+                    "header_image_url": "https://images.genius.com/f4e67f390f82da99906571a7a211af1c.300x300x1.jpg",
+                    "id": 1181082,
+                    "image_url": "https://images.genius.com/f4e67f390f82da99906571a7a211af1c.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Todd Lombardo",
+                    "url": "https://genius.com/artists/Todd-lombardo"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1003323",
+                    "header_image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "id": 1003323,
+                    "image_url": "https://images.genius.com/8fb875833e7d3bdb1ffcc66705592464.410x410x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Cohen",
+                    "url": "https://genius.com/artists/Dave-cohen"
+                }
+            ]
+        },
+        {
+            "label": "Pedal Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/644117",
+                    "header_image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+                    "id": 644117,
+                    "image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Franklin",
+                    "url": "https://genius.com/artists/Paul-franklin"
+                }
+            ]
+        },
+        {
+            "label": "Fiddle",
+            "artists": [
+                {
+                    "api_path": "/artists/1051733",
+                    "header_image_url": "https://images.genius.com/0a1c067d88b8eb24784df57df923f400.347x347x1.jpg",
+                    "id": 1051733,
+                    "image_url": "https://images.genius.com/0a1c067d88b8eb24784df57df923f400.347x347x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Larry Franklin",
+                    "url": "https://genius.com/artists/Larry-franklin"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/143754",
+                    "header_image_url": "https://images.genius.com/961fd5e0812336d3d2c9ea251e4956a3.1000x443x1.png",
+                    "id": 143754,
+                    "image_url": "https://images.genius.com/91122708d6a5cc4deaab9108b5eefb78.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Louis Bell",
+                    "url": "https://genius.com/artists/Louis-bell"
+                },
+                {
+                    "api_path": "/artists/539718",
+                    "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "id": 539718,
+                    "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Charlie Handsome",
+                    "url": "https://genius.com/artists/Charlie-handsome",
+                    "iq": 160
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/143754",
+                    "header_image_url": "https://images.genius.com/961fd5e0812336d3d2c9ea251e4956a3.1000x443x1.png",
+                    "id": 143754,
+                    "image_url": "https://images.genius.com/91122708d6a5cc4deaab9108b5eefb78.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Louis Bell",
+                    "url": "https://genius.com/artists/Louis-bell"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/1674202",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1674202,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ally Gecewicz",
+                    "url": "https://genius.com/artists/Ally-gecewicz"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3232682",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3232682,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trent Woodman",
+                    "url": "https://genius.com/artists/Trent-woodman"
+                },
+                {
+                    "api_path": "/artists/143754",
+                    "header_image_url": "https://images.genius.com/961fd5e0812336d3d2c9ea251e4956a3.1000x443x1.png",
+                    "id": 143754,
+                    "image_url": "https://images.genius.com/91122708d6a5cc4deaab9108b5eefb78.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Louis Bell",
+                    "url": "https://genius.com/artists/Louis-bell"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2096780",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2096780,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Boullianne",
+                    "url": "https://genius.com/artists/Andrew-boullianne"
+                },
+                {
+                    "api_path": "/artists/3558805",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3558805,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Collin Reynolds",
+                    "url": "https://genius.com/artists/Collin-reynolds"
+                },
+                {
+                    "api_path": "/artists/622092",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 622092,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Grant Morgan",
+                    "url": "https://genius.com/artists/Grant-morgan"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1002623",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1002623,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Gore",
+                    "url": "https://genius.com/artists/Ryan-gore"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638693",
+                    "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "id": 638693,
+                    "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ted Jensen",
+                    "url": "https://genius.com/artists/Ted-jensen"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1003238",
+                    "header_image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "id": 1003238,
+                    "image_url": "https://images.genius.com/edfbf0e8e356633904f3d53fbee3ef6f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mercury Records",
+                    "url": "https://genius.com/artists/Mercury-records"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22074285,
+        "annotator_login": "Law4order",
+        "api_path": "/referents/32086299",
+        "classification": "unreviewed",
+        "fragment": "Yours",
+        "id": 32086299,
+        "is_description": true,
+        "path": "/32086299/Post-malone-yours/Yours",
+        "range": {
+            "content": "Yours"
+        },
+        "song_id": 10536449,
+        "url": "https://genius.com/32086299/Post-malone-yours/Yours",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10536449",
+            "client_timestamps": {
+                "updated_by_human_at": 1740803518,
+                "lyrics_updated_at": 1727437471
+            },
+            "context": "Post Malone",
+            "id": 10536449,
+            "image_url": "https://images.genius.com/9636f9277400171d7ac3cdb65aadc44d.1000x1000x1.png",
+            "link_title": "Yours by\u00a0Post\u00a0Malone",
+            "title": "Yours",
+            "type": "Song",
+            "url": "https://genius.com/Post-malone-yours-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32086299",
+                "body": {
+                    "plain": "Malone first teased the song on June 16th through his social media platforms, which was Father\u2019s Day in the United States. The first live performance of this song prior to its official release was during \u201cA Night in Nashville\u201d at Music Marathon Works in Tennessee on July 16th, 2024.\n\nMalone is a father to one baby girl, who inspired the writing of this song. In his introduction, Malone acknowledged he may be getting ahead of himself: \u201cI wrote this song about my daughter getting married,\u201d he said. \u201cI got a two-year-old, and we got a long time to go.\u201d\n\nThis song embodies what the emotions for that day are going to be."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32086299,
+                "pinned": false,
+                "share_url": "https://genius.com/32086299",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32086299/Post-malone-yours/Yours",
+                "verified": false,
+                "votes_total": 20,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.5446428571428572,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21240457",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "human_readable_role_for_display": null,
+                            "id": 21240457,
+                            "iq": 61,
+                            "login": "oliviafan1010",
+                            "name": "oliviafan1010",
+                            "role_for_display": null,
+                            "url": "https://genius.com/oliviafan1010",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.45535714285714285,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22074285",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "human_readable_role_for_display": null,
+                            "id": 22074285,
+                            "iq": 214,
+                            "login": "Law4order",
+                            "name": "Law4order",
+                            "role_for_display": null,
+                            "url": "https://genius.com/Law4order",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/2171344",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/e081cc2f3d8046a74ab6c10154a25b69.667x235x1.png",
+        "human_readable_role_for_display": "Editor",
+        "id": 2171344,
+        "iq": 2139962,
+        "login": "timoo",
+        "name": "timoo",
+        "role_for_display": "editor",
+        "url": "https://genius.com/timoo",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=hrAeuPqYnRQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/143754",
+            "header_image_url": "https://images.genius.com/961fd5e0812336d3d2c9ea251e4956a3.1000x443x1.png",
+            "id": 143754,
+            "image_url": "https://images.genius.com/91122708d6a5cc4deaab9108b5eefb78.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Louis Bell",
+            "url": "https://genius.com/artists/Louis-bell"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10593051",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Post Malone - Yours (Polskie T\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/ab8fde05bdd5bbb283b5e532e3fa4f48.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ab8fde05bdd5bbb283b5e532e3fa4f48.1000x1000x1.png",
+                    "id": 10593051,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-post-malone-yours-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-post-malone-yours-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 16
+                    },
+                    "release_date_for_display": "August 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ab8fde05bdd5bbb283b5e532e3fa4f48.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ab8fde05bdd5bbb283b5e532e3fa4f48.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Post Malone - Yours (Polskie T\u0142umaczenie)",
+                    "title_with_featured": "Post Malone - Yours (Polskie T\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-post-malone-yours-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10536467",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Post Malone - Yours (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/95b8d48dbf7a54477df970d1e7a17606.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/95b8d48dbf7a54477df970d1e7a17606.1000x1000x1.png",
+                    "id": 10536467,
+                    "lyrics_owner_id": 12432787,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-post-malone-yours-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-post-malone-yours-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 16
+                    },
+                    "release_date_for_display": "August 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/95b8d48dbf7a54477df970d1e7a17606.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/95b8d48dbf7a54477df970d1e7a17606.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Post Malone - Yours (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Post Malone - Yours (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-post-malone-yours-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10772054",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Post Malone - Yours (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/efa9dba904080783a19bd85a573a0145.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/efa9dba904080783a19bd85a573a0145.1000x1000x1.png",
+                    "id": 10772054,
+                    "lyrics_owner_id": 6872413,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-post-malone-yours-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-post-malone-yours-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 16
+                    },
+                    "release_date_for_display": "August 16, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 16, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/efa9dba904080783a19bd85a573a0145.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/efa9dba904080783a19bd85a573a0145.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Post Malone - Yours (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Post Malone - Yours (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-post-malone-yours-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10593051",
+            "id": 10593051,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-post-malone-yours-polskie-tumaczenie-lyrics",
+            "title": "Post Malone - Yours (Polskie T\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-post-malone-yours-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10536467",
+            "id": 10536467,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-post-malone-yours-traducao-em-portugues-lyrics",
+            "title": "Post Malone - Yours (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-post-malone-yours-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10772054",
+            "id": 10772054,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-post-malone-yours-deutsche-ubersetzung-lyrics",
+            "title": "Post Malone - Yours (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-post-malone-yours-deutsche-ubersetzung-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/326362",
+            "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+            "id": 326362,
+            "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Post Malone",
+            "url": "https://genius.com/artists/Post-malone",
+            "iq": 16344
+        },
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/539718",
+            "header_image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "id": 539718,
+            "image_url": "https://images.genius.com/1163b6ebcc3430d5fdd4402a12d936d6.634x634x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Charlie Handsome",
+            "url": "https://genius.com/artists/Charlie-handsome",
+            "iq": 160
+        },
+        {
+            "api_path": "/artists/1223544",
+            "header_image_url": "https://images.genius.com/6f5e87a2ac0480c1d1fad98a3439bba0.1000x1000x1.jpg",
+            "id": 1223544,
+            "image_url": "https://images.genius.com/c9bf0f4e71ee9c54880b9908cf128f62.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "ERNEST",
+            "url": "https://genius.com/artists/Ernest"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        }
+    ],
+    "artist": "Post Malone",
+    "lyrics": "28 ContributorsTranslationsPolskiPortugu\u00easDeutschYours Lyrics\nI don't know who you are\nBut one day, I'm goin' to\nAnd it's gonna break my heart\nWhen she gives hers to you\nAnd it won't be tomorrow\nBut it's gonna be too soon\nWhen I walk her down that aisle and do what daddies have to do\n\nAnd she might be wearin' white\nBut her first dress, it was pink\nShe might be your better half\nYeah, but she's my everything\nWe'll both love her forever\nBut I loved her long before\nAnd one day, I know I'll give her away\nBuddy, that don't mean she's yours\nMm\n\nYesterday, she said her first word\nShe's a long way from \"I do\"\nRight now she runs to me\nOne day, she'll run to you\nAnd it's gonna be your best day\nBut it's gonna be my worst\nYou might watch her walkin' towards you, but I saw her walkin' first\n\nAnd she might be wearin' white\nBut her first dress, it was pink\nShe might be your better half\nYeah, but she's my everything\nWe'll both love her forever\nBut I loved her long before\nAnd one day, I know I'll give her away\nBuddy, that don't mean she's yours\n\n'Cause she's still my little girl\nIt's crazy thinkin' one day, she'll be someone else's world\n\nAnd she might be wearin' white\nBut her first dress, it was pink\nShe might be your better half\nBut to me, she's everything\nAnd we'll both love her forever\nBut I loved her long before\nAnd one day, I know I'll give her away\nBuddy, that don't mean she's yours\n\nEven if she takes your last name\nBuddy, that don't mean she's yours"
+}

@@ -1,0 +1,483 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/835544",
+    "artist_names": "Gene Autry",
+    "full_title": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording) by\u00a0Gene\u00a0Autry",
+    "header_image_thumbnail_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.300x300x1.png",
+    "header_image_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.1000x1000x1.png",
+    "id": 835544,
+    "instrumental": false,
+    "lyrics_owner_id": 2457824,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1670571523,
+    "path": "/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording-lyrics",
+    "primary_artist_names": "Gene Autry",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording-sample",
+    "release_date_components": {
+        "year": 1957,
+        "month": null,
+        "day": null
+    },
+    "release_date_for_display": "1957",
+    "release_date_with_abbreviated_month_for_display": "1957",
+    "song_art_image_thumbnail_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 4,
+        "iq_earners": 4,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false
+    },
+    "title": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)",
+    "title_with_featured": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)",
+    "updated_by_human_at": 1709495555,
+    "url": "https://genius.com/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/225402",
+        "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+        "id": 225402,
+        "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gene Autry",
+        "url": "https://genius.com/artists/Gene-autry"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/225402",
+            "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "id": 225402,
+            "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gene Autry",
+            "url": "https://genius.com/artists/Gene-autry"
+        }
+    ],
+    "apple_music_id": "200299248",
+    "apple_music_player_url": "https://genius.com/songs/835544/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_835544' class='rg_embed_link' data-song-id='835544'>Read <a href='https://genius.com/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording-lyrics'>\u201cHere Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)\u201d by Gene\u00a0Autry</a> on Genius</div> <script crossorigin src='//genius.com/songs/835544/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": null,
+    "current_user_metadata": {
+        "permissions": [
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "see_pageviews",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#e31c4b",
+    "song_art_secondary_color": "#761e2d",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/105734",
+        "cover_art_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.1000x1000x1.png",
+        "full_title": "Complete Columbia Christmas Songs by Gene Autry",
+        "id": 105734,
+        "name": "Complete Columbia Christmas Songs",
+        "primary_artist_names": "Gene Autry",
+        "release_date_for_display": "December 20, 2019",
+        "url": "https://genius.com/albums/Gene-autry/Complete-columbia-christmas-songs",
+        "artist": {
+            "api_path": "/artists/225402",
+            "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "id": 225402,
+            "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gene Autry",
+            "url": "https://genius.com/artists/Gene-autry"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/225402",
+                "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                "id": 225402,
+                "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Gene Autry",
+                "url": "https://genius.com/artists/Gene-autry"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 1549345,
+        "annotator_login": "pressburg",
+        "api_path": "/referents/5316147",
+        "classification": "needs_exegesis",
+        "fragment": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)",
+        "id": 5316147,
+        "is_description": true,
+        "path": "/5316147/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording/Here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording",
+        "range": {
+            "content": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)"
+        },
+        "song_id": 835544,
+        "url": "https://genius.com/5316147/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording/Here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/835544",
+            "client_timestamps": {
+                "updated_by_human_at": 1709495555,
+                "lyrics_updated_at": 1670571523
+            },
+            "context": "Gene Autry",
+            "id": 835544,
+            "image_url": "https://images.genius.com/d5b0087766e5f86ef9b9fe5247cff683.1000x1000x1.png",
+            "link_title": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording) by\u00a0Gene\u00a0Autry",
+            "title": "Here Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording)",
+            "type": "Song",
+            "url": "https://genius.com/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/5316147",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 5316147,
+                "pinned": false,
+                "share_url": "https://genius.com/5316147",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/5316147/Gene-autry-here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording/Here-comes-santa-claus-right-down-santa-claus-lane-1957-re-recording",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1549345",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+                            "human_readable_role_for_display": null,
+                            "id": 1549345,
+                            "iq": 0,
+                            "login": "pressburg",
+                            "name": "pressburg",
+                            "role_for_display": null,
+                            "url": "https://genius.com/pressburg",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=oNwG28tZDsg"
+        }
+    ],
+    "producer_artists": [],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/834666",
+                    "artist_names": "Gene Autry",
+                    "full_title": "Here Comes Santa Claus (Down Santa Claus Lane) by\u00a0Gene\u00a0Autry",
+                    "header_image_thumbnail_url": "https://images.genius.com/2324be0d6e1c26c981dedd8ee602b363.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/2324be0d6e1c26c981dedd8ee602b363.800x800x1.jpg",
+                    "id": 834666,
+                    "lyrics_owner_id": 2892332,
+                    "lyrics_state": "complete",
+                    "path": "/Gene-autry-here-comes-santa-claus-down-santa-claus-lane-lyrics",
+                    "primary_artist_names": "Gene Autry",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Gene-autry-here-comes-santa-claus-down-santa-claus-lane-sample",
+                    "release_date_components": {
+                        "year": 1947,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "1947",
+                    "release_date_with_abbreviated_month_for_display": "1947",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2324be0d6e1c26c981dedd8ee602b363.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/2324be0d6e1c26c981dedd8ee602b363.800x800x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 184450
+                    },
+                    "title": "Here Comes Santa Claus (Down Santa Claus Lane)",
+                    "title_with_featured": "Here Comes Santa Claus (Down Santa Claus Lane)",
+                    "url": "https://genius.com/Gene-autry-here-comes-santa-claus-down-santa-claus-lane-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/225402",
+                        "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                        "id": 225402,
+                        "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Gene Autry",
+                        "url": "https://genius.com/artists/Gene-autry"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/225402",
+                            "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                            "id": 225402,
+                            "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Gene Autry",
+                            "url": "https://genius.com/artists/Gene-autry"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/225402",
+            "header_image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "id": 225402,
+            "image_url": "https://images.genius.com/1c1316cf6dfb5e53afa519e7079d81a4.660x660x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Gene Autry",
+            "url": "https://genius.com/artists/Gene-autry"
+        },
+        {
+            "api_path": "/artists/980945",
+            "header_image_url": "https://images.genius.com/b82f00046dbbc97bb27136bcb2fbe599.200x200x1.jpg",
+            "id": 980945,
+            "image_url": "https://images.genius.com/b82f00046dbbc97bb27136bcb2fbe599.200x200x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Oakley Haldeman",
+            "url": "https://genius.com/artists/Oakley-haldeman"
+        }
+    ],
+    "artist": "Gene Autry",
+    "lyrics": "4 ContributorsHere Comes Santa Claus (Right Down Santa Claus Lane) (1957 Re-recording) Lyrics\nSpeaking of Christmas spirit, each year out in Hollywood, California, they have what they call a Santa Claus parade. A few years ago while I was riding in this parade, I saw smiles on thousands of faces, both young and old alike, waiting for a look at that most popular man all over the world\nI can hear them shouting now\n\"Here comes Santa Claus\nHere comes Santa Claus\nHere comes Santa Claus...\"\n\nHere comes Santa Claus\nHere comes Santa Claus\nRight down Santa Claus Lane\nVixen and Blitzen and all his reindeer\nPullin' on the reins\nBells are ringin', children singin'\nAll is merry and bright\nSo hang your stockings and say your prayers\n'Cause Santa Claus comes tonight\n\nHere comes Santa Claus\nHere comes Santa Claus\nRight down Santa Claus Lane\nHe's got a bag that's filled with toys\nFor boys and girls again\nHear those sleigh bells jingle jangle\nOh, what a beautiful sight\nSo jump in bed and cover your head\n'Cause Santa Claus comes tonight\n\n\nHere comes Santa Claus\nHere comes Santa Claus\nRight down Santa Claus Lane\nHe'll come around when the chimes ring out\nThat it's Christmas morn again\nPeace on earth will come to all\nIf we just follow the light\nSo let's give thanks to the Lord above\n'Cause Santa Claus comes tonight\n\nHere comes Santa Claus\nHere comes Santa Claus\nRight down Santa Claus Lane\nVixen and Blitzen and all his reindeer\nPullin' on the reins\nBells are ringin', children singin'\nAll is merry and bright\nSo jump in bed and cover your head\n'Cause Santa Claus comes tonight\n\n\nPeace on earth will come to all\nIf we just follow the light\nSo let's give thanks to the Lord above\n'Cause Santa Claus comes tonight\nSo let's give thanks to the Lord above\n'Cause Santa Claus comes tonight"
+}

@@ -1,0 +1,717 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/10359598",
+    "artist_names": "Gunna",
+    "full_title": "neck on a yacht by\u00a0Gunna",
+    "header_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "header_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "id": 10359598,
+    "instrumental": false,
+    "lyrics_owner_id": 6817045,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1730998555,
+    "path": "/Gunna-neck-on-a-yacht-lyrics",
+    "primary_artist_names": "Gunna",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Gunna-neck-on-a-yacht-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 10
+    },
+    "release_date_for_display": "May 10, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 38,
+        "iq_earners": 38,
+        "transcribers": 5,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 34966
+    },
+    "title": "neck on a yacht",
+    "title_with_featured": "neck on a yacht",
+    "updated_by_human_at": 1740370331,
+    "url": "https://genius.com/Gunna-neck-on-a-yacht-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/91049",
+        "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+        "id": 91049,
+        "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Gunna",
+        "url": "https://genius.com/artists/Gunna",
+        "iq": 1069
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        }
+    ],
+    "apple_music_id": "1744458258",
+    "apple_music_player_url": "https://genius.com/songs/10359598/apple_music_player",
+    "description": {
+        "plain": "\u201cneck on a yacht\u201d was first previewed on Gunna\u2019s bittersweet tour on May 4, 2024."
+    },
+    "embed_content": "<div id='rg_embed_link_10359598' class='rg_embed_link' data-song-id='10359598'>Read <a href='https://genius.com/Gunna-neck-on-a-yacht-lyrics'>\u201cneck on a yacht\u201d by Gunna</a> on Genius</div> <script crossorigin src='//genius.com/songs/10359598/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-10",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#0449ba",
+    "song_art_secondary_color": "#0c315e",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1144396",
+        "cover_art_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+        "full_title": "One of Wun by Gunna",
+        "id": 1144396,
+        "name": "One of Wun",
+        "primary_artist_names": "Gunna",
+        "release_date_for_display": "May 10, 2024",
+        "url": "https://genius.com/albums/Gunna/One-of-wun",
+        "artist": {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/91049",
+                "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+                "id": 91049,
+                "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Gunna",
+                "url": "https://genius.com/artists/Gunna",
+                "iq": 1069
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3947391",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3947391,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mia Mache",
+                    "url": "https://genius.com/artists/Mia-mache"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 17111651,
+        "annotator_login": "CartiSossRuff",
+        "api_path": "/referents/31643637",
+        "classification": "unreviewed",
+        "fragment": "neck on a yacht",
+        "id": 31643637,
+        "is_description": true,
+        "path": "/31643637/Gunna-neck-on-a-yacht/Neck-on-a-yacht",
+        "range": {
+            "content": "neck on a yacht"
+        },
+        "song_id": 10359598,
+        "url": "https://genius.com/31643637/Gunna-neck-on-a-yacht/Neck-on-a-yacht",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10359598",
+            "client_timestamps": {
+                "updated_by_human_at": 1740370331,
+                "lyrics_updated_at": 1730998555
+            },
+            "context": "Gunna",
+            "id": 10359598,
+            "image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+            "link_title": "neck on a yacht by\u00a0Gunna",
+            "title": "neck on a yacht",
+            "type": "Song",
+            "url": "https://genius.com/Gunna-neck-on-a-yacht-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31643637",
+                "body": {
+                    "plain": "\u201cneck on a yacht\u201d was first previewed on Gunna\u2019s bittersweet tour on May 4, 2024."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31643637,
+                "pinned": false,
+                "share_url": "https://genius.com/31643637",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31643637/Gunna-neck-on-a-yacht/Neck-on-a-yacht",
+                "verified": false,
+                "votes_total": 8,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/17111651",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/bc433f328fb25de9082eb2741bf10761",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/bc433f328fb25de9082eb2741bf10761",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/bc433f328fb25de9082eb2741bf10761",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/bc433f328fb25de9082eb2741bf10761",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/bc433f328fb25de9082eb2741bf10761",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 17111651,
+                            "iq": 17502,
+                            "login": "CartiSossRuff",
+                            "name": "CartiSossRuff",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/CartiSossRuff",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/11677218",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+        "human_readable_role_for_display": "Contributor",
+        "id": 11677218,
+        "iq": 87227,
+        "login": "leemcintosh",
+        "name": "leemcintosh",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/leemcintosh",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/11677218",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/8d9d4c86fbea42bd319ed8fa0e9d485e",
+        "human_readable_role_for_display": "Contributor",
+        "id": 11677218,
+        "iq": 87227,
+        "login": "leemcintosh",
+        "name": "leemcintosh",
+        "role_for_display": "contributor",
+        "url": "https://genius.com/leemcintosh",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=-E81gxPnTIc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/150435",
+            "header_image_url": "https://images.genius.com/834608a6bdbd08a339fcce48e4d8d5b6.1000x1000x1.jpg",
+            "id": 150435,
+            "image_url": "https://images.genius.com/834608a6bdbd08a339fcce48e4d8d5b6.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Turbo",
+            "url": "https://genius.com/artists/Turbo"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        {
+            "api_path": "/artists/150435",
+            "header_image_url": "https://images.genius.com/834608a6bdbd08a339fcce48e4d8d5b6.1000x1000x1.jpg",
+            "id": 150435,
+            "image_url": "https://images.genius.com/834608a6bdbd08a339fcce48e4d8d5b6.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Turbo",
+            "url": "https://genius.com/artists/Turbo"
+        }
+    ],
+    "artist": "Gunna",
+    "lyrics": "38 Contributorsneck on a yacht Lyrics\n(Makers)\n\nYeah, I'm gettin' neck on a yacht, hunnid foot parked at the dock\nBad ho' poppin' they twat, I'm gettin' this shit back on lock\nRockin' some Prada high top, I'm cashin' out on a lot\nTurn this shit back up a notch, fuck what these boys talkin' 'bout\n\nI'm back with these racks out the bank\nLike Titanic, they want me to sink\nGot a new batch I'm smokin', it's stankin'\nWent to Tootsie's, let her throw a little twinkie\nThey ain't think I go hard in the paint\nNigga, I told you, it's fuck what you think, uh\nWrap that boy up like a blanket, uh\nNow take a swim in the lake\nTook my shirt off, these boys outta shape\nAnd Young Flo gon' come turn up the bass\nGot Biscotti, I'm smokin' this grade A\nGot some shrooms take me straight outta space\nI wake up, all I want is a payday\nI got rich without doing the Nae Nae\nOG Bobby, this ain't no Lil' Ray Ray\nGettin' it in, count it faster then straight A's (Skrrt)\nVirgil Mercedes, tinted up, you can't see on the E-way\nBallin' like EA, pretty vibes overseas for the C-day (Uh)\nMy bitch got a three-eighty, she so up north, shit outta PA\nGive me neck, yeah, the throat, baby, jump on the yacht, let her go crazy\n\nYeah, I'm gettin' neck on a yacht, hunnid foot parked at the dock\nBad ho' poppin' they twat, I'm gettin' this shit back on lock\nRockin' some Prada high top, I'm cashin' out on a lot\nTurn this shit back up a notch, fuck what these boys talkin' 'bout\n\nI'm back in all black like the crow (Back)\nPapa Doc, niggas thought I would choke (Choke)\nSmack her ass and I grab by the throat (Throat)\nOverseas with some treesh on a boat (Treesh)\nFans see me, they say I'm the GOAT (GOAT)\nI don't cap, niggas thought it was a joke\nEight hundred somethin' for the show (Eight hundred)\nLeave a three-five Biscotti in the roach (Yeah)\nI'm in London at the Harris, send a photo\nI'm rockin' a jacket, let it drag to the floor\nPoppin' the tags in the Tes', they like, \"No more\"\nAdd it up fast, and don't tell them what's the total (Yeah)\nFeel like spazzin', I'm spazzin' (Spazz)\nDroppin' shit back to back on they throats with no promo (Promo)\nEvery day, I get fashion\nI'm a model rockstar with a cropped leather jacket (Yeah)\nMy Lambo the fastest, took the turbo Porsche over to Aston (Skrrt)\nTook the Maybach truck over to Audi (Skrrt)\nCan't believe these fuck niggas that doubted\nPut that shit on, I don't need your stylist (Stylist)\nGeek it up and get high as a pilot\nGot a big house with vibes and we vibin'\nTake the yacht and we sail to an island\n\nYeah, I'm gettin' neck on a yacht, hunnid foot parked at the dock\nBad ho' poppin' they twat, I'm gettin' this shit back on lock\nRockin' some Prada high top, I'm cashin' out on a lot\nTurn this shit back up a notch, fuck what these boys talkin' 'bout\n\nFuck what these boys talkin' 'bout"
+}

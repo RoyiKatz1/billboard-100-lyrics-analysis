@@ -1,0 +1,794 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/9943869",
+    "artist_names": "Luke Combs",
+    "full_title": "The Man He Sees in Me by\u00a0Luke\u00a0Combs",
+    "header_image_thumbnail_url": "https://images.genius.com/514372abbe8eda8f29b8f4f0165b01cb.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/514372abbe8eda8f29b8f4f0165b01cb.500x500x1.jpg",
+    "id": 9943869,
+    "instrumental": false,
+    "lyrics_owner_id": 3158803,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1740666610,
+    "path": "/Luke-combs-the-man-he-sees-in-me-lyrics",
+    "primary_artist_names": "Luke Combs",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Luke-combs-the-man-he-sees-in-me-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 6
+    },
+    "release_date_for_display": "June 6, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 6, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/514372abbe8eda8f29b8f4f0165b01cb.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/514372abbe8eda8f29b8f4f0165b01cb.500x500x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 11,
+        "iq_earners": 11,
+        "transcribers": 3,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 67024
+    },
+    "title": "The Man He Sees in Me",
+    "title_with_featured": "The Man He Sees in Me",
+    "updated_by_human_at": 1740666610,
+    "url": "https://genius.com/Luke-combs-the-man-he-sees-in-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/330498",
+        "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+        "id": 330498,
+        "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Luke Combs",
+        "url": "https://genius.com/artists/Luke-combs",
+        "iq": 488
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        }
+    ],
+    "apple_music_id": "1750297456",
+    "apple_music_player_url": "https://genius.com/songs/9943869/apple_music_player",
+    "description": {
+        "plain": "The Man He Sees in Me is the lead single to Luke Combs' 5th album, Fathers And Sons, released by surprise on June 8th, 2024 just 8 days before the album release.\n\nThe song can be interpreted as Luke\u2019s love letter to his sons (Luke has 2), who, like most boys during their childhood, would look up to their fathers as superhero figures doing heroic things, such as hanging the moon, scaring away monsters, etc\n\nHe hopes that when he\u2019s old enough to realise those were just childhood innocence and imagination, he\u2019ll still see and be inspired to become the man he looked up to."
+    },
+    "embed_content": "<div id='rg_embed_link_9943869' class='rg_embed_link' data-song-id='9943869'>Read <a href='https://genius.com/Luke-combs-the-man-he-sees-in-me-lyrics'>\u201cThe Man He Sees in Me\u201d by Luke\u00a0Combs</a> on Genius</div> <script crossorigin src='//genius.com/songs/9943869/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-06",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#7f7f7f",
+    "song_art_secondary_color": "#424242",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1193198",
+        "cover_art_url": "https://images.genius.com/6c8bfb1d47b0e49ac1fbd295e3e01d8d.999x999x1.png",
+        "full_title": "Fathers & Sons by Luke Combs",
+        "id": 1193198,
+        "name": "Fathers & Sons",
+        "primary_artist_names": "Luke Combs",
+        "release_date_for_display": "June 14, 2024",
+        "url": "https://genius.com/albums/Luke-combs/Fathers-sons",
+        "artist": {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/330498",
+                "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+                "id": 330498,
+                "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Luke Combs",
+                "url": "https://genius.com/artists/Luke-combs",
+                "iq": 488
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Overdub Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                }
+            ]
+        },
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/330498",
+                    "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+                    "id": 330498,
+                    "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Luke Combs",
+                    "url": "https://genius.com/artists/Luke-combs",
+                    "iq": 488
+                }
+            ]
+        },
+        {
+            "label": "Project Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/259377",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 259377,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Scott Johnson",
+                    "url": "https://genius.com/artists/Scott-johnson"
+                },
+                {
+                    "api_path": "/artists/3782036",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3782036,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rose Hutcheson",
+                    "url": "https://genius.com/artists/Rose-hutcheson"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1113084",
+                    "header_image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+                    "id": 1113084,
+                    "image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Phillips",
+                    "url": "https://genius.com/artists/Josh-phillips"
+                },
+                {
+                    "api_path": "/artists/330498",
+                    "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+                    "id": 330498,
+                    "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Luke Combs",
+                    "url": "https://genius.com/artists/Luke-combs",
+                    "iq": 488
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/1113084",
+                    "header_image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+                    "id": 1113084,
+                    "image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Phillips",
+                    "url": "https://genius.com/artists/Josh-phillips"
+                },
+                {
+                    "api_path": "/artists/330498",
+                    "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+                    "id": 330498,
+                    "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Luke Combs",
+                    "url": "https://genius.com/artists/Luke-combs",
+                    "iq": 488
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3986301",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3986301,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seven Ridges Records",
+                    "url": "https://genius.com/artists/Seven-ridges-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3986301",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3986301,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Seven Ridges Records",
+                    "url": "https://genius.com/artists/Seven-ridges-records"
+                },
+                {
+                    "api_path": "/artists/1515624",
+                    "header_image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "id": 1515624,
+                    "image_url": "https://images.genius.com/c3e959e7ec0a63029eaaeb00d7ce6eeb.705x705x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Columbia Nashville",
+                    "url": "https://genius.com/artists/Columbia-nashville"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/468657",
+                    "header_image_url": "https://images.genius.com/80147c81a0d694a589c29d0cdf80c4eb.234x234x1.jpg",
+                    "id": 468657,
+                    "image_url": "https://images.genius.com/80147c81a0d694a589c29d0cdf80c4eb.234x234x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Mackey",
+                    "url": "https://genius.com/artists/Steve-mackey"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1217270",
+                    "header_image_url": "https://images.genius.com/81edee20288d23425a0f6b9b7b0f36e4.428x428x1.jpg",
+                    "id": 1217270,
+                    "image_url": "https://images.genius.com/81edee20288d23425a0f6b9b7b0f36e4.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benny Quinn",
+                    "url": "https://genius.com/artists/Benny-quinn"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/1867285",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1867285,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Hunt",
+                    "url": "https://genius.com/artists/Josh-hunt"
+                }
+            ]
+        },
+        {
+            "label": "Dobro",
+            "artists": [
+                {
+                    "api_path": "/artists/1468473",
+                    "header_image_url": "https://images.genius.com/cbd67eb099436e9ff8f4d5b9e9cb8212.318x225x1.jpg",
+                    "id": 1468473,
+                    "image_url": "https://images.genius.com/2ff4d38a10fbc474faf5fcb350676faa.161x161x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Josh Matheny",
+                    "url": "https://genius.com/artists/Josh-matheny"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/379293",
+                    "header_image_url": "https://images.genius.com/df38638bae9e7501996ef8dc4ab0e844.404x404x1.jpg",
+                    "id": 379293,
+                    "image_url": "https://images.genius.com/df38638bae9e7501996ef8dc4ab0e844.404x404x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sam Bush",
+                    "url": "https://genius.com/artists/Sam-bush"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1256905",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1256905,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Blackmon",
+                    "url": "https://genius.com/artists/Steve-blackmon"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/400386",
+                    "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "id": 400386,
+                    "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Singleton",
+                    "url": "https://genius.com/artists/Jonathan-singleton"
+                },
+                {
+                    "api_path": "/artists/1130165",
+                    "header_image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "id": 1130165,
+                    "image_url": "https://images.genius.com/1b5acec25561512b8dbe6a4b6dd52c36.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryan Sutton",
+                    "url": "https://genius.com/artists/Bryan-sutton"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                },
+                {
+                    "api_path": "/artists/400386",
+                    "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "id": 400386,
+                    "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Singleton",
+                    "url": "https://genius.com/artists/Jonathan-singleton"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1065448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1065448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chip Matthews",
+                    "url": "https://genius.com/artists/Chip-matthews"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 16065735,
+        "annotator_login": "GabrielSava",
+        "api_path": "/referents/30603545",
+        "classification": "unreviewed",
+        "fragment": "The Man He Sees in Me",
+        "id": 30603545,
+        "is_description": true,
+        "path": "/30603545/Luke-combs-the-man-he-sees-in-me/The-man-he-sees-in-me",
+        "range": {
+            "content": "The Man He Sees in Me"
+        },
+        "song_id": 9943869,
+        "url": "https://genius.com/30603545/Luke-combs-the-man-he-sees-in-me/The-man-he-sees-in-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9943869",
+            "client_timestamps": {
+                "updated_by_human_at": 1740666610,
+                "lyrics_updated_at": 1740666610
+            },
+            "context": "Luke Combs",
+            "id": 9943869,
+            "image_url": "https://images.genius.com/514372abbe8eda8f29b8f4f0165b01cb.500x500x1.jpg",
+            "link_title": "The Man He Sees in Me by\u00a0Luke\u00a0Combs",
+            "title": "The Man He Sees in Me",
+            "type": "Song",
+            "url": "https://genius.com/Luke-combs-the-man-he-sees-in-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30603545",
+                "body": {
+                    "plain": "The Man He Sees in Me is the lead single to Luke Combs' 5th album, Fathers And Sons, released by surprise on June 8th, 2024 just 8 days before the album release.\n\nThe song can be interpreted as Luke\u2019s love letter to his sons (Luke has 2), who, like most boys during their childhood, would look up to their fathers as superhero figures doing heroic things, such as hanging the moon, scaring away monsters, etc\n\nHe hopes that when he\u2019s old enough to realise those were just childhood innocence and imagination, he\u2019ll still see and be inspired to become the man he looked up to."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30603545,
+                "pinned": false,
+                "share_url": "https://genius.com/30603545",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30603545/Luke-combs-the-man-he-sees-in-me/The-man-he-sees-in-me",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/16065735",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/97a8800a3f092bc67c01964b9bf5abb4",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/97a8800a3f092bc67c01964b9bf5abb4",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/97a8800a3f092bc67c01964b9bf5abb4",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/97a8800a3f092bc67c01964b9bf5abb4",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/5chhpy8ga9j",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 16065735,
+                            "iq": 2108,
+                            "login": "GabrielSava",
+                            "name": "GabrielSava",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/GabrielSava",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=yNRW8en2pp8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1065448",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1065448,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Chip Matthews",
+            "url": "https://genius.com/artists/Chip-matthews"
+        },
+        {
+            "api_path": "/artists/400386",
+            "header_image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "id": 400386,
+            "image_url": "https://filepicker-images.genius.com/tmyyskzs128",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jonathan Singleton",
+            "url": "https://genius.com/artists/Jonathan-singleton"
+        },
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/330498",
+            "header_image_url": "https://images.genius.com/a5ed4e94dc3af006734b686f8cac8668.666x375x1.png",
+            "id": 330498,
+            "image_url": "https://images.genius.com/496f07a684571d6e14704c43f7f0f355.805x805x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Luke Combs",
+            "url": "https://genius.com/artists/Luke-combs",
+            "iq": 488
+        },
+        {
+            "api_path": "/artists/1113084",
+            "header_image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+            "id": 1113084,
+            "image_url": "https://images.genius.com/b31b95c627ac7bd6d2c5bf1fac64ebb2.392x392x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Josh Phillips",
+            "url": "https://genius.com/artists/Josh-phillips"
+        }
+    ],
+    "artist": "Luke Combs",
+    "lyrics": "11 ContributorsThe Man He Sees in Me Lyrics\nHe's Spiderman in Walmart boots and a camouflage hat\nWith a baby blue Zebco that gets hung up every cast\nHe thinks he\u2019s learning fishing from the man that taught Bill Dance\nAnd I think as I untangle it and put it in his hands\n\nI hope he never finds out that I didn't hang the moon\nAnd I've never scared a monster out the closet in his room\nOne day between him leavin\u2019 home and drivin' on my knee\nMaybe I'll finally be, the man he sees in me\n\nHe waves that blanket like the checkered flag pullin' offa the interstate\nWith a Happy Meal cup held high like I won the big race\nWhen we get home, his mind is blown when I untie his shoes\nAnd he smiles and says, \"Daddy, there ain't nothin' you can't do\"\n\nWell, I hope he never finds out that I didn't hang the moon\nAnd I\u2019ve never scared a monster out the closet of his room\nSome day between him leavin\u2019 home and drivin' on my knee\nBut maybe I\u2019ll finally be, the man he sees in me\n\n\nWell, I know he's gonna find out that I didn't hang the moon\nAnd there never was a monster in the closet of his room\nSome day when he's drivin\u2019 home with his son on his knee\nWell, I hope he's tryna be, the man he sees in me\n\nThe man he sees in me\nThe man he sees in me"
+}

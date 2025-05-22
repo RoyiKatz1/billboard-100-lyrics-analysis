@@ -1,0 +1,1943 @@
+{
+    "_type": "song",
+    "annotation_count": 35,
+    "api_path": "/songs/11018328",
+    "artist_names": "Tyler, The Creator",
+    "full_title": "Noid by\u00a0Tyler,\u00a0The Creator",
+    "header_image_thumbnail_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.300x300x1.png",
+    "header_image_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.1000x1000x1.png",
+    "id": 11018328,
+    "instrumental": false,
+    "lyrics_owner_id": 5748418,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747105300,
+    "path": "/Tyler-the-creator-noid-lyrics",
+    "primary_artist_names": "Tyler, The Creator",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Tyler-the-creator-noid-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 10,
+        "day": 21
+    },
+    "release_date_for_display": "October 21, 2024",
+    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 10,
+        "contributors": 240,
+        "iq_earners": 239,
+        "transcribers": 13,
+        "unreviewed_annotations": 24,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 900235
+    },
+    "title": "Noid",
+    "title_with_featured": "Noid",
+    "updated_by_human_at": 1747558596,
+    "url": "https://genius.com/Tyler-the-creator-noid-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/685",
+        "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+        "id": 685,
+        "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Tyler, The Creator",
+        "url": "https://genius.com/artists/Tyler-the-creator",
+        "iq": 298
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/685",
+            "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+            "id": 685,
+            "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tyler, The Creator",
+            "url": "https://genius.com/artists/Tyler-the-creator",
+            "iq": 298
+        }
+    ],
+    "apple_music_id": "1776500455",
+    "apple_music_player_url": "https://genius.com/songs/11018328/apple_music_player",
+    "description": {
+        "plain": "\u201cNoid\u201d (short for \u201cParanoid\u201d) is the lead commercial single from Tyler, The Creator\u2019s eighth studio album, CHROMAKOPIA.\n\nAn hour prior to the full song\u2019s release on streaming platforms, a snippet of the track was posted to Tyler\u2019s YouTube channel as a music video.\n\nThe music video portrays the album\u2019s protagonist, Saint Chroma, being consumed by paranoia, constantly feeling watched and chased. He frantically drives away from everyone, even imagining a car tailing him and a person threatening him with a gun in his own home, though none of it is actually real."
+    },
+    "embed_content": "<div id='rg_embed_link_11018328' class='rg_embed_link' data-song-id='11018328'>Read <a href='https://genius.com/Tyler-the-creator-noid-lyrics'>\u201cNoid\u201d by Tyler,\u00a0The Creator</a> on Genius</div> <script crossorigin src='//genius.com/songs/11018328/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "",
+    "release_date": "2024-10-21",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#989466",
+    "song_art_secondary_color": "#4f4c35",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1260992",
+        "cover_art_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.1000x1000x1.png",
+        "full_title": "CHROMAKOPIA by Tyler, The Creator",
+        "id": 1260992,
+        "name": "CHROMAKOPIA",
+        "primary_artist_names": "Tyler, The Creator",
+        "release_date_for_display": "October 28, 2024",
+        "url": "https://genius.com/albums/Tyler-the-creator/Chromakopia",
+        "artist": {
+            "api_path": "/artists/685",
+            "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+            "id": 685,
+            "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tyler, The Creator",
+            "url": "https://genius.com/artists/Tyler-the-creator",
+            "iq": 298
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/685",
+                "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+                "id": 685,
+                "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Tyler, The Creator",
+                "url": "https://genius.com/artists/Tyler-the-creator",
+                "iq": 298
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Spoken Word",
+            "artists": [
+                {
+                    "api_path": "/artists/4169307",
+                    "header_image_url": "https://images.genius.com/3439371054e2761132882500987dfacb.1000x1000x1.jpg",
+                    "id": 4169307,
+                    "image_url": "https://images.genius.com/3439371054e2761132882500987dfacb.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bonita Smith",
+                    "url": "https://genius.com/artists/Bonita-smith"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1166021",
+                    "header_image_url": "https://images.genius.com/027d40ecc169b5b11ddccea7bb359396.200x200x1.jpg",
+                    "id": 1166021,
+                    "image_url": "https://images.genius.com/027d40ecc169b5b11ddccea7bb359396.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zachary Acosta",
+                    "url": "https://genius.com/artists/Zachary-acosta"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1223454",
+                    "header_image_url": "https://images.genius.com/e695ad3ec99e92f15118d8763811fb84.932x932x1.jpg",
+                    "id": 1223454,
+                    "image_url": "https://images.genius.com/e695ad3ec99e92f15118d8763811fb84.932x932x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pedro Martins",
+                    "url": "https://genius.com/artists/Pedro-martins"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/137991",
+                    "header_image_url": "https://images.genius.com/7e398f05b34f485d1edd16cd8987c916.318x318x1.jpg",
+                    "id": 137991,
+                    "image_url": "https://images.genius.com/7e398f05b34f485d1edd16cd8987c916.318x318x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Kendrick",
+                    "url": "https://genius.com/artists/Kevin-kendrick"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/653839",
+                    "header_image_url": "https://images.genius.com/41402e235c536da38b5679b787e803a0.1000x1000x1.jpg",
+                    "id": 653839,
+                    "image_url": "https://images.genius.com/41402e235c536da38b5679b787e803a0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Inflo",
+                    "url": "https://genius.com/artists/Inflo"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/685",
+                    "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+                    "id": 685,
+                    "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tyler, The Creator",
+                    "url": "https://genius.com/artists/Tyler-the-creator",
+                    "iq": 298
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643736",
+                    "header_image_url": "https://images.genius.com/5aa5b31645cc6fe93a10b28d6a13a4cd.813x813x1.jpg",
+                    "id": 643736,
+                    "image_url": "https://images.genius.com/5aa5b31645cc6fe93a10b28d6a13a4cd.813x813x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Neal Pogue",
+                    "url": "https://genius.com/artists/Neal-pogue"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/647414",
+                    "header_image_url": "https://images.genius.com/f7428a1eab90e679e8af29668a3e43ea.450x309x1.jpg",
+                    "id": 647414,
+                    "image_url": "https://images.genius.com/0ec0a44b755cb745add8e3b72754a630.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Bozzi",
+                    "url": "https://genius.com/artists/Mike-bozzi"
+                }
+            ]
+        },
+        {
+            "label": "Video Wardrobe Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/2668813",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2668813,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kenn Law",
+                    "url": "https://genius.com/artists/Kenn-law"
+                }
+            ]
+        },
+        {
+            "label": "Video Makeup Artist",
+            "artists": [
+                {
+                    "api_path": "/artists/26256",
+                    "header_image_url": "https://images.genius.com/44982ffd1508b35410a9886e5669eb42.1000x333x1.jpg",
+                    "id": 26256,
+                    "image_url": "https://images.genius.com/dc7cac647588603ffaaee230596a1ef1.615x615x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Chris Miles",
+                    "url": "https://genius.com/artists/Chris-miles",
+                    "iq": 1500
+                }
+            ]
+        },
+        {
+            "label": "Video Hair Stylist",
+            "artists": [
+                {
+                    "api_path": "/artists/1866147",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1866147,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tanya Melendez",
+                    "url": "https://genius.com/artists/Tanya-melendez"
+                }
+            ]
+        },
+        {
+            "label": "Video Colorist",
+            "artists": [
+                {
+                    "api_path": "/artists/2743671",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2743671,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyler Roth",
+                    "url": "https://genius.com/artists/Tyler-roth"
+                }
+            ]
+        },
+        {
+            "label": "Video Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/2776104",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2776104,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Forner",
+                    "url": "https://genius.com/artists/Steve-forner"
+                }
+            ]
+        },
+        {
+            "label": "Video Art Department",
+            "artists": [
+                {
+                    "api_path": "/artists/1714414",
+                    "header_image_url": "https://images.genius.com/8592c9eea708ea4903611644cafa3d87.960x110x1.png",
+                    "id": 1714414,
+                    "image_url": "https://images.genius.com/59032ba2008ae9457e24506d9c43be91.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Miranda Lorenz",
+                    "url": "https://genius.com/artists/Miranda-lorenz"
+                },
+                {
+                    "api_path": "/artists/4154847",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4154847,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hensel Martinez",
+                    "url": "https://genius.com/artists/Hensel-martinez"
+                },
+                {
+                    "api_path": "/artists/2283549",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2283549,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adam Miko",
+                    "url": "https://genius.com/artists/Adam-miko"
+                },
+                {
+                    "api_path": "/artists/4154848",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4154848,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wade Vanover",
+                    "url": "https://genius.com/artists/Wade-vanover"
+                },
+                {
+                    "api_path": "/artists/4162350",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4162350,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sarah Pott",
+                    "url": "https://genius.com/artists/Sarah-pott"
+                },
+                {
+                    "api_path": "/artists/4162351",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4162351,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Broom-Peltz",
+                    "url": "https://genius.com/artists/Dani-broom-peltz"
+                },
+                {
+                    "api_path": "/artists/2513272",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2513272,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis G. Diaz",
+                    "url": "https://genius.com/artists/Luis-g-diaz"
+                },
+                {
+                    "api_path": "/artists/4162352",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4162352,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sierra Dawn Harbison",
+                    "url": "https://genius.com/artists/Sierra-dawn-harbison"
+                },
+                {
+                    "api_path": "/artists/3739761",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3739761,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick De La Rosa",
+                    "url": "https://genius.com/artists/Nick-de-la-rosa"
+                },
+                {
+                    "api_path": "/artists/4154849",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4154849,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dylan Dobler",
+                    "url": "https://genius.com/artists/Dylan-dobler"
+                },
+                {
+                    "api_path": "/artists/4162353",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4162353,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vision Scenery",
+                    "url": "https://genius.com/artists/Vision-scenery"
+                }
+            ]
+        },
+        {
+            "label": "Video Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/2011223",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2011223,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Dalit",
+                    "url": "https://genius.com/artists/Kevin-dalit"
+                }
+            ]
+        },
+        {
+            "label": "Video Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/91115",
+                    "header_image_url": "https://images.genius.com/c965608ea1958d854aa8a84240196239.659x659x1.jpg",
+                    "id": 91115,
+                    "image_url": "https://images.genius.com/c965608ea1958d854aa8a84240196239.659x659x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tara Razavi",
+                    "url": "https://genius.com/artists/Tara-razavi"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/14481",
+                    "header_image_url": "https://images.genius.com/ce9a194a3fee9835650b2a7a831640ac.667x1000x1.jpg",
+                    "id": 14481,
+                    "image_url": "https://images.genius.com/8b2a401eaba5a6d6e0c4eba2666fe89b.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Thundercat",
+                    "url": "https://genius.com/artists/Thundercat"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/12224",
+                    "header_image_url": "https://images.genius.com/0f7042fc8189fb6c946c1206dca1bc12.1000x297x1.jpg",
+                    "id": 12224,
+                    "image_url": "https://images.genius.com/633e8930e9979fc29aed3a7185b3a58b.999x999x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "WILLOW",
+                    "url": "https://genius.com/artists/Willow"
+                },
+                {
+                    "api_path": "/artists/653839",
+                    "header_image_url": "https://images.genius.com/41402e235c536da38b5679b787e803a0.1000x1000x1.jpg",
+                    "id": 653839,
+                    "image_url": "https://images.genius.com/41402e235c536da38b5679b787e803a0.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Inflo",
+                    "url": "https://genius.com/artists/Inflo"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Company",
+            "artists": [
+                {
+                    "api_path": "/artists/1431817",
+                    "header_image_url": "https://images.genius.com/4fcac7a18e093cb347e6583c9468189d.676x676x1.jpg",
+                    "id": 1431817,
+                    "image_url": "https://images.genius.com/fa1e4de2fa54ddc1378db2e7ca784b53.676x676x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Happy Place",
+                    "url": "https://genius.com/artists/Happy-place"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/685",
+                    "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+                    "id": 685,
+                    "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tyler, The Creator",
+                    "url": "https://genius.com/artists/Tyler-the-creator",
+                    "iq": 298
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/1838889",
+                    "header_image_url": "https://images.genius.com/1195e270d56e37d6d406f795dd79c434.1000x1000x1.png",
+                    "id": 1838889,
+                    "image_url": "https://images.genius.com/0d41ba865146535137213399fa169e84.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "a boy is a gun*",
+                    "url": "https://genius.com/artists/A-boy-is-a-gun"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/1200427",
+                    "header_image_url": "https://images.genius.com/792d74c564ba1d473a354f2e006e9f64.320x320x1.jpg",
+                    "id": 1200427,
+                    "image_url": "https://images.genius.com/792d74c564ba1d473a354f2e006e9f64.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis \u201cPanch\u201d Perez",
+                    "url": "https://genius.com/artists/Luis-panch-perez"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/685",
+                    "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+                    "id": 685,
+                    "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Tyler, The Creator",
+                    "url": "https://genius.com/artists/Tyler-the-creator",
+                    "iq": 298
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 16289248,
+        "annotator_login": "whospetar",
+        "api_path": "/referents/33353977",
+        "classification": "accepted",
+        "fragment": "Noid",
+        "id": 33353977,
+        "is_description": true,
+        "path": "/33353977/Tyler-the-creator-noid/Noid",
+        "range": {
+            "content": "Noid"
+        },
+        "song_id": 11018328,
+        "url": "https://genius.com/33353977/Tyler-the-creator-noid/Noid",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/11018328",
+            "client_timestamps": {
+                "updated_by_human_at": 1747558596,
+                "lyrics_updated_at": 1747105300
+            },
+            "context": "Tyler, The Creator",
+            "id": 11018328,
+            "image_url": "https://images.genius.com/206f16145c6ad42142656b0a53a0638f.1000x1000x1.png",
+            "link_title": "Noid by\u00a0Tyler,\u00a0The Creator",
+            "title": "Noid",
+            "type": "Song",
+            "url": "https://genius.com/Tyler-the-creator-noid-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33353977",
+                "body": {
+                    "plain": "\u201cNoid\u201d (short for \u201cParanoid\u201d) is the lead commercial single from Tyler, The Creator\u2019s eighth studio album, CHROMAKOPIA.\n\nAn hour prior to the full song\u2019s release on streaming platforms, a snippet of the track was posted to Tyler\u2019s YouTube channel as a music video.\n\nThe music video portrays the album\u2019s protagonist, Saint Chroma, being consumed by paranoia, constantly feeling watched and chased. He frantically drives away from everyone, even imagining a car tailing him and a person threatening him with a gun in his own home, though none of it is actually real."
+                },
+                "comment_count": 9,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33353977,
+                "pinned": false,
+                "share_url": "https://genius.com/33353977",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/33353977/Tyler-the-creator-noid/Noid",
+                "verified": false,
+                "votes_total": 227,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.782608695652174,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/16289248",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/29da864cc7ae5e2e1280f1c1cbe74384",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/29da864cc7ae5e2e1280f1c1cbe74384",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/29da864cc7ae5e2e1280f1c1cbe74384",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/29da864cc7ae5e2e1280f1c1cbe74384",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/213222f4071c1cccbfb807b60a1ab008.1000x333x1.jpg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 16289248,
+                            "iq": 10276,
+                            "login": "whospetar",
+                            "name": "\u200b\u200bwhospetar",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/whospetar",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.08695652173913043,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/13095395",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/rrwsxnmkm4i",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/rrwsxnmkm4i",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/rrwsxnmkm4i",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/rrwsxnmkm4i",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/rsrokndbj8i",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 13095395,
+                            "iq": 44500,
+                            "login": "c0bb3r",
+                            "name": "c0bb3r",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/c0bb3r",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.06521739130434782,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/19437515",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/5622a2273e6676d637106d86f4c078bb",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/ccv33nehsoe",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 19437515,
+                            "iq": 50850,
+                            "login": "eleventh_dimension",
+                            "name": "eleventh_dimension",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/eleventh_dimension",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.021739130434782608,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/19387926",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/f340abc6d23ea0274765a1837493b76e",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/f340abc6d23ea0274765a1837493b76e",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/f340abc6d23ea0274765a1837493b76e",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/f340abc6d23ea0274765a1837493b76e",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/b7tc8lmtp7t",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 19387926,
+                            "iq": 15091,
+                            "login": "Nuggetand",
+                            "name": "Nuggetand",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/Nuggetand",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.021739130434782608,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22318001",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/76eafc684927c0ef8be7dffbf75c8134",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/76eafc684927c0ef8be7dffbf75c8134",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/76eafc684927c0ef8be7dffbf75c8134",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/76eafc684927c0ef8be7dffbf75c8134",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/76eafc684927c0ef8be7dffbf75c8134",
+                            "human_readable_role_for_display": null,
+                            "id": 22318001,
+                            "iq": 166,
+                            "login": "AliShebl",
+                            "name": "AliShebl",
+                            "role_for_display": null,
+                            "url": "https://genius.com/AliShebl",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.021739130434782608,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21073691",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e14552d5126b12d4e72beb1aa2fbbe53",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e14552d5126b12d4e72beb1aa2fbbe53",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e14552d5126b12d4e72beb1aa2fbbe53",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e14552d5126b12d4e72beb1aa2fbbe53",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/e14552d5126b12d4e72beb1aa2fbbe53",
+                            "human_readable_role_for_display": null,
+                            "id": 21073691,
+                            "iq": 136,
+                            "login": "Anubih",
+                            "name": "Anubih",
+                            "role_for_display": null,
+                            "url": "https://genius.com/Anubih",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/19437515",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/5622a2273e6676d637106d86f4c078bb",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/5622a2273e6676d637106d86f4c078bb",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/5622a2273e6676d637106d86f4c078bb",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/5622a2273e6676d637106d86f4c078bb",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ccv33nehsoe",
+        "human_readable_role_for_display": "Editor",
+        "id": 19437515,
+        "iq": 50850,
+        "login": "eleventh_dimension",
+        "name": "eleventh_dimension",
+        "role_for_display": "editor",
+        "url": "https://genius.com/eleventh_dimension",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/4921876",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 4921876,
+        "iq": 886384,
+        "login": "lonland",
+        "name": "\u200blonland",
+        "role_for_display": "staff",
+        "url": "https://genius.com/lonland",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "tylerthecreatorofficial",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/tylerthecreatorofficial/noid"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=N22LG24eA48"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/685",
+            "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+            "id": 685,
+            "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tyler, The Creator",
+            "url": "https://genius.com/artists/Tyler-the-creator",
+            "iq": 298
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9233964",
+                    "artist_names": "Ngozi Family",
+                    "full_title": "Nizakupanga Ngozi by\u00a0Ngozi\u00a0Family",
+                    "header_image_thumbnail_url": "https://images.genius.com/f62b90bed92fd52469710d97d5e2b82a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f62b90bed92fd52469710d97d5e2b82a.1000x1000x1.png",
+                    "id": 9233964,
+                    "lyrics_owner_id": 9718360,
+                    "lyrics_state": "complete",
+                    "path": "/Ngozi-family-nizakupanga-ngozi-lyrics",
+                    "primary_artist_names": "Ngozi Family",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/Ngozi-family-nizakupanga-ngozi-sample",
+                    "release_date_components": {
+                        "year": 1977,
+                        "month": 1,
+                        "day": 1
+                    },
+                    "release_date_for_display": "January 1, 1977",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 1, 1977",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f62b90bed92fd52469710d97d5e2b82a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f62b90bed92fd52469710d97d5e2b82a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 13980
+                    },
+                    "title": "Nizakupanga Ngozi",
+                    "title_with_featured": "Nizakupanga Ngozi",
+                    "url": "https://genius.com/Ngozi-family-nizakupanga-ngozi-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1631731",
+                        "header_image_url": "https://images.genius.com/b9daf8bf9f10190e74bf4f38ca859da2.456x456x1.jpg",
+                        "id": 1631731,
+                        "image_url": "https://images.genius.com/b9daf8bf9f10190e74bf4f38ca859da2.456x456x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ngozi Family",
+                        "url": "https://genius.com/artists/Ngozi-family"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1631731",
+                            "header_image_url": "https://images.genius.com/b9daf8bf9f10190e74bf4f38ca859da2.456x456x1.jpg",
+                            "id": 1631731,
+                            "image_url": "https://images.genius.com/b9daf8bf9f10190e74bf4f38ca859da2.456x456x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ngozi Family",
+                            "url": "https://genius.com/artists/Ngozi-family"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11046264",
+                    "artist_names": "STANLEY RECKONER",
+                    "full_title": "PARANOIA by\u00a0STANLEY\u00a0RECKONER",
+                    "header_image_thumbnail_url": "https://images.genius.com/6d6527c1d9fc202a4d5264a557d41a95.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6d6527c1d9fc202a4d5264a557d41a95.1000x1000x1.jpg",
+                    "id": 11046264,
+                    "lyrics_owner_id": 22204278,
+                    "lyrics_state": "complete",
+                    "path": "/Stanley-reckoner-paranoia-lyrics",
+                    "primary_artist_names": "STANLEY RECKONER",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Stanley-reckoner-paranoia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 27
+                    },
+                    "release_date_for_display": "October 27, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 27, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6d6527c1d9fc202a4d5264a557d41a95.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6d6527c1d9fc202a4d5264a557d41a95.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "PARANOIA",
+                    "title_with_featured": "PARANOIA",
+                    "url": "https://genius.com/Stanley-reckoner-paranoia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4057468",
+                        "header_image_url": "https://images.genius.com/0bb8bda039c1d6652ec108124a97f9e6.1000x1000x1.jpg",
+                        "id": 4057468,
+                        "image_url": "https://images.genius.com/0bb8bda039c1d6652ec108124a97f9e6.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "STANLEY RECKONER",
+                        "url": "https://genius.com/artists/Stanley-reckoner"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4057468",
+                            "header_image_url": "https://images.genius.com/0bb8bda039c1d6652ec108124a97f9e6.1000x1000x1.jpg",
+                            "id": 4057468,
+                            "image_url": "https://images.genius.com/0bb8bda039c1d6652ec108124a97f9e6.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "STANLEY RECKONER",
+                            "url": "https://genius.com/artists/Stanley-reckoner"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/196884",
+                    "artist_names": "Grizzly Bear",
+                    "full_title": "Cheerleader by\u00a0Grizzly\u00a0Bear",
+                    "header_image_thumbnail_url": "https://images.genius.com/ab56623a64c9178a9d353201f0cabc51.300x303x1.jpg",
+                    "header_image_url": "https://images.genius.com/ab56623a64c9178a9d353201f0cabc51.595x600x1.jpg",
+                    "id": 196884,
+                    "lyrics_owner_id": 260060,
+                    "lyrics_state": "complete",
+                    "path": "/Grizzly-bear-cheerleader-lyrics",
+                    "primary_artist_names": "Grizzly Bear",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Grizzly-bear-cheerleader-sample",
+                    "release_date_components": {
+                        "year": 2009,
+                        "month": 3,
+                        "day": 26
+                    },
+                    "release_date_for_display": "March 26, 2009",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 26, 2009",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ab56623a64c9178a9d353201f0cabc51.300x303x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ab56623a64c9178a9d353201f0cabc51.595x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 11110
+                    },
+                    "title": "Cheerleader",
+                    "title_with_featured": "Cheerleader",
+                    "url": "https://genius.com/Grizzly-bear-cheerleader-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/12531",
+                        "header_image_url": "https://images.genius.com/b80d18cd256953848d2543dd21f39a46.1000x1000x1.jpg",
+                        "id": 12531,
+                        "image_url": "https://images.genius.com/e7258811f1525ee26fef1b33ac834f97.907x907x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Grizzly Bear",
+                        "url": "https://genius.com/artists/Grizzly-bear"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/12531",
+                            "header_image_url": "https://images.genius.com/b80d18cd256953848d2543dd21f39a46.1000x1000x1.jpg",
+                            "id": 12531,
+                            "image_url": "https://images.genius.com/e7258811f1525ee26fef1b33ac834f97.907x907x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Grizzly Bear",
+                            "url": "https://genius.com/artists/Grizzly-bear"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11082622",
+                    "artist_names": "Static amour",
+                    "full_title": "*Deploy (Port-A-Fort)* by\u00a0Static\u00a0amour",
+                    "header_image_thumbnail_url": "https://images.genius.com/925280ea78b4081e1d4262039d61131f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/925280ea78b4081e1d4262039d61131f.1000x1000x1.png",
+                    "id": 11082622,
+                    "lyrics_owner_id": 22491506,
+                    "lyrics_state": "complete",
+                    "path": "/Static-amour-deploy-port-a-fort-lyrics",
+                    "primary_artist_names": "Static amour",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Static-amour-deploy-port-a-fort-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "2025",
+                    "release_date_with_abbreviated_month_for_display": "2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/925280ea78b4081e1d4262039d61131f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/925280ea78b4081e1d4262039d61131f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "*Deploy (Port-A-Fort)*",
+                    "title_with_featured": "*Deploy (Port-A-Fort)*",
+                    "url": "https://genius.com/Static-amour-deploy-port-a-fort-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3462230",
+                        "header_image_url": "https://images.genius.com/4ce3972517c1f7f7667ccc3dc26af1dc.640x360x1.jpg",
+                        "id": 3462230,
+                        "image_url": "https://images.genius.com/7aae7644b512f2a5789dfc432267d750.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Static amour",
+                        "url": "https://genius.com/artists/Static-amour"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3462230",
+                            "header_image_url": "https://images.genius.com/4ce3972517c1f7f7667ccc3dc26af1dc.640x360x1.jpg",
+                            "id": 3462230,
+                            "image_url": "https://images.genius.com/7aae7644b512f2a5789dfc432267d750.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Static amour",
+                            "url": "https://genius.com/artists/Static-amour"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11554662",
+                    "artist_names": "DC3",
+                    "full_title": "NOID Freestyle by\u00a0DC3",
+                    "header_image_thumbnail_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.500x500x1.jpg",
+                    "id": 11554662,
+                    "lyrics_owner_id": 21502168,
+                    "lyrics_state": "complete",
+                    "path": "/Dc3-noid-freestyle-lyrics",
+                    "primary_artist_names": "DC3",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dc3-noid-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 2
+                    },
+                    "release_date_for_display": "March 2, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 2, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "NOID Freestyle",
+                    "title_with_featured": "NOID Freestyle",
+                    "url": "https://genius.com/Dc3-noid-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3007296",
+                        "header_image_url": "https://images.genius.com/736a02fc7721fda3299937a190761ba5.1000x166x1.jpg",
+                        "id": 3007296,
+                        "image_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DC3",
+                        "url": "https://genius.com/artists/Dc3"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3007296",
+                            "header_image_url": "https://images.genius.com/736a02fc7721fda3299937a190761ba5.1000x166x1.jpg",
+                            "id": 3007296,
+                            "image_url": "https://images.genius.com/e4a9c5a5d0a424caeaf6a3ab7036da28.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DC3",
+                            "url": "https://genius.com/artists/Dc3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Tyler-the-creator-noid-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11018399",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Tyler, The Creator - Noid (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/186dc8774c1a8e8671aae72ca0ec408f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/186dc8774c1a8e8671aae72ca0ec408f.1000x1000x1.jpg",
+                    "id": 11018399,
+                    "lyrics_owner_id": 13666838,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-tyler-the-creator-noid-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-tyler-the-creator-noid-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 21
+                    },
+                    "release_date_for_display": "October 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/186dc8774c1a8e8671aae72ca0ec408f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/186dc8774c1a8e8671aae72ca0ec408f.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Tyler, The Creator - Noid (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Tyler, The Creator - Noid (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-tyler-the-creator-noid-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11018442",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Tyler, The Creator - Noid (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.1000x1000x1.png",
+                    "id": 11018442,
+                    "lyrics_owner_id": 4881589,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-tyler-the-creator-noid-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-tyler-the-creator-noid-traduction-francaise-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 21
+                    },
+                    "release_date_for_display": "October 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Tyler, The Creator - Noid (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Tyler, The Creator - Noid (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-tyler-the-creator-noid-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11018615",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Tyler, The Creator - Noid (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/fe4ec0a49a8c4a51aa14d9189028ee51.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fe4ec0a49a8c4a51aa14d9189028ee51.340x340x1.png",
+                    "id": 11018615,
+                    "lyrics_owner_id": 17399764,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-tyler-the-creator-noid-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-tyler-the-creator-noid-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 21
+                    },
+                    "release_date_for_display": "October 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fe4ec0a49a8c4a51aa14d9189028ee51.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fe4ec0a49a8c4a51aa14d9189028ee51.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 5857
+                    },
+                    "title": "Tyler, The Creator - Noid (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Tyler, The Creator - Noid (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-tyler-the-creator-noid-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/11019142",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Tyler, The Creator - Noid (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.1000x1000x1.png",
+                    "id": 11019142,
+                    "lyrics_owner_id": 14127644,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-tyler-the-creator-noid-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-tyler-the-creator-noid-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 21
+                    },
+                    "release_date_for_display": "October 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4c68bd4ca1d3a9265f48eff4838c7943.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Tyler, The Creator - Noid (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Tyler, The Creator - Noid (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-tyler-the-creator-noid-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11018834",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Tyler, The Creator - Noid (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/35074f330d872416e4ffcb0fa5eadd6c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/35074f330d872416e4ffcb0fa5eadd6c.1000x1000x1.png",
+                    "id": 11018834,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-tyler-the-creator-noid-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-tyler-the-creator-noid-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 21
+                    },
+                    "release_date_for_display": "October 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/35074f330d872416e4ffcb0fa5eadd6c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/35074f330d872416e4ffcb0fa5eadd6c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Tyler, The Creator - Noid (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Tyler, The Creator - Noid (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-tyler-the-creator-noid-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11018399",
+            "id": 11018399,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-tyler-the-creator-noid-turkce-ceviri-lyrics",
+            "title": "Tyler, The Creator - Noid (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-tyler-the-creator-noid-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/11018442",
+            "id": 11018442,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-tyler-the-creator-noid-traduction-francaise-lyrics",
+            "title": "Tyler, The Creator - Noid (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-tyler-the-creator-noid-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/11018615",
+            "id": 11018615,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-tyler-the-creator-noid-traduccion-al-espanol-lyrics",
+            "title": "Tyler, The Creator - Noid (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-tyler-the-creator-noid-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/11019142",
+            "id": 11019142,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-tyler-the-creator-noid-lyrics",
+            "title": "Tyler, The Creator - Noid (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-tyler-the-creator-noid-lyrics"
+        },
+        {
+            "api_path": "/songs/11018834",
+            "id": 11018834,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-tyler-the-creator-noid-traducao-em-portugues-lyrics",
+            "title": "Tyler, The Creator - Noid (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-tyler-the-creator-noid-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/685",
+            "header_image_url": "https://images.genius.com/7f695420a69e62cb875156810936f4fc.686x386x1.jpg",
+            "id": 685,
+            "image_url": "https://images.genius.com/005bde7ff013d0798394b9c9a8649a3f.527x527x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tyler, The Creator",
+            "url": "https://genius.com/artists/Tyler-the-creator",
+            "iq": 298
+        },
+        {
+            "api_path": "/artists/3565754",
+            "header_image_url": "https://images.genius.com/81f5ef5de8a2948fce15d3865d1dcdfc.600x515x1.jpg",
+            "id": 3565754,
+            "image_url": "https://images.genius.com/86c97d7620fb50f5a596a4cb402ab4bf.510x510x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Paul \u201cNgozi\u201d Nyirongo",
+            "url": "https://genius.com/artists/Paul-ngozi-nyirongo"
+        }
+    ],
+    "artist": "Tyler, The Creator",
+    "lyrics": "240 ContributorsTranslationsT\u00fcrk\u00e7eFran\u00e7aisEspa\u00f1ol\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)Portugu\u00easNoid Lyrics\u201cNoid\u201d (short for \u201cParanoid\u201d) is the lead commercial single from Tyler, The Creator\u2019s eighth studio album, CHROMAKOPIA.\nAn hour prior to the full song\u2019s release on streaming platforms, a snippet of the track\u2026 Read More\u00a0\n\nParanoid, paranoid, paranoid (Ayy)\nThings feel out of order\nLook and look around, I'm not sure of\nPair of paranoia, no (Such a\u2014)\nFeel it in my aura (Woo)\nLiving between cameras and recorders, ah, yeah (Woo, woo)\nI want peace but can't afford ya, no (Such a\u2014)\nPobwela panyumba panga, uyenela ku nkala ndi ulemu (Paranoid)\nChifukwa, ine sinifuna vokamba, kamba\nVokamba kamba vileta pa mulomo\n(Wotangozi, wotangozi)\n\nOoh, ah ('Round and 'round, huh, yeah)\nOoh, ah ('Round, 'round)\nOoh, ah (Someone's keeping watch, I feel them on my shoulder)\nOoh, ah (Runnin', runnin', runnin', runnin' 'round) (Such a\u2014)\n\nI can't even buy a home in private\nHome invasions got my brothers dyin'\nNotice every car that's drivin' by\nI think my neighbors want me dead\nI got a cannon underneath the bed\nTriple checkin' if I locked the door\nI know every creak that's in the floor\nMotherfucker, I am paranoid, I (Such a\u2014)\nLoop around the block, eyes glued to the rearview\nRather double back than regret hearin', \"Pew, pew\"\nNever trust a bitch, if you good, they could trap you\nSo just strap it up 'fore they fuck around and strap you, bitch\n\nPobwela panyumba panga, uyenela ku nkala ndi ulemu (Noid)\nChifukwa, ine sinifuna vokamba, kamba (Noid)\nVokamba kamba vileta pa mulomo\n(Wotangozi, wotangozi)\nShadow\nShadow (Yeah, woo)\nShadow (Someone's keeping watch)\n(I feel them in my shadow)\nShadow (Someone's keeping watch)\n(Watchin', watchin')\n(Such a\u2014)\n\nSomeone's keeping watch\nI can feel it, I can feel it\nI can feel it, I can feel it\n\n\nDon't trust these people out here, please, whatever you do\nKeep to yourself, keep your business to yourself\nDon't even trust these motherfuckin' accountants\n'Cause they will try to get over on you, okay?\nPlease, because I don't wanna have to fuck nobody up\nI promise to God\n\nDon't it seem so good? Ooh, ooh (Oh, na-na, oh, na-na, ayy)\nDon't it feel so good? (Oh, na-na, oh, na-na, ayy)\n(Oh, na-na, oh, na-na, ayy)\nDon't it feel so good? (Left shoulder, right shoulder, left shoulder, look, ooh)\nLeft shoulder, right shoulder, left shoulder, look (Watch your surroundings)\nWho's at my window? Na-na, who's at my window? (Oh, na-na, oh, na-na, ayy)\nWho's at my window? Who's at my window? (Okay, okay, okay, yeah)\n\nNo cameras out, please, I wanna eat in peace (Paranoid)\nDon't wanna take pictures with you niggas or bitches\nNervous system is shook, way before nineteen (Paranoid, yeah)\nLA'll do that to you, where you from, nigga? Who ya?\nSatellites (Satellite), screenshots (Noid)\nPaparazzi (Noid), NDAs (Noid)\nPrivacy? Huh, yeah, right, I got a better shot in the NBA\nAin't no respect for nothin', voice recordin' our discussions\nHer, him, they, them, or anybody, I don't trust 'em at\u2014\nAt all (Noid), some pray for my fall (Noid)\nHearin' clicks on the calls (Noid)\nNiggas hackin' for some rough drafts\nBitches lookin' for a buff bag\nRisk that for some jaw, nah\nYou sing along, but you don't know me, nigga\nNah, never ever, not at all, y'all\nNiggas crossed the line, like fuck the stop sign (Noid)\nThey wanna know where I close my eyes at, I keep my eyes wide\nOn God, this shit cooked, brodie\nLook, brodie (Noid), handshakes got me shooked, brodie\nNiggas want info about me? (Read a motherfuckin'\u2014)\nRead a book on me, ugh\n\nLeave me alone, leave me alone (Baby, I'm paranoid)\nLeft shoulder, right shoulder, left shoulder, look (Don't it feel so good?)\nLeft shoulder, right shoulder, left shoulder, look (So good)\nLeft shoulder, right shoulder, left shoulder, look\nFuck you want? (Don't it feel so good?)\nLeave me alone, what you want?\nLeave me alone, what you want?\nLeave me alone (Who's at my window, my window?)\nFuck, damn (Who's at my window?)\nParanoid"
+}

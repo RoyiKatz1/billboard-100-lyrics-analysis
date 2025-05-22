@@ -1,0 +1,813 @@
+{
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/10314303",
+    "artist_names": "Zach Bryan",
+    "full_title": "Oak Island by\u00a0Zach\u00a0Bryan",
+    "header_image_thumbnail_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.300x300x1.png",
+    "header_image_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.1000x1000x1.png",
+    "id": 10314303,
+    "instrumental": false,
+    "lyrics_owner_id": 12843994,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1726365173,
+    "path": "/Zach-bryan-oak-island-lyrics",
+    "primary_artist_names": "Zach Bryan",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Zach-bryan-oak-island-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 7,
+        "day": 4
+    },
+    "release_date_for_display": "July 4, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 4, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 24,
+        "iq_earners": 24,
+        "transcribers": 3,
+        "unreviewed_annotations": 9,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 99758
+    },
+    "title": "Oak Island",
+    "title_with_featured": "Oak Island",
+    "updated_by_human_at": 1743017216,
+    "url": "https://genius.com/Zach-bryan-oak-island-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1902011",
+        "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+        "id": 1902011,
+        "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Zach Bryan",
+        "url": "https://genius.com/artists/Zach-bryan"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "apple_music_id": "1754473231",
+    "apple_music_player_url": "https://genius.com/songs/10314303/apple_music_player",
+    "description": {
+        "plain": "This song seems to be heavily influenced by Bruce Springsteen\u2019s \u201cHighway Patrolman,\u201d in which the narrator, a state trooper, finds himself in a high-speed chase with his brother who is fleeing from a murder scene. The narrator chooses to stop his patrol car and allows his brother to escape across the Canadien border.\n\nIn this song, Mickey chooses differently than the narrator from Springsteen\u2019s song. Instead of trying to help his brother like Springsteen\u2019s character, he decides that his brother is bound to meet the same fate as the original antagonists of Oak Island."
+    },
+    "embed_content": "<div id='rg_embed_link_10314303' class='rg_embed_link' data-song-id='10314303'>Read <a href='https://genius.com/Zach-bryan-oak-island-lyrics'>\u201cOak Island\u201d by Zach\u00a0Bryan</a> on Genius</div> <script crossorigin src='//genius.com/songs/10314303/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "",
+    "release_date": "2024-07-04",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bc4443",
+    "song_art_secondary_color": "#ab4134",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1124069",
+        "cover_art_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.1000x1000x1.png",
+        "full_title": "The Great American Bar Scene by Zach Bryan",
+        "id": 1124069,
+        "name": "The Great American Bar Scene",
+        "primary_artist_names": "Zach Bryan",
+        "release_date_for_display": "July 4, 2024",
+        "url": "https://genius.com/albums/Zach-bryan/The-great-american-bar-scene",
+        "artist": {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1902011",
+                "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                "id": 1902011,
+                "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Zach Bryan",
+                "url": "https://genius.com/artists/Zach-bryan"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                },
+                {
+                    "api_path": "/artists/3674071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3674071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Belting Bronco Records",
+                    "url": "https://genius.com/artists/Belting-bronco-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                },
+                {
+                    "api_path": "/artists/3674071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3674071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Belting Bronco Records",
+                    "url": "https://genius.com/artists/Belting-bronco-records"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1259950",
+                    "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+                    "id": 1259950,
+                    "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Monsune",
+                    "url": "https://genius.com/artists/Monsune",
+                    "iq": 159
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1902011",
+                    "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                    "id": 1902011,
+                    "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Bryan",
+                    "url": "https://genius.com/artists/Zach-bryan"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3673810",
+                    "header_image_url": "https://images.genius.com/33d241aab14330ca33735583b6391da0.1000x1000x1.png",
+                    "id": 3673810,
+                    "image_url": "https://images.genius.com/33d241aab14330ca33735583b6391da0.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "DEYO",
+                    "url": "https://genius.com/artists/Deyo"
+                },
+                {
+                    "api_path": "/artists/2238681",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2238681,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Noah Le Gros",
+                    "url": "https://genius.com/artists/Noah-le-gros"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2174439",
+                    "header_image_url": "https://images.genius.com/05624efca52d47617494d4f3b6f8737c.698x255x1.jpg",
+                    "id": 2174439,
+                    "image_url": "https://images.genius.com/664a533120390604be23950db8b521e4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Weinberg",
+                    "url": "https://genius.com/artists/Jake-weinberg"
+                }
+            ]
+        },
+        {
+            "label": "Trumpet",
+            "artists": [
+                {
+                    "api_path": "/artists/1259950",
+                    "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+                    "id": 1259950,
+                    "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Monsune",
+                    "url": "https://genius.com/artists/Monsune",
+                    "iq": 159
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2174439",
+                    "header_image_url": "https://images.genius.com/05624efca52d47617494d4f3b6f8737c.698x255x1.jpg",
+                    "id": 2174439,
+                    "image_url": "https://images.genius.com/664a533120390604be23950db8b521e4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Weinberg",
+                    "url": "https://genius.com/artists/Jake-weinberg"
+                },
+                {
+                    "api_path": "/artists/1259950",
+                    "header_image_url": "https://images.genius.com/561a7dbc777fe9b6db34edc7b87251d5.1000x663x1.jpg",
+                    "id": 1259950,
+                    "image_url": "https://images.genius.com/87537755a57c1b8766a9da76b88f22ca.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Monsune",
+                    "url": "https://genius.com/artists/Monsune",
+                    "iq": 159
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/71482",
+                    "header_image_url": "https://images.genius.com/04598f525039245609f28a93aadd8592.660x365x1.jpg",
+                    "id": 71482,
+                    "image_url": "https://images.genius.com/04598f525039245609f28a93aadd8592.660x365x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jacquire King",
+                    "url": "https://genius.com/artists/Jacquire-king"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/988745",
+                    "header_image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "id": 988745,
+                    "image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Lyman",
+                    "url": "https://genius.com/artists/Pete-lyman"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22095047,
+        "annotator_login": "xFoxMulderx",
+        "api_path": "/referents/31524537",
+        "classification": "unreviewed",
+        "fragment": "Oak Island",
+        "id": 31524537,
+        "is_description": true,
+        "path": "/31524537/Zach-bryan-oak-island/Oak-island",
+        "range": {
+            "content": "Oak Island"
+        },
+        "song_id": 10314303,
+        "url": "https://genius.com/31524537/Zach-bryan-oak-island/Oak-island",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10314303",
+            "client_timestamps": {
+                "updated_by_human_at": 1743017216,
+                "lyrics_updated_at": 1726365173
+            },
+            "context": "Zach Bryan",
+            "id": 10314303,
+            "image_url": "https://images.genius.com/19b5569b9b33805eaf5528c790c3232d.1000x1000x1.png",
+            "link_title": "Oak Island by\u00a0Zach\u00a0Bryan",
+            "title": "Oak Island",
+            "type": "Song",
+            "url": "https://genius.com/Zach-bryan-oak-island-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31524537",
+                "body": {
+                    "plain": "This song seems to be heavily influenced by Bruce Springsteen\u2019s \u201cHighway Patrolman,\u201d in which the narrator, a state trooper, finds himself in a high-speed chase with his brother who is fleeing from a murder scene. The narrator chooses to stop his patrol car and allows his brother to escape across the Canadien border.\n\nIn this song, Mickey chooses differently than the narrator from Springsteen\u2019s song. Instead of trying to help his brother like Springsteen\u2019s character, he decides that his brother is bound to meet the same fate as the original antagonists of Oak Island."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31524537,
+                "pinned": false,
+                "share_url": "https://genius.com/31524537",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31524537/Zach-bryan-oak-island/Oak-island",
+                "verified": false,
+                "votes_total": 5,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22095047",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "human_readable_role_for_display": null,
+                            "id": 22095047,
+                            "iq": 24,
+                            "login": "xFoxMulderx",
+                            "name": "xFoxMulderx",
+                            "role_for_display": null,
+                            "url": "https://genius.com/xFoxMulderx",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4733728",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/d1898630dba081b6d856ac22f7c2dd2a.1000x625x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4733728,
+        "iq": 671174,
+        "login": "JJEvans",
+        "name": "Jay Evans",
+        "role_for_display": "editor",
+        "url": "https://genius.com/JJEvans",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "achane",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/achane/oak-island"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=tSwHdfXPR7o"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11317032",
+                    "artist_names": "Zach Bryan",
+                    "full_title": "Oak Island (Live from Dallas) by\u00a0Zach\u00a0Bryan",
+                    "header_image_thumbnail_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.1000x1000x1.png",
+                    "id": 11317032,
+                    "lyrics_owner_id": 22102152,
+                    "lyrics_state": "complete",
+                    "path": "/Zach-bryan-oak-island-live-from-dallas-lyrics",
+                    "primary_artist_names": "Zach Bryan",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Zach-bryan-oak-island-live-from-dallas-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Oak Island (Live from Dallas)",
+                    "title_with_featured": "Oak Island (Live from Dallas)",
+                    "url": "https://genius.com/Zach-bryan-oak-island-live-from-dallas-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1902011",
+                        "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                        "id": 1902011,
+                        "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zach Bryan",
+                        "url": "https://genius.com/artists/Zach-bryan"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1902011",
+                            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                            "id": 1902011,
+                            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Zach Bryan",
+                            "url": "https://genius.com/artists/Zach-bryan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10615396",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Zach Bryan - Oak Island (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/463370ddef7b39fc216f49990968ba65.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/463370ddef7b39fc216f49990968ba65.1000x1000x1.png",
+                    "id": 10615396,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-zach-bryan-oak-island-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-oak-island-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 4
+                    },
+                    "release_date_for_display": "July 4, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 4, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/463370ddef7b39fc216f49990968ba65.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/463370ddef7b39fc216f49990968ba65.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Zach Bryan - Oak Island (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Zach Bryan - Oak Island (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-oak-island-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10615396",
+            "id": 10615396,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-zach-bryan-oak-island-traduccion-al-espanol-lyrics",
+            "title": "Zach Bryan - Oak Island (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-oak-island-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "artist": "Zach Bryan",
+    "lyrics": "24 ContributorsTranslationsEspa\u00f1olOak Island Lyrics\nRail-tie worker, I've been layin' ties on cold ground\nBut I'm leavin' this evenin' on the\u2005same\u2005tracks I laid\u2005down\nThere's some boys out in Jersey\u2005that are callin' me out by name\nI got a reason to believe I ain't glory-bound anyway\n\nAnd if you're readin' this letter tell my mother and my brother that I love 'em\nHe's got the better blood of my old man and our cousins\nBut he made a bad deal with some boys out on Oak Island\nAnd if he don't pay they say they're bound to find him\n\nBut if I find '\u0435m on that island first\nThe worst is yet to come\n'Caus\u0435 no blood in the mud I's raised in\nSpent life on the run\n\nAnd I went to Jay's tavern and it happens that them boys were there\nRecognized his backside from the color of our mother's hair\nAnd my brother found another way to make himself a decent little livin'\nHe turned around and found himself a lickin' only blood could give him\nAnd I told him I was there to keep him clear of that island\nHe said, \"I love you Mickey, but I found out that I'm them\"\nAnd I got bad blood with some blood out on Oak Island\nAnd if he stays I say I am bound to find him\n\nBut if I find 'em on that island first\nThe worst is yet to come\n'Cause no blood in the mud we's raised in\nSpent life on the run"
+}

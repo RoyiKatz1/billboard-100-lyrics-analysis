@@ -1,0 +1,1232 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/9863544",
+    "artist_names": "Michael Marcagi",
+    "full_title": "Scared To Start by\u00a0Michael\u00a0Marcagi",
+    "header_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+    "id": 9863544,
+    "instrumental": false,
+    "lyrics_owner_id": 15593447,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1717009454,
+    "path": "/Michael-marcagi-scared-to-start-lyrics",
+    "primary_artist_names": "Michael Marcagi",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Michael-marcagi-scared-to-start-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 1,
+        "day": 12
+    },
+    "release_date_for_display": "January 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jan. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 14,
+        "iq_earners": 14,
+        "transcribers": 2,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 80847
+    },
+    "title": "Scared To Start",
+    "title_with_featured": "Scared To Start",
+    "updated_by_human_at": 1742938097,
+    "url": "https://genius.com/Michael-marcagi-scared-to-start-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2485794",
+        "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+        "id": 2485794,
+        "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Michael Marcagi",
+        "url": "https://genius.com/artists/Michael-marcagi"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2485794",
+            "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "id": 2485794,
+            "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Marcagi",
+            "url": "https://genius.com/artists/Michael-marcagi"
+        }
+    ],
+    "apple_music_id": "1728341621",
+    "apple_music_player_url": "https://genius.com/songs/9863544/apple_music_player",
+    "description": {
+        "plain": "First released as a single and later included on the EP American Romance, \u201cScared to Start\u201d marks Michael Marcagi\u2019s first hit as a songwriter. The song gained popularity on TikTok and subsequently reached the charts worldwide, including the US and the UK.\n\nAbout the meaning of the song, Marcagi said:\n\n\u2018Scared to Start\u2019 is a song for the adventurers, the travelers, and the people who look forward without dwelling on the uncertainties of life. It\u2019s about taking the risks and putting yourself out of your comfort zone, regardless of what the rest of the world has to say."
+    },
+    "embed_content": "<div id='rg_embed_link_9863544' class='rg_embed_link' data-song-id='9863544'>Read <a href='https://genius.com/Michael-marcagi-scared-to-start-lyrics'>\u201cScared To Start\u201d by Michael\u00a0Marcagi</a> on Genius</div> <script crossorigin src='//genius.com/songs/9863544/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-01-12",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#7f7f7f",
+    "song_art_secondary_color": "#424242",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1141445",
+        "cover_art_url": "https://images.genius.com/4d0f5abec928d9e9fb103aaa4f44777d.1000x1000x1.jpg",
+        "full_title": "American Romance by Michael Marcagi",
+        "id": 1141445,
+        "name": "American Romance",
+        "primary_artist_names": "Michael Marcagi",
+        "release_date_for_display": "February 8, 2024",
+        "url": "https://genius.com/albums/Michael-marcagi/American-romance",
+        "artist": {
+            "api_path": "/artists/2485794",
+            "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "id": 2485794,
+            "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Marcagi",
+            "url": "https://genius.com/artists/Michael-marcagi"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2485794",
+                "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                "id": 2485794,
+                "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Michael Marcagi",
+                "url": "https://genius.com/artists/Michael-marcagi"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Video Director Of Photography",
+            "artists": [
+                {
+                    "api_path": "/artists/1558456",
+                    "header_image_url": "https://images.genius.com/fc643663756fd4fb5aebc5d290e78b28.1000x332x1.png",
+                    "id": 1558456,
+                    "image_url": "https://images.genius.com/62fda15211083fe1b74e282142d62e98.776x776x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Mackfall",
+                    "url": "https://genius.com/artists/Ryan-mackfall"
+                }
+            ]
+        },
+        {
+            "label": "Video Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/2181797",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2181797,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Crashburn",
+                    "url": "https://genius.com/artists/Crashburn"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1558456",
+                    "header_image_url": "https://images.genius.com/fc643663756fd4fb5aebc5d290e78b28.1000x332x1.png",
+                    "id": 1558456,
+                    "image_url": "https://images.genius.com/62fda15211083fe1b74e282142d62e98.776x776x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ryan Mackfall",
+                    "url": "https://genius.com/artists/Ryan-mackfall"
+                }
+            ]
+        },
+        {
+            "label": "Tambourine",
+            "artists": [
+                {
+                    "api_path": "/artists/2497279",
+                    "header_image_url": "https://images.genius.com/9c1575e7f9cec6b2422c893294a1d9f7.667x1000x1.jpg",
+                    "id": 2497279,
+                    "image_url": "https://images.genius.com/d96cec0b202fa827acf03175c84dfdfe.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ren\u00e9e Hikari",
+                    "url": "https://genius.com/artists/Renee-hikari"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2497279",
+                    "header_image_url": "https://images.genius.com/9c1575e7f9cec6b2422c893294a1d9f7.667x1000x1.jpg",
+                    "id": 2497279,
+                    "image_url": "https://images.genius.com/d96cec0b202fa827acf03175c84dfdfe.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ren\u00e9e Hikari",
+                    "url": "https://genius.com/artists/Renee-hikari"
+                }
+            ]
+        },
+        {
+            "label": "Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                }
+            ]
+        },
+        {
+            "label": "Banjo",
+            "artists": [
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                }
+            ]
+        },
+        {
+            "label": "Rhodes Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Mellotron",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Glockenspiel",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/668779",
+                    "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "id": 668779,
+                    "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Baron",
+                    "url": "https://genius.com/artists/David-baron"
+                },
+                {
+                    "api_path": "/artists/1052374",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1052374,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Moon",
+                    "url": "https://genius.com/artists/Jon-moon"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2485784",
+                    "header_image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "id": 2485784,
+                    "image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Yorio",
+                    "url": "https://genius.com/artists/Andrew-yorio"
+                },
+                {
+                    "api_path": "/artists/1052374",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1052374,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Moon",
+                    "url": "https://genius.com/artists/Jon-moon"
+                },
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/2485784",
+                    "header_image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "id": 2485784,
+                    "image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Yorio",
+                    "url": "https://genius.com/artists/Andrew-yorio"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/2485784",
+                    "header_image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "id": 2485784,
+                    "image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Yorio",
+                    "url": "https://genius.com/artists/Andrew-yorio"
+                },
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                },
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2485794",
+                    "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "id": 2485794,
+                    "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Marcagi",
+                    "url": "https://genius.com/artists/Michael-marcagi"
+                },
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21394457,
+        "annotator_login": "PaulGibb",
+        "api_path": "/referents/30405307",
+        "classification": "unreviewed",
+        "fragment": "Scared To Start",
+        "id": 30405307,
+        "is_description": true,
+        "path": "/30405307/Michael-marcagi-scared-to-start/Scared-to-start",
+        "range": {
+            "content": "Scared To Start"
+        },
+        "song_id": 9863544,
+        "url": "https://genius.com/30405307/Michael-marcagi-scared-to-start/Scared-to-start",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9863544",
+            "client_timestamps": {
+                "updated_by_human_at": 1742938097,
+                "lyrics_updated_at": 1717009454
+            },
+            "context": "Michael Marcagi",
+            "id": 9863544,
+            "image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+            "link_title": "Scared To Start by\u00a0Michael\u00a0Marcagi",
+            "title": "Scared To Start",
+            "type": "Song",
+            "url": "https://genius.com/Michael-marcagi-scared-to-start-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30405307",
+                "body": {
+                    "plain": "First released as a single and later included on the EP American Romance, \u201cScared to Start\u201d marks Michael Marcagi\u2019s first hit as a songwriter. The song gained popularity on TikTok and subsequently reached the charts worldwide, including the US and the UK.\n\nAbout the meaning of the song, Marcagi said:\n\n\u2018Scared to Start\u2019 is a song for the adventurers, the travelers, and the people who look forward without dwelling on the uncertainties of life. It\u2019s about taking the risks and putting yourself out of your comfort zone, regardless of what the rest of the world has to say."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30405307,
+                "pinned": false,
+                "share_url": "https://genius.com/30405307",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30405307/Michael-marcagi-scared-to-start/Scared-to-start",
+                "verified": false,
+                "votes_total": 3,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21394457",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c75d83035184043f0189e36cfb6e1279",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c75d83035184043f0189e36cfb6e1279",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c75d83035184043f0189e36cfb6e1279",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c75d83035184043f0189e36cfb6e1279",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/c75d83035184043f0189e36cfb6e1279",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 21394457,
+                            "iq": 543,
+                            "login": "PaulGibb",
+                            "name": "PaulGibb",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/PaulGibb",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4921876",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 4921876,
+        "iq": 886384,
+        "login": "lonland",
+        "name": "\u200blonland",
+        "role_for_display": "staff",
+        "url": "https://genius.com/lonland",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/4921876",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 4921876,
+        "iq": 886384,
+        "login": "lonland",
+        "name": "\u200blonland",
+        "role_for_display": "staff",
+        "url": "https://genius.com/lonland",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "michaelmarcagi",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/michaelmarcagi/scared-to-start"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=i1l7QLE4ju0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/668779",
+            "header_image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+            "id": 668779,
+            "image_url": "https://images.genius.com/8944100f952e388a2252999b97f5c494.428x428x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "David Baron",
+            "url": "https://genius.com/artists/David-baron"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10378068",
+                    "artist_names": "Michael Marcagi (Ft. Joy Oladokun)",
+                    "full_title": "Scared To Start (Remix) by\u00a0Michael\u00a0Marcagi (Ft.\u00a0Joy\u00a0Oladokun)",
+                    "header_image_thumbnail_url": "https://images.genius.com/854a6b83dae9c9999132f644e65b702e.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/854a6b83dae9c9999132f644e65b702e.640x640x1.jpg",
+                    "id": 10378068,
+                    "lyrics_owner_id": 15593447,
+                    "lyrics_state": "complete",
+                    "path": "/Michael-marcagi-scared-to-start-remix-lyrics",
+                    "primary_artist_names": "Michael Marcagi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Michael-marcagi-scared-to-start-remix-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 10
+                    },
+                    "release_date_for_display": "May 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/854a6b83dae9c9999132f644e65b702e.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/854a6b83dae9c9999132f644e65b702e.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Scared To Start (Remix)",
+                    "title_with_featured": "Scared To Start (Remix) (Ft.\u00a0Joy\u00a0Oladokun)",
+                    "url": "https://genius.com/Michael-marcagi-scared-to-start-remix-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1180934",
+                            "header_image_url": "https://images.genius.com/f9114e9df8f9269202b5668703431a35.1000x563x1.jpg",
+                            "id": 1180934,
+                            "image_url": "https://images.genius.com/b3da44cfd20a4b517bd7b313a378d840.872x872x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Joy Oladokun",
+                            "url": "https://genius.com/artists/Joy-oladokun",
+                            "iq": 124
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/2485794",
+                        "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                        "id": 2485794,
+                        "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Michael Marcagi",
+                        "url": "https://genius.com/artists/Michael-marcagi"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2485794",
+                            "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                            "id": 2485794,
+                            "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Michael Marcagi",
+                            "url": "https://genius.com/artists/Michael-marcagi"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10114547",
+                    "artist_names": "Michael Marcagi",
+                    "full_title": "Scared To Start (Sun Mountain Sessions) by\u00a0Michael\u00a0Marcagi",
+                    "header_image_thumbnail_url": "https://images.genius.com/9cd565ce9820b7cd6a7cb159e0ff4003.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/9cd565ce9820b7cd6a7cb159e0ff4003.640x640x1.jpg",
+                    "id": 10114547,
+                    "lyrics_owner_id": 15593447,
+                    "lyrics_state": "complete",
+                    "path": "/Michael-marcagi-scared-to-start-sun-mountain-sessions-lyrics",
+                    "primary_artist_names": "Michael Marcagi",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Michael-marcagi-scared-to-start-sun-mountain-sessions-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 1
+                    },
+                    "release_date_for_display": "March 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9cd565ce9820b7cd6a7cb159e0ff4003.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/9cd565ce9820b7cd6a7cb159e0ff4003.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Scared To Start (Sun Mountain Sessions)",
+                    "title_with_featured": "Scared To Start (Sun Mountain Sessions)",
+                    "url": "https://genius.com/Michael-marcagi-scared-to-start-sun-mountain-sessions-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2485794",
+                        "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                        "id": 2485794,
+                        "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Michael Marcagi",
+                        "url": "https://genius.com/artists/Michael-marcagi"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2485794",
+                            "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                            "id": 2485794,
+                            "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Michael Marcagi",
+                            "url": "https://genius.com/artists/Michael-marcagi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10035902",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Michael Marcagi - Scared To Start (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/f94a7fba2500c10b3a86fa1200f55a8f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f94a7fba2500c10b3a86fa1200f55a8f.640x640x1.jpg",
+                    "id": 10035902,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-michael-marcagi-scared-to-start-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-michael-marcagi-scared-to-start-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 12
+                    },
+                    "release_date_for_display": "January 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f94a7fba2500c10b3a86fa1200f55a8f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f94a7fba2500c10b3a86fa1200f55a8f.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Michael Marcagi - Scared To Start (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Michael Marcagi - Scared To Start (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-michael-marcagi-scared-to-start-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9938066",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Michael Marcagi - Scared To Start (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+                    "id": 9938066,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-michael-marcagi-scared-to-start-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-michael-marcagi-scared-to-start-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 12
+                    },
+                    "release_date_for_display": "January 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 10151
+                    },
+                    "title": "Michael Marcagi - Scared To Start (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Michael Marcagi - Scared To Start (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-michael-marcagi-scared-to-start-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10245592",
+                    "artist_names": "Genius Norske Oversettelser",
+                    "full_title": "Michael Marcagi - Scared To Start (Norsk Oversettelse) by\u00a0Genius\u00a0Norske Oversettelser",
+                    "header_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+                    "id": 10245592,
+                    "lyrics_owner_id": 6936343,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-norske-oversettelser-michael-marcagi-scared-to-start-norsk-oversettelse-lyrics",
+                    "primary_artist_names": "Genius Norske Oversettelser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-norske-oversettelser-michael-marcagi-scared-to-start-norsk-oversettelse-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 12
+                    },
+                    "release_date_for_display": "January 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7cd5bd784207e4d2717b5b9e256b27aa.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Michael Marcagi - Scared To Start (Norsk Oversettelse)",
+                    "title_with_featured": "Michael Marcagi - Scared To Start (Norsk Oversettelse)",
+                    "url": "https://genius.com/Genius-norske-oversettelser-michael-marcagi-scared-to-start-norsk-oversettelse-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3461450",
+                        "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                        "id": 3461450,
+                        "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Norske Oversettelser",
+                        "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3461450",
+                            "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                            "id": 3461450,
+                            "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Norske Oversettelser",
+                            "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10035902",
+            "id": 10035902,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-michael-marcagi-scared-to-start-traduccion-al-espanol-lyrics",
+            "title": "Michael Marcagi - Scared To Start (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-michael-marcagi-scared-to-start-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/9938066",
+            "id": 9938066,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-michael-marcagi-scared-to-start-deutsche-ubersetzung-lyrics",
+            "title": "Michael Marcagi - Scared To Start (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-michael-marcagi-scared-to-start-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10245592",
+            "id": 10245592,
+            "language": "no",
+            "lyrics_state": "complete",
+            "path": "/Genius-norske-oversettelser-michael-marcagi-scared-to-start-norsk-oversettelse-lyrics",
+            "title": "Michael Marcagi - Scared To Start (Norsk Oversettelse)",
+            "url": "https://genius.com/Genius-norske-oversettelser-michael-marcagi-scared-to-start-norsk-oversettelse-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2485794",
+            "header_image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "id": 2485794,
+            "image_url": "https://images.genius.com/bc9c2bfaef65d748c5c1a84a493b6d23.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Michael Marcagi",
+            "url": "https://genius.com/artists/Michael-marcagi"
+        },
+        {
+            "api_path": "/artists/2485784",
+            "header_image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+            "id": 2485784,
+            "image_url": "https://images.genius.com/722915c8764482350931abec6fdb362b.200x200x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Andrew Yorio",
+            "url": "https://genius.com/artists/Andrew-yorio"
+        }
+    ],
+    "artist": "Michael Marcagi",
+    "lyrics": "14 ContributorsTranslationsEspa\u00f1olDeutschNorskScared To Start Lyrics\nShe's wearing an old dress, walking it out\nWaiting for someone to turn her around\nBut she won't believe you\nWhen you fall down on your knees\nShe fell asleep listening to my friends\nTalking on and on about how the world ends\nThen she wakes up\nAnd climbs in my front seat\n\nAnd she said\n\"Don't you wait to try it\nAre you scared to find it?\nAnd do you wanna take my broken heart?\nAre you scared to start?\"\n\nLet's lay in the dead grass, stare at the stars\nRun away and live out of cars and bars\nLet's just leave here\n'Cause there's nothing left to see\nAnd if that's wrong, let's make it right\nAnd if you leave, just give me one more night\n'Cause there's no one\nThat you'll find that's quite like me\n\nAnd she said\n\"Don't you wait to try it\nAre you scared to find it?\nAnd do you wanna take my broken heart?\nAre you scared to start?\"\n\nYou don't need the paycheck, don't need the rent\nYou can take it all 'cause it's already spent\nWe can burn out, just as long as we burn bright\n\nAnd she said\n\"Don't you wait to try it\nAre you scared to find it?\nAnd do you wanna take my broken heart?\nWill you ever heal from all these scars?\nDid you ever take it all so far?\nAre you scared to start?\""
+}

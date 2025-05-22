@@ -1,0 +1,812 @@
+{
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/9165868",
+    "artist_names": "Zach Bryan (Ft. The War and Treaty)",
+    "full_title": "Hey Driver by\u00a0Zach\u00a0Bryan (Ft.\u00a0The\u00a0War and Treaty)",
+    "header_image_thumbnail_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.1000x1000x1.png",
+    "id": 9165868,
+    "instrumental": false,
+    "lyrics_owner_id": 4733728,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1740834464,
+    "path": "/Zach-bryan-hey-driver-lyrics",
+    "primary_artist_names": "Zach Bryan",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Zach-bryan-hey-driver-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 8,
+        "day": 25
+    },
+    "release_date_for_display": "August 25, 2023",
+    "release_date_with_abbreviated_month_for_display": "Aug. 25, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 19,
+        "iq_earners": 19,
+        "transcribers": 2,
+        "unreviewed_annotations": 9,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 229862
+    },
+    "title": "Hey Driver",
+    "title_with_featured": "Hey Driver (Ft.\u00a0The\u00a0War and Treaty)",
+    "updated_by_human_at": 1743014303,
+    "url": "https://genius.com/Zach-bryan-hey-driver-lyrics",
+    "featured_artists": [
+        {
+            "api_path": "/artists/1002335",
+            "header_image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+            "id": 1002335,
+            "image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "The War and Treaty",
+            "url": "https://genius.com/artists/The-war-and-treaty"
+        }
+    ],
+    "primary_artist": {
+        "api_path": "/artists/1902011",
+        "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+        "id": 1902011,
+        "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Zach Bryan",
+        "url": "https://genius.com/artists/Zach-bryan"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "apple_music_id": "1703217238",
+    "apple_music_player_url": "https://genius.com/songs/9165868/apple_music_player",
+    "description": {
+        "plain": "Hey Driver was dropped as a demo on YouTube with no promotion on May 26th, 2023.\nhttps://youtube.com/watch?v=1joMaR7G_Vs"
+    },
+    "embed_content": "<div id='rg_embed_link_9165868' class='rg_embed_link' data-song-id='9165868'>Read <a href='https://genius.com/Zach-bryan-hey-driver-lyrics'>\u201cHey Driver\u201d by Zach\u00a0Bryan</a> on Genius</div> <script crossorigin src='//genius.com/songs/9165868/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-08-25",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bb342e",
+    "song_art_secondary_color": "#69221f",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1068560",
+        "cover_art_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.1000x1000x1.png",
+        "full_title": "Zach Bryan by Zach Bryan",
+        "id": 1068560,
+        "name": "Zach Bryan",
+        "primary_artist_names": "Zach Bryan",
+        "release_date_for_display": "August 25, 2023",
+        "url": "https://genius.com/albums/Zach-bryan/Zach-bryan",
+        "artist": {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1902011",
+                "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                "id": 1902011,
+                "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Zach Bryan",
+                "url": "https://genius.com/artists/Zach-bryan"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1207673",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1207673,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Bacigalupi",
+                    "url": "https://genius.com/artists/Daniel-bacigalupi"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1902011",
+                    "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                    "id": 1902011,
+                    "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Bryan",
+                    "url": "https://genius.com/artists/Zach-bryan"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2174439",
+                    "header_image_url": "https://images.genius.com/05624efca52d47617494d4f3b6f8737c.698x255x1.jpg",
+                    "id": 2174439,
+                    "image_url": "https://images.genius.com/664a533120390604be23950db8b521e4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Weinberg",
+                    "url": "https://genius.com/artists/Jake-weinberg"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3642543",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3642543,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dawson March",
+                    "url": "https://genius.com/artists/Dawson-march"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1832869",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1832869,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Slow Wave Audio",
+                    "url": "https://genius.com/artists/Slow-wave-audio"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/71482",
+                    "header_image_url": "https://images.genius.com/04598f525039245609f28a93aadd8592.660x365x1.jpg",
+                    "id": 71482,
+                    "image_url": "https://images.genius.com/04598f525039245609f28a93aadd8592.660x365x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jacquire King",
+                    "url": "https://genius.com/artists/Jacquire-king"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/988745",
+                    "header_image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "id": 988745,
+                    "image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Lyman",
+                    "url": "https://genius.com/artists/Pete-lyman"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3674071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3674071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Belting Bronco Records",
+                    "url": "https://genius.com/artists/Belting-bronco-records"
+                },
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3674071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3674071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Belting Bronco Records",
+                    "url": "https://genius.com/artists/Belting-bronco-records"
+                },
+                {
+                    "api_path": "/artists/1865634",
+                    "header_image_url": "https://images.genius.com/940a8cae8e7b0478dfd5cb00c7798f8b.1000x333x1.jpg",
+                    "id": 1865634,
+                    "image_url": "https://images.genius.com/361c4700f6af44640f3d620259f23a7b.360x360x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Records",
+                    "url": "https://genius.com/artists/Warner-records"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/1002335",
+                    "header_image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+                    "id": 1002335,
+                    "image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The War and Treaty",
+                    "url": "https://genius.com/artists/The-war-and-treaty"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4953018,
+        "annotator_login": "shawnandhisdog",
+        "api_path": "/referents/28642886",
+        "classification": "unreviewed",
+        "fragment": "Hey Driver",
+        "id": 28642886,
+        "is_description": true,
+        "path": "/28642886/Zach-bryan-hey-driver/Hey-driver",
+        "range": {
+            "content": "Hey Driver"
+        },
+        "song_id": 9165868,
+        "url": "https://genius.com/28642886/Zach-bryan-hey-driver/Hey-driver",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9165868",
+            "client_timestamps": {
+                "updated_by_human_at": 1743014303,
+                "lyrics_updated_at": 1740834464
+            },
+            "context": "Zach Bryan",
+            "id": 9165868,
+            "image_url": "https://images.genius.com/b9ba91f2f2862023ba8bc7c3fe4124b0.1000x1000x1.png",
+            "link_title": "Hey Driver by\u00a0Zach\u00a0Bryan (Ft.\u00a0The\u00a0War and Treaty)",
+            "title": "Hey Driver",
+            "type": "Song",
+            "url": "https://genius.com/Zach-bryan-hey-driver-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28642886",
+                "body": {
+                    "plain": "Hey Driver was dropped as a demo on YouTube with no promotion on May 26th, 2023.\nhttps://youtube.com/watch?v=1joMaR7G_Vs"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 28642886,
+                "pinned": false,
+                "share_url": "https://genius.com/28642886",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/28642886/Zach-bryan-hey-driver/Hey-driver",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4953018",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/2l0kzx4gy21",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/2l0kzx4gy21",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/2l0kzx4gy21",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/2l0kzx4gy21",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/vhp0f1r4p1b",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 4953018,
+                            "iq": 6844,
+                            "login": "shawnandhisdog",
+                            "name": "shawnandhisdog",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/shawnandhisdog",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/4733728",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/d1898630dba081b6d856ac22f7c2dd2a.1000x625x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 4733728,
+        "iq": 671174,
+        "login": "JJEvans",
+        "name": "Jay Evans",
+        "role_for_display": "editor",
+        "url": "https://genius.com/JJEvans",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "achane",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/achane/hey-driver-feat-the-war-and"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=o8LTi_zkGuY"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11317044",
+                    "artist_names": "Zach Bryan (Ft. The War and Treaty)",
+                    "full_title": "Hey Driver (Live from Washington D.C.) by\u00a0Zach\u00a0Bryan (Ft.\u00a0The\u00a0War and Treaty)",
+                    "header_image_thumbnail_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.1000x1000x1.png",
+                    "id": 11317044,
+                    "lyrics_owner_id": 22102152,
+                    "lyrics_state": "complete",
+                    "path": "/Zach-bryan-hey-driver-live-from-washington-dc-lyrics",
+                    "primary_artist_names": "Zach Bryan",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Zach-bryan-hey-driver-live-from-washington-dc-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/2eedbf765848eed35a31177254d7b4ee.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Hey Driver (Live from Washington D.C.)",
+                    "title_with_featured": "Hey Driver (Live from Washington D.C.) (Ft.\u00a0The\u00a0War and Treaty)",
+                    "url": "https://genius.com/Zach-bryan-hey-driver-live-from-washington-dc-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1002335",
+                            "header_image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+                            "id": 1002335,
+                            "image_url": "https://images.genius.com/81c8ee248f5cacf592d69c68f764b5b9.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The War and Treaty",
+                            "url": "https://genius.com/artists/The-war-and-treaty"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/1902011",
+                        "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                        "id": 1902011,
+                        "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Zach Bryan",
+                        "url": "https://genius.com/artists/Zach-bryan"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1902011",
+                            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+                            "id": 1902011,
+                            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Zach Bryan",
+                            "url": "https://genius.com/artists/Zach-bryan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10165335",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Zach Bryan - Hey Driver (Ft. The War and Treaty) (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/1b4da18ca75de8f5895a7682165ced52.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/1b4da18ca75de8f5895a7682165ced52.1000x1000x1.png",
+                    "id": 10165335,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-zach-bryan-hey-driver-ft-the-war-and-treaty-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-hey-driver-ft-the-war-and-treaty-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 8,
+                        "day": 25
+                    },
+                    "release_date_for_display": "August 25, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 25, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/1b4da18ca75de8f5895a7682165ced52.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/1b4da18ca75de8f5895a7682165ced52.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Zach Bryan - Hey Driver (Ft. The War and Treaty) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Zach Bryan - Hey Driver (Ft. The War and Treaty) (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-hey-driver-ft-the-war-and-treaty-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10165335",
+            "id": 10165335,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-zach-bryan-hey-driver-ft-the-war-and-treaty-traduccion-al-espanol-lyrics",
+            "title": "Zach Bryan - Hey Driver (Ft. The War and Treaty) (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-zach-bryan-hey-driver-ft-the-war-and-treaty-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1902011",
+            "header_image_url": "https://images.genius.com/8bb6dbbc81faa5c3a051c637e9ef79e9.1000x429x1.jpg",
+            "id": 1902011,
+            "image_url": "https://images.genius.com/2664920c76999ce7bc46b182f6b07c45.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Zach Bryan",
+            "url": "https://genius.com/artists/Zach-bryan"
+        }
+    ],
+    "artist": "Zach Bryan",
+    "lyrics": "19 ContributorsTranslationsEspa\u00f1olHey Driver Lyrics\nAlright, man, I'm ready when y'all are\nThis is your song, Mike, let's do it\nAlright, here we go\nOne, two, three, and\n\nSo take me down a road that's a little bit windy\nTo a place they still put sugar in their iced tea\nWhere the women are fine and the love is fair\nHey, driver, you can drop me off anywhere\n\nHey, driver, pull on over\nI'm in a fight with God\nThis Carolina shoulder\nSeems the place I'm gettin' off\nDaddy always told me\n\"Never make a home on the road\nWhile your lady's sneakin' out\nAnd the kids are growin' old\"\n\nHey, driver, I've been ridin'\nThis lonely way too long\nAll the love I've had worth givin'\nWas all spent on my songs\nHey, driver, the boys are gamblin'\nWith more than just their cards\nWith their bottles and their drugs\nAnd their Bibles and their hearts (Ooh)\n\nSo take me down a road that's a little bit windy\nTo a place they still put sugar in their iced tea\nWhere the women are fine and the love is fair\nHey, driver, you can drop me off anywhere\nHey, driver, you can drop me off anywhere\n\nHey, driver, I've been feelin'\nLike there's no point at all\nThe Klonopin ain't kicked in\nAnd I missed my sister's call\nHey, driver, I'm so tired\nOf the ways of this old world\nJust drive until the tires melt\nWe'll come back when it's healed (Oh)\n\nSo take me down a road that's a little bit windy\nTo a place they still put sugar in their iced tea\nWhere the women are fine and the love is fair\nHey, driver, you can drop me off anywhere\nHey, driver, you can drop me off anywhere\nMichael Trotter, Jr\nHey, driver, you can drop me off anywhere\n\nSo take me down a road that's a little bit windy\nTo a place they still put sugar in their iced tea\nWhere the women are fine and the love is fair\nHey, driver, you can drop me off anywhere\nHey, driver, you can drop me off anywhere\nHey, driver, you can drop me off anywhere\nHey, driver, you can drop me off anywhere"
+}

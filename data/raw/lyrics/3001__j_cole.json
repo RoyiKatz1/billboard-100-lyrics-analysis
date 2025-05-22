@@ -1,0 +1,844 @@
+{
+    "_type": "song",
+    "annotation_count": 31,
+    "api_path": "/songs/10179412",
+    "artist_names": "J. Cole",
+    "full_title": "3001 by\u00a0J.\u00a0Cole",
+    "header_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+    "header_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+    "id": 10179412,
+    "instrumental": false,
+    "lyrics_owner_id": 14287967,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1741616663,
+    "path": "/J-cole-3001-lyrics",
+    "primary_artist_names": "J. Cole",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/J-cole-3001-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 5
+    },
+    "release_date_for_display": "April 5, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 5,
+        "contributors": 79,
+        "iq_earners": 79,
+        "transcribers": 6,
+        "unreviewed_annotations": 26,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 80003
+    },
+    "title": "3001",
+    "title_with_featured": "3001",
+    "updated_by_human_at": 1741616663,
+    "url": "https://genius.com/J-cole-3001-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/69",
+        "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+        "id": 69,
+        "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "J. Cole",
+        "url": "https://genius.com/artists/J-cole",
+        "iq": 505
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        }
+    ],
+    "apple_music_id": "1739698466",
+    "apple_music_player_url": "https://genius.com/songs/10179412/apple_music_player",
+    "description": {
+        "plain": "One of the Singles that Cole put out from his Might Delete Later Vol. 2 Video\n\nAt the beginning and end of the song, J Cole mentions people that may be listening in the year 3001 (977 years from now), followed by how the world is in a declining state as of now and predicting that that will not have changed in the year 3001.\n\nThe purpose of this song may be to highlight the current problems of the world and hope that us as humans can sort out said problems before the year 3001, as J. Cole predicts."
+    },
+    "embed_content": "<div id='rg_embed_link_10179412' class='rg_embed_link' data-song-id='10179412'>Read <a href='https://genius.com/J-cole-3001-lyrics'>\u201c3001\u201d by J.\u00a0Cole</a> on Genius</div> <script crossorigin src='//genius.com/songs/10179412/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-04-05",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#ed5f14",
+    "song_art_secondary_color": "#98230d",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1165883",
+        "cover_art_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+        "full_title": "Might Delete Later by J. Cole",
+        "id": 1165883,
+        "name": "Might Delete Later",
+        "primary_artist_names": "J. Cole",
+        "release_date_for_display": "April 5, 2024",
+        "url": "https://genius.com/albums/J-cole/Might-delete-later",
+        "artist": {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/69",
+                "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+                "id": 69,
+                "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "J. Cole",
+                "url": "https://genius.com/artists/J-cole",
+                "iq": 505
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1277132",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1277132,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kuldeep Chudasama",
+                    "url": "https://genius.com/artists/Kuldeep-chudasama"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3903256",
+                    "header_image_url": "https://images.genius.com/c72496e3bc3655da97877618eb3f2b9b.838x838x1.jpg",
+                    "id": 3903256,
+                    "image_url": "https://images.genius.com/da5dd721092c8b72d3e3ecb44f2fc44d.838x838x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole World, Inc.",
+                    "url": "https://genius.com/artists/Cole-world-inc"
+                },
+                {
+                    "api_path": "/artists/143490",
+                    "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+                    "id": 143490,
+                    "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Interscope Records",
+                    "url": "https://genius.com/artists/Interscope-records",
+                    "iq": 175
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3903256",
+                    "header_image_url": "https://images.genius.com/c72496e3bc3655da97877618eb3f2b9b.838x838x1.jpg",
+                    "id": 3903256,
+                    "image_url": "https://images.genius.com/da5dd721092c8b72d3e3ecb44f2fc44d.838x838x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cole World, Inc.",
+                    "url": "https://genius.com/artists/Cole-world-inc"
+                },
+                {
+                    "api_path": "/artists/143490",
+                    "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+                    "id": 143490,
+                    "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Interscope Records",
+                    "url": "https://genius.com/artists/Interscope-records",
+                    "iq": 175
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/642578",
+                    "header_image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+                    "id": 642578,
+                    "image_url": "https://images.genius.com/8e4c8d3ac29ffc4e129e564becd397e9.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Juro \u201cMez\u201d Davis",
+                    "url": "https://genius.com/artists/Juro-mez-davis"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 7749172,
+        "annotator_login": "Awakenmymasters",
+        "api_path": "/referents/31259687",
+        "classification": "unreviewed",
+        "fragment": "3001",
+        "id": 31259687,
+        "is_description": true,
+        "path": "/31259687/J-cole-3001/3001",
+        "range": {
+            "content": "3001"
+        },
+        "song_id": 10179412,
+        "url": "https://genius.com/31259687/J-cole-3001/3001",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10179412",
+            "client_timestamps": {
+                "updated_by_human_at": 1741616663,
+                "lyrics_updated_at": 1741616663
+            },
+            "context": "J. Cole",
+            "id": 10179412,
+            "image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+            "link_title": "3001 by\u00a0J.\u00a0Cole",
+            "title": "3001",
+            "type": "Song",
+            "url": "https://genius.com/J-cole-3001-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31259687",
+                "body": {
+                    "plain": "One of the Singles that Cole put out from his Might Delete Later Vol. 2 Video\n\nAt the beginning and end of the song, J Cole mentions people that may be listening in the year 3001 (977 years from now), followed by how the world is in a declining state as of now and predicting that that will not have changed in the year 3001.\n\nThe purpose of this song may be to highlight the current problems of the world and hope that us as humans can sort out said problems before the year 3001, as J. Cole predicts."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31259687,
+                "pinned": false,
+                "share_url": "https://genius.com/31259687",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31259687/J-cole-3001/3001",
+                "verified": false,
+                "votes_total": 21,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.8282828282828283,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21675239",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/6d92158a54b2d909e8b8ada96afa6068",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/6d92158a54b2d909e8b8ada96afa6068",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/6d92158a54b2d909e8b8ada96afa6068",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/6d92158a54b2d909e8b8ada96afa6068",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/6d92158a54b2d909e8b8ada96afa6068",
+                            "human_readable_role_for_display": null,
+                            "id": 21675239,
+                            "iq": 217,
+                            "login": "itsj4cko",
+                            "name": "itsj4cko",
+                            "role_for_display": null,
+                            "url": "https://genius.com/itsj4cko",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.17171717171717174,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/7749172",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/e22454150ee23a331d074379a42cb7d8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/e22454150ee23a331d074379a42cb7d8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/e22454150ee23a331d074379a42cb7d8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/e22454150ee23a331d074379a42cb7d8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/e22454150ee23a331d074379a42cb7d8",
+                            "human_readable_role_for_display": null,
+                            "id": 7749172,
+                            "iq": 174,
+                            "login": "Awakenmymasters",
+                            "name": "Awakenmymasters",
+                            "role_for_display": null,
+                            "url": "https://genius.com/Awakenmymasters",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/2976672",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
+        "human_readable_role_for_display": "Staff",
+        "id": 2976672,
+        "iq": 476152,
+        "login": "Gary",
+        "name": "Gary",
+        "role_for_display": "staff",
+        "url": "https://genius.com/Gary",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/2976672",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/cc8cb9cfb7d0483ceb806db951b86733",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/l1pegbzlvms",
+        "human_readable_role_for_display": "Staff",
+        "id": 2976672,
+        "iq": 476152,
+        "login": "Gary",
+        "name": "Gary",
+        "role_for_display": "staff",
+        "url": "https://genius.com/Gary",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=2KPNfSdcRn0"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/29978",
+            "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+            "id": 29978,
+            "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Mike WiLL Made-It",
+            "url": "https://genius.com/artists/Mike-will-made-it",
+            "iq": 548
+        },
+        {
+            "api_path": "/artists/627151",
+            "header_image_url": "https://images.genius.com/af17cdcba8c71160cb9caa523ffa1e1a.1000x741x1.png",
+            "id": 627151,
+            "image_url": "https://images.genius.com/fee381b42a442e217342a9b8c8698e40.533x533x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Pluss",
+            "url": "https://genius.com/artists/Pluss"
+        },
+        {
+            "api_path": "/artists/27479",
+            "header_image_url": "https://images.genius.com/ecfd0adc578d121959214705cdf95374.810x810x1.jpg",
+            "id": 27479,
+            "image_url": "https://images.genius.com/ecfd0adc578d121959214705cdf95374.810x810x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "T-Minus",
+            "url": "https://genius.com/artists/T-minus"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": [
+                {
+                    "annotation_count": 14,
+                    "api_path": "/songs/10245192",
+                    "artist_names": "J. Cole & Bas",
+                    "full_title": "Stealth Mode by\u00a0J.\u00a0Cole & Bas",
+                    "header_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+                    "id": 10245192,
+                    "lyrics_owner_id": 321054,
+                    "lyrics_state": "complete",
+                    "path": "/J-cole-and-bas-stealth-mode-lyrics",
+                    "primary_artist_names": "J. Cole & Bas",
+                    "pyongs_count": 1,
+                    "relationships_index_url": "https://genius.com/J-cole-and-bas-stealth-mode-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 5
+                    },
+                    "release_date_for_display": "April 5, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a6950f1e231b57ddaee343d433f62044.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 14,
+                        "hot": false,
+                        "pageviews": 62824
+                    },
+                    "title": "Stealth Mode",
+                    "title_with_featured": "Stealth Mode",
+                    "url": "https://genius.com/J-cole-and-bas-stealth-mode-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/69",
+                        "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+                        "id": 69,
+                        "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "J. Cole",
+                        "url": "https://genius.com/artists/J-cole",
+                        "iq": 505
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/69",
+                            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+                            "id": 69,
+                            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "J. Cole",
+                            "url": "https://genius.com/artists/J-cole",
+                            "iq": 505
+                        },
+                        {
+                            "api_path": "/artists/24472",
+                            "header_image_url": "https://images.genius.com/c65967fac5fcbbd7798adc18f2413e11.1000x563x1.jpg",
+                            "id": 24472,
+                            "image_url": "https://images.genius.com/6f5338565e5f07aa4ee5c7f21ff0a167.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Bas",
+                            "url": "https://genius.com/artists/Bas",
+                            "iq": 4071
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 11,
+                    "api_path": "/songs/11279181",
+                    "artist_names": "\u200bdablinky",
+                    "full_title": "bori\u0107i freestyle by\u00a0\u200bdablinky",
+                    "header_image_thumbnail_url": "https://images.genius.com/52f0c9d110469c74c83d7dd8d77354cb.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/52f0c9d110469c74c83d7dd8d77354cb.1000x1000x1.png",
+                    "id": 11279181,
+                    "lyrics_owner_id": 20009592,
+                    "lyrics_state": "complete",
+                    "path": "/Dablinky-borici-freestyle-lyrics",
+                    "primary_artist_names": "\u200bdablinky",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dablinky-borici-freestyle-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 7
+                    },
+                    "release_date_for_display": "January 7, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 7, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/52f0c9d110469c74c83d7dd8d77354cb.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/52f0c9d110469c74c83d7dd8d77354cb.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 11,
+                        "hot": false
+                    },
+                    "title": "bori\u0107i freestyle",
+                    "title_with_featured": "bori\u0107i freestyle",
+                    "url": "https://genius.com/Dablinky-borici-freestyle-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3470729",
+                        "header_image_url": "https://images.genius.com/1f2b456c3a8c9d6da6da1accbedb1661.1000x563x1.jpg",
+                        "id": 3470729,
+                        "image_url": "https://images.genius.com/d4d16b4ac0c353544d12c86ca78320e9.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bdablinky",
+                        "url": "https://genius.com/artists/Dablinky"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3470729",
+                            "header_image_url": "https://images.genius.com/1f2b456c3a8c9d6da6da1accbedb1661.1000x563x1.jpg",
+                            "id": 3470729,
+                            "image_url": "https://images.genius.com/d4d16b4ac0c353544d12c86ca78320e9.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bdablinky",
+                            "url": "https://genius.com/artists/Dablinky"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/69",
+            "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+            "id": 69,
+            "image_url": "https://images.genius.com/39189c212b61330e50a8d8404cdc1ac4.421x421x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "J. Cole",
+            "url": "https://genius.com/artists/J-cole",
+            "iq": 505
+        }
+    ],
+    "artist": "J. Cole",
+    "lyrics": "79 Contributors3001 Lyrics\nWhat I need with ten cars? I can't drive but one\nThis for my niggas listening in 3001\nAs I'm writin' through this song, this world's gone insane\nI know you feel me 'cause I bet that shit still ain't changed\nI'm on a mission for this chicken, I'ma kill everything\nI'm stackin' for a rainy day and it still ain't rained\nWhy niggas never open up? The answer had me chokin' up\nIt ain't enough words around to reveal they pain\n\nI'm holdin' on tight to what it feel like to live a peaceful life\nSince ridin' a bike, all that I ever knew was beef and strife\nGoin' to sleep at night, prayin' that God release the stress\nNow I'm on G4 jets across the s\u0435as to decompress\nMy rec\u0435nt checks, how much you think? Hm, decent guess\nThey growin' more eager, \"Cole, who you gon' kill on a feature next?\"\nWho would you suggest? My nigga just told me the streets a myth\nAnd he's perplexed, they tellin' on people like the teacher's pet\nHe took a pull of his weed, he high as the trees where eagles nest\nI started chiefin' less and less, it had my cerebral vexed\nToo many blessings to be depressed\nWent from too stressed to being blessed\nNow, my new recipe's just keep that fuck shit from my desk\nI don't want shit but my breath, I don't want shit but my fam'\nThought I used superglue, nigga, how this gun stick to my hand\nI don't even tote no pistol, but that shit sounded so hard\nPlus, I don't give a fuck about lyin' once I learned these niggas fraud\nI'm finna burn these niggas, dawg\nBring me that urn, these nigga char\nCole, I'ma send 'em to crossroads with the lost souls\nI saw Nia Long quote\nI would've poked, back when my heart cold\nGive her three or four strokes\nThen I'm onto the next, shit like a par four\nI'm a raw-ass nigga, 6'4\", tall-ass nigga\nWith a sick flow, y'all ask Jigga\nHow much did the kid gross for that label\nPaid dues, had to pay dude for my masters, but I'm grateful\nShit, business is business\nI'm in the Ville, the windows is tinted\nKeeping my dick in my britches, y'all get to the bitches\nMe, I'ma get to this money and split with the missus\nNigga, this vicious, and I'm the truth\nAll of these niggas fictitious\nLook at Jermaine, still runnin' the game\nDamn, this physical fitness\nFuck with me, man\n\nWhat I need with ten cars? I can't drive but one\nThis for my niggas listening in 3001\nAs I'm writin' through this song, this world's gone insane\nI know you feel me 'cause I bet that shit still ain't changed\nI'm on a mission for this chicken, I'ma kill everything\nI'm stackin' for a rainy day and it still ain't rained\nWhy niggas never open up? The answer had me chokin' up\nIt ain't enough words around to reveal they pain"
+}

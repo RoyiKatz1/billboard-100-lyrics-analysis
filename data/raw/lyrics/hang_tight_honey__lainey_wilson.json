@@ -1,0 +1,880 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/10377121",
+    "artist_names": "Lainey Wilson",
+    "full_title": "Hang Tight Honey by\u00a0Lainey\u00a0Wilson",
+    "header_image_thumbnail_url": "https://images.genius.com/87e65e47fe362533654f6ef5195419df.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/87e65e47fe362533654f6ef5195419df.778x778x1.jpg",
+    "id": 10377121,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1716513324,
+    "path": "/Lainey-wilson-hang-tight-honey-lyrics",
+    "primary_artist_names": "Lainey Wilson",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Lainey-wilson-hang-tight-honey-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 13
+    },
+    "release_date_for_display": "May 13, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 13, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/87e65e47fe362533654f6ef5195419df.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/87e65e47fe362533654f6ef5195419df.778x778x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 13128
+    },
+    "title": "Hang Tight Honey",
+    "title_with_featured": "Hang Tight Honey",
+    "updated_by_human_at": 1732585813,
+    "url": "https://genius.com/Lainey-wilson-hang-tight-honey-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1149083",
+        "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+        "id": 1149083,
+        "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lainey Wilson",
+        "url": "https://genius.com/artists/Lainey-wilson"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        }
+    ],
+    "apple_music_id": "1744255561",
+    "apple_music_player_url": "https://genius.com/songs/10377121/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10377121' class='rg_embed_link' data-song-id='10377121'>Read <a href='https://genius.com/Lainey-wilson-hang-tight-honey-lyrics'>\u201cHang Tight Honey\u201d by Lainey\u00a0Wilson</a> on Genius</div> <script crossorigin src='//genius.com/songs/10377121/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-13",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#7f7f7f",
+    "song_art_secondary_color": "#424242",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1180584",
+        "cover_art_url": "https://images.genius.com/863e55a09fcf51e3f5c383e6a9de4e8f.1000x1000x1.png",
+        "full_title": "Whirlwind by Lainey Wilson",
+        "id": 1180584,
+        "name": "Whirlwind",
+        "primary_artist_names": "Lainey Wilson",
+        "release_date_for_display": "August 23, 2024",
+        "url": "https://genius.com/albums/Lainey-wilson/Whirlwind",
+        "artist": {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1149083",
+                "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                "id": 1149083,
+                "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Lainey Wilson",
+                "url": "https://genius.com/artists/Lainey-wilson"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1089419",
+                    "header_image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "id": 1089419,
+                    "image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Hall",
+                    "url": "https://genius.com/artists/Jason-hall"
+                },
+                {
+                    "api_path": "/artists/1604218",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1604218,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bobby Louden of Sweet Ascent",
+                    "url": "https://genius.com/artists/Bobby-louden-of-sweet-ascent"
+                },
+                {
+                    "api_path": "/artists/988745",
+                    "header_image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "id": 988745,
+                    "image_url": "https://images.genius.com/05e5f196d8488f013fc295a3223bd962.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Pete Lyman",
+                    "url": "https://genius.com/artists/Pete-lyman"
+                },
+                {
+                    "api_path": "/artists/1597691",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1597691,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmy Mansfield",
+                    "url": "https://genius.com/artists/Jimmy-mansfield"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/662408",
+                    "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "id": 662408,
+                    "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Mendelson",
+                    "url": "https://genius.com/artists/Andrew-mendelson"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1089419",
+                    "header_image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "id": 1089419,
+                    "image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Hall",
+                    "url": "https://genius.com/artists/Jason-hall"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Hammond B-3 Organ",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Timpani",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1835655",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1835655,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tommy Scifres",
+                    "url": "https://genius.com/artists/Tommy-scifres"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/648504",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 648504,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fred Eltringham",
+                    "url": "https://genius.com/artists/Fred-eltringham"
+                },
+                {
+                    "api_path": "/artists/1028728",
+                    "header_image_url": "https://images.genius.com/4cd24e7000321ca423184f641a9e47e5.640x640x1.jpg",
+                    "id": 1028728,
+                    "image_url": "https://images.genius.com/d47b969543dc65f1f0da7e3284ddd33b.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matt Nolan",
+                    "url": "https://genius.com/artists/Matt-nolan"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1908653",
+                    "header_image_url": "https://images.genius.com/c87a5df22141c25ae167a6901e38118d.1000x1000x1.jpg",
+                    "id": 1908653,
+                    "image_url": "https://images.genius.com/c87a5df22141c25ae167a6901e38118d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aslan Freeman",
+                    "url": "https://genius.com/artists/Aslan-freeman"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                },
+                {
+                    "api_path": "/artists/984323",
+                    "header_image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "id": 984323,
+                    "image_url": "https://images.genius.com/7439c3a280d8510507e317cb1c68a588.412x412x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rob McNelley",
+                    "url": "https://genius.com/artists/Rob-mcnelley"
+                },
+                {
+                    "api_path": "/artists/1668653",
+                    "header_image_url": "https://images.genius.com/3b472734e098586269afdaa2197fdce1.722x722x1.jpg",
+                    "id": 1668653,
+                    "image_url": "https://images.genius.com/3b472734e098586269afdaa2197fdce1.722x722x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kevin Nolan",
+                    "url": "https://genius.com/artists/Kevin-nolan"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/2006858",
+                    "header_image_url": "https://images.genius.com/e6cbb86d07784bb4824e5e08fa238f46.960x640x1.jpg",
+                    "id": 2006858,
+                    "image_url": "https://images.genius.com/4ee118ab7302f101356982691827aa16.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Trannie Stevens",
+                    "url": "https://genius.com/artists/Trannie-stevens"
+                },
+                {
+                    "api_path": "/artists/1089419",
+                    "header_image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "id": 1089419,
+                    "image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Hall",
+                    "url": "https://genius.com/artists/Jason-hall"
+                },
+                {
+                    "api_path": "/artists/59535",
+                    "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "id": 59535,
+                    "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jay Joyce",
+                    "url": "https://genius.com/artists/Jay-joyce"
+                }
+            ]
+        },
+        {
+            "label": "Lead Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1149083",
+                    "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                    "id": 1149083,
+                    "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lainey Wilson",
+                    "url": "https://genius.com/artists/Lainey-wilson"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/1158393",
+                    "header_image_url": "https://images.genius.com/3d5cd7cf365e35ba599b15cd3c26f057.1000x1000x1.jpg",
+                    "id": 1158393,
+                    "image_url": "https://images.genius.com/3d5cd7cf365e35ba599b15cd3c26f057.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Nix",
+                    "url": "https://genius.com/artists/Jason-nix"
+                },
+                {
+                    "api_path": "/artists/1594664",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1594664,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Sikes",
+                    "url": "https://genius.com/artists/Paul-sikes"
+                },
+                {
+                    "api_path": "/artists/685046",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 685046,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Driver Williams",
+                    "url": "https://genius.com/artists/Driver-williams"
+                },
+                {
+                    "api_path": "/artists/1149083",
+                    "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+                    "id": 1149083,
+                    "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lainey Wilson",
+                    "url": "https://genius.com/artists/Lainey-wilson"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1332082",
+                    "header_image_url": "https://images.genius.com/ae4512efb7fb2d55e87304b5f597a3db.560x262x1.jpg",
+                    "id": 1332082,
+                    "image_url": "https://images.genius.com/3678bcff4a06ccff07e4a834be400c1e.170x170x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Broken Bow Records",
+                    "url": "https://genius.com/artists/Broken-bow-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1332082",
+                    "header_image_url": "https://images.genius.com/ae4512efb7fb2d55e87304b5f597a3db.560x262x1.jpg",
+                    "id": 1332082,
+                    "image_url": "https://images.genius.com/3678bcff4a06ccff07e4a834be400c1e.170x170x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Broken Bow Records",
+                    "url": "https://genius.com/artists/Broken-bow-records"
+                },
+                {
+                    "api_path": "/artists/1977241",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977241,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "This Is Hit, Inc",
+                    "url": "https://genius.com/artists/This-is-hit-inc"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1332082",
+                    "header_image_url": "https://images.genius.com/ae4512efb7fb2d55e87304b5f597a3db.560x262x1.jpg",
+                    "id": 1332082,
+                    "image_url": "https://images.genius.com/3678bcff4a06ccff07e4a834be400c1e.170x170x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Broken Bow Records",
+                    "url": "https://genius.com/artists/Broken-bow-records"
+                },
+                {
+                    "api_path": "/artists/1977241",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977241,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "This Is Hit, Inc",
+                    "url": "https://genius.com/artists/This-is-hit-inc"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1332082",
+                    "header_image_url": "https://images.genius.com/ae4512efb7fb2d55e87304b5f597a3db.560x262x1.jpg",
+                    "id": 1332082,
+                    "image_url": "https://images.genius.com/3678bcff4a06ccff07e4a834be400c1e.170x170x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Broken Bow Records",
+                    "url": "https://genius.com/artists/Broken-bow-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/31689021",
+        "classification": "needs_exegesis",
+        "fragment": "Hang Tight Honey",
+        "id": 31689021,
+        "is_description": true,
+        "path": "/31689021/Lainey-wilson-hang-tight-honey/Hang-tight-honey",
+        "range": {
+            "content": "Hang Tight Honey"
+        },
+        "song_id": 10377121,
+        "url": "https://genius.com/31689021/Lainey-wilson-hang-tight-honey/Hang-tight-honey",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10377121",
+            "client_timestamps": {
+                "updated_by_human_at": 1732585813,
+                "lyrics_updated_at": 1716513324
+            },
+            "context": "Lainey Wilson",
+            "id": 10377121,
+            "image_url": "https://images.genius.com/87e65e47fe362533654f6ef5195419df.778x778x1.jpg",
+            "link_title": "Hang Tight Honey by\u00a0Lainey\u00a0Wilson",
+            "title": "Hang Tight Honey",
+            "type": "Song",
+            "url": "https://genius.com/Lainey-wilson-hang-tight-honey-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31689021",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31689021,
+                "pinned": false,
+                "share_url": "https://genius.com/31689021",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31689021/Lainey-wilson-hang-tight-honey/Hang-tight-honey",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=LIzEdmRgu14"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/59535",
+            "header_image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+            "id": 59535,
+            "image_url": "https://images.genius.com/c452e9a3af352c5c97b8729fc41a5cdd.671x671x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jay Joyce",
+            "url": "https://genius.com/artists/Jay-joyce"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/685046",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 685046,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Driver Williams",
+            "url": "https://genius.com/artists/Driver-williams"
+        },
+        {
+            "api_path": "/artists/1158393",
+            "header_image_url": "https://images.genius.com/3d5cd7cf365e35ba599b15cd3c26f057.1000x1000x1.jpg",
+            "id": 1158393,
+            "image_url": "https://images.genius.com/3d5cd7cf365e35ba599b15cd3c26f057.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jason Nix",
+            "url": "https://genius.com/artists/Jason-nix"
+        },
+        {
+            "api_path": "/artists/1149083",
+            "header_image_url": "https://images.genius.com/d7db48fa5bc9996f8afc47b9ae2086d6.1000x333x1.jpg",
+            "id": 1149083,
+            "image_url": "https://images.genius.com/da82142655f9f3ce5c207f896b043d18.594x594x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lainey Wilson",
+            "url": "https://genius.com/artists/Lainey-wilson"
+        },
+        {
+            "api_path": "/artists/1594664",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 1594664,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Paul Sikes",
+            "url": "https://genius.com/artists/Paul-sikes"
+        }
+    ],
+    "artist": "Lainey Wilson",
+    "lyrics": "6 ContributorsHang Tight Honey Lyrics\n(Ooh, ooh, ooh-ooh-ooh)\n(Ooh, ooh, ooh-ooh-ooh, ooh-ooh)\n\nI got a bus 'fore I got a house 'cause that's what dreams make you do\nHittin' them neon honky-tonks to play a two-step or two\nTwo hundred days to a hundred towns, bringin' boots to a sawdust floor\nWhile this 6 string calls my name, baby, I'll be missin' yours\n\nHang tight honey I'm a white line runnin'\nDown a dream on a long-lost highway\nMe and this band playin' one-night stands\nFor some fans gettin' straight up sideways\nBut baby I miss your blue-collar kiss\nJust one more day to get through\nHang tight honey got a pocket full of money\nAnd I'm headed straight home to you\n\n(Ooh, ooh, ooh-ooh-ooh)\n\nYeah you can't hold me and I can't hold you, from two time zones away\nWhen you're clocking out yeah I'm clockin' in, gettin' ready to hit the stag\u0435\nJust know they're singing along to all them songs I wrot\u0435 about you\nAnd I'll be savin' all my lovin' for you come Sunday afternoon\n\nHang tight honey I'm a white line runnin'\nDown a dream on a long-lost highway\nMe and this band playin' one-night stands\nFor some fans gettin' straight up sideways\nBut baby I miss your blue-collar kiss\nJust one more day to get through\nHang tight honey got a pocket full of money\nAnd I'm headed straight home to you\n\nYeah, I'm comin' home to you, baby\n\nHang tight honey\nEvery good run comes to an end\nHang tight honey\n'Til I'm in your arms again\n\nHang tight honey I'm a white line runnin'\nDown a dream on a long-lost highway\nMe and this band playin' one-night stands\nFor some fans gettin' straight up sideways\nBut baby I miss your blue-collar kiss\nJust one more day to get through\nHang tight honey got a pocket full of money\nAnd I'm headed straight home to you\nHang tight honey got a pocket full of money\nAnd I'm headed straight home to you\n\n(Ooh, ooh, ooh-ooh-ooh)\nI'm headed straight home to you\n(Ooh, ooh, ooh-ooh-ooh)\nI'm headed straight home to you"
+}

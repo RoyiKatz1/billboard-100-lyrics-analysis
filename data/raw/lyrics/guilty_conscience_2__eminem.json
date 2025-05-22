@@ -1,0 +1,1713 @@
+{
+    "_type": "song",
+    "annotation_count": 49,
+    "api_path": "/songs/10630198",
+    "artist_names": "Eminem",
+    "full_title": "Guilty Conscience 2 by\u00a0Eminem",
+    "header_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+    "id": 10630198,
+    "instrumental": false,
+    "lyrics_owner_id": 6877117,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1743088685,
+    "path": "/Eminem-guilty-conscience-2-lyrics",
+    "primary_artist_names": "Eminem",
+    "pyongs_count": 34,
+    "relationships_index_url": "https://genius.com/Eminem-guilty-conscience-2-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 7,
+        "day": 12
+    },
+    "release_date_for_display": "July 12, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 15,
+        "contributors": 230,
+        "iq_earners": 230,
+        "transcribers": 3,
+        "unreviewed_annotations": 33,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 587584
+    },
+    "title": "Guilty Conscience 2",
+    "title_with_featured": "Guilty Conscience 2",
+    "updated_by_human_at": 1744397165,
+    "url": "https://genius.com/Eminem-guilty-conscience-2-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/45",
+        "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+        "id": 45,
+        "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Eminem",
+        "url": "https://genius.com/artists/Eminem",
+        "iq": 286226
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/45",
+            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+            "id": 45,
+            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Eminem",
+            "url": "https://genius.com/artists/Eminem",
+            "iq": 286226
+        }
+    ],
+    "apple_music_id": "1755022508",
+    "apple_music_player_url": "https://genius.com/songs/10630198/apple_music_player",
+    "description": {
+        "plain": "\u201cGuilty Conscience 2\u201d is the sequel to Eminem\u2019s popular 1999 track \u201cGuilty Conscience.\u201d The original track focuses on Slim Shady influencing different people to do morally wrong things while Dr. Dre attempts to do the opposite, making them do better actions.\n\nOn the other hand, the sequel is written as a conversation/argument between Eminem and his alter ego, Slim Shady."
+    },
+    "embed_content": "<div id='rg_embed_link_10630198' class='rg_embed_link' data-song-id='10630198'>Read <a href='https://genius.com/Eminem-guilty-conscience-2-lyrics'>\u201cGuilty Conscience 2\u201d by Eminem</a> on Genius</div> <script crossorigin src='//genius.com/songs/10630198/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-07-12",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#e3202c",
+    "song_art_secondary_color": "#15476b",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1239817",
+        "cover_art_url": "https://images.genius.com/ae6cea2c0d58b95c2126f2dc49a9e149.1000x1000x1.jpg",
+        "full_title": "The Death of Slim Shady (Coup De Gr\u00e2ce) [Expanded Mourner\u2019s Edition] by Eminem",
+        "id": 1239817,
+        "name": "The Death of Slim Shady (Coup De Gr\u00e2ce) [Expanded Mourner\u2019s Edition]",
+        "primary_artist_names": "Eminem",
+        "release_date_for_display": "September 13, 2024",
+        "url": "https://genius.com/albums/Eminem/The-death-of-slim-shady-coup-de-grace-expanded-mourners-edition",
+        "artist": {
+            "api_path": "/artists/45",
+            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+            "id": 45,
+            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Eminem",
+            "url": "https://genius.com/artists/Eminem",
+            "iq": 286226
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/45",
+                "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                "id": 45,
+                "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Eminem",
+                "url": "https://genius.com/artists/Eminem",
+                "iq": 286226
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2287163",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2287163,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Karam\u2019s Kid Songs",
+                    "url": "https://genius.com/artists/Karams-kid-songs"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/648041",
+                    "header_image_url": "https://images.genius.com/e97e77720bff06844982449c559cc143.1000x1000x1.png",
+                    "id": 648041,
+                    "image_url": "https://images.genius.com/a7e1ee6cba00091ee294d8b66b06df3d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "EMI Music Publishing",
+                    "url": "https://genius.com/artists/Emi-music-publishing"
+                },
+                {
+                    "api_path": "/artists/1270371",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1270371,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dem Jointz Music",
+                    "url": "https://genius.com/artists/Dem-jointz-music"
+                },
+                {
+                    "api_path": "/artists/1179023",
+                    "header_image_url": "https://images.genius.com/e0f5e49317e965cfa53e20c085a955e1.851x315x1.png",
+                    "id": 1179023,
+                    "image_url": "https://images.genius.com/4ebbcabd72ac78217a95d7a2f767218d.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kobalt Music",
+                    "url": "https://genius.com/artists/Kobalt-music"
+                },
+                {
+                    "api_path": "/artists/650212",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 650212,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shroom Shady Music",
+                    "url": "https://genius.com/artists/Shroom-shady-music"
+                },
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/45",
+                    "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                    "id": 45,
+                    "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Eminem",
+                    "url": "https://genius.com/artists/Eminem",
+                    "iq": 286226
+                },
+                {
+                    "api_path": "/artists/194501",
+                    "header_image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+                    "id": 194501,
+                    "image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dem Jointz",
+                    "url": "https://genius.com/artists/Dem-jointz"
+                },
+                {
+                    "api_path": "/artists/6017",
+                    "header_image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+                    "id": 6017,
+                    "image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FredWreck",
+                    "url": "https://genius.com/artists/Fredwreck"
+                },
+                {
+                    "api_path": "/artists/33782",
+                    "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+                    "id": 33782,
+                    "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis Resto",
+                    "url": "https://genius.com/artists/Luis-resto"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/45",
+                    "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                    "id": 45,
+                    "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Eminem",
+                    "url": "https://genius.com/artists/Eminem",
+                    "iq": 286226
+                },
+                {
+                    "api_path": "/artists/194501",
+                    "header_image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+                    "id": 194501,
+                    "image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dem Jointz",
+                    "url": "https://genius.com/artists/Dem-jointz"
+                },
+                {
+                    "api_path": "/artists/6017",
+                    "header_image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+                    "id": 6017,
+                    "image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FredWreck",
+                    "url": "https://genius.com/artists/Fredwreck"
+                },
+                {
+                    "api_path": "/artists/33782",
+                    "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+                    "id": 33782,
+                    "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis Resto",
+                    "url": "https://genius.com/artists/Luis-resto"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/33782",
+                    "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+                    "id": 33782,
+                    "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luis Resto",
+                    "url": "https://genius.com/artists/Luis-resto"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/644202",
+                    "header_image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+                    "id": 644202,
+                    "image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Strange",
+                    "url": "https://genius.com/artists/Mike-strange"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/637914",
+                    "header_image_url": "https://images.genius.com/9ed2a5315fe0d92d7047de8f72fc66ff.508x800x1.jpg",
+                    "id": 637914,
+                    "image_url": "https://images.genius.com/83484709e5b3cacf10774eb0639fcc7d.508x508x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brian Gardner",
+                    "url": "https://genius.com/artists/Brian-gardner"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/644202",
+                    "header_image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+                    "id": 644202,
+                    "image_url": "https://images.genius.com/101f253fca546d742a5a4e5299d1b06b.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Strange",
+                    "url": "https://genius.com/artists/Mike-strange"
+                },
+                {
+                    "api_path": "/artists/650872",
+                    "header_image_url": "https://images.genius.com/4b73bb61b94ba9c0b6eb4218457e300a.400x400x1.jpg",
+                    "id": 650872,
+                    "image_url": "https://images.genius.com/4b73bb61b94ba9c0b6eb4218457e300a.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tony Campana",
+                    "url": "https://genius.com/artists/Tony-campana"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/45",
+                    "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                    "id": 45,
+                    "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Eminem",
+                    "url": "https://genius.com/artists/Eminem",
+                    "iq": 286226
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/45",
+                    "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                    "id": 45,
+                    "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Eminem",
+                    "url": "https://genius.com/artists/Eminem",
+                    "iq": 286226
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/143985",
+                    "header_image_url": "https://images.genius.com/c7a691a6809b3cce9022619f4d3747ca.1000x688x1.jpg",
+                    "id": 143985,
+                    "image_url": "https://images.genius.com/daaa59b352d3a7851989c290cd5d0b2e.667x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shady Records",
+                    "url": "https://genius.com/artists/Shady-records"
+                },
+                {
+                    "api_path": "/artists/1136259",
+                    "header_image_url": "https://images.genius.com/0cdf9c00e6a53abaf3ecffbf77c4e04e.1000x500x1.jpg",
+                    "id": 1136259,
+                    "image_url": "https://images.genius.com/ce0ff7521d657a567e4d76a5bb6f4508.304x304x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aftermath Entertainment",
+                    "url": "https://genius.com/artists/Aftermath-entertainment"
+                },
+                {
+                    "api_path": "/artists/143490",
+                    "header_image_url": "https://images.genius.com/20ee0dc07918a750d532b2316361d3a2.1000x333x1.jpg",
+                    "id": 143490,
+                    "image_url": "https://images.genius.com/f28d415a7f5f966f5814e7c07cf8dc23.271x271x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Interscope Records",
+                    "url": "https://genius.com/artists/Interscope-records",
+                    "iq": 175
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 6459935,
+        "annotator_login": "kaykayrumi",
+        "api_path": "/referents/32315552",
+        "classification": "accepted",
+        "fragment": "Guilty Conscience 2",
+        "id": 32315552,
+        "is_description": true,
+        "path": "/32315552/Eminem-guilty-conscience-2/Guilty-conscience-2",
+        "range": {
+            "content": "Guilty Conscience 2"
+        },
+        "song_id": 10630198,
+        "url": "https://genius.com/32315552/Eminem-guilty-conscience-2/Guilty-conscience-2",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10630198",
+            "client_timestamps": {
+                "updated_by_human_at": 1744397165,
+                "lyrics_updated_at": 1743088685
+            },
+            "context": "Eminem",
+            "id": 10630198,
+            "image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+            "link_title": "Guilty Conscience 2 by\u00a0Eminem",
+            "title": "Guilty Conscience 2",
+            "type": "Song",
+            "url": "https://genius.com/Eminem-guilty-conscience-2-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32315552",
+                "body": {
+                    "plain": "\u201cGuilty Conscience 2\u201d is the sequel to Eminem\u2019s popular 1999 track \u201cGuilty Conscience.\u201d The original track focuses on Slim Shady influencing different people to do morally wrong things while Dr. Dre attempts to do the opposite, making them do better actions.\n\nOn the other hand, the sequel is written as a conversation/argument between Eminem and his alter ego, Slim Shady."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32315552,
+                "pinned": false,
+                "share_url": "https://genius.com/32315552",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/32315552/Eminem-guilty-conscience-2/Guilty-conscience-2",
+                "verified": false,
+                "votes_total": 143,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.6885245901639344,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/6459935",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/5c9219da188604664ed0bedb0d1e6c49",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/5c9219da188604664ed0bedb0d1e6c49",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/5c9219da188604664ed0bedb0d1e6c49",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/5c9219da188604664ed0bedb0d1e6c49",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/f822528d6920b48d2eb5917c2bc392e2.1000x562x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 6459935,
+                            "iq": 142267,
+                            "login": "kaykayrumi",
+                            "name": "charLIT \u2764\ufe0f",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/kaykayrumi",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.22950819672131145,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22120202",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/5f4ba80de5c0a4d412577ae963ef34b8",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/5f4ba80de5c0a4d412577ae963ef34b8",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/5f4ba80de5c0a4d412577ae963ef34b8",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/5f4ba80de5c0a4d412577ae963ef34b8",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/5f4ba80de5c0a4d412577ae963ef34b8",
+                            "human_readable_role_for_display": null,
+                            "id": 22120202,
+                            "iq": 170,
+                            "login": "OwenJefferson",
+                            "name": "OwenJefferson",
+                            "role_for_display": null,
+                            "url": "https://genius.com/OwenJefferson",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.08196721311475409,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12367620",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/0bcd1f9eba651a3c491e50f709761c05",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/0bcd1f9eba651a3c491e50f709761c05",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/0bcd1f9eba651a3c491e50f709761c05",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/0bcd1f9eba651a3c491e50f709761c05",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/jei2vuvwboh",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 12367620,
+                            "iq": 138506,
+                            "login": "Marco",
+                            "name": "Marco",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/Marco",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=5yeGhfL0zCU"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/194501",
+            "header_image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+            "id": 194501,
+            "image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dem Jointz",
+            "url": "https://genius.com/artists/Dem-jointz"
+        },
+        {
+            "api_path": "/artists/45",
+            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+            "id": 45,
+            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Eminem",
+            "url": "https://genius.com/artists/Eminem",
+            "iq": 286226
+        },
+        {
+            "api_path": "/artists/6017",
+            "header_image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+            "id": 6017,
+            "image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FredWreck",
+            "url": "https://genius.com/artists/Fredwreck"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 32,
+                    "api_path": "/songs/1239",
+                    "artist_names": "Eminem",
+                    "full_title": "When I'm Gone by\u00a0Eminem",
+                    "header_image_thumbnail_url": "https://images.genius.com/0f31b12579405430b96dc8b2543c8624.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0f31b12579405430b96dc8b2543c8624.1000x1000x1.png",
+                    "id": 1239,
+                    "lyrics_owner_id": 732,
+                    "lyrics_state": "complete",
+                    "path": "/Eminem-when-im-gone-lyrics",
+                    "primary_artist_names": "Eminem",
+                    "pyongs_count": 345,
+                    "relationships_index_url": "https://genius.com/Eminem-when-im-gone-sample",
+                    "release_date_components": {
+                        "year": 2005,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2005",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2005",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0f31b12579405430b96dc8b2543c8624.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0f31b12579405430b96dc8b2543c8624.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 2337189
+                    },
+                    "title": "When I\u2019m Gone",
+                    "title_with_featured": "When I'm Gone",
+                    "url": "https://genius.com/Eminem-when-im-gone-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/45",
+                        "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                        "id": 45,
+                        "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Eminem",
+                        "url": "https://genius.com/artists/Eminem",
+                        "iq": 286226
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/45",
+                            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                            "id": 45,
+                            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Eminem",
+                            "url": "https://genius.com/artists/Eminem",
+                            "iq": 286226
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": "https://genius.com/Eminem-guilty-conscience-2-sample/interpolations",
+            "songs": [
+                {
+                    "annotation_count": 32,
+                    "api_path": "/songs/1370",
+                    "artist_names": "Eminem (Ft. Dr. Dre)",
+                    "full_title": "Guilty Conscience by\u00a0Eminem (Ft.\u00a0Dr.\u00a0Dre)",
+                    "header_image_thumbnail_url": "https://images.genius.com/5c37794036c54d89e2a10ccd755d60ed.300x301x1.jpg",
+                    "header_image_url": "https://images.genius.com/5c37794036c54d89e2a10ccd755d60ed.998x1000x1.jpg",
+                    "id": 1370,
+                    "lyrics_owner_id": 462,
+                    "lyrics_state": "complete",
+                    "path": "/Eminem-guilty-conscience-lyrics",
+                    "primary_artist_names": "Eminem",
+                    "pyongs_count": 82,
+                    "relationships_index_url": "https://genius.com/Eminem-guilty-conscience-sample",
+                    "release_date_components": {
+                        "year": 1999,
+                        "month": 2,
+                        "day": 23
+                    },
+                    "release_date_for_display": "February 23, 1999",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 23, 1999",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5c37794036c54d89e2a10ccd755d60ed.300x301x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/5c37794036c54d89e2a10ccd755d60ed.998x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "concurrents": 2,
+                        "hot": false,
+                        "pageviews": 1049587
+                    },
+                    "title": "Guilty Conscience",
+                    "title_with_featured": "Guilty Conscience (Ft.\u00a0Dr.\u00a0Dre)",
+                    "url": "https://genius.com/Eminem-guilty-conscience-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/123",
+                            "header_image_url": "https://images.genius.com/3112ac90ee0c2284025601843d6b0cbc.1000x165x1.png",
+                            "id": 123,
+                            "image_url": "https://images.genius.com/f65ef81c48f2dc91059486f03cc8440b.432x432x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Dr. Dre",
+                            "url": "https://genius.com/artists/Dr-dre"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/45",
+                        "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                        "id": 45,
+                        "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Eminem",
+                        "url": "https://genius.com/artists/Eminem",
+                        "iq": 286226
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/45",
+                            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                            "id": 45,
+                            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Eminem",
+                            "url": "https://genius.com/artists/Eminem",
+                            "iq": 286226
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 44,
+                    "api_path": "/songs/10630186",
+                    "artist_names": "Eminem",
+                    "full_title": "Brand New Dance by\u00a0Eminem",
+                    "header_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+                    "id": 10630186,
+                    "lyrics_owner_id": 126836,
+                    "lyrics_state": "complete",
+                    "path": "/Eminem-brand-new-dance-lyrics",
+                    "primary_artist_names": "Eminem",
+                    "pyongs_count": 29,
+                    "relationships_index_url": "https://genius.com/Eminem-brand-new-dance-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 29,
+                        "hot": false,
+                        "pageviews": 506777
+                    },
+                    "title": "Brand New Dance",
+                    "title_with_featured": "Brand New Dance",
+                    "url": "https://genius.com/Eminem-brand-new-dance-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/45",
+                        "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                        "id": 45,
+                        "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Eminem",
+                        "url": "https://genius.com/artists/Eminem",
+                        "iq": 286226
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/45",
+                            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                            "id": 45,
+                            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Eminem",
+                            "url": "https://genius.com/artists/Eminem",
+                            "iq": 286226
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 14,
+                    "api_path": "/songs/10630185",
+                    "artist_names": "Eminem",
+                    "full_title": "Trouble by\u00a0Eminem",
+                    "header_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+                    "id": 10630185,
+                    "lyrics_owner_id": 13688155,
+                    "lyrics_state": "complete",
+                    "path": "/Eminem-trouble-lyrics",
+                    "primary_artist_names": "Eminem",
+                    "pyongs_count": 22,
+                    "relationships_index_url": "https://genius.com/Eminem-trouble-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c1f33d444c890ca69b03610da44619a8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 10,
+                        "hot": false,
+                        "pageviews": 425973
+                    },
+                    "title": "Trouble",
+                    "title_with_featured": "Trouble",
+                    "url": "https://genius.com/Eminem-trouble-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/45",
+                        "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                        "id": 45,
+                        "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Eminem",
+                        "url": "https://genius.com/artists/Eminem",
+                        "iq": 286226
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/45",
+                            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+                            "id": 45,
+                            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Eminem",
+                            "url": "https://genius.com/artists/Eminem",
+                            "iq": 286226
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": "https://genius.com/Eminem-guilty-conscience-2-sample/interpolations",
+            "songs": [
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/10770039",
+                    "artist_names": "AFZL (Ft. Essential illusion)",
+                    "full_title": "Confessions by\u00a0AFZL (Ft.\u00a0Essential\u00a0illusion)",
+                    "header_image_thumbnail_url": "https://images.genius.com/13def4ba64b3552b07a9c2bd8ecd6e1c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/13def4ba64b3552b07a9c2bd8ecd6e1c.1000x1000x1.jpg",
+                    "id": 10770039,
+                    "lyrics_owner_id": 21993813,
+                    "lyrics_state": "complete",
+                    "path": "/Afzl-confessions-lyrics",
+                    "primary_artist_names": "AFZL",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Afzl-confessions-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 2
+                    },
+                    "release_date_for_display": "October 2, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 2, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/13def4ba64b3552b07a9c2bd8ecd6e1c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/13def4ba64b3552b07a9c2bd8ecd6e1c.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false
+                    },
+                    "title": "Confessions",
+                    "title_with_featured": "Confessions (Ft.\u00a0Essential\u00a0illusion)",
+                    "url": "https://genius.com/Afzl-confessions-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/4071488",
+                            "header_image_url": "https://images.genius.com/453c49f43f516cb1be36010c71be48b6.1000x1000x1.jpg",
+                            "id": 4071488,
+                            "image_url": "https://images.genius.com/84cb66c58744351736c1e971332546c7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Essential illusion",
+                            "url": "https://genius.com/artists/Essential-illusion"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/3977754",
+                        "header_image_url": "https://images.genius.com/d6404d5ea3e09a9bd561909e5bd1a066.1000x1000x1.jpg",
+                        "id": 3977754,
+                        "image_url": "https://images.genius.com/d6404d5ea3e09a9bd561909e5bd1a066.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "AFZL",
+                        "url": "https://genius.com/artists/Afzl"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3977754",
+                            "header_image_url": "https://images.genius.com/d6404d5ea3e09a9bd561909e5bd1a066.1000x1000x1.jpg",
+                            "id": 3977754,
+                            "image_url": "https://images.genius.com/d6404d5ea3e09a9bd561909e5bd1a066.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "AFZL",
+                            "url": "https://genius.com/artists/Afzl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Eminem-guilty-conscience-2-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10630879",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Eminem - Guilty Conscience 2 (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "id": 10630879,
+                    "lyrics_owner_id": 13666838,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-eminem-guilty-conscience-2-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-eminem-guilty-conscience-2-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-eminem-guilty-conscience-2-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10631688",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Eminem - Guilty Conscience 2 (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "id": 10631688,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-eminem-guilty-conscience-2-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-eminem-guilty-conscience-2-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-eminem-guilty-conscience-2-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/10634544",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Eminem - Guilty Conscience 2 (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "id": 10634544,
+                    "lyrics_owner_id": 15600793,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-eminem-guilty-conscience-2-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-eminem-guilty-conscience-2-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 7410
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-eminem-guilty-conscience-2-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 14,
+                    "api_path": "/songs/10883790",
+                    "artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "full_title": "Eminem - Guilty Conscience 2 (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "header_image_thumbnail_url": "https://images.genius.com/92365c4319f879f54265d095c4cb4c82.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/92365c4319f879f54265d095c4cb4c82.1000x1000x1.png",
+                    "id": 10883790,
+                    "lyrics_owner_id": 21998695,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ukrainian-translations-eminem-guilty-conscience-2-lyrics",
+                    "primary_artist_names": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-eminem-guilty-conscience-2-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/92365c4319f879f54265d095c4cb4c82.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/92365c4319f879f54265d095c4cb4c82.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 14,
+                        "hot": false
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+                    "url": "https://genius.com/Genius-ukrainian-translations-eminem-guilty-conscience-2-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1872193",
+                        "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "id": 1872193,
+                        "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1872193",
+                            "header_image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "id": 1872193,
+                            "image_url": "https://images.genius.com/abd9e00f08d6ba0a788c8ef7ae207d87.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Ukrainian Translations (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0438)",
+                            "url": "https://genius.com/artists/Genius-ukrainian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10662305",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Eminem - Guilty Conscience 2 (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "id": 10662305,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-eminem-guilty-conscience-2-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-eminem-guilty-conscience-2-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3996fc902f4085dc7f20b4993b458717.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-eminem-guilty-conscience-2-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10644544",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Eminem - Guilty Conscience 2 (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/4e7ec0cd52581a372f938425034c2c0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4e7ec0cd52581a372f938425034c2c0c.1000x1000x1.png",
+                    "id": 10644544,
+                    "lyrics_owner_id": 22126430,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-eminem-guilty-conscience-2-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-eminem-guilty-conscience-2-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 12
+                    },
+                    "release_date_for_display": "July 12, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 12, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4e7ec0cd52581a372f938425034c2c0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4e7ec0cd52581a372f938425034c2c0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Eminem - Guilty Conscience 2 (Traduzione Italiana)",
+                    "title_with_featured": "Eminem - Guilty Conscience 2 (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-eminem-guilty-conscience-2-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10630879",
+            "id": 10630879,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-eminem-guilty-conscience-2-turkce-ceviri-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-eminem-guilty-conscience-2-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10631688",
+            "id": 10631688,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-eminem-guilty-conscience-2-deutsche-ubersetzung-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-eminem-guilty-conscience-2-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10634544",
+            "id": 10634544,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-eminem-guilty-conscience-2-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-eminem-guilty-conscience-2-lyrics"
+        },
+        {
+            "api_path": "/songs/10883790",
+            "id": 10883790,
+            "language": "uk",
+            "lyrics_state": "complete",
+            "path": "/Genius-ukrainian-translations-eminem-guilty-conscience-2-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+            "url": "https://genius.com/Genius-ukrainian-translations-eminem-guilty-conscience-2-lyrics"
+        },
+        {
+            "api_path": "/songs/10662305",
+            "id": 10662305,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-eminem-guilty-conscience-2-polskie-tumaczenie-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-eminem-guilty-conscience-2-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10644544",
+            "id": 10644544,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-eminem-guilty-conscience-2-traduzione-italiana-lyrics",
+            "title": "Eminem - Guilty Conscience 2 (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-eminem-guilty-conscience-2-traduzione-italiana-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/45",
+            "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+            "id": 45,
+            "image_url": "https://images.genius.com/868941a6147f9c570d6a1612caf6a5ef.1000x1000x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Eminem",
+            "url": "https://genius.com/artists/Eminem",
+            "iq": 286226
+        },
+        {
+            "api_path": "/artists/194501",
+            "header_image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+            "id": 194501,
+            "image_url": "https://images.genius.com/ffb47d07e9696fb4c1b1390a3997ff42.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Dem Jointz",
+            "url": "https://genius.com/artists/Dem-jointz"
+        },
+        {
+            "api_path": "/artists/6017",
+            "header_image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+            "id": 6017,
+            "image_url": "https://images.genius.com/b28b676b352af6acee080e816109bda4.600x682x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "FredWreck",
+            "url": "https://genius.com/artists/Fredwreck"
+        },
+        {
+            "api_path": "/artists/33782",
+            "header_image_url": "https://images.genius.com/b11dcb349ce12ee3fb1e6ac903756351.1000x698x1.jpg",
+            "id": 33782,
+            "image_url": "https://images.genius.com/93b6573df63cc5675a8273d131b00b1f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Luis Resto",
+            "url": "https://genius.com/artists/Luis-resto"
+        }
+    ],
+    "artist": "Eminem",
+    "lyrics": "230 ContributorsTranslationsT\u00fcrk\u00e7eDeutsch\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430PolskiItalianoGuilty Conscience 2 Lyrics\u201cGuilty Conscience 2\u201d is the sequel to Eminem\u2019s popular 1999 track \u201cGuilty Conscience.\u201d The original track focuses on Slim Shady influencing different people to do morally wrong things while Dr. Dre attempts\u2026 Read More\u00a0\nWelp, we did it now\nI know, right?\nIt's beautiful, ain't it?\nYeah, you happy now, bitch?\nYep\nAlright, you\u2005got\u2005what you wanted\nYeah,\u2005what?\nLet me go\nHa, never\nWhy does it\u2005feel like I'm always being tortured?\nThe bad apple spoils the whole orchard\nUsed to read comic books to learn more words\n'Cause deep down, I'm a dork, just a core nerd\nMeaning nerd to the core 'til I'm cornered\nThen I'm the coroner\nWhat shot is this? First, second, it's your third\nVision is more blurred\nSpeech is more slurred\nCan't even form words\nIt's lik\u0435 a dream up inside of a dream I'm trapp\u0435d in\nIt's worse than I could've imagined, it's madness\nCan't wake up, try my damnedest, but old habits are coming back\nAnd now transgenders attack us, frontwards and backwards\nThey laugh and throw midgets at us (Ha)\nThis ain't no dream now, huh? See what I mean now?\nYou see how they're tryna make me out to be some kind of mean, vile,  obscene, foul prick?\nI kick one freestyle (Damn) 'bout beatin' down a special-needs child and these people freak out (Timmy)\nTold you we'd get slaughtered for sayin', \"Retarded\"\nAw, Marshall's getting a conscience (Fuck you)\nThis may come as a shock or have you astonished, regardless\nHere's the thing 'bout retarded people (What?)\nThey don't fuckin' know they're retarded\nWell, okay, you wanna fat shame\nBitch, two can play that game (What?)\nYou wanna judge people? (Yeah)\nMatter of fact, ain't you the same one who hated bullies calling you bad names? (Yep)\nThen you turned around and did the exact same (So?)\nJust immature and literally, you're still mentally thirteen\nAnd still thirsty for some controversy\nYou're still pickin' on Christopher Reeves\nYeah, but you're me, and we're a team\nSo that means, we're in cahoots\nThat's conspiracy to commit murder lyrically\nSo clearly, you're the accessory like jewelry\nYou ain't the judge or the jury, you're just as guilty\nYou rip on paraplegics, man, seriously?\nOh, bitch, it's a joke\nNo, it's not, it's embarrassing (What?)\nLike David Carradine found with a pair of jeans at his ankles and belt 'round his larynx\nI know, it's a scary scene\nThey're coming with everything\nLittle people are trolling me (Ha)\nThey saying they've had it (What?) up to here with me\nOh, hilarity (Come on)\nNah, do your thing\nFuck deaf people, yeah\nWell, between me and you\nI think they've had it up to here with me too (What the fuck?)\nSorry I'm not perfect as you, Marshall\nPunching down on little people (Yeah), not cool (Whoops)\nYou just sound like a dick, wait, nah, fool (What?)\nWhen I say, \"Fuck midgets,\" I mean Ja Rule (Oh)\nAnd I know that Chris Reeves song was recorded in 2004 for Encore (Yeah)\nFuck'd you take it off for?\n'Cause he died\nMan, that motherfucker did that bullshit on purpose to ruin the song for us (Man)\nMan, I never seen a bigger pussy than you\nBitch, look at all the shit the media's puttin' me through (What?)\n'Cause of all the fuck shit that you pushed me to do (Me?)\nShoulda knew when I found you, you were just too good to be true (Hmm)\nThat's how we end up in these quagmires\nYou said you had my back, liar\nBut I helped you get your stacks higher (Yeah)\nThat's diamond sales like sapphires\nRap buyers at Meijers, packed lines of admirers\nNow they say you lack ire\nThat's why your satire backfires (Yeah)\nFlat tires, no longer that guy you were prior to this\nYeah, and I scare you 'cause (Why?) I'm who you used to be (Who?)\nThe you who didn't crumble under the scrutiny (Wait, what?)\nWhen it was you and me (Yeah)\nI gave you power to use me as an excuse to be evil (I know)\nYou created me to say everything you didn't have the balls to say (Yep)\nWhat you were thinkin', but in a more diabolic way\nYou fed me pills and a bottle of alcohol a day (Okay)\nMade me too strong for you and lost control of me (You're right)\nI took over you totally\nYou were socially awkward 'til you molded me (Yeah)\nYou was a loner, a nobody\n'Cause of me, you didn't take shit from nobody\nNow look at you (What?)\nNow you just a punk (Man), little scaredy cat (Word)\nGot you shook like Shakira's ass (Yeah)\nTo look at your reflection staring back\nBitch (Uh-huh), it's just a mirror, relax\nMan, you're so full of shit, you need MiraLAX (What?)\nOpen your mouth and shit flies out (Uh) just lies\nYou thinkin' you can whip my ass, undo these zipties (Word)\nYou can just undo my feet and keep my hands tied\n'Cause like an avalanche, I'd still win by a landslide\nOh, you think so, bitch? Yeah, I know so\nOkay, your hands and feet, I let 'em both go\nYeah, fuck now, ho, give me that gun, no, don't, ah\nRear naked chokehold, let me go, yo\nHere, take it, bozo (Yeah)\nQueer bait, you homo (You ready?)\nNo, don't shoot (Here we go)\nBro, no, no\nNow say you're sorry and you didn't mean any of it\nI'm sorry Marshall's a pussy, he's Dre and Jimmy's puppet (What?)\nSorry he gives a fuck, but pretends he doesn't\nAlright, you piece of shit, that does it (Uh-oh, wait)\nYeah, bitch, this is for him (What?)\nChristopher, MGK, Nick, and for Limp Bizkit and them\nMidgets and Ben\u2014 (Man, please)\n'Zino, in addition to him\nWill Smith and to Canibus, if you're listening, this is the end (Okay, okay, I'll stop)\nSo to Jamar and Ja Rule and to all\nMy feuds including ma (What?)\nI'm welcoming you to my (No, no)\nLast hoorah, I bid you goodbye (Come on, man, don't do this)\nMurder suicide\nKillshot, booyaka, cock sucker\nCoup de gr\u00e2ce, motherfucker\n\n(Shady's rock-a-bye baby, ha)\nOh, woah, what the fuck?\nCome on, come on, come on, come on\nYeah?\nPaul\nYou're not gonna fucking believe this, bro\nI had this dream, it was fucking crazy\nIt was like, the old me came back on the new me\nAnd took over my brain and had me sayin' all this fucked-up shit\nAbout little people and Caitlyn Jenner and\nPC police were chasin' me\nAnd fucking Gen Z was tryna kill me\nAnd quadriplegics, and Christopher Reeves\nAnd I was saying all this fucked-up shit\nAnd I couldn't stop sayin' it\nAnd then I wake up and it was like I was still dreamin'\nFuck you\nWait\nHahaha"
+}

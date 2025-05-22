@@ -1,0 +1,559 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10319248",
+    "artist_names": "Genius English Translations",
+    "full_title": "Myke Towers & Bad Bunny - ADIVINO (English Translation) by\u00a0Genius\u00a0English Translations",
+    "header_image_thumbnail_url": "https://images.genius.com/8b7075839487b52caa1099aaf47aa2ea.300x300x1.png",
+    "header_image_url": "https://images.genius.com/8b7075839487b52caa1099aaf47aa2ea.1000x1000x1.png",
+    "id": 10319248,
+    "instrumental": false,
+    "lyrics_owner_id": 8674307,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1714388522,
+    "path": "/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics",
+    "primary_artist_names": "Genius English Translations",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 4,
+        "day": 25
+    },
+    "release_date_for_display": "April 25, 2024",
+    "release_date_with_abbreviated_month_for_display": "Apr. 25, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/8b7075839487b52caa1099aaf47aa2ea.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/8b7075839487b52caa1099aaf47aa2ea.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 119561
+    },
+    "title": "Myke Towers & Bad Bunny - ADIVINO (English Translation)",
+    "title_with_featured": "Myke Towers & Bad Bunny - ADIVINO (English Translation)",
+    "updated_by_human_at": 1745649162,
+    "url": "https://genius.com/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/196943",
+        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+        "id": 196943,
+        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius English Translations",
+        "url": "https://genius.com/artists/Genius-english-translations"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/196943",
+            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+            "id": 196943,
+            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Genius English Translations",
+            "url": "https://genius.com/artists/Genius-english-translations"
+        }
+    ],
+    "apple_music_id": null,
+    "apple_music_player_url": "https://genius.com/songs/10319248/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10319248' class='rg_embed_link' data-song-id='10319248'>Read <a href='https://genius.com/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics'>\u201cMyke Towers & Bad Bunny - ADIVINO (English Translation)\u201d by Genius\u00a0English Translations</a> on Genius</div> <script crossorigin src='//genius.com/songs/10319248/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-04-25",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#090909",
+    "song_art_secondary_color": "#1c203d",
+    "song_art_text_color": "#ffffff",
+    "album": {
+        "api_path": "/albums/1273063",
+        "cover_art_url": "https://images.genius.com/fe62eedc1313d475d4e0bac4b972f307.1000x1000x1.png",
+        "full_title": "Myke Towers - LA PANTERA NEGRA (DELUXE) [English Translation] by Genius English Translations",
+        "id": 1273063,
+        "name": "Myke Towers - LA PANTERA NEGRA (DELUXE) [English Translation]",
+        "primary_artist_names": "Genius English Translations",
+        "release_date_for_display": "October 17, 2024",
+        "url": "https://genius.com/albums/Genius-english-translations/Myke-towers-la-pantera-negra-deluxe-english-translation",
+        "artist": {
+            "api_path": "/artists/196943",
+            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+            "id": 196943,
+            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Genius English Translations",
+            "url": "https://genius.com/artists/Genius-english-translations"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/196943",
+                "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                "id": 196943,
+                "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Genius English Translations",
+                "url": "https://genius.com/artists/Genius-english-translations"
+            }
+        ]
+    },
+    "custom_performances": [],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 14660310,
+        "annotator_login": "Felix",
+        "api_path": "/referents/31537540",
+        "classification": "needs_exegesis",
+        "fragment": "Myke Towers & Bad Bunny - ADIVINO (English Translation)",
+        "id": 31537540,
+        "is_description": true,
+        "path": "/31537540/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation/Myke-towers-and-bad-bunny-adivino-english-translation",
+        "range": {
+            "content": "Myke Towers & Bad Bunny - ADIVINO (English Translation)"
+        },
+        "song_id": 10319248,
+        "url": "https://genius.com/31537540/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation/Myke-towers-and-bad-bunny-adivino-english-translation",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10319248",
+            "client_timestamps": {
+                "updated_by_human_at": 1745649162,
+                "lyrics_updated_at": 1714388522
+            },
+            "context": "Genius English Translations",
+            "id": 10319248,
+            "image_url": "https://images.genius.com/8b7075839487b52caa1099aaf47aa2ea.1000x1000x1.png",
+            "link_title": "Myke Towers & Bad Bunny - ADIVINO (English Translation) by\u00a0Genius\u00a0English Translations",
+            "title": "Myke Towers & Bad Bunny - ADIVINO (English Translation)",
+            "type": "Song",
+            "url": "https://genius.com/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31537540",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 31537540,
+                "pinned": false,
+                "share_url": "https://genius.com/31537540",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/31537540/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation/Myke-towers-and-bad-bunny-adivino-english-translation",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14660310",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/b3edcdc40a6ca1509981ea4d891db3a9",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/b3edcdc40a6ca1509981ea4d891db3a9",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/b3edcdc40a6ca1509981ea4d891db3a9",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/b3edcdc40a6ca1509981ea4d891db3a9",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/a981d3f50d87b9d315b92b4fb247317f.595x401x1.jpg",
+                            "human_readable_role_for_display": "Transcriber",
+                            "id": 14660310,
+                            "iq": 501997,
+                            "login": "Felix",
+                            "name": "Felixxxx",
+                            "role_for_display": "transcriber",
+                            "url": "https://genius.com/Felix",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/8674307",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/a986b98230bad0799dadf9e405ecbe62",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/a986b98230bad0799dadf9e405ecbe62",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/a986b98230bad0799dadf9e405ecbe62",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/a986b98230bad0799dadf9e405ecbe62",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/a986b98230bad0799dadf9e405ecbe62",
+        "human_readable_role_for_display": "Editor",
+        "id": 8674307,
+        "iq": 234386,
+        "login": "sdfor123",
+        "name": "\u200bsdfor123",
+        "role_for_display": "editor",
+        "url": "https://genius.com/sdfor123",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=19fOoC8tcmY"
+        }
+    ],
+    "producer_artists": [],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": [
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/10313440",
+                    "artist_names": "Myke Towers & Bad Bunny",
+                    "full_title": "ADIVINO by\u00a0Myke\u00a0Towers & Bad\u00a0Bunny",
+                    "header_image_thumbnail_url": "https://images.genius.com/53d03d3ab693c79bbefc27d2144d564e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/53d03d3ab693c79bbefc27d2144d564e.1000x1000x1.png",
+                    "id": 10313440,
+                    "lyrics_owner_id": 5529082,
+                    "lyrics_state": "complete",
+                    "path": "/Myke-towers-and-bad-bunny-adivino-lyrics",
+                    "primary_artist_names": "Myke Towers & Bad Bunny",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Myke-towers-and-bad-bunny-adivino-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 25
+                    },
+                    "release_date_for_display": "April 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/53d03d3ab693c79bbefc27d2144d564e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/53d03d3ab693c79bbefc27d2144d564e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false,
+                        "pageviews": 211342
+                    },
+                    "title": "ADIVINO",
+                    "title_with_featured": "ADIVINO",
+                    "url": "https://genius.com/Myke-towers-and-bad-bunny-adivino-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/207701",
+                        "header_image_url": "https://images.genius.com/b5a4d126a78741d279b7c981ad8913dd.1000x664x1.png",
+                        "id": 207701,
+                        "image_url": "https://images.genius.com/007ddd0ecb1cc005ebf31c7feac936a6.886x886x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Myke Towers",
+                        "url": "https://genius.com/artists/Myke-towers"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/207701",
+                            "header_image_url": "https://images.genius.com/b5a4d126a78741d279b7c981ad8913dd.1000x664x1.png",
+                            "id": 207701,
+                            "image_url": "https://images.genius.com/007ddd0ecb1cc005ebf31c7feac936a6.886x886x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Myke Towers",
+                            "url": "https://genius.com/artists/Myke-towers"
+                        },
+                        {
+                            "api_path": "/artists/690350",
+                            "header_image_url": "https://images.genius.com/535c1f13139b580a9d1b1dcb82c05f54.600x338x300.gif",
+                            "id": 690350,
+                            "image_url": "https://images.genius.com/0f5692e76d2de808a77c31c73a1b0934.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Bad Bunny",
+                            "url": "https://genius.com/artists/Bad-bunny"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10313440",
+            "id": 10313440,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Myke-towers-and-bad-bunny-adivino-lyrics",
+            "title": "ADIVINO",
+            "url": "https://genius.com/Myke-towers-and-bad-bunny-adivino-lyrics"
+        },
+        {
+            "api_path": "/songs/10319248",
+            "id": 10319248,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics",
+            "title": "Myke Towers & Bad Bunny - ADIVINO (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-myke-towers-and-bad-bunny-adivino-english-translation-lyrics"
+        },
+        {
+            "api_path": "/songs/10319251",
+            "id": 10319251,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-myke-towers-and-bad-bunny-adivino-deutsche-ubersetzung-lyrics",
+            "title": "Myke Towers & Bad Bunny - ADIVINO (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-myke-towers-and-bad-bunny-adivino-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10329993",
+            "id": 10329993,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-myke-towers-and-bad-bunny-adivino-traduzione-italiana-lyrics",
+            "title": "Myke Towers & Bad Bunny - ADIVINO (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-myke-towers-and-bad-bunny-adivino-traduzione-italiana-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [],
+    "artist": "Genius English Translations",
+    "lyrics": "6 ContributorsTranslationsEspa\u00f1olDeutschItalianoMyke Towers & Bad Bunny - ADIVINO (English Translation) Lyrics\nWithout offending you\nYou don't belong to me, mami, you're street\nYou don't know that it's a night without luxuries\nWhen she lights the blunts it's until it goes out\nBaby\nThere's a lot of people here\nBut why hide it if everyone knows\nPsychologist because she likes to play with my mind\nDevour me lovely 'cause when the night ends, baby\n\nStay in your lane\nYou already changed and I'm not the same\nI will always remember what we once were\nI know who you'r\u0435 thinking about, with a guess, baby\nStay in your lane\nYou already chang\u0435d and I'm not the same\nI will always remember what we once were\nI know who you're thinking about, with a guess, baby\n\nI don't know what gives me more muse, baby, having you or you leaving\nShe comes out the shower in towel, she's a model like Zendaya\nI don't want to be another scratched out name on the list\nIf you want we can get down, but tell them I don't measure up\nEverything we do, she keeps them quiet\nTiffany & Co. I bought her the earings\nI know you think about me, baby\nI wanted to make you my first lady\nI just wanna fuck you, tell me where you've been at, I've been reminiscing lately\nI will have a new love maybe\nBaby, come back, don't make me\nWe should have sex, sex, sex like we did daily, daily\n\nWhy go look for you if I know where you are? (I know where you are)\nToday I'm alone, I'm not with my staff (Oh)\nI know you from way back (From way back)\nI'm not about you now, baby, leave me alone (Haha)\n\nStay in your lane\nYou already changed and I'm not the same\nI will always remember what we once were\nI know who you're thinking about, with a guess, baby\n\nTell me what we are, tell me what we were\nTell me what we will be after we kissed\nIn the end I feel like neither of us know each other\nWhat the fuck did we do? Baby, ayy\nTo fuck, I'm about it every time you ask\nI'd give it you for a lifetime\nYou're bad, a venenous devil, I forget\nAnd I want another goodbye, ayy\nBut enough, goodbye, bye, sayonara\nDon't kiss me, I'll get hard\nImpossible to tell you no with that face\nOur love story is beautiful and weird, ayy\nAnd it's true\nYou're a goddess and like you another one I won't find\nYou either, in your life I was the most real\nI was faithful to your eyes and to your lips loyal\nBut no, we're not what we were, yeah\nYou were one of my loves, I was just another, your ex\nSometimes I laugh reading the texts\nSometimes I laugh, but you give me stress\nI don't know when the interest died\nI don't know if a \"te amo\" is worth the same in English, ha\nI don't know if it's a good idea for you and me to fuck again\nFor you to look at me again, for us to lie to each other again\nFor us to make the same mistake again\n\nStay in your lane\nYou already changed and I'm not the same\nI will always remember what we once were\nI know who you're thinking about, with a guess, baby\nStay in your lane"
+}

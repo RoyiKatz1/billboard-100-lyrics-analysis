@@ -1,0 +1,964 @@
+{
+    "_type": "song",
+    "annotation_count": 14,
+    "api_path": "/songs/10744587",
+    "artist_names": "BigXthaPlug",
+    "full_title": "The Largest by\u00a0BigXthaPlug",
+    "header_image_thumbnail_url": "https://images.genius.com/e0a7fa28ed3a2be987de8897e4b0458e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e0a7fa28ed3a2be987de8897e4b0458e.1000x1000x1.png",
+    "id": 10744587,
+    "instrumental": false,
+    "lyrics_owner_id": 10163697,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746646425,
+    "path": "/Bigxthaplug-the-largest-lyrics",
+    "primary_artist_names": "BigXthaPlug",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Bigxthaplug-the-largest-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 9
+    },
+    "release_date_for_display": "August 9, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 9, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e0a7fa28ed3a2be987de8897e4b0458e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e0a7fa28ed3a2be987de8897e4b0458e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 2,
+        "contributors": 16,
+        "iq_earners": 16,
+        "transcribers": 2,
+        "unreviewed_annotations": 12,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 26367
+    },
+    "title": "The Largest",
+    "title_with_featured": "The Largest",
+    "updated_by_human_at": 1746646425,
+    "url": "https://genius.com/Bigxthaplug-the-largest-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2991490",
+        "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "id": 2991490,
+        "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BigXthaPlug",
+        "url": "https://genius.com/artists/Bigxthaplug"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        }
+    ],
+    "apple_music_id": "1759643745",
+    "apple_music_player_url": "https://genius.com/songs/10744587/apple_music_player",
+    "description": {
+        "plain": "This song\u2019s title and theme are a double entendre \u2013 he is the largest in the game right now as well as an actually very large man. He is known to receive hate online because of his size."
+    },
+    "embed_content": "<div id='rg_embed_link_10744587' class='rg_embed_link' data-song-id='10744587'>Read <a href='https://genius.com/Bigxthaplug-the-largest-lyrics'>\u201cThe Largest\u201d by BigXthaPlug</a> on Genius</div> <script crossorigin src='//genius.com/songs/10744587/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-08-09",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#4f6faf",
+    "song_art_secondary_color": "#141c2c",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1322515",
+        "cover_art_url": "https://images.genius.com/4db088e40bd68ed1e4e6406c5940bcef.1000x1000x1.png",
+        "full_title": "TAKE CARE (DELUXE) by BigXthaPlug",
+        "id": 1322515,
+        "name": "TAKE CARE (DELUXE)",
+        "primary_artist_names": "BigXthaPlug",
+        "release_date_for_display": "January 24, 2025",
+        "url": "https://genius.com/albums/Bigxthaplug/Take-care-deluxe",
+        "artist": {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2991490",
+                "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "id": 2991490,
+                "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BigXthaPlug",
+                "url": "https://genius.com/artists/Bigxthaplug"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Immersive Audio Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/2763910",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2763910,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerry Morka",
+                    "url": "https://genius.com/artists/Jerry-morka"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21649732,
+        "annotator_login": "rxvxr",
+        "api_path": "/referents/32606984",
+        "classification": "unreviewed",
+        "fragment": "The Largest",
+        "id": 32606984,
+        "is_description": true,
+        "path": "/32606984/Bigxthaplug-the-largest/The-largest",
+        "range": {
+            "content": "The Largest"
+        },
+        "song_id": 10744587,
+        "url": "https://genius.com/32606984/Bigxthaplug-the-largest/The-largest",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10744587",
+            "client_timestamps": {
+                "updated_by_human_at": 1746646425,
+                "lyrics_updated_at": 1746646425
+            },
+            "context": "BigXthaPlug",
+            "id": 10744587,
+            "image_url": "https://images.genius.com/e0a7fa28ed3a2be987de8897e4b0458e.1000x1000x1.png",
+            "link_title": "The Largest by\u00a0BigXthaPlug",
+            "title": "The Largest",
+            "type": "Song",
+            "url": "https://genius.com/Bigxthaplug-the-largest-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32606984",
+                "body": {
+                    "plain": "This song\u2019s title and theme are a double entendre \u2013 he is the largest in the game right now as well as an actually very large man. He is known to receive hate online because of his size."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 32606984,
+                "pinned": false,
+                "share_url": "https://genius.com/32606984",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/32606984/Bigxthaplug-the-largest/The-largest",
+                "verified": false,
+                "votes_total": 1,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21649732",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "human_readable_role_for_display": null,
+                            "id": 21649732,
+                            "iq": 219,
+                            "login": "rxvxr",
+                            "name": "rxvxr",
+                            "role_for_display": null,
+                            "url": "https://genius.com/rxvxr",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bigxdaplug",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bigxdaplug/the-largest"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=3QwZjhHcLZk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        },
+        {
+            "api_path": "/artists/3473632",
+            "header_image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "id": 3473632,
+            "image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tony Coles",
+            "url": "https://genius.com/artists/Tony-coles",
+            "iq": 100
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/1218513",
+                    "artist_names": "War",
+                    "full_title": "Slippin' Into Darkness by\u00a0War",
+                    "header_image_thumbnail_url": "https://images.genius.com/85b9207ee31a5b33884492f32a6a16d9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/85b9207ee31a5b33884492f32a6a16d9.1000x1000x1.jpg",
+                    "id": 1218513,
+                    "lyrics_owner_id": 3163698,
+                    "lyrics_state": "complete",
+                    "path": "/War-slippin-into-darkness-lyrics",
+                    "primary_artist_names": "War",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/War-slippin-into-darkness-sample",
+                    "release_date_components": {
+                        "year": 1971,
+                        "month": 11,
+                        "day": 1
+                    },
+                    "release_date_for_display": "November 1, 1971",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1, 1971",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/85b9207ee31a5b33884492f32a6a16d9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/85b9207ee31a5b33884492f32a6a16d9.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 40202
+                    },
+                    "title": "Slippin\u2019 Into Darkness",
+                    "title_with_featured": "Slippin' Into Darkness",
+                    "url": "https://genius.com/War-slippin-into-darkness-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4111",
+                        "header_image_url": "https://images.genius.com/a11cd6c8f008effbba47a83c677c7e1a.1000x165x1.png",
+                        "id": 4111,
+                        "image_url": "https://images.genius.com/6e85868b0117c0b091a9ab463f506864.336x336x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "War",
+                        "url": "https://genius.com/artists/War"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4111",
+                            "header_image_url": "https://images.genius.com/a11cd6c8f008effbba47a83c677c7e1a.1000x165x1.png",
+                            "id": 4111,
+                            "image_url": "https://images.genius.com/6e85868b0117c0b091a9ab463f506864.336x336x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "War",
+                            "url": "https://genius.com/artists/War"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11891409",
+                    "artist_names": "HOUSTONE SMOOTH",
+                    "full_title": "The Rawest by\u00a0HOUSTONE\u00a0SMOOTH",
+                    "header_image_thumbnail_url": "https://youtu.be/X10giG1tddg?si=G-fqqg4z8u-44-1G",
+                    "header_image_url": "https://youtu.be/X10giG1tddg?si=G-fqqg4z8u-44-1G",
+                    "id": 11891409,
+                    "lyrics_owner_id": 23045668,
+                    "lyrics_state": "complete",
+                    "path": "/Houstone-smooth-the-rawest-lyrics",
+                    "primary_artist_names": "HOUSTONE SMOOTH",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Houstone-smooth-the-rawest-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 24
+                    },
+                    "release_date_for_display": "March 24, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 24, 2025",
+                    "song_art_image_thumbnail_url": "https://youtu.be/X10giG1tddg?si=G-fqqg4z8u-44-1G",
+                    "song_art_image_url": "https://youtu.be/X10giG1tddg?si=G-fqqg4z8u-44-1G",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "The Rawest",
+                    "title_with_featured": "The Rawest",
+                    "url": "https://genius.com/Houstone-smooth-the-rawest-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4443018",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 4443018,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "HOUSTONE SMOOTH",
+                        "url": "https://genius.com/artists/Houstone-smooth"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4443018",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4443018,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "HOUSTONE SMOOTH",
+                            "url": "https://genius.com/artists/Houstone-smooth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        },
+        {
+            "api_path": "/artists/3473632",
+            "header_image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "id": 3473632,
+            "image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tony Coles",
+            "url": "https://genius.com/artists/Tony-coles",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/464765",
+            "header_image_url": "https://images.genius.com/849ba5ba9bb3d7f14051ff8e1921bf72.225x300x1.jpg",
+            "id": 464765,
+            "image_url": "https://images.genius.com/849ba5ba9bb3d7f14051ff8e1921bf72.225x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Charles Miller",
+            "url": "https://genius.com/artists/Charles-miller"
+        },
+        {
+            "api_path": "/artists/464759",
+            "header_image_url": "https://images.genius.com/8a14e007269659aecf520de8a9fe22cc.1000x1000x1.jpg",
+            "id": 464759,
+            "image_url": "https://images.genius.com/8a14e007269659aecf520de8a9fe22cc.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Harold Brown",
+            "url": "https://genius.com/artists/Harold-brown"
+        },
+        {
+            "api_path": "/artists/464762",
+            "header_image_url": "https://images.genius.com/afd595e8528296169d50e136028223f1.200x300x1.jpg",
+            "id": 464762,
+            "image_url": "https://images.genius.com/706492a1f3b51640edd6df0a634e062d.501x501x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Howard Scott",
+            "url": "https://genius.com/artists/Howard-scott"
+        },
+        {
+            "api_path": "/artists/641136",
+            "header_image_url": "https://images.genius.com/4a80bd26032ac55c3fa0ba0531d6f2e0.233x300x1.jpg",
+            "id": 641136,
+            "image_url": "https://images.genius.com/9a9f7c29d72ba3d321ab4d7415607f4b.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lonnie Jordan",
+            "url": "https://genius.com/artists/Lonnie-jordan"
+        },
+        {
+            "api_path": "/artists/464764",
+            "header_image_url": "https://images.genius.com/8eaaf0cb2d3ce9d9563df81bd9e22a56.648x435x1.jpg",
+            "id": 464764,
+            "image_url": "https://images.genius.com/c071f42151d5c2184b352a2c682d1dc3.868x868x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lee Oskar",
+            "url": "https://genius.com/artists/Lee-oskar"
+        },
+        {
+            "api_path": "/artists/641134",
+            "header_image_url": "https://images.genius.com/43eed4a52a5c762aec958b13f8ae4a8e.200x300x1.jpg",
+            "id": 641134,
+            "image_url": "https://images.genius.com/43eed4a52a5c762aec958b13f8ae4a8e.200x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "B. B. Dickerson",
+            "url": "https://genius.com/artists/B-b-dickerson"
+        },
+        {
+            "api_path": "/artists/3223867",
+            "header_image_url": "https://images.genius.com/1d4204d0b16e932a83e57b0aaa00688f.640x640x1.jpg",
+            "id": 3223867,
+            "image_url": "https://images.genius.com/1e951f3a0db3e105e38e18b4f1545359.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ro$ama",
+            "url": "https://genius.com/artists/Ro-ama"
+        },
+        {
+            "api_path": "/artists/464760",
+            "header_image_url": "https://images.genius.com/c05cca809c0318b1aa3164e2468d4713.280x293x1.jpg",
+            "id": 464760,
+            "image_url": "https://images.genius.com/c05cca809c0318b1aa3164e2468d4713.280x293x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Papa Dee Allen",
+            "url": "https://genius.com/artists/Papa-dee-allen"
+        }
+    ],
+    "artist": "BigXthaPlug",
+    "lyrics": "16 ContributorsThe Largest Lyrics\n(Tony Coles)\nAyy (Let the band play)\n\nSafe to say I'm the biggest, the largest\nBeen steppin' on shit since my mama stayed in them apartments, regardless\nMy daddy told me keep the heat even\u205fwhen\u205fI'm\u205fin foreigns, I'm\u205fheartless\n'Cause these niggas\u205fis hatin' on me just because I'm the biggest, the largest\nThe biggest, the largest\n\n30K on my wrist just for hard times\nThese niggas just mad 'cause th\u0435y bitch in my archives\nJordan came back, throw the 45\nIf you play, th\u0435n you lay right there by your own kind\nPour up a four in a Loko\nTell 'em run this bitch back like Soso\nGot rap shit here in a chokehold\nDid a show out in Austin, shoutout to Bobo\nMoved out the trenches, now look how we live\nTold my BM to furnish the crib\nWalk out the mall with some shoes for the kids\nDeposit a check, shit, my bank full of M's\nPaid up my rent, now I'm up for the year\nThe view look crazy from here\nWhat I paid for some dogs, could've bought me veneers\nTexas piece on my neck, could've bought your career\n\nSafe to say I'm the biggest, the largest\nBeen steppin' on shit since my mama stayed in them apartments, regardless\nMy daddy told me keep the heat even when I'm in foreigns, I'm heartless\n'Cause these niggas is hatin' on me just because I'm the biggest, the largest\nThe biggest, the largest\n\nAyy, stuffin' Cali' plug weed in the blunt\nLet my lil' brother roll him a Dutch\nMy lil' boy get whatever he want\nMadam T don't be askin' for much\nPourin' lean on the nuggets of runtz\nSpill the rest of that drank in a punch\nLeft wrist on some \"I had to stunt\"\nRight wrist, I just did it because\n600 the label, you know we comin'\nTell them niggas they ain't takin' nothin'\nStandin' on business, we shootin' or punchin'\nHatin'-ass nigga, go get you some money\nI just got off a tour, finna go on another one\nAlbum done, finna drop me another one\nCouple of M's, finna run up another one\nSuper Bowl rings, shit, I had to go double 'em\n\nSafe to say I'm the biggest, the largest\nBeen steppin' on shit since my mama stayed in them apartments, regardless\nMy daddy told me keep the heat even when I'm in foreigns, I'm heartless\n'Cause these niggas is hatin' on me just because I'm the biggest, the largest\nThe biggest, the largest (Ayy)"
+}

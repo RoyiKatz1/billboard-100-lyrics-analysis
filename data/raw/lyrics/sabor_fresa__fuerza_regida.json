@@ -1,0 +1,790 @@
+{
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/9226826",
+    "artist_names": "Fuerza Regida",
+    "full_title": "Sabor Fresa by\u00a0Fuerza\u00a0Regida",
+    "header_image_thumbnail_url": "https://images.genius.com/9321454e58abbe9cb7822e5ec7b42bba.300x300x1.png",
+    "header_image_url": "https://images.genius.com/9321454e58abbe9cb7822e5ec7b42bba.1000x1000x1.png",
+    "id": 9226826,
+    "instrumental": false,
+    "lyrics_owner_id": 13324426,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1711426118,
+    "path": "/Fuerza-regida-sabor-fresa-lyrics",
+    "primary_artist_names": "Fuerza Regida",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Fuerza-regida-sabor-fresa-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 6,
+        "day": 22
+    },
+    "release_date_for_display": "June 22, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jun. 22, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/9321454e58abbe9cb7822e5ec7b42bba.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/9321454e58abbe9cb7822e5ec7b42bba.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 7,
+        "iq_earners": 7,
+        "transcribers": 2,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 16601
+    },
+    "title": "Sabor Fresa",
+    "title_with_featured": "Sabor Fresa",
+    "updated_by_human_at": 1711426118,
+    "url": "https://genius.com/Fuerza-regida-sabor-fresa-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1475628",
+        "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+        "id": 1475628,
+        "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fuerza Regida",
+        "url": "https://genius.com/artists/Fuerza-regida"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1475628",
+            "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+            "id": 1475628,
+            "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fuerza Regida",
+            "url": "https://genius.com/artists/Fuerza-regida"
+        }
+    ],
+    "apple_music_id": "1693489585",
+    "apple_music_player_url": "https://genius.com/songs/9226826/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9226826' class='rg_embed_link' data-song-id='9226826'>Read <a href='https://genius.com/Fuerza-regida-sabor-fresa-lyrics'>\u201cSabor Fresa\u201d by Fuerza\u00a0Regida</a> on Genius</div> <script crossorigin src='//genius.com/songs/9226826/embed.js'></script>",
+    "featured_video": false,
+    "language": "es",
+    "recording_location": null,
+    "release_date": "2023-06-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d42c2c",
+    "song_art_secondary_color": "#b40404",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1071255",
+        "cover_art_url": "https://images.genius.com/9ed4044cd5e355314fc9a63fc381d52a.1000x1000x1.png",
+        "full_title": "Pa las Baby\u2019s Y Belikeada by Fuerza Regida",
+        "id": 1071255,
+        "name": "Pa las Baby\u2019s Y Belikeada",
+        "primary_artist_names": "Fuerza Regida",
+        "release_date_for_display": "October 20, 2023",
+        "url": "https://genius.com/albums/Fuerza-regida/Pa-las-babys-y-belikeada",
+        "artist": {
+            "api_path": "/artists/1475628",
+            "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+            "id": 1475628,
+            "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Fuerza Regida",
+            "url": "https://genius.com/artists/Fuerza-regida"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1475628",
+                "header_image_url": "https://images.genius.com/050768485c05ab9407c97f08ca7689f7.1000x751x1.jpg",
+                "id": 1475628,
+                "image_url": "https://images.genius.com/22a1e15ea4ea3ea6d3c44b976737cc2f.538x538x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Fuerza Regida",
+                "url": "https://genius.com/artists/Fuerza-regida"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1435043",
+                    "header_image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "id": 1435043,
+                    "image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rancho Humilde",
+                    "url": "https://genius.com/artists/Rancho-humilde"
+                },
+                {
+                    "api_path": "/artists/2433088",
+                    "header_image_url": "https://images.genius.com/d1e3e128ca5a8fd3d2cd969b0f34b5ec.960x273x1.jpg",
+                    "id": 2433088,
+                    "image_url": "https://images.genius.com/50230eb9fa607f5d254e00cce1012277.294x294x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Street Mob Records",
+                    "url": "https://genius.com/artists/Street-mob-records"
+                }
+            ]
+        },
+        {
+            "label": "Executive Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1901743",
+                    "header_image_url": "https://images.genius.com/00147376e3484c6addc2b0ec02a94baa.1000x670x1.jpg",
+                    "id": 1901743,
+                    "image_url": "https://images.genius.com/c88199554b9dd8eca5d9e342067dfd13.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmy Humilde",
+                    "url": "https://genius.com/artists/Jimmy-humilde"
+                },
+                {
+                    "api_path": "/artists/389160",
+                    "header_image_url": "https://images.genius.com/e12ad5b202704a3c04891f7071a854f0.1000x764x1.jpg",
+                    "id": 389160,
+                    "image_url": "https://images.genius.com/65336f6a99db820989aa71c4a8afc07f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "JOP",
+                    "url": "https://genius.com/artists/Jop"
+                }
+            ]
+        },
+        {
+            "label": "A&R Coordinator",
+            "artists": [
+                {
+                    "api_path": "/artists/3268673",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3268673,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gaby Vilar",
+                    "url": "https://genius.com/artists/Gaby-vilar"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1115399",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 1115399,
+                    "image_url": "https://images.genius.com/67417876be71536a694033c434c240c7.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment Latin",
+                    "url": "https://genius.com/artists/Sony-music-entertainment-latin"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1435043",
+                    "header_image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "id": 1435043,
+                    "image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rancho Humilde",
+                    "url": "https://genius.com/artists/Rancho-humilde"
+                },
+                {
+                    "api_path": "/artists/2433088",
+                    "header_image_url": "https://images.genius.com/d1e3e128ca5a8fd3d2cd969b0f34b5ec.960x273x1.jpg",
+                    "id": 2433088,
+                    "image_url": "https://images.genius.com/50230eb9fa607f5d254e00cce1012277.294x294x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Street Mob Records",
+                    "url": "https://genius.com/artists/Street-mob-records"
+                },
+                {
+                    "api_path": "/artists/1115399",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 1115399,
+                    "image_url": "https://images.genius.com/67417876be71536a694033c434c240c7.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment Latin",
+                    "url": "https://genius.com/artists/Sony-music-entertainment-latin"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1435043",
+                    "header_image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "id": 1435043,
+                    "image_url": "https://images.genius.com/4c92dd6ee77d9a100075056b3f5d9d5d.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rancho Humilde",
+                    "url": "https://genius.com/artists/Rancho-humilde"
+                },
+                {
+                    "api_path": "/artists/2433088",
+                    "header_image_url": "https://images.genius.com/d1e3e128ca5a8fd3d2cd969b0f34b5ec.960x273x1.jpg",
+                    "id": 2433088,
+                    "image_url": "https://images.genius.com/50230eb9fa607f5d254e00cce1012277.294x294x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Street Mob Records",
+                    "url": "https://genius.com/artists/Street-mob-records"
+                },
+                {
+                    "api_path": "/artists/1115399",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 1115399,
+                    "image_url": "https://images.genius.com/67417876be71536a694033c434c240c7.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment Latin",
+                    "url": "https://genius.com/artists/Sony-music-entertainment-latin"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2481368",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2481368,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Erick Urbina Toranzo",
+                    "url": "https://genius.com/artists/Erick-urbina-toranzo"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1242533",
+                    "header_image_url": "https://images.genius.com/6675cbc42ad2cbde2ea9ad0a0fbdd98c.1000x1000x1.jpg",
+                    "id": 1242533,
+                    "image_url": "https://images.genius.com/6675cbc42ad2cbde2ea9ad0a0fbdd98c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oliver Garc\u00eda",
+                    "url": "https://genius.com/artists/Oliver-garcia"
+                },
+                {
+                    "api_path": "/artists/3518590",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3518590,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Lebrija",
+                    "url": "https://genius.com/artists/Daniel-lebrija"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3295269",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3295269,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rudy Topete",
+                    "url": "https://genius.com/artists/Rudy-topete"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 18674465,
+        "annotator_login": "LilRey507",
+        "api_path": "/referents/28790877",
+        "classification": "needs_exegesis",
+        "fragment": "Sabor Fresa",
+        "id": 28790877,
+        "is_description": true,
+        "path": "/28790877/Fuerza-regida-sabor-fresa/Sabor-fresa",
+        "range": {
+            "content": "Sabor Fresa"
+        },
+        "song_id": 9226826,
+        "url": "https://genius.com/28790877/Fuerza-regida-sabor-fresa/Sabor-fresa",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9226826",
+            "client_timestamps": {
+                "updated_by_human_at": 1711426118,
+                "lyrics_updated_at": 1711426118
+            },
+            "context": "Fuerza Regida",
+            "id": 9226826,
+            "image_url": "https://images.genius.com/9321454e58abbe9cb7822e5ec7b42bba.1000x1000x1.png",
+            "link_title": "Sabor Fresa by\u00a0Fuerza\u00a0Regida",
+            "title": "Sabor Fresa",
+            "type": "Song",
+            "url": "https://genius.com/Fuerza-regida-sabor-fresa-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28790877",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 28790877,
+                "pinned": false,
+                "share_url": "https://genius.com/28790877",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/28790877/Fuerza-regida-sabor-fresa/Sabor-fresa",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/18674465",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/aa7a6d464fe07d2733a445ce688c34fb.820x312x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 18674465,
+                            "iq": 351678,
+                            "login": "LilRey507",
+                            "name": "El Rey De La Buena Vida\ud83d\udc51",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/LilRey507",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=r83dUG7YbKA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/389160",
+            "header_image_url": "https://images.genius.com/e12ad5b202704a3c04891f7071a854f0.1000x764x1.jpg",
+            "id": 389160,
+            "image_url": "https://images.genius.com/65336f6a99db820989aa71c4a8afc07f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "JOP",
+            "url": "https://genius.com/artists/Jop"
+        },
+        {
+            "api_path": "/artists/3003012",
+            "header_image_url": "https://images.genius.com/3a17d039485841dffed5ad7274858752.1000x1000x1.jpg",
+            "id": 3003012,
+            "image_url": "https://images.genius.com/3a17d039485841dffed5ad7274858752.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Armenta",
+            "url": "https://genius.com/artists/Armenta"
+        },
+        {
+            "api_path": "/artists/2395410",
+            "header_image_url": "https://images.genius.com/a87c496c565d42ae13f3a66973225674.828x732x1.jpg",
+            "id": 2395410,
+            "image_url": "https://images.genius.com/a5ec3a1a4dedae2a9bba0e1cff66206c.732x732x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Angel Tumbado",
+            "url": "https://genius.com/artists/Angel-tumbado"
+        },
+        {
+            "api_path": "/artists/1901743",
+            "header_image_url": "https://images.genius.com/00147376e3484c6addc2b0ec02a94baa.1000x670x1.jpg",
+            "id": 1901743,
+            "image_url": "https://images.genius.com/c88199554b9dd8eca5d9e342067dfd13.720x720x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jimmy Humilde",
+            "url": "https://genius.com/artists/Jimmy-humilde"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10693994",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "Fuerza Regida - Sabor Fresa (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/04079147aed1c332f9cd3b8693379f2e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/04079147aed1c332f9cd3b8693379f2e.1000x1000x1.png",
+                    "id": 10693994,
+                    "lyrics_owner_id": 8514354,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-fuerza-regida-sabor-fresa-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-fuerza-regida-sabor-fresa-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 20
+                    },
+                    "release_date_for_display": "October 20, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/04079147aed1c332f9cd3b8693379f2e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/04079147aed1c332f9cd3b8693379f2e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 13268
+                    },
+                    "title": "Fuerza Regida - Sabor Fresa (English Translation)",
+                    "title_with_featured": "Fuerza Regida - Sabor Fresa (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-fuerza-regida-sabor-fresa-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10693994",
+            "id": 10693994,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-fuerza-regida-sabor-fresa-english-translation-lyrics",
+            "title": "Fuerza Regida - Sabor Fresa (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-fuerza-regida-sabor-fresa-english-translation-lyrics"
+        },
+        {
+            "api_path": "/songs/9226826",
+            "id": 9226826,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Fuerza-regida-sabor-fresa-lyrics",
+            "title": "Sabor Fresa",
+            "url": "https://genius.com/Fuerza-regida-sabor-fresa-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2410095",
+            "header_image_url": "https://images.genius.com/b4a67fb1a8854e326a5c36a54dd8a416.640x640x1.jpg",
+            "id": 2410095,
+            "image_url": "https://images.genius.com/b4a67fb1a8854e326a5c36a54dd8a416.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Angel Ureta",
+            "url": "https://genius.com/artists/Angel-ureta"
+        },
+        {
+            "api_path": "/artists/404610",
+            "header_image_url": "https://images.genius.com/00192cee1d0e4765ce9d988b628e7cb0.640x640x1.jpg",
+            "id": 404610,
+            "image_url": "https://images.genius.com/00192cee1d0e4765ce9d988b628e7cb0.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Daniel Gutierrez",
+            "url": "https://genius.com/artists/Daniel-gutierrez"
+        },
+        {
+            "api_path": "/artists/2901614",
+            "header_image_url": "https://images.genius.com/1bf07c988f10f5fe06f242ab1a0c3012.440x389x1.png",
+            "id": 2901614,
+            "image_url": "https://images.genius.com/5d4da98bf8172ff702cfdbd830187cbe.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Diego Mill\u00e1n",
+            "url": "https://genius.com/artists/Diego-millan"
+        },
+        {
+            "api_path": "/artists/389160",
+            "header_image_url": "https://images.genius.com/e12ad5b202704a3c04891f7071a854f0.1000x764x1.jpg",
+            "id": 389160,
+            "image_url": "https://images.genius.com/65336f6a99db820989aa71c4a8afc07f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "JOP",
+            "url": "https://genius.com/artists/Jop"
+        },
+        {
+            "api_path": "/artists/3706414",
+            "header_image_url": "https://images.genius.com/33352aabe0d4333b9a57ee6e3589deda.1000x200x1.png",
+            "id": 3706414,
+            "image_url": "https://images.genius.com/aab790b159d85491d444b9d70c406de3.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jonathan Caro",
+            "url": "https://genius.com/artists/Jonathan-caro"
+        },
+        {
+            "api_path": "/artists/3003012",
+            "header_image_url": "https://images.genius.com/3a17d039485841dffed5ad7274858752.1000x1000x1.jpg",
+            "id": 3003012,
+            "image_url": "https://images.genius.com/3a17d039485841dffed5ad7274858752.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Armenta",
+            "url": "https://genius.com/artists/Armenta"
+        }
+    ],
+    "artist": "Fuerza Regida",
+    "lyrics": "7 ContributorsTranslationsEnglishSabor Fresa Lyrics\n\nMesero, traiga champagne\nQue quiero complacer las babies de atr\u00e1s\nYa me vieron al bailar\nCon el paso que cargo logr\u00e9 apantallar\nLa morra es de calidad\nCon una cinturita, les gusta perrear\nLa ni\u00f1a me besa y besa\nFresa, sabor fresa, quiere bellaquear\n\n\u00bfC\u00f3mo la ve, mi camarada\nSi nos vamos pa' la albercada?\nQue se quiten la ropa cara\nAf\u00edrmale, carnal, logramos coronar\nMe gusta andar con la plebada\nPuras fresitas operadas\nQue se quiten la ropa cara\nAqu\u00ed no le bajamos, siempre beliqueando\n\nOtro pedo\nComo siempre, viejo\nFuerza Regida\n\n\u00bfC\u00f3mo que va amaneciendo?\nBendito veneno, me tiene sin sue\u00f1o\nUn aguachile en el puerto\nDe El Muchacho Alegre, me abren cuando quiero\nYa me confes\u00e9 el rosario\nMijo, t\u00fa eres grande, camina sin miedo\nNo se me pongan ondeados\nPorque no la pienso ni me tiembla el dedo\n\n\u00bfC\u00f3mo la ve, mi camarada\nSi nos vamos pa' la albercada?\nQue se quiten la ropa cara\nAf\u00edrmale, carnal, logramos coronar\nMe gusta andar con la plebada\nPuras fresitas operadas\nQue se quiten la ropa cara\nAqu\u00ed no le bajamos, siempre beliqueando\n\nAhuevo, viejo\nFui, soy, y seguir\u00e9\nWhere all the babies at though?\nHaha"
+}

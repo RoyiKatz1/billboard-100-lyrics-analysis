@@ -1,0 +1,824 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/11109945",
+    "artist_names": "Lil Baby",
+    "full_title": "Insecurities by\u00a0Lil\u00a0Baby",
+    "header_image_thumbnail_url": "https://images.genius.com/0c12050f63447c9f9d622ee9b93bd18a.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0c12050f63447c9f9d622ee9b93bd18a.1000x1000x1.png",
+    "id": 11109945,
+    "instrumental": false,
+    "lyrics_owner_id": 11277083,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746271367,
+    "path": "/Lil-baby-insecurities-lyrics",
+    "primary_artist_names": "Lil Baby",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Lil-baby-insecurities-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 11,
+        "day": 15
+    },
+    "release_date_for_display": "November 15, 2024",
+    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0c12050f63447c9f9d622ee9b93bd18a.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0c12050f63447c9f9d622ee9b93bd18a.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 36,
+        "iq_earners": 36,
+        "transcribers": 6,
+        "unreviewed_annotations": 15,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 49332
+    },
+    "title": "Insecurities",
+    "title_with_featured": "Insecurities",
+    "updated_by_human_at": 1746271367,
+    "url": "https://genius.com/Lil-baby-insecurities-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1110328",
+        "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+        "id": 1110328,
+        "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Baby",
+        "url": "https://genius.com/artists/Lil-baby",
+        "iq": 3834
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1110328",
+            "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+            "id": 1110328,
+            "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Baby",
+            "url": "https://genius.com/artists/Lil-baby",
+            "iq": 3834
+        }
+    ],
+    "apple_music_id": "1779602001",
+    "apple_music_player_url": "https://genius.com/songs/11109945/apple_music_player",
+    "description": {
+        "plain": "\u201cInsecurities\u201d by Lil Baby explores themes of personal growth, love, and the complexities of relationships in a world filled with materialism and expectations. The song reflects on the rapper\u2019s rise from humble beginnings to achieving success, as well as the emotional struggles that come with that journey. Throughout the lyrics, he acknowledges insecurities, both his own and those of the person he\u2019s involved with, while emphasizing a commitment to honesty and support.\n\nOverall, \u201cInsecurities\u201d presents a layered look at relationships marked by success, emotional highs and lows, and the imperfections that come with being human. Through his lyrics, Lil Baby addresses the balance between love and personal insecurities while acknowledging the pressures of fame and fortune. The song resonates with anyone who has dealt with feeling overlooked or insecure, all while expressing a dedication to genuine connection and support in relationships."
+    },
+    "embed_content": "<div id='rg_embed_link_11109945' class='rg_embed_link' data-song-id='11109945'>Read <a href='https://genius.com/Lil-baby-insecurities-lyrics'>\u201cInsecurities\u201d by Lil\u00a0Baby</a> on Genius</div> <script crossorigin src='//genius.com/songs/11109945/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-11-15",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b04534",
+    "song_art_secondary_color": "#542c27",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1283616",
+        "cover_art_url": "https://images.genius.com/62a5eded884126f723c6353372127792.1000x1000x1.jpg",
+        "full_title": "Dominique by Lil Baby",
+        "id": 1283616,
+        "name": "Dominique",
+        "primary_artist_names": "Lil Baby",
+        "release_date_for_display": "May 2025",
+        "url": "https://genius.com/albums/Lil-baby/Dominique",
+        "artist": {
+            "api_path": "/artists/1110328",
+            "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+            "id": 1110328,
+            "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Baby",
+            "url": "https://genius.com/artists/Lil-baby",
+            "iq": 3834
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1110328",
+                "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+                "id": 1110328,
+                "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Lil Baby",
+                "url": "https://genius.com/artists/Lil-baby",
+                "iq": 3834
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "A&R Administrator",
+            "artists": [
+                {
+                    "api_path": "/artists/1435738",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1435738,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Liz Isik",
+                    "url": "https://genius.com/artists/Liz-isik"
+                }
+            ]
+        },
+        {
+            "label": "A&R",
+            "artists": [
+                {
+                    "api_path": "/artists/4136155",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4136155,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandra Ringo",
+                    "url": "https://genius.com/artists/Brandra-ringo"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3280941",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3280941,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anthony Tran",
+                    "url": "https://genius.com/artists/Anthony-tran"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1121102",
+                    "header_image_url": "https://images.genius.com/392ece02b4b395850dc22fc82ff1e1bc.482x482x1.jpg",
+                    "id": 1121102,
+                    "image_url": "https://images.genius.com/392ece02b4b395850dc22fc82ff1e1bc.482x482x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Thomas \u201cTillie\u201d Mann",
+                    "url": "https://genius.com/artists/Thomas-tillie-mann"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/257232",
+                    "header_image_url": "https://images.genius.com/bf3d0c528b7ec2b8da61e1ecdb3d95ac.1000x1000x1.jpg",
+                    "id": 257232,
+                    "image_url": "https://images.genius.com/bf3d0c528b7ec2b8da61e1ecdb3d95ac.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "ZtheSavage",
+                    "url": "https://genius.com/artists/Zthesavage"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/995189",
+                    "header_image_url": "https://images.genius.com/2b21f6acec432972f3a023774f66e8f5.1000x563x1.jpg",
+                    "id": 995189,
+                    "image_url": "https://images.genius.com/01c2668cb558306281d73ba43b9d6749.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quality Control",
+                    "url": "https://genius.com/artists/Quality-control"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/995189",
+                    "header_image_url": "https://images.genius.com/2b21f6acec432972f3a023774f66e8f5.1000x563x1.jpg",
+                    "id": 995189,
+                    "image_url": "https://images.genius.com/01c2668cb558306281d73ba43b9d6749.600x600x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quality Control",
+                    "url": "https://genius.com/artists/Quality-control"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22239593,
+        "annotator_login": "LILYOUNG3",
+        "api_path": "/referents/33599373",
+        "classification": "unreviewed",
+        "fragment": "Insecurities",
+        "id": 33599373,
+        "is_description": true,
+        "path": "/33599373/Lil-baby-insecurities/Insecurities",
+        "range": {
+            "content": "Insecurities"
+        },
+        "song_id": 11109945,
+        "url": "https://genius.com/33599373/Lil-baby-insecurities/Insecurities",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/11109945",
+            "client_timestamps": {
+                "updated_by_human_at": 1746271367,
+                "lyrics_updated_at": 1746271367
+            },
+            "context": "Lil Baby",
+            "id": 11109945,
+            "image_url": "https://images.genius.com/0c12050f63447c9f9d622ee9b93bd18a.1000x1000x1.png",
+            "link_title": "Insecurities by\u00a0Lil\u00a0Baby",
+            "title": "Insecurities",
+            "type": "Song",
+            "url": "https://genius.com/Lil-baby-insecurities-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33599373",
+                "body": {
+                    "plain": "\u201cInsecurities\u201d by Lil Baby explores themes of personal growth, love, and the complexities of relationships in a world filled with materialism and expectations. The song reflects on the rapper\u2019s rise from humble beginnings to achieving success, as well as the emotional struggles that come with that journey. Throughout the lyrics, he acknowledges insecurities, both his own and those of the person he\u2019s involved with, while emphasizing a commitment to honesty and support.\n\nOverall, \u201cInsecurities\u201d presents a layered look at relationships marked by success, emotional highs and lows, and the imperfections that come with being human. Through his lyrics, Lil Baby addresses the balance between love and personal insecurities while acknowledging the pressures of fame and fortune. The song resonates with anyone who has dealt with feeling overlooked or insecure, all while expressing a dedication to genuine connection and support in relationships."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33599373,
+                "pinned": false,
+                "share_url": "https://genius.com/33599373",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/33599373/Lil-baby-insecurities/Insecurities",
+                "verified": false,
+                "votes_total": 2,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22239593",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/7cabaf2bd84157677940f09c2b291f6b285263d431b5118d5f26c27d2d9f7950%2Fxojsgartpfe",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/7cabaf2bd84157677940f09c2b291f6b285263d431b5118d5f26c27d2d9f7950%2Fxojsgartpfe",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/7cabaf2bd84157677940f09c2b291f6b285263d431b5118d5f26c27d2d9f7950%2Fxojsgartpfe",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/7cabaf2bd84157677940f09c2b291f6b285263d431b5118d5f26c27d2d9f7950%2Fxojsgartpfe",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/7cabaf2bd84157677940f09c2b291f6b285263d431b5118d5f26c27d2d9f7950%2F17kes5n47sy",
+                            "human_readable_role_for_display": null,
+                            "id": 22239593,
+                            "iq": 287,
+                            "login": "LILYOUNG3",
+                            "name": "LILYOUNG3",
+                            "role_for_display": null,
+                            "url": "https://genius.com/LILYOUNG3",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=POCrFEZO82s"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        },
+        {
+            "api_path": "/artists/2556451",
+            "header_image_url": "https://images.genius.com/826533ac74da65e677ab220e870bdb87.240x240x1.jpg",
+            "id": 2556451,
+            "image_url": "https://images.genius.com/5d46aad22157333320c4ffb40a2572f3.900x900x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bMacShooter",
+            "url": "https://genius.com/artists/Macshooter"
+        },
+        {
+            "api_path": "/artists/2588714",
+            "header_image_url": "https://images.genius.com/5639d9b218d1c81811655e215625c1b5.1000x166x1.jpg",
+            "id": 2588714,
+            "image_url": "https://images.genius.com/0d9ce5e2a66488a038f19e16b47c9921.302x302x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BeatsByJuko",
+            "url": "https://genius.com/artists/Beatsbyjuko"
+        },
+        {
+            "api_path": "/artists/32429",
+            "header_image_url": "https://images.genius.com/200cbfe94def527ba1adcc487a1438e2.1000x667x1.jpg",
+            "id": 32429,
+            "image_url": "https://images.genius.com/100abac48eecf513dad29bf17db16013.700x700x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "CuBeatz",
+            "url": "https://genius.com/artists/Cubeatz"
+        },
+        {
+            "api_path": "/artists/1637844",
+            "header_image_url": "https://images.genius.com/a299eda3c9f6c0bfa34f131c58e2ea41.1000x1000x1.jpg",
+            "id": 1637844,
+            "image_url": "https://images.genius.com/a299eda3c9f6c0bfa34f131c58e2ea41.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Klimperboy",
+            "url": "https://genius.com/artists/Klimperboy"
+        },
+        {
+            "api_path": "/artists/2745823",
+            "header_image_url": "https://images.genius.com/c53135259321eec2060ec354d2330822.750x1000x1.jpg",
+            "id": 2745823,
+            "image_url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "producedbykb",
+            "url": "https://genius.com/artists/Producedbykb",
+            "iq": 312
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11115010",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Lil Baby - Insecurities (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/7ea602c46e941fba28007425fc1a3a9f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7ea602c46e941fba28007425fc1a3a9f.340x340x1.png",
+                    "id": 11115010,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-lil-baby-insecurities-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-lil-baby-insecurities-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7ea602c46e941fba28007425fc1a3a9f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7ea602c46e941fba28007425fc1a3a9f.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Lil Baby - Insecurities (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Lil Baby - Insecurities (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-lil-baby-insecurities-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11115010",
+            "id": 11115010,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-lil-baby-insecurities-traducao-em-portugues-lyrics",
+            "title": "Lil Baby - Insecurities (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-lil-baby-insecurities-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [
+        {
+            "contributions": [
+                "answers"
+            ],
+            "artist": {
+                "api_path": "/artists/2745823",
+                "header_image_url": "https://images.genius.com/c53135259321eec2060ec354d2330822.750x1000x1.jpg",
+                "id": 2745823,
+                "image_url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "producedbykb",
+                "url": "https://genius.com/artists/Producedbykb",
+                "iq": 312
+            },
+            "user": {
+                "api_path": "/users/12889765",
+                "avatar": {
+                    "tiny": {
+                        "url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 16,
+                            "height": 16
+                        }
+                    },
+                    "thumb": {
+                        "url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 32,
+                            "height": 32
+                        }
+                    },
+                    "small": {
+                        "url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 100,
+                            "height": 100
+                        }
+                    },
+                    "medium": {
+                        "url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+                        "bounding_box": {
+                            "width": 300,
+                            "height": 400
+                        }
+                    }
+                },
+                "header_image_url": "https://images.genius.com/c53135259321eec2060ec354d2330822.750x1000x1.jpg",
+                "human_readable_role_for_display": "Verified Artist",
+                "id": 12889765,
+                "iq": 312,
+                "login": "KissingerBeatz",
+                "name": "producedbykb",
+                "role_for_display": "verified_artist",
+                "url": "https://genius.com/KissingerBeatz",
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "follow"
+                    ],
+                    "interactions": {
+                        "following": false
+                    }
+                }
+            }
+        }
+    ],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/1110328",
+            "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+            "id": 1110328,
+            "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lil Baby",
+            "url": "https://genius.com/artists/Lil-baby",
+            "iq": 3834
+        },
+        {
+            "api_path": "/artists/2745823",
+            "header_image_url": "https://images.genius.com/c53135259321eec2060ec354d2330822.750x1000x1.jpg",
+            "id": 2745823,
+            "image_url": "https://images.genius.com/7bfdd7a4b591f48e8d0d13df6f72274f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "producedbykb",
+            "url": "https://genius.com/artists/Producedbykb",
+            "iq": 312
+        },
+        {
+            "api_path": "/artists/2588714",
+            "header_image_url": "https://images.genius.com/5639d9b218d1c81811655e215625c1b5.1000x166x1.jpg",
+            "id": 2588714,
+            "image_url": "https://images.genius.com/0d9ce5e2a66488a038f19e16b47c9921.302x302x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BeatsByJuko",
+            "url": "https://genius.com/artists/Beatsbyjuko"
+        },
+        {
+            "api_path": "/artists/669795",
+            "header_image_url": "https://images.genius.com/3cddf79bf0ef203e950568d5284f4f63.397x397x1.jpg",
+            "id": 669795,
+            "image_url": "https://images.genius.com/3cddf79bf0ef203e950568d5284f4f63.397x397x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kevin Gomringer",
+            "url": "https://genius.com/artists/Kevin-gomringer"
+        },
+        {
+            "api_path": "/artists/669794",
+            "header_image_url": "https://images.genius.com/a9c8f9ce4468183435dc5426addf6d2b.430x430x1.jpg",
+            "id": 669794,
+            "image_url": "https://images.genius.com/a9c8f9ce4468183435dc5426addf6d2b.430x430x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tim Gomringer",
+            "url": "https://genius.com/artists/Tim-gomringer"
+        },
+        {
+            "api_path": "/artists/2556451",
+            "header_image_url": "https://images.genius.com/826533ac74da65e677ab220e870bdb87.240x240x1.jpg",
+            "id": 2556451,
+            "image_url": "https://images.genius.com/5d46aad22157333320c4ffb40a2572f3.900x900x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "\u200bMacShooter",
+            "url": "https://genius.com/artists/Macshooter"
+        },
+        {
+            "api_path": "/artists/1637844",
+            "header_image_url": "https://images.genius.com/a299eda3c9f6c0bfa34f131c58e2ea41.1000x1000x1.jpg",
+            "id": 1637844,
+            "image_url": "https://images.genius.com/a299eda3c9f6c0bfa34f131c58e2ea41.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Klimperboy",
+            "url": "https://genius.com/artists/Klimperboy"
+        },
+        {
+            "api_path": "/artists/339721",
+            "header_image_url": "https://images.genius.com/2b027ce38e661932ef1b43e04f79dcf2.1000x563x1.png",
+            "id": 339721,
+            "image_url": "https://images.genius.com/c11e587d8c4a70c43a721aa6b29dda5d.815x815x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wheezy",
+            "url": "https://genius.com/artists/Wheezy"
+        }
+    ],
+    "artist": "Lil Baby",
+    "lyrics": "36 ContributorsTranslationsPortugu\u00easInsecurities Lyrics\nGot a couple of Ms, don't need nothing, I'm close to the ground, tell the\u2005camera\u2005man, \u201cOkay, catch\u2005this\"\nI ain't text her in a\u2005couple of hours, she call me and tell me that she feel neglected (I'm sorry)\nI done took me a piece of a X on some stayin' woke shit, and I'm textin' my ex-bitch\nI can get 'em sent right to your doorstep, don't matter the state, boy, I'm really connected\nIn the cut with a model, Azul by the bottle, I buy Audemars just to flex it\nReally com\u0435 from the bottom, I could've got shot up, I know for a fact it's a blessing\nRun Atlanta, I com\u0435 from the West End\nFlyin' Delta, the choppas gettin' checked in\nI already got Ms, tryna touch me a B, got her body done, she my investment\nFor a fact, these lil' niggas ain't fuckin' with me, reached the top, and I ain't break a sweat, yeah (Oh shit)\nI'm the one every time, you can bet that (Bet)\nMakin' checks off of rap and investin' it (Investin')\nDrugs and guns, bro, my whole hood infested (It's fucked up)\nWant it all, I can't settle for less than\n\nI provide for you, never lie to you, keep you right out the mix\nBaby, you would never be involved\nGot me wide open, we been vibin'\nA couple insecurities, I even fell in love with all your flaws\nYou know I'm always workin', but I answer all your calls\nAin't no hidden motives, I be doin' it just because\nGot me wide open, we been vibin'\nA couple insecurities, I even fell in love with all your flaws\n\nYour smile the cutest, your eyes look like they from heaven\nYour body, I'll do it honestly, if you let me\nThey all can say I'm a dog, but they don't regret me\nFerrari, the SF90, you can't catch me\nYou would die right away if you tried it, don't test me\nFuck all of them niggas all in your text message\nI'm richer, I'm way cooler, I'm not flexin'\nI'm always thinkin' about money, I can't help it\nIf it happens, it\u2019s meant to happen, I can't stress it\nIn Dubai with some super fine shit, we on a jet ski\nI heard you got a boyfriend, you need to dead that\nTalkin' to you, tryna figure out where your head at\nI know it get tight payin' bills, I'll take care of that\nI know you been wantin' to tour the world, we can go anywhere\nIf I fuck with her game, she in Chanel, girl\nIf you go tatt my name, you a Herm\u00e8s girl\n\nI provide for you, never lie to you, keep you right out the mix\nBaby, you would never be involved\nGot me wide open, we been vibin'\nA couple insecurities, I even fell in love with all your flaws\nYou know I'm always workin', but I answer all your calls\nAin't no hidden motives, I be doin' it just because\nGot me wide open, we been vibin'\nA couple insecurities, I even fell in love with all your flaws\n\nYour smile the cutest, your eyes look like they from heaven\nYour body, I'll do it honestly, you let me\nYour body, I'll do it honestly"
+}

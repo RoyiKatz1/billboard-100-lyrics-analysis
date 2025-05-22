@@ -1,0 +1,706 @@
+{
+    "_type": "song",
+    "annotation_count": 24,
+    "api_path": "/songs/10372949",
+    "artist_names": "Gunna",
+    "full_title": "on one tonight by\u00a0Gunna",
+    "header_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "header_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "id": 10372949,
+    "instrumental": false,
+    "lyrics_owner_id": 11929089,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747003941,
+    "path": "/Gunna-on-one-tonight-lyrics",
+    "primary_artist_names": "Gunna",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Gunna-on-one-tonight-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 5,
+        "day": 10
+    },
+    "release_date_for_display": "May 10, 2024",
+    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 39,
+        "iq_earners": 36,
+        "transcribers": 5,
+        "unreviewed_annotations": 24,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 119750
+    },
+    "title": "on one tonight",
+    "title_with_featured": "on one tonight",
+    "updated_by_human_at": 1747003941,
+    "url": "https://genius.com/Gunna-on-one-tonight-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/91049",
+        "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+        "id": 91049,
+        "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Gunna",
+        "url": "https://genius.com/artists/Gunna",
+        "iq": 1069
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        }
+    ],
+    "apple_music_id": "1744458286",
+    "apple_music_player_url": "https://genius.com/songs/10372949/apple_music_player",
+    "description": {
+        "plain": "Gunna drops his fifth studio album \u201cOne of Wun\u201d on May 10, 2024. \u201con one tonight\u201d is the eighth song on his album. Reached the top 100 in 9 days and stayed there for 1 week"
+    },
+    "embed_content": "<div id='rg_embed_link_10372949' class='rg_embed_link' data-song-id='10372949'>Read <a href='https://genius.com/Gunna-on-one-tonight-lyrics'>\u201con one tonight\u201d by Gunna</a> on Genius</div> <script crossorigin src='//genius.com/songs/10372949/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-05-10",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#0449ba",
+    "song_art_secondary_color": "#0c315e",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1144396",
+        "cover_art_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+        "full_title": "One of Wun by Gunna",
+        "id": 1144396,
+        "name": "One of Wun",
+        "primary_artist_names": "Gunna",
+        "release_date_for_display": "May 10, 2024",
+        "url": "https://genius.com/albums/Gunna/One-of-wun",
+        "artist": {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/91049",
+                "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+                "id": 91049,
+                "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Gunna",
+                "url": "https://genius.com/artists/Gunna",
+                "iq": 1069
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2234539",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2234539,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gunna Music",
+                    "url": "https://genius.com/artists/Gunna-music"
+                },
+                {
+                    "api_path": "/artists/1156486",
+                    "header_image_url": "https://images.genius.com/281dafbdc43df18c417c383ad359171a.1000x154x1.jpg",
+                    "id": 1156486,
+                    "image_url": "https://images.genius.com/07406019e5dbcd843638d340669dd539.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Young Stoner Life",
+                    "url": "https://genius.com/artists/Young-stoner-life"
+                },
+                {
+                    "api_path": "/artists/540920",
+                    "header_image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "id": 540920,
+                    "image_url": "https://images.genius.com/cefa940e6d5b092b02b6dad23b83808b.512x512x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "300 Entertainment",
+                    "url": "https://genius.com/artists/300-entertainment",
+                    "iq": 944
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1405538",
+                    "header_image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "id": 1405538,
+                    "image_url": "https://images.genius.com/b2d0b9cc9caf5c5fd043fb73f128e956.640x640x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Florian \u201cFlo\u201d Ongonga",
+                    "url": "https://genius.com/artists/Florian-flo-ongonga"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2211774",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2211774,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Nielsen",
+                    "url": "https://genius.com/artists/Alex-nielsen"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21759900,
+        "annotator_login": "goncal00",
+        "api_path": "/referents/31678320",
+        "classification": "unreviewed",
+        "fragment": "on one tonight",
+        "id": 31678320,
+        "is_description": true,
+        "path": "/31678320/Gunna-on-one-tonight/On-one-tonight",
+        "range": {
+            "content": "on one tonight"
+        },
+        "song_id": 10372949,
+        "url": "https://genius.com/31678320/Gunna-on-one-tonight/On-one-tonight",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10372949",
+            "client_timestamps": {
+                "updated_by_human_at": 1747003941,
+                "lyrics_updated_at": 1747003941
+            },
+            "context": "Gunna",
+            "id": 10372949,
+            "image_url": "https://images.genius.com/101bed9d7062e00a6981fd6c714ee9a6.999x999x1.png",
+            "link_title": "on one tonight by\u00a0Gunna",
+            "title": "on one tonight",
+            "type": "Song",
+            "url": "https://genius.com/Gunna-on-one-tonight-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31678320",
+                "body": {
+                    "plain": "Gunna drops his fifth studio album \u201cOne of Wun\u201d on May 10, 2024. \u201con one tonight\u201d is the eighth song on his album. Reached the top 100 in 9 days and stayed there for 1 week"
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31678320,
+                "pinned": false,
+                "share_url": "https://genius.com/31678320",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31678320/Gunna-on-one-tonight/On-one-tonight",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21759900",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/73cb46da4aa979a46e15bc702b289b70",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/73cb46da4aa979a46e15bc702b289b70",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/73cb46da4aa979a46e15bc702b289b70",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/73cb46da4aa979a46e15bc702b289b70",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/73cb46da4aa979a46e15bc702b289b70",
+                            "human_readable_role_for_display": null,
+                            "id": 21759900,
+                            "iq": 132,
+                            "login": "goncal00",
+                            "name": "goncal00",
+                            "role_for_display": null,
+                            "url": "https://genius.com/goncal00",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=5i0GKTp8c1Q"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/2206798",
+            "header_image_url": "https://images.genius.com/4a2d06b4dd0d94f23a866cc7028ebbeb.516x516x1.png",
+            "id": 2206798,
+            "image_url": "https://images.genius.com/4a2d06b4dd0d94f23a866cc7028ebbeb.516x516x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kenny Stuntin",
+            "url": "https://genius.com/artists/Kenny-stuntin"
+        },
+        {
+            "api_path": "/artists/324433",
+            "header_image_url": "https://images.genius.com/5c819d5f59ac9e52908e092f08cfdc5b.318x159x1.jpg",
+            "id": 324433,
+            "image_url": "https://images.genius.com/d494725b4a27576407210d9ba537549c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nash Beats",
+            "url": "https://genius.com/artists/Nash-beats",
+            "iq": 136
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11350503",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Gunna - on one tonight (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.536x536x1.jpg",
+                    "id": 11350503,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-gunna-on-one-tonight-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-gunna-on-one-tonight-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 10
+                    },
+                    "release_date_for_display": "May 10, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 10, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/7cde1f7511dd1af9d3936ae771255b52.536x536x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Gunna - on one tonight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Gunna - on one tonight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-gunna-on-one-tonight-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11350503",
+            "id": 11350503,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-gunna-on-one-tonight-traducao-em-portugues-lyrics",
+            "title": "Gunna - on one tonight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-gunna-on-one-tonight-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/91049",
+            "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+            "id": 91049,
+            "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Gunna",
+            "url": "https://genius.com/artists/Gunna",
+            "iq": 1069
+        },
+        {
+            "api_path": "/artists/2206798",
+            "header_image_url": "https://images.genius.com/4a2d06b4dd0d94f23a866cc7028ebbeb.516x516x1.png",
+            "id": 2206798,
+            "image_url": "https://images.genius.com/4a2d06b4dd0d94f23a866cc7028ebbeb.516x516x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Kenny Stuntin",
+            "url": "https://genius.com/artists/Kenny-stuntin"
+        },
+        {
+            "api_path": "/artists/324433",
+            "header_image_url": "https://images.genius.com/5c819d5f59ac9e52908e092f08cfdc5b.318x159x1.jpg",
+            "id": 324433,
+            "image_url": "https://images.genius.com/d494725b4a27576407210d9ba537549c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Nash Beats",
+            "url": "https://genius.com/artists/Nash-beats",
+            "iq": 136
+        }
+    ],
+    "artist": "Gunna",
+    "lyrics": "39 ContributorsTranslationsPortugu\u00eason one tonight Lyrics\nYou niggas been hatin' way too long\nYeah, yeah\nToo grown, I bought that\u2014\nOh\nYeah\n(That's a good one, P)\nYeah, yeah\n\nI went to AP, spent 200K\nThey sold me the frost, rainbow face\nThey hope I fall\u205foff,\u205fain't\u205fno way\nI might\u205fbe 'ight, but\u205fit ain't okay\nNiggas got left, niggas went right, I went left and stayed left, it ain't nothin' the same\nThey run they lips, I put my prep in a step and my foot on the pedal of Range\nSpend this shit like I'm ahead of the game\nYou said they gon' drop, and it better be flame\nLil' mommy gon' top, she gon' suck 'til I'm drained\nMy top-five topper, in love with her brain\nAcross the sea, huh (Ah), Hatteras in Mykonos, Greece, man, they love me in Spain (Yeah, yeah)\nI'm kickin' P, ah, land on the jet with a bitch with a big-body frame (Yeah)\nDressed like a biker, rockin' black Margiela loafers, the one with the lace (Yeah, yeah)\nPulled up in title, yeah, right, I don't think these lil' niggas really wanna race (Yeah, yeah)\nI got the fire, I spit crack, I got the fans, gon' recite what I say (Yeah, yeah)\nPass me that lighter, this ain't no Thrax, this some Bluscotti, I smoke to the face (Yeah, yeah)\nMade it to the light and they still throwin' shade\nI was locked up, takin' chips for a trade (Yeah, yeah)\nI'm the boss, make more than minimum wage\nThese blue hunnids keepin' my mental straight (Yeah, yeah)\nTalkin' to God in the middle of the day\nAin't no human bein' determine my fate (Yeah, yeah)\nThe more I get it in, the more they gon' hate\nThat lil'-body Benz, I know what you pay (Yeah, yeah, yeah-ah-ayy)\nDon't tempt me, I'm on one tonight (Yeah, yeah, yeah-ah-ayy)\nDon't play with me, play with a mic' (Yeah, yeah, yeah-ah-ayy)\nShe suck it when we stop at the light\nThese rappers ain't copyin' right (Yeah, yeah, yeah-ah-ayy)\nGet dressed and pop-out in the night\nToo trim, I got 'em enticed"
+}

@@ -1,0 +1,655 @@
+{
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/10772990",
+    "artist_names": "Tito Double P",
+    "full_title": "EL LOKER\u00d3N by\u00a0Tito\u00a0Double P",
+    "header_image_thumbnail_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.300x300x1.png",
+    "header_image_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.1000x1000x1.png",
+    "id": 10772990,
+    "instrumental": false,
+    "lyrics_owner_id": 17336116,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736929684,
+    "path": "/Tito-double-p-el-lokeron-lyrics",
+    "primary_artist_names": "Tito Double P",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Tito-double-p-el-lokeron-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 8,
+        "day": 22
+    },
+    "release_date_for_display": "August 22, 2024",
+    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 119483
+    },
+    "title": "EL LOKER\u00d3N",
+    "title_with_featured": "EL LOKER\u00d3N",
+    "updated_by_human_at": 1736929684,
+    "url": "https://genius.com/Tito-double-p-el-lokeron-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/3572197",
+        "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+        "id": 3572197,
+        "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tito Double P",
+        "url": "https://genius.com/artists/Tito-double-p"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        }
+    ],
+    "apple_music_id": "1761412372",
+    "apple_music_player_url": "https://genius.com/songs/10772990/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10772990' class='rg_embed_link' data-song-id='10772990'>Read <a href='https://genius.com/Tito-double-p-el-lokeron-lyrics'>\u201cEL LOKER\u00d3N\u201d by Tito\u00a0Double P</a> on Genius</div> <script crossorigin src='//genius.com/songs/10772990/embed.js'></script>",
+    "featured_video": false,
+    "language": "es",
+    "recording_location": null,
+    "release_date": "2024-08-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#b8422d",
+    "song_art_secondary_color": "#591c14",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1192457",
+        "cover_art_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.1000x1000x1.png",
+        "full_title": "INC\u00d3MODO by Tito Double P",
+        "id": 1192457,
+        "name": "INC\u00d3MODO",
+        "primary_artist_names": "Tito Double P",
+        "release_date_for_display": "August 22, 2024",
+        "url": "https://genius.com/albums/Tito-double-p/Incomodo",
+        "artist": {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/3572197",
+                "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+                "id": 3572197,
+                "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Tito Double P",
+                "url": "https://genius.com/artists/Tito-double-p"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/613023",
+                    "header_image_url": "https://images.genius.com/3e35a8223ecd656825afd594d3f04582.750x502x25.gif",
+                    "id": 613023,
+                    "image_url": "https://images.genius.com/b902d2724ec5b2a7756c5642cdd8b8b8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "The Orchard",
+                    "url": "https://genius.com/artists/The-orchard"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/3510702",
+                    "header_image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "id": 3510702,
+                    "image_url": "https://images.genius.com/7590b124639d4925b2748caa6989ff98.836x836x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Double P Records",
+                    "url": "https://genius.com/artists/Double-p-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 18674465,
+        "annotator_login": "LilRey507",
+        "api_path": "/referents/32683884",
+        "classification": "needs_exegesis",
+        "fragment": "EL LOKER\u00d3N",
+        "id": 32683884,
+        "is_description": true,
+        "path": "/32683884/Tito-double-p-el-lokeron/El-lokeron",
+        "range": {
+            "content": "EL LOKER\u00d3N"
+        },
+        "song_id": 10772990,
+        "url": "https://genius.com/32683884/Tito-double-p-el-lokeron/El-lokeron",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10772990",
+            "client_timestamps": {
+                "updated_by_human_at": 1736929684,
+                "lyrics_updated_at": 1736929684
+            },
+            "context": "Tito Double P",
+            "id": 10772990,
+            "image_url": "https://images.genius.com/7527f4c4a8664489809bfb446057846d.1000x1000x1.png",
+            "link_title": "EL LOKER\u00d3N by\u00a0Tito\u00a0Double P",
+            "title": "EL LOKER\u00d3N",
+            "type": "Song",
+            "url": "https://genius.com/Tito-double-p-el-lokeron-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32683884",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 32683884,
+                "pinned": false,
+                "share_url": "https://genius.com/32683884",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/32683884/Tito-double-p-el-lokeron/El-lokeron",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/18674465",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/4205d11b5e21e43d0e9f78409443038d",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/aa7a6d464fe07d2733a445ce688c34fb.820x312x1.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 18674465,
+                            "iq": 351678,
+                            "login": "LilRey507",
+                            "name": "El Rey De La Buena Vida\ud83d\udc51",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/LilRey507",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/17336116",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/9a61f8a9ef70f92f5c6c88ef1a5f028f",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a3f3e4fae808e9426937a2b4180993bf.640x908x1.jpg",
+        "human_readable_role_for_display": "Moderator",
+        "id": 17336116,
+        "iq": 1340593,
+        "login": "Fri",
+        "name": "Fri",
+        "role_for_display": "moderator",
+        "url": "https://genius.com/Fri",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=54YpK2I6BM8"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        {
+            "api_path": "/artists/2674846",
+            "header_image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "id": 2674846,
+            "image_url": "https://images.genius.com/793d08b062dd89979c634383f2bf3145.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ernesto Fern\u00e1ndez",
+            "url": "https://genius.com/artists/Ernesto-fernandez"
+        },
+        {
+            "api_path": "/artists/1732516",
+            "header_image_url": "https://images.genius.com/a1a9ea89936c3872ce8827691dfd7d7a.600x399x1.jpg",
+            "id": 1732516,
+            "image_url": "https://images.genius.com/8c727e6f4996dde0c803dc7bb39c838a.316x316x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Arturo Garc\u00eda",
+            "url": "https://genius.com/artists/Arturo-garcia"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10821647",
+                    "artist_names": "Genius English Translations",
+                    "full_title": "Tito Double P - EL LOKER\u00d3N (English Translation) by\u00a0Genius\u00a0English Translations",
+                    "header_image_thumbnail_url": "https://images.genius.com/b8d8865a47e2fca903f30f7f75807496.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b8d8865a47e2fca903f30f7f75807496.1000x1000x1.png",
+                    "id": 10821647,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-english-translations-tito-double-p-el-lokeron-english-translation-lyrics",
+                    "primary_artist_names": "Genius English Translations",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-english-translations-tito-double-p-el-lokeron-english-translation-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 22
+                    },
+                    "release_date_for_display": "August 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b8d8865a47e2fca903f30f7f75807496.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b8d8865a47e2fca903f30f7f75807496.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 43366
+                    },
+                    "title": "Tito Double P - EL LOKER\u00d3N (English Translation)",
+                    "title_with_featured": "Tito Double P - EL LOKER\u00d3N (English Translation)",
+                    "url": "https://genius.com/Genius-english-translations-tito-double-p-el-lokeron-english-translation-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/196943",
+                        "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                        "id": 196943,
+                        "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius English Translations",
+                        "url": "https://genius.com/artists/Genius-english-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/196943",
+                            "header_image_url": "https://images.genius.com/570963869585334ad99453cdb2db42bf.1000x140x1.png",
+                            "id": 196943,
+                            "image_url": "https://images.genius.com/de32245e4abcb8be6c5d15aace40d53e.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius English Translations",
+                            "url": "https://genius.com/artists/Genius-english-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10821647",
+            "id": 10821647,
+            "language": "en",
+            "lyrics_state": "complete",
+            "path": "/Genius-english-translations-tito-double-p-el-lokeron-english-translation-lyrics",
+            "title": "Tito Double P - EL LOKER\u00d3N (English Translation)",
+            "url": "https://genius.com/Genius-english-translations-tito-double-p-el-lokeron-english-translation-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/3572197",
+            "header_image_url": "https://images.genius.com/5e3564b2bea7062500758fe0dca9a7d7.1000x502x1.png",
+            "id": 3572197,
+            "image_url": "https://images.genius.com/112a04da76c3a43aa26ae2cddcfa65ae.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tito Double P",
+            "url": "https://genius.com/artists/Tito-double-p"
+        },
+        {
+            "api_path": "/artists/3889795",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 3889795,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jes\u00fas Camacho",
+            "url": "https://genius.com/artists/Jesus-camacho"
+        },
+        {
+            "api_path": "/artists/4139674",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 4139674,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Juan Manuel Osorio",
+            "url": "https://genius.com/artists/Juan-manuel-osorio"
+        },
+        {
+            "api_path": "/artists/4139675",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 4139675,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Yahid Roel Tejeda",
+            "url": "https://genius.com/artists/Yahid-roel-tejeda"
+        }
+    ],
+    "artist": "Tito Double P",
+    "lyrics": "6 ContributorsTranslationsEnglishEL LOKER\u00d3N Lyrics\n\nCon la gorrita de lado, los ojos tumbados y cargo un plac\u00f3n\nLoco cabr\u00f3n, as\u00ed me dicen que soy\nLos plebes andan ondeados, si bajan los vidrios, un humader\u00f3n\nSale el olor a pura flor\nTengo llamadas perdidas, mi morra ya varias veces me marc\u00f3\nQuiere que ya me regrese pa'l cant\u00f3n\nY que la d\u00e9 por perdida, no hay pedo, aqu\u00ed tengo a su amiga a un lado\nY lo mueve mucho mejor, mucho mejor\n\nNo te tengo aqu\u00ed, a mi lado, pero me la paso ching\u00f3n\nVan cuatro d\u00edas enfiestado, encerrado, traigo un loquer\u00f3n\nUn loquer\u00f3n, no es por amor el loquer\u00f3n\n\nTito Double P\nEl loquer\u00f3n, mi pa\nAy, mam\u00e1\n\nPata a fondo, acelerado, bien adiamantado traigo el Rolex\u00f3n\nY atr\u00e1s de m\u00ed viene un convoy (Convoy)\nLos plebes andan ondeados, las puntas por fuera, se ve el blindad\u00f3n\nY en el depa un revent\u00f3n\nYa empez\u00f3 y p\u00f3nganse pilas, que las bandidas llegar\u00e1n en calor\nY ah\u00ed vienen dos pa' Miguel\u00f3n\nNo se me duerma, plebada, que ah\u00ed vienen morritas de medio mill\u00f3n\nEn el TikTok, de lo mejor, de lo mejor\n\nNo te tengo aqu\u00ed, a mi lado, pero me la paso ching\u00f3n\nVan cuatro d\u00edas enfiestado, encerrado, traigo un loquer\u00f3n\nUn loquer\u00f3n, no es por amor el loquer\u00f3n"
+}

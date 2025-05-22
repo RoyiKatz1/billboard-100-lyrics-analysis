@@ -1,0 +1,3498 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10402053",
+    "artist_names": "Ariana Grande",
+    "full_title": "Popular by\u00a0Ariana\u00a0Grande",
+    "header_image_thumbnail_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.300x300x1.png",
+    "header_image_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.1000x1000x1.png",
+    "id": 10402053,
+    "instrumental": false,
+    "lyrics_owner_id": 8280771,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1740536188,
+    "path": "/Ariana-grande-popular-lyrics",
+    "primary_artist_names": "Ariana Grande",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Ariana-grande-popular-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 11,
+        "day": 22
+    },
+    "release_date_for_display": "November 22, 2024",
+    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 4,
+        "contributors": 28,
+        "iq_earners": 28,
+        "transcribers": 5,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 185639
+    },
+    "title": "Popular",
+    "title_with_featured": "Popular",
+    "updated_by_human_at": 1740536188,
+    "url": "https://genius.com/Ariana-grande-popular-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/26507",
+        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+        "id": 26507,
+        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ariana Grande",
+        "url": "https://genius.com/artists/Ariana-grande",
+        "iq": 2871
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/26507",
+            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+            "id": 26507,
+            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Ariana Grande",
+            "url": "https://genius.com/artists/Ariana-grande",
+            "iq": 2871
+        }
+    ],
+    "apple_music_id": "1772364643",
+    "apple_music_player_url": "https://genius.com/songs/10402053/apple_music_player",
+    "description": {
+        "plain": "In gratitude for Elphaba (Cynthia Erivo) getting her private magic lessons with Madame Morrible (Michelle Yeoh), Galinda (Ariana Grande) resolves to give Elphaba a makeover that will make her more presentable to the other students at Shiz University."
+    },
+    "embed_content": "<div id='rg_embed_link_10402053' class='rg_embed_link' data-song-id='10402053'>Read <a href='https://genius.com/Ariana-grande-popular-lyrics'>\u201cPopular\u201d by Ariana\u00a0Grande</a> on Genius</div> <script crossorigin src='//genius.com/songs/10402053/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Air Studios, Ozdustland Studios and Power Station",
+    "release_date": "2024-11-22",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#cf9f9e",
+    "song_art_secondary_color": "#abca7d",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1372841",
+        "cover_art_url": "https://images.genius.com/54d4761b38d52d53cc5422e827dc2257.1000x1000x1.png",
+        "full_title": "Wicked: The Soundtrack (Commentary) by Wicked Movie Cast, Cynthia Erivo & Ariana Grande",
+        "id": 1372841,
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "primary_artist_names": "Wicked Movie Cast, Cynthia Erivo & Ariana Grande",
+        "release_date_for_display": "April 4, 2025",
+        "url": "https://genius.com/albums/Wicked-movie-cast-cynthia-erivo-and-ariana-grande/Wicked-the-soundtrack-commentary",
+        "artist": {
+            "api_path": "/artists/4204148",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 4204148,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wicked Movie Cast",
+            "url": "https://genius.com/artists/Wicked-movie-cast"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/4204148",
+                "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                "id": 4204148,
+                "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Wicked Movie Cast",
+                "url": "https://genius.com/artists/Wicked-movie-cast"
+            },
+            {
+                "api_path": "/artists/263409",
+                "header_image_url": "https://images.genius.com/7275d0efcf0a597e974431cf4db7d22b.736x939x1.jpg",
+                "id": 263409,
+                "image_url": "https://images.genius.com/ca033aa13fa83bfff9bd29ffa6637ca4.999x999x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Cynthia Erivo",
+                "url": "https://genius.com/artists/Cynthia-erivo"
+            },
+            {
+                "api_path": "/artists/26507",
+                "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                "id": 26507,
+                "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Ariana Grande",
+                "url": "https://genius.com/artists/Ariana-grande",
+                "iq": 2871
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Coach",
+            "artists": [
+                {
+                    "api_path": "/artists/1790556",
+                    "header_image_url": "https://images.genius.com/92fe45631637420136dc827156a8b137.1000x667x1.jpg",
+                    "id": 1790556,
+                    "image_url": "https://images.genius.com/77f97bbf8c090a048d34aba423f2bdf2.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eric Vetro",
+                    "url": "https://genius.com/artists/Eric-vetro"
+                }
+            ]
+        },
+        {
+            "label": "Preparer",
+            "artists": [
+                {
+                    "api_path": "/artists/2108102",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2108102,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jordan Cox",
+                    "url": "https://genius.com/artists/Jordan-cox"
+                },
+                {
+                    "api_path": "/artists/2051221",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2051221,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Global Service Music",
+                    "url": "https://genius.com/artists/Global-service-music"
+                },
+                {
+                    "api_path": "/artists/2036236",
+                    "header_image_url": "https://images.genius.com/1fd9846a2ed692dcadc0b1f60a993961.562x1000x1.jpg",
+                    "id": 2036236,
+                    "image_url": "https://images.genius.com/0b419ac87b06ef2b84e9357067adfe20.750x750x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aiden Davis",
+                    "url": "https://genius.com/artists/Aiden-davis"
+                },
+                {
+                    "api_path": "/artists/4206005",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4206005,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "James Reagan",
+                    "url": "https://genius.com/artists/James-reagan"
+                },
+                {
+                    "api_path": "/artists/1560086",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1560086,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brad Ritchie",
+                    "url": "https://genius.com/artists/Brad-ritchie"
+                }
+            ]
+        },
+        {
+            "label": "Contractor",
+            "artists": [
+                {
+                    "api_path": "/artists/1099193",
+                    "header_image_url": "https://images.genius.com/f73e08e778d95875f1bcc2aeb568c0ff.871x871x1.jpg",
+                    "id": 1099193,
+                    "image_url": "https://images.genius.com/f73e08e778d95875f1bcc2aeb568c0ff.871x871x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jasper Randall",
+                    "url": "https://genius.com/artists/Jasper-randall"
+                },
+                {
+                    "api_path": "/artists/649562",
+                    "header_image_url": "https://images.genius.com/725f4c4ca89c4e3cfe02e2b709b56cd6.418x418x1.jpg",
+                    "id": 649562,
+                    "image_url": "https://images.genius.com/725f4c4ca89c4e3cfe02e2b709b56cd6.418x418x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Isobel Griffiths",
+                    "url": "https://genius.com/artists/Isobel-griffiths"
+                }
+            ]
+        },
+        {
+            "label": "Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1968302",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1968302,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ashley Andrew-Jones",
+                    "url": "https://genius.com/artists/Ashley-andrew-jones"
+                }
+            ]
+        },
+        {
+            "label": "Additional Orchestration",
+            "artists": [
+                {
+                    "api_path": "/artists/1639441",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1639441,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Beard",
+                    "url": "https://genius.com/artists/Jonathan-beard"
+                },
+                {
+                    "api_path": "/artists/4206004",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4206004,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ed Trybeck",
+                    "url": "https://genius.com/artists/Ed-trybeck"
+                },
+                {
+                    "api_path": "/artists/1639439",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1639439,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Henri Wilkinson",
+                    "url": "https://genius.com/artists/Henri-wilkinson"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2315721",
+                    "header_image_url": "https://images.genius.com/8d00efac94268e03128fd6bff6ada32e.667x667x1.jpg",
+                    "id": 2315721,
+                    "image_url": "https://images.genius.com/8d00efac94268e03128fd6bff6ada32e.667x667x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Soudah",
+                    "url": "https://genius.com/artists/Jason-soudah"
+                },
+                {
+                    "api_path": "/artists/3519498",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3519498,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laura Beck",
+                    "url": "https://genius.com/artists/Laura-beck"
+                },
+                {
+                    "api_path": "/artists/4003403",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4003403,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wil Jones",
+                    "url": "https://genius.com/artists/Wil-jones"
+                },
+                {
+                    "api_path": "/artists/4206003",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4206003,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "George Lloyd-Owen",
+                    "url": "https://genius.com/artists/George-lloyd-owen"
+                },
+                {
+                    "api_path": "/artists/3689742",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3689742,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eve Morris (Engineer)",
+                    "url": "https://genius.com/artists/Eve-morris-engineer"
+                },
+                {
+                    "api_path": "/artists/1002228",
+                    "header_image_url": "https://images.genius.com/f9f170ac7ee4f099c5def6a354ad1cb3.770x770x1.jpg",
+                    "id": 1002228,
+                    "image_url": "https://images.genius.com/f9f170ac7ee4f099c5def6a354ad1cb3.770x770x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sean Phelan",
+                    "url": "https://genius.com/artists/Sean-phelan"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1177439",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1177439,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Wollage",
+                    "url": "https://genius.com/artists/Nick-wollage"
+                },
+                {
+                    "api_path": "/artists/1145941",
+                    "header_image_url": "https://images.genius.com/74665aa23a805d07816046fe03b72be4.919x919x1.jpg",
+                    "id": 1145941,
+                    "image_url": "https://images.genius.com/74665aa23a805d07816046fe03b72be4.919x919x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ian Kagey",
+                    "url": "https://genius.com/artists/Ian-kagey"
+                },
+                {
+                    "api_path": "/artists/656577",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 656577,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Prestage",
+                    "url": "https://genius.com/artists/John-prestage"
+                }
+            ]
+        },
+        {
+            "label": "Orchestration",
+            "artists": [
+                {
+                    "api_path": "/artists/1172739",
+                    "header_image_url": "https://images.genius.com/658e9171f88e84e906455de43ddc7b6f.889x889x1.jpg",
+                    "id": 1172739,
+                    "image_url": "https://images.genius.com/658e9171f88e84e906455de43ddc7b6f.889x889x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Atmajian",
+                    "url": "https://genius.com/artists/Jeff-atmajian"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/169596",
+                    "header_image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+                    "id": 169596,
+                    "image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephen Oremus",
+                    "url": "https://genius.com/artists/Stephen-oremus"
+                },
+                {
+                    "api_path": "/artists/1514109",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1514109,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dominick Amendum",
+                    "url": "https://genius.com/artists/Dominick-amendum"
+                },
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                },
+                {
+                    "api_path": "/artists/1172739",
+                    "header_image_url": "https://images.genius.com/658e9171f88e84e906455de43ddc7b6f.889x889x1.jpg",
+                    "id": 1172739,
+                    "image_url": "https://images.genius.com/658e9171f88e84e906455de43ddc7b6f.889x889x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeff Atmajian",
+                    "url": "https://genius.com/artists/Jeff-atmajian"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/666663",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666663,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robin Baynton",
+                    "url": "https://genius.com/artists/Robin-baynton"
+                }
+            ]
+        },
+        {
+            "label": "Rhythm Section",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/4205984",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4205984,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Barbara McLean Stage",
+                    "url": "https://genius.com/artists/Barbara-mclean-stage"
+                },
+                {
+                    "api_path": "/artists/4205985",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4205985,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robert Wise Mixing Stage",
+                    "url": "https://genius.com/artists/Robert-wise-mixing-stage"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/666663",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666663,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Robin Baynton",
+                    "url": "https://genius.com/artists/Robin-baynton"
+                }
+            ]
+        },
+        {
+            "label": "Additional Mixing",
+            "artists": [
+                {
+                    "api_path": "/artists/986435",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 986435,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laurence Anslow",
+                    "url": "https://genius.com/artists/Laurence-anslow"
+                }
+            ]
+        },
+        {
+            "label": "Musical Supervision",
+            "artists": [
+                {
+                    "api_path": "/artists/1514109",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1514109,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dominick Amendum",
+                    "url": "https://genius.com/artists/Dominick-amendum"
+                },
+                {
+                    "api_path": "/artists/1133690",
+                    "header_image_url": "https://images.genius.com/abeb682ca9cd5194704fabb404dfc7f6.406x406x1.jpg",
+                    "id": 1133690,
+                    "image_url": "https://images.genius.com/abeb682ca9cd5194704fabb404dfc7f6.406x406x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Maggie Rodford",
+                    "url": "https://genius.com/artists/Maggie-rodford"
+                }
+            ]
+        },
+        {
+            "label": "Dialogue",
+            "artists": [
+                {
+                    "api_path": "/artists/263409",
+                    "header_image_url": "https://images.genius.com/7275d0efcf0a597e974431cf4db7d22b.736x939x1.jpg",
+                    "id": 263409,
+                    "image_url": "https://images.genius.com/ca033aa13fa83bfff9bd29ffa6637ca4.999x999x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cynthia Erivo",
+                    "url": "https://genius.com/artists/Cynthia-erivo"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/844109",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 844109,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Richard George",
+                    "url": "https://genius.com/artists/Richard-george"
+                },
+                {
+                    "api_path": "/artists/1091359",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1091359,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fenella Barton",
+                    "url": "https://genius.com/artists/Fenella-barton"
+                },
+                {
+                    "api_path": "/artists/981057",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981057,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mark Berrow",
+                    "url": "https://genius.com/artists/Mark-berrow"
+                },
+                {
+                    "api_path": "/artists/1009571",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009571,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Bhattacharya",
+                    "url": "https://genius.com/artists/Daniel-bhattacharya"
+                },
+                {
+                    "api_path": "/artists/663369",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 663369,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Natalia Bonner",
+                    "url": "https://genius.com/artists/Natalia-bonner"
+                },
+                {
+                    "api_path": "/artists/1049832",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1049832,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Thomas Bowes",
+                    "url": "https://genius.com/artists/Thomas-bowes"
+                },
+                {
+                    "api_path": "/artists/1865448",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1865448,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Charlie Brown (Violinist)",
+                    "url": "https://genius.com/artists/Charlie-brown-violinist"
+                },
+                {
+                    "api_path": "/artists/1515738",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1515738,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ben Buckton",
+                    "url": "https://genius.com/artists/Ben-buckton"
+                },
+                {
+                    "api_path": "/artists/981063",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981063,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Emil Chakalov",
+                    "url": "https://genius.com/artists/Emil-chakalov"
+                },
+                {
+                    "api_path": "/artists/1252428",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1252428,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ralph De Souza",
+                    "url": "https://genius.com/artists/Ralph-de-souza"
+                },
+                {
+                    "api_path": "/artists/1044538",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1044538,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Christina Emanuel",
+                    "url": "https://genius.com/artists/Christina-emanuel"
+                },
+                {
+                    "api_path": "/artists/4193220",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4193220,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dai Emanuel",
+                    "url": "https://genius.com/artists/Dai-emanuel"
+                },
+                {
+                    "api_path": "/artists/1051118",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1051118,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Evans-Jones",
+                    "url": "https://genius.com/artists/Jonathan-evans-jones"
+                },
+                {
+                    "api_path": "/artists/1865462",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1865462,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nina Foster (violin)",
+                    "url": "https://genius.com/artists/Nina-foster-violin"
+                },
+                {
+                    "api_path": "/artists/1261925",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1261925,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kathy Gowers",
+                    "url": "https://genius.com/artists/Kathy-gowers"
+                },
+                {
+                    "api_path": "/artists/1187169",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1187169,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marianne Haynes",
+                    "url": "https://genius.com/artists/Marianne-haynes"
+                },
+                {
+                    "api_path": "/artists/1251021",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1251021,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Raja Halder",
+                    "url": "https://genius.com/artists/Raja-halder"
+                },
+                {
+                    "api_path": "/artists/2825655",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2825655,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phillippe Hanor\u00e9",
+                    "url": "https://genius.com/artists/Phillippe-hanore"
+                },
+                {
+                    "api_path": "/artists/666778",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666778,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ian Humphries",
+                    "url": "https://genius.com/artists/Ian-humphries"
+                },
+                {
+                    "api_path": "/artists/1091355",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1091355,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Martyn Jackson",
+                    "url": "https://genius.com/artists/Martyn-jackson"
+                },
+                {
+                    "api_path": "/artists/644618",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 644618,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick Kiernan",
+                    "url": "https://genius.com/artists/Patrick-kiernan"
+                },
+                {
+                    "api_path": "/artists/3670772",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3670772,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bea Lovejoy",
+                    "url": "https://genius.com/artists/Bea-lovejoy"
+                },
+                {
+                    "api_path": "/artists/1252432",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1252432,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dorina Markoff",
+                    "url": "https://genius.com/artists/Dorina-markoff"
+                },
+                {
+                    "api_path": "/artists/844108",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 844108,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laura Melhuish",
+                    "url": "https://genius.com/artists/Laura-melhuish"
+                },
+                {
+                    "api_path": "/artists/1038598",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1038598,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Mills",
+                    "url": "https://genius.com/artists/John-mills"
+                },
+                {
+                    "api_path": "/artists/21024",
+                    "header_image_url": "https://images.genius.com/b99ebe2a5f38760f4a3205d77862c805.348x348x1.jpg",
+                    "id": 21024,
+                    "image_url": "https://images.genius.com/b99ebe2a5f38760f4a3205d77862c805.348x348x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Morris",
+                    "url": "https://genius.com/artists/Steve-morris"
+                },
+                {
+                    "api_path": "/artists/666802",
+                    "header_image_url": "https://images.genius.com/b247014cffa45bc7d1ea1dd855468b01.400x400x1.jpg",
+                    "id": 666802,
+                    "image_url": "https://images.genius.com/b247014cffa45bc7d1ea1dd855468b01.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Everton Nelson",
+                    "url": "https://genius.com/artists/Everton-nelson"
+                },
+                {
+                    "api_path": "/artists/1619629",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1619629,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Odile Ollagnon",
+                    "url": "https://genius.com/artists/Odile-ollagnon"
+                },
+                {
+                    "api_path": "/artists/4088687",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4088687,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oscar Perks",
+                    "url": "https://genius.com/artists/Oscar-perks"
+                },
+                {
+                    "api_path": "/artists/1009574",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009574,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Pigott-Smith",
+                    "url": "https://genius.com/artists/Tom-pigott-smith"
+                },
+                {
+                    "api_path": "/artists/506816",
+                    "header_image_url": "https://images.genius.com/45356e87040b535f55408a096ae53f18.680x680x1.jpg",
+                    "id": 506816,
+                    "image_url": "https://images.genius.com/45356e87040b535f55408a096ae53f18.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kotono Sato",
+                    "url": "https://genius.com/artists/Kotono-sato"
+                },
+                {
+                    "api_path": "/artists/644621",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 644621,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sarah Sexton",
+                    "url": "https://genius.com/artists/Sarah-sexton"
+                },
+                {
+                    "api_path": "/artists/976812",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 976812,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anna Szabo",
+                    "url": "https://genius.com/artists/Anna-szabo"
+                },
+                {
+                    "api_path": "/artists/1009572",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009572,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cathy Thompson",
+                    "url": "https://genius.com/artists/Cathy-thompson"
+                },
+                {
+                    "api_path": "/artists/1304038",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1304038,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Clare Thompson",
+                    "url": "https://genius.com/artists/Clare-thompson"
+                },
+                {
+                    "api_path": "/artists/1251024",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1251024,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Trainor",
+                    "url": "https://genius.com/artists/Michael-trainor"
+                },
+                {
+                    "api_path": "/artists/355806",
+                    "header_image_url": "https://images.genius.com/c388e48b8187643dc8b44ff522d41f87.310x310x1.png",
+                    "id": 355806,
+                    "image_url": "https://images.genius.com/c388e48b8187643dc8b44ff522d41f87.310x310x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matthew Ward",
+                    "url": "https://genius.com/artists/Matthew-ward"
+                },
+                {
+                    "api_path": "/artists/1969525",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1969525,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Debbie Widdup",
+                    "url": "https://genius.com/artists/Debbie-widdup"
+                },
+                {
+                    "api_path": "/artists/1009570",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009570,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warren Zielinski",
+                    "url": "https://genius.com/artists/Warren-zielinski"
+                },
+                {
+                    "api_path": "/artists/3751117",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3751117,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Mills (Violinist)",
+                    "url": "https://genius.com/artists/John-mills-violinist"
+                },
+                {
+                    "api_path": "/artists/1865467",
+                    "header_image_url": "https://images.genius.com/901d4682db4ffd4673a86cd5a2747744.423x423x1.jpg",
+                    "id": 1865467,
+                    "image_url": "https://images.genius.com/901d4682db4ffd4673a86cd5a2747744.423x423x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Morris (Violinist)",
+                    "url": "https://genius.com/artists/Steve-morris-violinist"
+                }
+            ]
+        },
+        {
+            "label": "Viola",
+            "artists": [
+                {
+                    "api_path": "/artists/981066",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981066,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bruce White",
+                    "url": "https://genius.com/artists/Bruce-white"
+                },
+                {
+                    "api_path": "/artists/43761",
+                    "header_image_url": "https://images.genius.com/6dda9444bc19b39469d5df8fef58f8fd.1000x712x1.jpg",
+                    "id": 43761,
+                    "image_url": "https://images.genius.com/442dab856562d04c563270030d2d53fb.599x463x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laurie Anderson",
+                    "url": "https://genius.com/artists/Laurie-anderson"
+                },
+                {
+                    "api_path": "/artists/644612",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 644612,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Barr",
+                    "url": "https://genius.com/artists/Nick-barr"
+                },
+                {
+                    "api_path": "/artists/3701536",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3701536,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Catherine Bradshaw",
+                    "url": "https://genius.com/artists/Catherine-bradshaw"
+                },
+                {
+                    "api_path": "/artists/1187023",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1187023,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Reiad Chibah",
+                    "url": "https://genius.com/artists/Reiad-chibah"
+                },
+                {
+                    "api_path": "/artists/2022688",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2022688,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sue Dench",
+                    "url": "https://genius.com/artists/Sue-dench"
+                },
+                {
+                    "api_path": "/artists/4193182",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4193182,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Clive Howard",
+                    "url": "https://genius.com/artists/Clive-howard"
+                },
+                {
+                    "api_path": "/artists/977141",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 977141,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Martin Humbey",
+                    "url": "https://genius.com/artists/Martin-humbey"
+                },
+                {
+                    "api_path": "/artists/1130098",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1130098,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Helen Kamminga",
+                    "url": "https://genius.com/artists/Helen-kamminga"
+                },
+                {
+                    "api_path": "/artists/910555",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 910555,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Peter Lale",
+                    "url": "https://genius.com/artists/Peter-lale"
+                },
+                {
+                    "api_path": "/artists/825343",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 825343,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Fiona Leggat",
+                    "url": "https://genius.com/artists/Fiona-leggat"
+                },
+                {
+                    "api_path": "/artists/825344",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 825344,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lydia Northcott",
+                    "url": "https://genius.com/artists/Lydia-northcott"
+                },
+                {
+                    "api_path": "/artists/1009579",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009579,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kate Musker",
+                    "url": "https://genius.com/artists/Kate-musker"
+                },
+                {
+                    "api_path": "/artists/2575249",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2575249,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrew Parker (Violist)",
+                    "url": "https://genius.com/artists/Andrew-parker-violist"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/666793",
+                    "header_image_url": "https://images.genius.com/037cc718f7fdf1268a35a6a7203b2072.200x200x1.jpg",
+                    "id": 666793,
+                    "image_url": "https://images.genius.com/037cc718f7fdf1268a35a6a7203b2072.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Cooper",
+                    "url": "https://genius.com/artists/Nick-cooper"
+                },
+                {
+                    "api_path": "/artists/1051097",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1051097,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adrian Bradbury",
+                    "url": "https://genius.com/artists/Adrian-bradbury"
+                },
+                {
+                    "api_path": "/artists/2857170",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2857170,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Gill (Cellist)",
+                    "url": "https://genius.com/artists/Tim-gill-cellist"
+                },
+                {
+                    "api_path": "/artists/666794",
+                    "header_image_url": "https://images.genius.com/16c884959ffaf7974d2b646b2cd98ce6.239x239x1.jpg",
+                    "id": 666794,
+                    "image_url": "https://images.genius.com/16c884959ffaf7974d2b646b2cd98ce6.239x239x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sophie Harris",
+                    "url": "https://genius.com/artists/Sophie-harris"
+                },
+                {
+                    "api_path": "/artists/662195",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 662195,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Kegg",
+                    "url": "https://genius.com/artists/Paul-kegg"
+                },
+                {
+                    "api_path": "/artists/976124",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 976124,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rachael Lander",
+                    "url": "https://genius.com/artists/Rachael-lander"
+                },
+                {
+                    "api_path": "/artists/1476851",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1476851,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Lale",
+                    "url": "https://genius.com/artists/David-lale"
+                },
+                {
+                    "api_path": "/artists/824992",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 824992,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vicky Matthews",
+                    "url": "https://genius.com/artists/Vicky-matthews"
+                },
+                {
+                    "api_path": "/artists/981070",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981070,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Frank Schaefer",
+                    "url": "https://genius.com/artists/Frank-schaefer"
+                },
+                {
+                    "api_path": "/artists/977144",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 977144,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bozidar Vukotic",
+                    "url": "https://genius.com/artists/Bozidar-vukotic"
+                },
+                {
+                    "api_path": "/artists/977145",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 977145,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tony Woollard",
+                    "url": "https://genius.com/artists/Tony-woollard"
+                }
+            ]
+        },
+        {
+            "label": "Double Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1009583",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009583,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mary Scully",
+                    "url": "https://genius.com/artists/Mary-scully"
+                },
+                {
+                    "api_path": "/artists/981071",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981071,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Mair",
+                    "url": "https://genius.com/artists/Steve-mair"
+                },
+                {
+                    "api_path": "/artists/1677554",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1677554,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Kimber",
+                    "url": "https://genius.com/artists/Paul-kimber"
+                },
+                {
+                    "api_path": "/artists/1051100",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1051100,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roger Linley",
+                    "url": "https://genius.com/artists/Roger-linley"
+                },
+                {
+                    "api_path": "/artists/4193183",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4193183,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rupert Ring",
+                    "url": "https://genius.com/artists/Rupert-ring"
+                },
+                {
+                    "api_path": "/artists/1239853",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1239853,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Rossell",
+                    "url": "https://genius.com/artists/Steve-rossell"
+                },
+                {
+                    "api_path": "/artists/910611",
+                    "header_image_url": "https://images.genius.com/25096d13605ed9ae9b60ff20035fb46a.1000x667x1.jpg",
+                    "id": 910611,
+                    "image_url": "https://images.genius.com/b5cbfbd21e64d9410cdd7a57b58e3a77.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ben Russell",
+                    "url": "https://genius.com/artists/Ben-russell"
+                },
+                {
+                    "api_path": "/artists/666795",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666795,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lucy Shaw",
+                    "url": "https://genius.com/artists/Lucy-shaw"
+                },
+                {
+                    "api_path": "/artists/826622",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 826622,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beth Symmons",
+                    "url": "https://genius.com/artists/Beth-symmons"
+                },
+                {
+                    "api_path": "/artists/1251002",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1251002,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Laurence Ungless",
+                    "url": "https://genius.com/artists/Laurence-ungless"
+                },
+                {
+                    "api_path": "/artists/2318558",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2318558,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dominic Worsley",
+                    "url": "https://genius.com/artists/Dominic-worsley"
+                },
+                {
+                    "api_path": "/artists/2259208",
+                    "header_image_url": "https://images.genius.com/c9c4d36d1e9ea529071f8b068a5dcc50.665x665x1.jpg",
+                    "id": 2259208,
+                    "image_url": "https://images.genius.com/c9c4d36d1e9ea529071f8b068a5dcc50.665x665x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ben Russell (Double Bass)",
+                    "url": "https://genius.com/artists/Ben-russell-double-bass"
+                }
+            ]
+        },
+        {
+            "label": "Flute",
+            "artists": [
+                {
+                    "api_path": "/artists/4118019",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4118019,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Karen Jones (Flute)",
+                    "url": "https://genius.com/artists/Karen-jones-flute"
+                },
+                {
+                    "api_path": "/artists/2096020",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2096020,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Culbert",
+                    "url": "https://genius.com/artists/David-culbert"
+                },
+                {
+                    "api_path": "/artists/2014672",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2014672,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Helen Keen",
+                    "url": "https://genius.com/artists/Helen-keen"
+                },
+                {
+                    "api_path": "/artists/666796",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666796,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Eliza Marshall",
+                    "url": "https://genius.com/artists/Eliza-marshall"
+                },
+                {
+                    "api_path": "/artists/4207704",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4207704,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "David Cuthbert",
+                    "url": "https://genius.com/artists/David-cuthbert"
+                }
+            ]
+        },
+        {
+            "label": "Oboe",
+            "artists": [
+                {
+                    "api_path": "/artists/1917274",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1917274,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tim Rundle",
+                    "url": "https://genius.com/artists/Tim-rundle"
+                },
+                {
+                    "api_path": "/artists/1009587",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009587,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Janey Miller",
+                    "url": "https://genius.com/artists/Janey-miller"
+                },
+                {
+                    "api_path": "/artists/4193184",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4193184,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sue Bohling",
+                    "url": "https://genius.com/artists/Sue-bohling"
+                },
+                {
+                    "api_path": "/artists/3744538",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3744538,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Anderson (Oboe)",
+                    "url": "https://genius.com/artists/John-anderson-oboe"
+                }
+            ]
+        },
+        {
+            "label": "Clarinet",
+            "artists": [
+                {
+                    "api_path": "/artists/1581992",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1581992,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Carnac",
+                    "url": "https://genius.com/artists/Jon-carnac"
+                },
+                {
+                    "api_path": "/artists/2147898",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2147898,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Duncan Ashby",
+                    "url": "https://genius.com/artists/Duncan-ashby"
+                },
+                {
+                    "api_path": "/artists/1009588",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009588,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Anthony Pike",
+                    "url": "https://genius.com/artists/Anthony-pike"
+                },
+                {
+                    "api_path": "/artists/2496841",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2496841,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Rodwell",
+                    "url": "https://genius.com/artists/Nick-rodwell"
+                }
+            ]
+        },
+        {
+            "label": "Bassoon",
+            "artists": [
+                {
+                    "api_path": "/artists/1454508",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1454508,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gavin McNaughton",
+                    "url": "https://genius.com/artists/Gavin-mcnaughton"
+                },
+                {
+                    "api_path": "/artists/4204178",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4204178,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Emma Harding",
+                    "url": "https://genius.com/artists/Emma-harding"
+                },
+                {
+                    "api_path": "/artists/1009590",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1009590,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rachel Simms",
+                    "url": "https://genius.com/artists/Rachel-simms"
+                },
+                {
+                    "api_path": "/artists/4204179",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4204179,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon Chiswell",
+                    "url": "https://genius.com/artists/Simon-chiswell"
+                }
+            ]
+        },
+        {
+            "label": "French Horn",
+            "artists": [
+                {
+                    "api_path": "/artists/981082",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981082,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Richard Watkins",
+                    "url": "https://genius.com/artists/Richard-watkins"
+                },
+                {
+                    "api_path": "/artists/666758",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666758,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nigel Black",
+                    "url": "https://genius.com/artists/Nigel-black"
+                },
+                {
+                    "api_path": "/artists/3744545",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3744545,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Diego Incertis",
+                    "url": "https://genius.com/artists/Diego-incertis"
+                },
+                {
+                    "api_path": "/artists/1098182",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1098182,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Corinne Bailey",
+                    "url": "https://genius.com/artists/Corinne-bailey"
+                },
+                {
+                    "api_path": "/artists/4204180",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4204180,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phillippa Koush-Jalali",
+                    "url": "https://genius.com/artists/Phillippa-koush-jalali"
+                },
+                {
+                    "api_path": "/artists/2819617",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2819617,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Henry Ward",
+                    "url": "https://genius.com/artists/Henry-ward"
+                },
+                {
+                    "api_path": "/artists/2014674",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2014674,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alexei Watkins",
+                    "url": "https://genius.com/artists/Alexei-watkins"
+                }
+            ]
+        },
+        {
+            "label": "Saxophone",
+            "artists": [
+                {
+                    "api_path": "/artists/2509637",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2509637,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul Booth",
+                    "url": "https://genius.com/artists/Paul-booth"
+                },
+                {
+                    "api_path": "/artists/4204181",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4204181,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sam Mayne",
+                    "url": "https://genius.com/artists/Sam-mayne"
+                },
+                {
+                    "api_path": "/artists/3057784",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3057784,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Moss",
+                    "url": "https://genius.com/artists/Nick-moss"
+                },
+                {
+                    "api_path": "/artists/1263668",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1263668,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Skinner",
+                    "url": "https://genius.com/artists/Colin-skinner"
+                },
+                {
+                    "api_path": "/artists/1009586",
+                    "header_image_url": "https://images.genius.com/16a27634474f16d6a1d3370c3a58d32c.300x300x1.jpg",
+                    "id": 1009586,
+                    "image_url": "https://images.genius.com/16a27634474f16d6a1d3370c3a58d32c.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jamie Talbot",
+                    "url": "https://genius.com/artists/Jamie-talbot"
+                }
+            ]
+        },
+        {
+            "label": "Trumpet",
+            "artists": [
+                {
+                    "api_path": "/artists/666762",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666762,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Philip Cobb",
+                    "url": "https://genius.com/artists/Philip-cobb"
+                },
+                {
+                    "api_path": "/artists/48318",
+                    "header_image_url": "https://images.genius.com/104de12b9178132ad25ea163b9adab7f.323x323x1.jpg",
+                    "id": 48318,
+                    "image_url": "https://images.genius.com/104de12b9178132ad25ea163b9adab7f.323x323x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick White",
+                    "url": "https://genius.com/artists/Patrick-white"
+                },
+                {
+                    "api_path": "/artists/666801",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666801,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Daniel Newell",
+                    "url": "https://genius.com/artists/Daniel-newell"
+                },
+                {
+                    "api_path": "/artists/4204182",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4204182,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Christian Barraclough",
+                    "url": "https://genius.com/artists/Christian-barraclough"
+                },
+                {
+                    "api_path": "/artists/981085",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981085,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kate Moore",
+                    "url": "https://genius.com/artists/Kate-moore"
+                },
+                {
+                    "api_path": "/artists/4122909",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 4122909,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gareth Small",
+                    "url": "https://genius.com/artists/Gareth-small"
+                }
+            ]
+        },
+        {
+            "label": "Trombone",
+            "artists": [
+                {
+                    "api_path": "/artists/1254200",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1254200,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andy Wood (Trombonist)",
+                    "url": "https://genius.com/artists/Andy-wood-trombonist"
+                },
+                {
+                    "api_path": "/artists/666766",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 666766,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ed Tarrant",
+                    "url": "https://genius.com/artists/Ed-tarrant"
+                },
+                {
+                    "api_path": "/artists/1752296",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1752296,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Barry Clements",
+                    "url": "https://genius.com/artists/Barry-clements"
+                },
+                {
+                    "api_path": "/artists/3927494",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3927494,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Augustine",
+                    "url": "https://genius.com/artists/Chris-augustine"
+                },
+                {
+                    "api_path": "/artists/3312794",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3312794,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jon Stokes",
+                    "url": "https://genius.com/artists/Jon-stokes"
+                },
+                {
+                    "api_path": "/artists/3385091",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3385091,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phil White",
+                    "url": "https://genius.com/artists/Phil-white"
+                }
+            ]
+        },
+        {
+            "label": "Tuba",
+            "artists": [
+                {
+                    "api_path": "/artists/981086",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981086,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Owen Slade",
+                    "url": "https://genius.com/artists/Owen-slade"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/981090",
+                    "header_image_url": "https://images.genius.com/0918e4b3dbf6cdeedc984fc91ad51334.900x600x1.jpg",
+                    "id": 981090,
+                    "image_url": "https://images.genius.com/77fc3deb6aeff9ff2e780ceb1f62474c.451x451x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Frank Ricotti",
+                    "url": "https://genius.com/artists/Frank-ricotti"
+                },
+                {
+                    "api_path": "/artists/3913330",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 3913330,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julian Poole",
+                    "url": "https://genius.com/artists/Julian-poole"
+                },
+                {
+                    "api_path": "/artists/981091",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 981091,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gary Kettel",
+                    "url": "https://genius.com/artists/Gary-kettel"
+                }
+            ]
+        },
+        {
+            "label": "Timpani",
+            "artists": [
+                {
+                    "api_path": "/artists/1581993",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1581993,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chris Baron",
+                    "url": "https://genius.com/artists/Chris-baron"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/525057",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 525057,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon Chamberlain",
+                    "url": "https://genius.com/artists/Simon-chamberlain"
+                }
+            ]
+        },
+        {
+            "label": "Harp",
+            "artists": [
+                {
+                    "api_path": "/artists/986488",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 986488,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bryn Lewis",
+                    "url": "https://genius.com/artists/Bryn-lewis"
+                },
+                {
+                    "api_path": "/artists/1158642",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1158642,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Hugh Webb",
+                    "url": "https://genius.com/artists/Hugh-webb"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/648710",
+                    "header_image_url": "https://images.genius.com/042f792c1b307356a557c31dd4792100.600x618x1.jpg",
+                    "id": 648710,
+                    "image_url": "https://images.genius.com/edb65caeadbb958f5b0a8e74fa5c278d.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Studios",
+                    "url": "https://genius.com/artists/Universal-studios"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1102868",
+                    "header_image_url": "https://images.genius.com/11d594c17fdc6dee2ff03754e5127749.600x176x1.jpg",
+                    "id": 1102868,
+                    "image_url": "https://images.genius.com/89a016a27d4343e6809c798aeb7667d3.512x512x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Verve Records",
+                    "url": "https://genius.com/artists/Verve-records"
+                }
+            ]
+        },
+        {
+            "label": "Conductor",
+            "artists": [
+                {
+                    "api_path": "/artists/1039533",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1039533,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Isaac",
+                    "url": "https://genius.com/artists/Jeremy-isaac"
+                },
+                {
+                    "api_path": "/artists/169596",
+                    "header_image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+                    "id": 169596,
+                    "image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephen Oremus",
+                    "url": "https://genius.com/artists/Stephen-oremus"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/26507",
+                    "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                    "id": 26507,
+                    "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Ariana Grande",
+                    "url": "https://genius.com/artists/Ariana-grande",
+                    "iq": 2871
+                },
+                {
+                    "api_path": "/artists/263409",
+                    "header_image_url": "https://images.genius.com/7275d0efcf0a597e974431cf4db7d22b.736x939x1.jpg",
+                    "id": 263409,
+                    "image_url": "https://images.genius.com/ca033aa13fa83bfff9bd29ffa6637ca4.999x999x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cynthia Erivo",
+                    "url": "https://genius.com/artists/Cynthia-erivo"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                },
+                {
+                    "api_path": "/artists/1514109",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1514109,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dominick Amendum",
+                    "url": "https://genius.com/artists/Dominick-amendum"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/158553",
+                    "header_image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+                    "id": 158553,
+                    "image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephen Schwartz",
+                    "url": "https://genius.com/artists/Stephen-schwartz"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/158553",
+                    "header_image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+                    "id": 158553,
+                    "image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephen Schwartz",
+                    "url": "https://genius.com/artists/Stephen-schwartz"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/648710",
+                    "header_image_url": "https://images.genius.com/042f792c1b307356a557c31dd4792100.600x618x1.jpg",
+                    "id": 648710,
+                    "image_url": "https://images.genius.com/edb65caeadbb958f5b0a8e74fa5c278d.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Studios",
+                    "url": "https://genius.com/artists/Universal-studios"
+                },
+                {
+                    "api_path": "/artists/1011844",
+                    "header_image_url": "https://images.genius.com/281a60edb19bdce452bb57f14953d0c5.1000x125x1.gif",
+                    "id": 1011844,
+                    "image_url": "https://images.genius.com/a15d0a7889f218271e033b4d9b11859d.320x320x157.gif",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Republic Records",
+                    "url": "https://genius.com/artists/Republic-records"
+                },
+                {
+                    "api_path": "/artists/1102868",
+                    "header_image_url": "https://images.genius.com/11d594c17fdc6dee2ff03754e5127749.600x176x1.jpg",
+                    "id": 1102868,
+                    "image_url": "https://images.genius.com/89a016a27d4343e6809c798aeb7667d3.512x512x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Verve Records",
+                    "url": "https://genius.com/artists/Verve-records"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/28791",
+                    "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "id": 28791,
+                    "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Greg Wells",
+                    "url": "https://genius.com/artists/Greg-wells"
+                },
+                {
+                    "api_path": "/artists/640944",
+                    "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+                    "id": 640944,
+                    "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u0218erban Ghenea",
+                    "url": "https://genius.com/artists/Serban-ghenea"
+                },
+                {
+                    "api_path": "/artists/1177439",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1177439,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Wollage",
+                    "url": "https://genius.com/artists/Nick-wollage"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 4274810,
+        "annotator_login": "Kristian_Lin",
+        "api_path": "/referents/31751057",
+        "classification": "accepted",
+        "fragment": "Popular",
+        "id": 31751057,
+        "is_description": true,
+        "path": "/31751057/Ariana-grande-popular/Popular",
+        "range": {
+            "content": "Popular"
+        },
+        "song_id": 10402053,
+        "url": "https://genius.com/31751057/Ariana-grande-popular/Popular",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10402053",
+            "client_timestamps": {
+                "updated_by_human_at": 1740536188,
+                "lyrics_updated_at": 1740536188
+            },
+            "context": "Ariana Grande",
+            "id": 10402053,
+            "image_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.1000x1000x1.png",
+            "link_title": "Popular by\u00a0Ariana\u00a0Grande",
+            "title": "Popular",
+            "type": "Song",
+            "url": "https://genius.com/Ariana-grande-popular-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31751057",
+                "body": {
+                    "plain": "In gratitude for Elphaba (Cynthia Erivo) getting her private magic lessons with Madame Morrible (Michelle Yeoh), Galinda (Ariana Grande) resolves to give Elphaba a makeover that will make her more presentable to the other students at Shiz University."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31751057,
+                "pinned": false,
+                "share_url": "https://genius.com/31751057",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31751057/Ariana-grande-popular/Popular",
+                "verified": false,
+                "votes_total": 16,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/4274810",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/fd0479727aab2b825e5ab551e62aecee",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/fd0479727aab2b825e5ab551e62aecee",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/fd0479727aab2b825e5ab551e62aecee",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/fd0479727aab2b825e5ab551e62aecee",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 4274810,
+                            "iq": 2672917,
+                            "login": "Kristian_Lin",
+                            "name": "Kristian_Lin",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/Kristian_Lin",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/2171344",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/8eb543179e5a3e9a3d1f94e4351a8c3f.555x555x1.png",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/e081cc2f3d8046a74ab6c10154a25b69.667x235x1.png",
+        "human_readable_role_for_display": "Editor",
+        "id": 2171344,
+        "iq": 2139962,
+        "login": "timoo",
+        "name": "timoo",
+        "role_for_display": "editor",
+        "url": "https://genius.com/timoo",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "wickedmoviecast",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/wickedmoviecast/popular"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=5VjTswqyHdA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/158553",
+            "header_image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+            "id": 158553,
+            "image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Stephen Schwartz",
+            "url": "https://genius.com/artists/Stephen-schwartz"
+        },
+        {
+            "api_path": "/artists/169596",
+            "header_image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+            "id": 169596,
+            "image_url": "https://images.genius.com/410d5fb40d158d4d19517e3c68f4af25.600x600x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Stephen Oremus",
+            "url": "https://genius.com/artists/Stephen-oremus"
+        },
+        {
+            "api_path": "/artists/28791",
+            "header_image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+            "id": 28791,
+            "image_url": "https://images.genius.com/2ee20d87239694b80e2ab3e919b1be07.600x600x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Greg Wells",
+            "url": "https://genius.com/artists/Greg-wells"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11424333",
+                    "artist_names": "Tocanna",
+                    "full_title": "vai chupar! by\u00a0Tocanna",
+                    "header_image_thumbnail_url": "https://images.genius.com/016d96489275f42f69a35eda461e590f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/016d96489275f42f69a35eda461e590f.1000x1000x1.png",
+                    "id": 11424333,
+                    "lyrics_owner_id": 20904933,
+                    "lyrics_state": "complete",
+                    "path": "/Tocanna-vai-chupar-lyrics",
+                    "primary_artist_names": "Tocanna",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tocanna-vai-chupar-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 17
+                    },
+                    "release_date_for_display": "January 17, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 17, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/016d96489275f42f69a35eda461e590f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/016d96489275f42f69a35eda461e590f.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "vai chupar!",
+                    "title_with_featured": "vai chupar!",
+                    "url": "https://genius.com/Tocanna-vai-chupar-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4022825",
+                        "header_image_url": "https://images.genius.com/573f2d1f90a2bf17df09e874c82db386.1000x1000x1.jpg",
+                        "id": 4022825,
+                        "image_url": "https://images.genius.com/573f2d1f90a2bf17df09e874c82db386.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tocanna",
+                        "url": "https://genius.com/artists/Tocanna"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4022825",
+                            "header_image_url": "https://images.genius.com/573f2d1f90a2bf17df09e874c82db386.1000x1000x1.jpg",
+                            "id": 4022825,
+                            "image_url": "https://images.genius.com/573f2d1f90a2bf17df09e874c82db386.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tocanna",
+                            "url": "https://genius.com/artists/Tocanna"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 17,
+                    "api_path": "/songs/1277518",
+                    "artist_names": "Kristin Chenoweth",
+                    "full_title": "Popular by\u00a0Kristin\u00a0Chenoweth",
+                    "header_image_thumbnail_url": "https://images.genius.com/d1c3ee333583f2ebdc9870d3bb73fc22.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d1c3ee333583f2ebdc9870d3bb73fc22.1000x1000x1.png",
+                    "id": 1277518,
+                    "lyrics_owner_id": 113718,
+                    "lyrics_state": "complete",
+                    "path": "/Kristin-chenoweth-popular-lyrics",
+                    "primary_artist_names": "Kristin Chenoweth",
+                    "pyongs_count": 12,
+                    "relationships_index_url": "https://genius.com/Kristin-chenoweth-popular-sample",
+                    "release_date_components": {
+                        "year": 2003,
+                        "month": 12,
+                        "day": 16
+                    },
+                    "release_date_for_display": "December 16, 2003",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 16, 2003",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d1c3ee333583f2ebdc9870d3bb73fc22.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d1c3ee333583f2ebdc9870d3bb73fc22.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false,
+                        "pageviews": 502973
+                    },
+                    "title": "Popular",
+                    "title_with_featured": "Popular",
+                    "url": "https://genius.com/Kristin-chenoweth-popular-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/33243",
+                        "header_image_url": "https://images.genius.com/9c65c20a110188cead409f024cc57bf1.1000x333x1.jpg",
+                        "id": 33243,
+                        "image_url": "https://images.genius.com/dce99aa8a189604cc20466f7eeb745a8.787x787x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Kristin Chenoweth",
+                        "url": "https://genius.com/artists/Kristin-chenoweth"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/33243",
+                            "header_image_url": "https://images.genius.com/9c65c20a110188cead409f024cc57bf1.1000x333x1.jpg",
+                            "id": 33243,
+                            "image_url": "https://images.genius.com/dce99aa8a189604cc20466f7eeb745a8.787x787x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kristin Chenoweth",
+                            "url": "https://genius.com/artists/Kristin-chenoweth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11491199",
+                    "artist_names": "CT Media (ESP)",
+                    "full_title": "Popular by\u00a0CT\u00a0Media (ESP)",
+                    "header_image_thumbnail_url": "https://images.genius.com/ee489c4464357e7cc2e012466e57adc0.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ee489c4464357e7cc2e012466e57adc0.1000x1000x1.png",
+                    "id": 11491199,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Ct-media-esp-popular-lyrics",
+                    "primary_artist_names": "CT Media (ESP)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ct-media-esp-popular-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 2,
+                        "day": 17
+                    },
+                    "release_date_for_display": "February 17, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 17, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ee489c4464357e7cc2e012466e57adc0.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ee489c4464357e7cc2e012466e57adc0.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Popular",
+                    "title_with_featured": "Popular",
+                    "url": "https://genius.com/Ct-media-esp-popular-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1917269",
+                        "header_image_url": "https://images.genius.com/f0fd8cb4de8e2fb65a6c2f9a977fce32.1000x563x1.png",
+                        "id": 1917269,
+                        "image_url": "https://images.genius.com/c25d948e207b8816d38b57e1588df092.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "CT Media (ESP)",
+                        "url": "https://genius.com/artists/Ct-media-esp",
+                        "iq": 1473
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1917269",
+                            "header_image_url": "https://images.genius.com/f0fd8cb4de8e2fb65a6c2f9a977fce32.1000x563x1.png",
+                            "id": 1917269,
+                            "image_url": "https://images.genius.com/c25d948e207b8816d38b57e1588df092.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "CT Media (ESP)",
+                            "url": "https://genius.com/artists/Ct-media-esp",
+                            "iq": 1473
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Ariana-grande-popular-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10980166",
+                    "artist_names": "Fabi Bang (Ft. Myra Ruiz)",
+                    "full_title": "Popular by\u00a0Fabi\u00a0Bang (Ft.\u00a0Myra\u00a0Ruiz)",
+                    "header_image_thumbnail_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                    "id": 10980166,
+                    "lyrics_owner_id": 10488689,
+                    "lyrics_state": "complete",
+                    "path": "/Fabi-bang-popular-lyrics",
+                    "primary_artist_names": "Fabi Bang",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Fabi-bang-popular-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Popular",
+                    "title_with_featured": "Popular (Ft.\u00a0Myra\u00a0Ruiz)",
+                    "url": "https://genius.com/Fabi-bang-popular-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/670197",
+                            "header_image_url": "https://images.genius.com/d22231caf83bf325b8c58eaa2a0ee3f8.958x958x1.jpg",
+                            "id": 670197,
+                            "image_url": "https://images.genius.com/d22231caf83bf325b8c58eaa2a0ee3f8.958x958x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Myra Ruiz",
+                            "url": "https://genius.com/artists/Myra-ruiz"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/670196",
+                        "header_image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                        "id": 670196,
+                        "image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Fabi Bang",
+                        "url": "https://genius.com/artists/Fabi-bang"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/670196",
+                            "header_image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                            "id": 670196,
+                            "image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Fabi Bang",
+                            "url": "https://genius.com/artists/Fabi-bang"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11195661",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "Popular (Edit) by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/030306c29af8a28934212cf8e410c991.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/030306c29af8a28934212cf8e410c991.1000x1000x1.png",
+                    "id": 11195661,
+                    "lyrics_owner_id": 14407766,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-popular-edit-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-popular-edit-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 6
+                    },
+                    "release_date_for_display": "December 6, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 6, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/030306c29af8a28934212cf8e410c991.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/030306c29af8a28934212cf8e410c991.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Popular (Edit)",
+                    "title_with_featured": "Popular (Edit)",
+                    "url": "https://genius.com/Ariana-grande-popular-edit-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11245093",
+                    "artist_names": "Wicked Movie Cast & The Wicked Orchestra",
+                    "full_title": "Popular (Sing-Along) by\u00a0Wicked\u00a0Movie Cast & The\u00a0Wicked Orchestra",
+                    "header_image_thumbnail_url": "https://images.genius.com/cbc11270323bc26a7624633854a2925a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cbc11270323bc26a7624633854a2925a.1000x1000x1.png",
+                    "id": 11245093,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Wicked-movie-cast-and-the-wicked-orchestra-popular-sing-along-lyrics",
+                    "primary_artist_names": "Wicked Movie Cast & The Wicked Orchestra",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Wicked-movie-cast-and-the-wicked-orchestra-popular-sing-along-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 20
+                    },
+                    "release_date_for_display": "December 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cbc11270323bc26a7624633854a2925a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cbc11270323bc26a7624633854a2925a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Popular (Sing-Along)",
+                    "title_with_featured": "Popular (Sing-Along)",
+                    "url": "https://genius.com/Wicked-movie-cast-and-the-wicked-orchestra-popular-sing-along-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4204148",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "id": 4204148,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Wicked Movie Cast",
+                        "url": "https://genius.com/artists/Wicked-movie-cast"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4204148",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4204148,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Wicked Movie Cast",
+                            "url": "https://genius.com/artists/Wicked-movie-cast"
+                        },
+                        {
+                            "api_path": "/artists/4144334",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "id": 4144334,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Wicked Orchestra",
+                            "url": "https://genius.com/artists/The-wicked-orchestra"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11108334",
+                    "artist_names": "Ariana Grande",
+                    "full_title": "Popular (Instrumental) by\u00a0Ariana\u00a0Grande",
+                    "header_image_thumbnail_url": "https://images.genius.com/50aac58487f2e4177db864207453ae3c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/50aac58487f2e4177db864207453ae3c.1000x1000x1.png",
+                    "id": 11108334,
+                    "lyrics_owner_id": 11809232,
+                    "lyrics_state": "complete",
+                    "path": "/Ariana-grande-popular-instrumental-lyrics",
+                    "primary_artist_names": "Ariana Grande",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ariana-grande-popular-instrumental-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/50aac58487f2e4177db864207453ae3c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/50aac58487f2e4177db864207453ae3c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Popular (Instrumental)",
+                    "title_with_featured": "Popular (Instrumental)",
+                    "url": "https://genius.com/Ariana-grande-popular-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/26507",
+                        "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                        "id": 26507,
+                        "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Ariana Grande",
+                        "url": "https://genius.com/artists/Ariana-grande",
+                        "iq": 2871
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/26507",
+                            "header_image_url": "https://images.genius.com/b3b6ab31f4002cd4556852d39e6920bd.1000x166x1.jpg",
+                            "id": 26507,
+                            "image_url": "https://images.genius.com/5337c1f51912a95ee0f18c9bd98dd42e.922x922x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Ariana Grande",
+                            "url": "https://genius.com/artists/Ariana-grande",
+                            "iq": 2871
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11177365",
+                    "artist_names": "Claudia Paganelli",
+                    "full_title": "Popolare by\u00a0Claudia\u00a0Paganelli",
+                    "header_image_thumbnail_url": "https://images.genius.com/6b9f62dda4abb990a269f9a8a4e700d8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/6b9f62dda4abb990a269f9a8a4e700d8.1000x1000x1.png",
+                    "id": 11177365,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Claudia-paganelli-popolare-lyrics",
+                    "primary_artist_names": "Claudia Paganelli",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Claudia-paganelli-popolare-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 21
+                    },
+                    "release_date_for_display": "November 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6b9f62dda4abb990a269f9a8a4e700d8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/6b9f62dda4abb990a269f9a8a4e700d8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Popolare",
+                    "title_with_featured": "Popolare",
+                    "url": "https://genius.com/Claudia-paganelli-popolare-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4066332",
+                        "header_image_url": "https://images.genius.com/55f8ed3e506d491771ab94198528fae9.500x500x1.jpg",
+                        "id": 4066332,
+                        "image_url": "https://images.genius.com/55f8ed3e506d491771ab94198528fae9.500x500x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Claudia Paganelli",
+                        "url": "https://genius.com/artists/Claudia-paganelli"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4066332",
+                            "header_image_url": "https://images.genius.com/55f8ed3e506d491771ab94198528fae9.500x500x1.jpg",
+                            "id": 4066332,
+                            "image_url": "https://images.genius.com/55f8ed3e506d491771ab94198528fae9.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Claudia Paganelli",
+                            "url": "https://genius.com/artists/Claudia-paganelli"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11153188",
+                    "artist_names": "Anabel Garc\u00eda",
+                    "full_title": "Popular by\u00a0Anabel\u00a0Garc\u00eda",
+                    "header_image_thumbnail_url": "https://images.genius.com/bad33014b70d9010301289b8abefbf1c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/bad33014b70d9010301289b8abefbf1c.1000x1000x1.png",
+                    "id": 11153188,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Anabel-garcia-popular-lyrics",
+                    "primary_artist_names": "Anabel Garc\u00eda",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Anabel-garcia-popular-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/bad33014b70d9010301289b8abefbf1c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/bad33014b70d9010301289b8abefbf1c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Popular",
+                    "title_with_featured": "Popular",
+                    "url": "https://genius.com/Anabel-garcia-popular-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4112074",
+                        "header_image_url": "https://images.genius.com/349f23585b0d4c48d786ef704103c692.683x683x1.jpg",
+                        "id": 4112074,
+                        "image_url": "https://images.genius.com/349f23585b0d4c48d786ef704103c692.683x683x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Anabel Garc\u00eda",
+                        "url": "https://genius.com/artists/Anabel-garcia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4112074",
+                            "header_image_url": "https://images.genius.com/349f23585b0d4c48d786ef704103c692.683x683x1.jpg",
+                            "id": 4112074,
+                            "image_url": "https://images.genius.com/349f23585b0d4c48d786ef704103c692.683x683x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Anabel Garc\u00eda",
+                            "url": "https://genius.com/artists/Anabel-garcia"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10743008",
+                    "artist_names": "Ceci de la Cueva",
+                    "full_title": "Popular by\u00a0Ceci\u00a0de la Cueva",
+                    "header_image_thumbnail_url": "https://images.genius.com/778603ba06f11310f2d5fceaf512a066.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/778603ba06f11310f2d5fceaf512a066.1000x1000x1.png",
+                    "id": 10743008,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Ceci-de-la-cueva-popular-lyrics",
+                    "primary_artist_names": "Ceci de la Cueva",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ceci-de-la-cueva-popular-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/778603ba06f11310f2d5fceaf512a066.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/778603ba06f11310f2d5fceaf512a066.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Popular",
+                    "title_with_featured": "Popular",
+                    "url": "https://genius.com/Ceci-de-la-cueva-popular-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3999407",
+                        "header_image_url": "https://images.genius.com/daa14d9c9e28f5652596da2c32f62b24.839x839x1.jpg",
+                        "id": 3999407,
+                        "image_url": "https://images.genius.com/daa14d9c9e28f5652596da2c32f62b24.839x839x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ceci de la Cueva",
+                        "url": "https://genius.com/artists/Ceci-de-la-cueva"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3999407",
+                            "header_image_url": "https://images.genius.com/daa14d9c9e28f5652596da2c32f62b24.839x839x1.jpg",
+                            "id": 3999407,
+                            "image_url": "https://images.genius.com/daa14d9c9e28f5652596da2c32f62b24.839x839x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ceci de la Cueva",
+                            "url": "https://genius.com/artists/Ceci-de-la-cueva"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Ariana-grande-popular-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11201234",
+                    "artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "full_title": "Ariana Grande - Popular (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22) by\u00a0Genius\u00a0Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "header_image_thumbnail_url": "https://images.genius.com/078405400564c7b31f98837e78ff50c2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/078405400564c7b31f98837e78ff50c2.340x340x1.png",
+                    "id": 11201234,
+                    "lyrics_owner_id": 2957644,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-thai-translations-ariana-grande-popular-lyrics",
+                    "primary_artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-thai-translations-ariana-grande-popular-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/078405400564c7b31f98837e78ff50c2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/078405400564c7b31f98837e78ff50c2.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - Popular (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "title_with_featured": "Ariana Grande - Popular (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "url": "https://genius.com/Genius-thai-translations-ariana-grande-popular-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1651883",
+                        "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                        "id": 1651883,
+                        "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                        "url": "https://genius.com/artists/Genius-thai-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1651883",
+                            "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                            "id": 1651883,
+                            "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "url": "https://genius.com/artists/Genius-thai-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 2,
+                    "api_path": "/songs/11184574",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Ariana Grande - Popular (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/8847c5b2f192b85e1c50e3c9aa1d237b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/8847c5b2f192b85e1c50e3c9aa1d237b.378x378x1.png",
+                    "id": 11184574,
+                    "lyrics_owner_id": 16119669,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-ariana-grande-popular-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-popular-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 20
+                    },
+                    "release_date_for_display": "November 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8847c5b2f192b85e1c50e3c9aa1d237b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/8847c5b2f192b85e1c50e3c9aa1d237b.378x378x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 2,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - Popular (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Ariana Grande - Popular (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-popular-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11160556",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Ariana Grande - Popular (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/b944e40bb68f0a20cb09593d1809cd13.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b944e40bb68f0a20cb09593d1809cd13.1000x1000x1.jpg",
+                    "id": 11160556,
+                    "lyrics_owner_id": 9726822,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-ariana-grande-popular-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-popular-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b944e40bb68f0a20cb09593d1809cd13.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b944e40bb68f0a20cb09593d1809cd13.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - Popular (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Ariana Grande - Popular (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-popular-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11142889",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Ariana Grande - Popular (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/53e5e3a8fe2c68d4f9dd0c2e1f39ca8a.300x299x1.png",
+                    "header_image_url": "https://images.genius.com/53e5e3a8fe2c68d4f9dd0c2e1f39ca8a.1000x998x1.png",
+                    "id": 11142889,
+                    "lyrics_owner_id": 21968239,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-ariana-grande-popular-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-popular-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/53e5e3a8fe2c68d4f9dd0c2e1f39ca8a.300x299x1.png",
+                    "song_art_image_url": "https://images.genius.com/53e5e3a8fe2c68d4f9dd0c2e1f39ca8a.1000x998x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - Popular (Traduzione Italiana)",
+                    "title_with_featured": "Ariana Grande - Popular (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-popular-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11043289",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Ariana Grande - Popular (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.1000x1000x1.png",
+                    "id": 11043289,
+                    "lyrics_owner_id": 9553022,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-ariana-grande-popular-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-popular-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 22
+                    },
+                    "release_date_for_display": "November 22, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 22, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fed0b9532e284f5514d947db78d64d59.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Ariana Grande - Popular (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Ariana Grande - Popular (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-popular-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11201234",
+            "id": 11201234,
+            "language": "th",
+            "lyrics_state": "complete",
+            "path": "/Genius-thai-translations-ariana-grande-popular-lyrics",
+            "title": "Ariana Grande - Popular (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+            "url": "https://genius.com/Genius-thai-translations-ariana-grande-popular-lyrics"
+        },
+        {
+            "api_path": "/songs/11184574",
+            "id": 11184574,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-ariana-grande-popular-traducao-em-portugues-lyrics",
+            "title": "Ariana Grande - Popular (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-ariana-grande-popular-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/11160556",
+            "id": 11160556,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-ariana-grande-popular-turkce-ceviri-lyrics",
+            "title": "Ariana Grande - Popular (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-ariana-grande-popular-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/11142889",
+            "id": 11142889,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-ariana-grande-popular-traduzione-italiana-lyrics",
+            "title": "Ariana Grande - Popular (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-ariana-grande-popular-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/11043289",
+            "id": 11043289,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-ariana-grande-popular-traduccion-al-espanol-lyrics",
+            "title": "Ariana Grande - Popular (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-ariana-grande-popular-traduccion-al-espanol-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/158553",
+            "header_image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+            "id": 158553,
+            "image_url": "https://images.genius.com/c50c080b2ad97d6e38bc18e977c0c887.350x350x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Stephen Schwartz",
+            "url": "https://genius.com/artists/Stephen-schwartz"
+        },
+        {
+            "api_path": "/artists/4205970",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "id": 4205970,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Winnie Holzman",
+            "url": "https://genius.com/artists/Winnie-holzman"
+        }
+    ],
+    "artist": "Ariana Grande",
+    "lyrics": "28 ContributorsTranslations\u0e44\u0e17\u0e22 (Thai)Portugu\u00easT\u00fcrk\u00e7eItalianoEspa\u00f1olPopular LyricsIn gratitude for Elphaba (Cynthia Erivo) getting her private magic lessons with Madame Morrible (Michelle Yeoh), Galinda (Ariana Grande) resolves to give Elphaba a makeover that will make her more presentable\u2026 Read More\u00a0\nElphie\nNow that we're friends, I've decided to make you my new project\n\nOh, you really don't\u2005have\u2005to do that\n\nI\u2005know!\nThat's what makes me so nice\n\nWhenever\u2005I see someone less fortunate than I\nAnd let's face it, right? Who isn't less fortunate than I?\nMy tender heart tends to start to bleed\nAnd when someone needs a makeover, I simply have to take over\nI know, I know exactly what they need\nAnd even in your case\nThough it's the toughest case I've yet to face\nDon't worry, I'm determined to succeed\nFollow my lead\nAnd yes, indeed\nYou will be, ah\nPopular\nYou're gonna be popular\nI'll teach you the proper ploys when you talk to boys\nLittle ways to flirt and flounce, ooh!\nI'll show you what shoes to wear, how to fix your hair\nEverything that really counts to be popular\nI'll help you be popular\nYou'll hang with the right cohorts, you'll be good at sports\nKnow the slang you've got to know\nSo let's start 'cause you've got an awfully long way to go\n\nDon't be offended by my frank analysis\nThink of it as personality dialysis\nNow that I've chosen to become a pal\nA sister and adviser, there's nobody wiser\nNot when it comes to\nPopular\nI know about popular\nAnd with an assist from me to be who you'll be\nInstead of dreary who-you-were\n\nWell, are!\n\nThere's nothing that can stop you from becoming populer\u2026 \u2014lar!\nLa-la, la-la\nWe're gonna make you popular\nWhen I see depressing creatures\nWith unprepossessing features\nI remind them on their own behalf to think of\nCelebrated heads of state\nOr especially great communicators\nDid they have brains or knowledge?\nDon't make me laugh\n\nThey were\n\nPopular\n\nRight!\n\nIt's all about popular\nIt's not about aptitude, it's the way you're viewed\nSo it's very shrewd to be\nVery, very popular like me, me\nAnd though you protest\nYour disinterest\nI know clandestinely\nYou're gonna grin and bear it, your newfound popularity (Woo!)\nLa-la, la-la\nLa-la, la-la\nLa-la, ooh\nYou'll be popular\nJust not quite as popular as me"
+}

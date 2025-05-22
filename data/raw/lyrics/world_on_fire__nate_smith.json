@@ -1,0 +1,789 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/9057170",
+    "artist_names": "Nate Smith",
+    "full_title": "World on Fire by\u00a0Nate\u00a0Smith",
+    "header_image_thumbnail_url": "https://images.genius.com/4b607def84b8690ab5251a3c83790974.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/4b607def84b8690ab5251a3c83790974.400x400x1.jpg",
+    "id": 9057170,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1697093539,
+    "path": "/Nate-smith-world-on-fire-lyrics",
+    "primary_artist_names": "Nate Smith",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Nate-smith-world-on-fire-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 28
+    },
+    "release_date_for_display": "April 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Apr. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4b607def84b8690ab5251a3c83790974.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/4b607def84b8690ab5251a3c83790974.400x400x1.jpg",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 6,
+        "iq_earners": 6,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 9344
+    },
+    "title": "World on Fire",
+    "title_with_featured": "World on Fire",
+    "updated_by_human_at": 1718964674,
+    "url": "https://genius.com/Nate-smith-world-on-fire-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2612526",
+        "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+        "id": 2612526,
+        "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nate Smith",
+        "url": "https://genius.com/artists/Nate-smith"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        }
+    ],
+    "apple_music_id": "1682311092",
+    "apple_music_player_url": "https://genius.com/songs/9057170/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_9057170' class='rg_embed_link' data-song-id='9057170'>Read <a href='https://genius.com/Nate-smith-world-on-fire-lyrics'>\u201cWorld on Fire\u201d by Nate\u00a0Smith</a> on Genius</div> <script crossorigin src='//genius.com/songs/9057170/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-04-28",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#bb6b43",
+    "song_art_secondary_color": "#613723",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1029065",
+        "cover_art_url": "https://images.genius.com/786bdaee312616729593e320ed92d9b6.1000x1000x1.png",
+        "full_title": "NATE SMITH (DELUXE) by Nate Smith",
+        "id": 1029065,
+        "name": "NATE SMITH (DELUXE)",
+        "primary_artist_names": "Nate Smith",
+        "release_date_for_display": "April 28, 2023",
+        "url": "https://genius.com/albums/Nate-smith/Nate-smith-deluxe",
+        "artist": {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2612526",
+                "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                "id": 2612526,
+                "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Nate Smith",
+                "url": "https://genius.com/artists/Nate-smith"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                },
+                {
+                    "api_path": "/artists/2132598",
+                    "header_image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "id": 2132598,
+                    "image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sol Philcox-Littlefield",
+                    "url": "https://genius.com/artists/Sol-philcox-littlefield"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                },
+                {
+                    "api_path": "/artists/2132598",
+                    "header_image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "id": 2132598,
+                    "image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sol Philcox-Littlefield",
+                    "url": "https://genius.com/artists/Sol-philcox-littlefield"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2132598",
+                    "header_image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "id": 2132598,
+                    "image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sol Philcox-Littlefield",
+                    "url": "https://genius.com/artists/Sol-philcox-littlefield"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/562561",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 562561,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lindsay Rimes",
+                    "url": "https://genius.com/artists/Lindsay-rimes"
+                }
+            ]
+        },
+        {
+            "label": "Overdub Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2132598",
+                    "header_image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "id": 2132598,
+                    "image_url": "https://images.genius.com/8e7a480c3567f6197a3fd77942490712.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sol Philcox-Littlefield",
+                    "url": "https://genius.com/artists/Sol-philcox-littlefield"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1398143",
+                    "header_image_url": "https://images.genius.com/ef8945fb63139bcfb1a102baff5c1d0e.273x184x1.png",
+                    "id": 1398143,
+                    "image_url": "https://images.genius.com/2a652b1f219014e52c669024a191919f.185x185x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Arista Nashville",
+                    "url": "https://genius.com/artists/Arista-nashville"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/28378438",
+        "classification": "needs_exegesis",
+        "fragment": "World on Fire",
+        "id": 28378438,
+        "is_description": true,
+        "path": "/28378438/Nate-smith-world-on-fire/World-on-fire",
+        "range": {
+            "content": "World on Fire"
+        },
+        "song_id": 9057170,
+        "url": "https://genius.com/28378438/Nate-smith-world-on-fire/World-on-fire",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9057170",
+            "client_timestamps": {
+                "updated_by_human_at": 1718964674,
+                "lyrics_updated_at": 1697093539
+            },
+            "context": "Nate Smith",
+            "id": 9057170,
+            "image_url": "https://images.genius.com/4b607def84b8690ab5251a3c83790974.400x400x1.jpg",
+            "link_title": "World on Fire by\u00a0Nate\u00a0Smith",
+            "title": "World on Fire",
+            "type": "Song",
+            "url": "https://genius.com/Nate-smith-world-on-fire-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/28378438",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 28378438,
+                "pinned": false,
+                "share_url": "https://genius.com/28378438",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/28378438/Nate-smith-world-on-fire/World-on-fire",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=U1gT0P4Zp2U"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/562561",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 562561,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lindsay Rimes",
+            "url": "https://genius.com/artists/Lindsay-rimes"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11426824",
+                    "artist_names": "VRSTY",
+                    "full_title": "World On Fire by\u00a0VRSTY",
+                    "header_image_thumbnail_url": "https://images.genius.com/8fc756aded7ad5891797487cdd1fdb0c.300x300x1.webp",
+                    "header_image_url": "https://images.genius.com/8fc756aded7ad5891797487cdd1fdb0c.632x632x1.webp",
+                    "id": 11426824,
+                    "lyrics_owner_id": 3932583,
+                    "lyrics_state": "complete",
+                    "path": "/Vrsty-world-on-fire-lyrics",
+                    "primary_artist_names": "VRSTY",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Vrsty-world-on-fire-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 30
+                    },
+                    "release_date_for_display": "May 30, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 30, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8fc756aded7ad5891797487cdd1fdb0c.300x300x1.webp",
+                    "song_art_image_url": "https://images.genius.com/8fc756aded7ad5891797487cdd1fdb0c.632x632x1.webp",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "World On Fire",
+                    "title_with_featured": "World On Fire",
+                    "url": "https://genius.com/Vrsty-world-on-fire-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1491438",
+                        "header_image_url": "https://images.genius.com/129b90c44a81820a5581fd2b3ff9308e.1000x667x1.jpg",
+                        "id": 1491438,
+                        "image_url": "https://images.genius.com/2dbb55af8d7c9ba0dee351c96d3f61c9.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "VRSTY",
+                        "url": "https://genius.com/artists/Vrsty"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1491438",
+                            "header_image_url": "https://images.genius.com/129b90c44a81820a5581fd2b3ff9308e.1000x667x1.jpg",
+                            "id": 1491438,
+                            "image_url": "https://images.genius.com/2dbb55af8d7c9ba0dee351c96d3f61c9.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "VRSTY",
+                            "url": "https://genius.com/artists/Vrsty"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10054023",
+                    "artist_names": "Nate Smith & VAVO",
+                    "full_title": "World on Fire (VAVO Remix) by\u00a0Nate\u00a0Smith & VAVO",
+                    "header_image_thumbnail_url": "https://images.genius.com/fd45a6dcc04d3ec919d8f0ea1299afaa.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/fd45a6dcc04d3ec919d8f0ea1299afaa.1000x1000x1.jpg",
+                    "id": 10054023,
+                    "lyrics_owner_id": 11279157,
+                    "lyrics_state": "complete",
+                    "path": "/Nate-smith-and-vavo-world-on-fire-vavo-remix-lyrics",
+                    "primary_artist_names": "Nate Smith & VAVO",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Nate-smith-and-vavo-world-on-fire-vavo-remix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 7
+                    },
+                    "release_date_for_display": "December 7, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 7, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fd45a6dcc04d3ec919d8f0ea1299afaa.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/fd45a6dcc04d3ec919d8f0ea1299afaa.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "World on Fire (VAVO Remix)",
+                    "title_with_featured": "World on Fire (VAVO Remix)",
+                    "url": "https://genius.com/Nate-smith-and-vavo-world-on-fire-vavo-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2612526",
+                        "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                        "id": 2612526,
+                        "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nate Smith",
+                        "url": "https://genius.com/artists/Nate-smith"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2612526",
+                            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                            "id": 2612526,
+                            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Nate Smith",
+                            "url": "https://genius.com/artists/Nate-smith"
+                        },
+                        {
+                            "api_path": "/artists/1438683",
+                            "header_image_url": "https://images.genius.com/94e8e649ba2ec0b6a6b53e3dea9d76eb.500x500x1.jpg",
+                            "id": 1438683,
+                            "image_url": "https://images.genius.com/94e8e649ba2ec0b6a6b53e3dea9d76eb.500x500x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "VAVO",
+                            "url": "https://genius.com/artists/Vavo"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10053966",
+                    "artist_names": "Nate Smith",
+                    "full_title": "World on Fire (Bonfire Version) by\u00a0Nate\u00a0Smith",
+                    "header_image_thumbnail_url": "https://images.genius.com/de0662dcf07eef77e51a455a028171d0.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/de0662dcf07eef77e51a455a028171d0.1000x1000x1.jpg",
+                    "id": 10053966,
+                    "lyrics_owner_id": 11279157,
+                    "lyrics_state": "complete",
+                    "path": "/Nate-smith-world-on-fire-bonfire-version-lyrics",
+                    "primary_artist_names": "Nate Smith",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Nate-smith-world-on-fire-bonfire-version-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 8
+                    },
+                    "release_date_for_display": "November 8, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 8, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/de0662dcf07eef77e51a455a028171d0.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/de0662dcf07eef77e51a455a028171d0.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "World on Fire (Bonfire Version)",
+                    "title_with_featured": "World on Fire (Bonfire Version)",
+                    "url": "https://genius.com/Nate-smith-world-on-fire-bonfire-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2612526",
+                        "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                        "id": 2612526,
+                        "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Nate Smith",
+                        "url": "https://genius.com/artists/Nate-smith"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2612526",
+                            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+                            "id": 2612526,
+                            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Nate Smith",
+                            "url": "https://genius.com/artists/Nate-smith"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/411978",
+            "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "id": 411978,
+            "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ashley Gorley",
+            "url": "https://genius.com/artists/Ashley-gorley"
+        },
+        {
+            "api_path": "/artists/747139",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 747139,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Taylor Phillips",
+            "url": "https://genius.com/artists/Taylor-phillips"
+        },
+        {
+            "api_path": "/artists/562561",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 562561,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Lindsay Rimes",
+            "url": "https://genius.com/artists/Lindsay-rimes"
+        },
+        {
+            "api_path": "/artists/2612526",
+            "header_image_url": "https://images.genius.com/6dc4f7598459c42e545187df079bb74a.1000x333x1.jpg",
+            "id": 2612526,
+            "image_url": "https://images.genius.com/1b5450f2e5fb5b736ba04618d8a358e0.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Nate Smith",
+            "url": "https://genius.com/artists/Nate-smith"
+        }
+    ],
+    "artist": "Nate Smith",
+    "lyrics": "6 ContributorsWorld on Fire Lyrics\nGirl, when you called it quits\nYou could have done it right\nYou coulda left this town out of it\nWhen you said goodbye\n\nYou ruined everything I love\nRipped my heart right out my chest\nGirl, it's like there ain't nothing left\n\nYou set my world on fire\nYeah, it's all long gone\nI'm watching flames get higher\nAnd I can't move on\nI just gotta let it burn, burn, burn on down\nGirl, without you it don't turn, turn, turn around\nYou set my world on fire\nYou set my world on fire\n\nCan't hit that corner bar\nCan't even ride them roads\nDon't know my way around this place\nI can't see through the smoke\n\nPiled up every memory\nYeah, you took the good with all the bad\nWhy'd you have to strike that match\n\nAnd set my world on fire\nYeah, it's all long gone\nI'm watching flames get higher\nAnd I can't move on\nI just gotta let it burn, burn, burn on down\nGirl, without you it don't turn, turn, turn around\nYou set my world on fire\nYou set my world on fire\n\nAin't nothing left for me\nIn this old nothing town\nGuess all we'll be is ashes on the ground\nSo, I watch it burn, burn, burn on down\nAin't nothing I can hold on to right now\nYou set my\n\nYou set my world on fire\nYeah, it's all long gone\nI'm watching flames get higher\nAnd I can't move on\nI just gotta let it burn, burn, burn on down\nGirl, without you it don't turn, turn, turn around\nYou set my world on fire\nYou set my world on fire\n\nYou set my world on fire\nYou set my world on fire\nYou set my world on fire\nYou set my world on fire"
+}

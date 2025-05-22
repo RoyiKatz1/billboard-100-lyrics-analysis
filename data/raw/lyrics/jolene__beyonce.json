@@ -1,0 +1,2291 @@
+{
+    "_type": "song",
+    "annotation_count": 10,
+    "api_path": "/songs/10215006",
+    "artist_names": "Beyonc\u00e9",
+    "full_title": "JOLENE by\u00a0Beyonc\u00e9",
+    "header_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "id": 10215006,
+    "instrumental": false,
+    "lyrics_owner_id": 7206332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1736054457,
+    "path": "/Beyonce-jolene-lyrics",
+    "primary_artist_names": "Beyonc\u00e9",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Beyonce-jolene-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 29
+    },
+    "release_date_for_display": "March 29, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 4,
+        "contributors": 87,
+        "iq_earners": 87,
+        "transcribers": 7,
+        "unreviewed_annotations": 5,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 584435
+    },
+    "title": "JOLENE",
+    "title_with_featured": "JOLENE",
+    "updated_by_human_at": 1746145202,
+    "url": "https://genius.com/Beyonce-jolene-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/498",
+        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+        "id": 498,
+        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beyonc\u00e9",
+        "url": "https://genius.com/artists/Beyonce"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        }
+    ],
+    "apple_music_id": "1738370973",
+    "apple_music_player_url": "https://genius.com/songs/10215006/apple_music_player",
+    "description": {
+        "plain": "\u201cJOLENE\u201d sees Beyonc\u00e9 put a spin on Dolly Parton\u2019s famous country classic, whilst the original expresses a sentiment of desperation towards a side-piece, Beyonc\u00e9\u2019s rendition sees the protagonist know her worth and warn the other woman that the bond between Beyonc\u00e9 and her man is too strong to be broken.\n\nThe song was first hinted by Parton in an interview with the Knoxville News Sentinel where she shared her excitement about a possible cover of \u201cJolene\u201d included in Beyonc\u00e9\u2019s new album."
+    },
+    "embed_content": "<div id='rg_embed_link_10215006' class='rg_embed_link' data-song-id='10215006'>Read <a href='https://genius.com/Beyonce-jolene-lyrics'>\u201cJOLENE\u201d by Beyonc\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/10215006/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Kings Landing West (Los Angeles, CA), The Trailer (East Hampton, NY), Parkwood West (Los Angeles, CA) and Westlake Recording Studios (Los Angeles, CA)",
+    "release_date": "2024-03-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#dcdcd9",
+    "song_art_secondary_color": "#7e7d7c",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1043786",
+        "cover_art_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+        "full_title": "COWBOY CARTER by Beyonc\u00e9",
+        "id": 1043786,
+        "name": "COWBOY CARTER",
+        "primary_artist_names": "Beyonc\u00e9",
+        "release_date_for_display": "March 29, 2024",
+        "url": "https://genius.com/albums/Beyonce/Cowboy-carter",
+        "artist": {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/498",
+                "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                "id": 498,
+                "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Beyonc\u00e9",
+                "url": "https://genius.com/artists/Beyonce"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1189403",
+                    "header_image_url": "https://images.genius.com/92ffbd394fa7f8aa0894726b78dea144.1000x333x1.jpg",
+                    "id": 1189403,
+                    "image_url": "https://images.genius.com/e1c0053459c0a02dcf96e3b8a4f4c0b1.387x387x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SING Mastering",
+                    "url": "https://genius.com/artists/Sing-mastering"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/3309216",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3309216,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Avenue A Studio West",
+                    "url": "https://genius.com/artists/Avenue-a-studio-west"
+                }
+            ]
+        },
+        {
+            "label": "Contractor",
+            "artists": [
+                {
+                    "api_path": "/artists/4414499",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4414499,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nikisha Grier-Daniel",
+                    "url": "https://genius.com/artists/Nikisha-grier-daniel"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                },
+                {
+                    "api_path": "/artists/980948",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 980948,
+                    "image_url": "https://images.genius.com/8fb13133abc49c5f2034f773cda69506.195x195x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Blu June",
+                    "url": "https://genius.com/artists/Blu-june"
+                },
+                {
+                    "api_path": "/artists/992184",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 992184,
+                    "image_url": "https://images.genius.com/1343ce81603113bcb1ef81c12e4b8960.436x436x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brittany Coney",
+                    "url": "https://genius.com/artists/Brittany-coney"
+                },
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/661270",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661270,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Cranfield",
+                    "url": "https://genius.com/artists/John-cranfield"
+                },
+                {
+                    "api_path": "/artists/1881023",
+                    "header_image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "id": 1881023,
+                    "image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrea Roberts",
+                    "url": "https://genius.com/artists/Andrea-roberts"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2295895",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2295895,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Velvet Apple Music",
+                    "url": "https://genius.com/artists/Velvet-apple-music"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                },
+                {
+                    "api_path": "/artists/963225",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 963225,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Vickery",
+                    "url": "https://genius.com/artists/Alex-vickery"
+                }
+            ]
+        },
+        {
+            "label": "Additional Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1506930",
+                    "header_image_url": "https://images.genius.com/be1ce7229904535993a289d3946f6d91.1000x563x1.jpg",
+                    "id": 1506930,
+                    "image_url": "https://images.genius.com/178fc290c83799aba931bcfbcb6e675f.960x960x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Willie Jones",
+                    "url": "https://genius.com/artists/Willie-jones"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                },
+                {
+                    "api_path": "/artists/1013305",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1013305,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brandon Harding",
+                    "url": "https://genius.com/artists/Brandon-harding"
+                },
+                {
+                    "api_path": "/artists/1826267",
+                    "header_image_url": "https://images.genius.com/877e54ecb8e4ed6495103f10f6d3ddf5.378x378x1.jpg",
+                    "id": 1826267,
+                    "image_url": "https://images.genius.com/877e54ecb8e4ed6495103f10f6d3ddf5.378x378x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Pampuri",
+                    "url": "https://genius.com/artists/Dani-pampuri"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1129502",
+                    "header_image_url": "https://images.genius.com/ec3d57ef790cfca9161a9177134c1b5d.200x200x1.jpg",
+                    "id": 1129502,
+                    "image_url": "https://images.genius.com/ec3d57ef790cfca9161a9177134c1b5d.200x200x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Segal",
+                    "url": "https://genius.com/artists/Jack-segal"
+                },
+                {
+                    "api_path": "/artists/660068",
+                    "header_image_url": "https://images.genius.com/95eff1c2d0d5853ad66284a029672857.799x799x1.jpg",
+                    "id": 660068,
+                    "image_url": "https://images.genius.com/95eff1c2d0d5853ad66284a029672857.799x799x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack Ro",
+                    "url": "https://genius.com/artists/Jack-ro"
+                }
+            ]
+        },
+        {
+            "label": "Handclaps",
+            "artists": [
+                {
+                    "api_path": "/artists/3899954",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3899954,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dora Melissa Vargas",
+                    "url": "https://genius.com/artists/Dora-melissa-vargas"
+                },
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                },
+                {
+                    "api_path": "/artists/2",
+                    "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+                    "id": 2,
+                    "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "JAY-Z",
+                    "url": "https://genius.com/artists/Jay-z",
+                    "iq": 225
+                },
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                }
+            ]
+        },
+        {
+            "label": "Choir",
+            "artists": [
+                {
+                    "api_path": "/artists/2021672",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2021672,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LaMarcus Eldridge",
+                    "url": "https://genius.com/artists/Lamarcus-eldridge"
+                },
+                {
+                    "api_path": "/artists/2164724",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2164724,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerel Duren",
+                    "url": "https://genius.com/artists/Jerel-duren"
+                },
+                {
+                    "api_path": "/artists/1807367",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1807367,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Epting",
+                    "url": "https://genius.com/artists/Steve-epting"
+                },
+                {
+                    "api_path": "/artists/3206383",
+                    "header_image_url": "https://images.genius.com/a7431d929fb565aaff9f81db7c80cc36.1000x1000x1.jpg",
+                    "id": 3206383,
+                    "image_url": "https://images.genius.com/a7431d929fb565aaff9f81db7c80cc36.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Caleb Curry",
+                    "url": "https://genius.com/artists/Caleb-curry"
+                },
+                {
+                    "api_path": "/artists/3899953",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3899953,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Michael Shorts",
+                    "url": "https://genius.com/artists/Michael-shorts"
+                },
+                {
+                    "api_path": "/artists/1777914",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1777914,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jamal Moore",
+                    "url": "https://genius.com/artists/Jamal-moore"
+                },
+                {
+                    "api_path": "/artists/243998",
+                    "header_image_url": "https://images.genius.com/6fb1c92278fa7d61714b78dc19ef0946.1000x333x1.jpg",
+                    "id": 243998,
+                    "image_url": "https://images.genius.com/d8d9323add1edba3cbf3379827de1e0d.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jaden Gray",
+                    "url": "https://genius.com/artists/Jaden-gray"
+                },
+                {
+                    "api_path": "/artists/2287530",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2287530,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kadeem Nichols",
+                    "url": "https://genius.com/artists/Kadeem-nichols"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1181",
+                    "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+                    "id": 1181,
+                    "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "The-Dream",
+                    "url": "https://genius.com/artists/The-dream",
+                    "iq": 14277
+                },
+                {
+                    "api_path": "/artists/980948",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 980948,
+                    "image_url": "https://images.genius.com/8fb13133abc49c5f2034f773cda69506.195x195x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Blu June",
+                    "url": "https://genius.com/artists/Blu-june"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                },
+                {
+                    "api_path": "/artists/3896714",
+                    "header_image_url": "https://images.genius.com/1b7dd6c0827bdc4642f3f40db0f14306.1000x333x1.jpg",
+                    "id": 3896714,
+                    "image_url": "https://images.genius.com/cdba3cac4c8de75d45d6bff6daca9bc5.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200b\u200b\u200bconjust8",
+                    "url": "https://genius.com/artists/Conjust8"
+                },
+                {
+                    "api_path": "/artists/3899961",
+                    "header_image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "id": 3899961,
+                    "image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danforth Webster",
+                    "url": "https://genius.com/artists/Danforth-webster"
+                },
+                {
+                    "api_path": "/artists/3275496",
+                    "header_image_url": "https://images.genius.com/21b4cece3f89f2a14d05a0a455714665.1000x667x1.jpg",
+                    "id": 3275496,
+                    "image_url": "https://images.genius.com/f4a89df30648b2ea8728a692eb618b6c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Garrett Duncan",
+                    "url": "https://genius.com/artists/Garrett-duncan"
+                },
+                {
+                    "api_path": "/artists/3113960",
+                    "header_image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "id": 3113960,
+                    "image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Dilli",
+                    "url": "https://genius.com/artists/Jeremy-dilli"
+                },
+                {
+                    "api_path": "/artists/2892322",
+                    "header_image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "id": 2892322,
+                    "image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Lopez Garcia",
+                    "url": "https://genius.com/artists/Jonathan-lopez-garcia"
+                },
+                {
+                    "api_path": "/artists/2083255",
+                    "header_image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "id": 2083255,
+                    "image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick Gardner",
+                    "url": "https://genius.com/artists/Patrick-gardner"
+                },
+                {
+                    "api_path": "/artists/3125989",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3125989,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Sutton",
+                    "url": "https://genius.com/artists/Nick-sutton"
+                },
+                {
+                    "api_path": "/artists/3750310",
+                    "header_image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "id": 3750310,
+                    "image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Terena Dawn",
+                    "url": "https://genius.com/artists/Terena-dawn"
+                }
+            ]
+        },
+        {
+            "label": "Additional Production",
+            "artists": [
+                {
+                    "api_path": "/artists/992184",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 992184,
+                    "image_url": "https://images.genius.com/1343ce81603113bcb1ef81c12e4b8960.436x436x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Brittany Coney",
+                    "url": "https://genius.com/artists/Brittany-coney"
+                },
+                {
+                    "api_path": "/artists/980948",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 980948,
+                    "image_url": "https://images.genius.com/8fb13133abc49c5f2034f773cda69506.195x195x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Blu June",
+                    "url": "https://genius.com/artists/Blu-june"
+                },
+                {
+                    "api_path": "/artists/1788207",
+                    "header_image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "id": 1788207,
+                    "image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Khirye Tyler",
+                    "url": "https://genius.com/artists/Khirye-tyler"
+                },
+                {
+                    "api_path": "/artists/995443",
+                    "header_image_url": "https://images.genius.com/d134dd9f36ec6a4fa42115a1893179ca.1000x159x1.jpg",
+                    "id": 995443,
+                    "image_url": "https://images.genius.com/978f6e0ce32ed41783b55a10dac9cdb3.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "NOVA WAV",
+                    "url": "https://genius.com/artists/Nova-wav"
+                }
+            ]
+        },
+        {
+            "label": "Harmonica",
+            "artists": [
+                {
+                    "api_path": "/artists/1602",
+                    "header_image_url": "https://images.genius.com/8bb3f2a398b71495e10ac75e56180faa.1000x661x1.jpg",
+                    "id": 1602,
+                    "image_url": "https://images.genius.com/378a1d769bbb5652314149bff8252c75.696x696x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stevie Wonder",
+                    "url": "https://genius.com/artists/Stevie-wonder"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15835924,
+        "annotator_login": "fkamystique",
+        "api_path": "/referents/31275432",
+        "classification": "accepted",
+        "fragment": "JOLENE",
+        "id": 31275432,
+        "is_description": true,
+        "path": "/31275432/Beyonce-jolene/Jolene",
+        "range": {
+            "content": "JOLENE"
+        },
+        "song_id": 10215006,
+        "url": "https://genius.com/31275432/Beyonce-jolene/Jolene",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10215006",
+            "client_timestamps": {
+                "updated_by_human_at": 1746145202,
+                "lyrics_updated_at": 1736054457
+            },
+            "context": "Beyonc\u00e9",
+            "id": 10215006,
+            "image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+            "link_title": "JOLENE by\u00a0Beyonc\u00e9",
+            "title": "JOLENE",
+            "type": "Song",
+            "url": "https://genius.com/Beyonce-jolene-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31275432",
+                "body": {
+                    "plain": "\u201cJOLENE\u201d sees Beyonc\u00e9 put a spin on Dolly Parton\u2019s famous country classic, whilst the original expresses a sentiment of desperation towards a side-piece, Beyonc\u00e9\u2019s rendition sees the protagonist know her worth and warn the other woman that the bond between Beyonc\u00e9 and her man is too strong to be broken.\n\nThe song was first hinted by Parton in an interview with the Knoxville News Sentinel where she shared her excitement about a possible cover of \u201cJolene\u201d included in Beyonc\u00e9\u2019s new album."
+                },
+                "comment_count": 1,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31275432,
+                "pinned": false,
+                "share_url": "https://genius.com/31275432",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31275432/Beyonce-jolene/Jolene",
+                "verified": false,
+                "votes_total": 56,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.49382716049382713,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15008177",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/4dc89263fdc83c4ba087832b47183c98",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 15008177,
+                            "iq": 2445,
+                            "login": "TASNPROT",
+                            "name": "TASNPROT",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/TASNPROT",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.4074074074074074,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15835924",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/2w2i3rwb5jw",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/2w2i3rwb5jw",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/2w2i3rwb5jw",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/2w2i3rwb5jw",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/2w2i3rwb5jw",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 15835924,
+                            "iq": 10559,
+                            "login": "fkamystique",
+                            "name": "fkamystique",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/fkamystique",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.08641975308641975,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11128325",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/c608f5695c2018f37f1a367ebd928ce2",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/62acd67a1d6fd30895accfd89a0459fb.640x908x1.jpg",
+                            "human_readable_role_for_display": "Moderator",
+                            "id": 11128325,
+                            "iq": 186072,
+                            "login": "thousandeyes",
+                            "name": "thousandeyes",
+                            "role_for_display": "moderator",
+                            "url": "https://genius.com/thousandeyes",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.012345679012345678,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/13329136",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/f141ebbac24dcbfeb974513169abb151",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/f141ebbac24dcbfeb974513169abb151",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/f141ebbac24dcbfeb974513169abb151",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/f141ebbac24dcbfeb974513169abb151",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/ceoxbt7w3db",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 13329136,
+                            "iq": 543,
+                            "login": "frogslimegif",
+                            "name": "frogslimegif",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/frogslimegif",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/7464236",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/fc6d141c024319847440a37ce5f4357d",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/fc6d141c024319847440a37ce5f4357d",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/fc6d141c024319847440a37ce5f4357d",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/fc6d141c024319847440a37ce5f4357d",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/6a0e77a38b51bf372c72a160b8e82d89.511x1000x1.jpg",
+        "human_readable_role_for_display": "Editor",
+        "id": 7464236,
+        "iq": 79603,
+        "login": "grafiXal",
+        "name": "gr\u0430fi",
+        "role_for_display": "editor",
+        "url": "https://genius.com/grafiXal",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "beyonce",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/beyonce/beyonce-jolene"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=x9XHMK3nWr4"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/660068",
+            "header_image_url": "https://images.genius.com/95eff1c2d0d5853ad66284a029672857.799x799x1.jpg",
+            "id": 660068,
+            "image_url": "https://images.genius.com/95eff1c2d0d5853ad66284a029672857.799x799x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jack Ro",
+            "url": "https://genius.com/artists/Jack-ro"
+        },
+        {
+            "api_path": "/artists/1181",
+            "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+            "id": 1181,
+            "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "The-Dream",
+            "url": "https://genius.com/artists/The-dream",
+            "iq": 14277
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 15,
+                    "api_path": "/songs/207947",
+                    "artist_names": "Dolly Parton",
+                    "full_title": "Jolene by\u00a0Dolly\u00a0Parton",
+                    "header_image_thumbnail_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "header_image_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "id": 207947,
+                    "lyrics_owner_id": 250962,
+                    "lyrics_state": "complete",
+                    "path": "/Dolly-parton-jolene-lyrics",
+                    "primary_artist_names": "Dolly Parton",
+                    "pyongs_count": 36,
+                    "relationships_index_url": "https://genius.com/Dolly-parton-jolene-sample",
+                    "release_date_components": {
+                        "year": 1973,
+                        "month": 10,
+                        "day": 15
+                    },
+                    "release_date_for_display": "October 15, 1973",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1973",
+                    "song_art_image_thumbnail_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "song_art_image_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "concurrents": 3,
+                        "hot": false,
+                        "pageviews": 2097218
+                    },
+                    "title": "Jolene",
+                    "title_with_featured": "Jolene",
+                    "url": "https://genius.com/Dolly-parton-jolene-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/20955",
+                        "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                        "id": 20955,
+                        "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dolly Parton",
+                        "url": "https://genius.com/artists/Dolly-parton",
+                        "iq": 100
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/20955",
+                            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                            "id": 20955,
+                            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dolly Parton",
+                            "url": "https://genius.com/artists/Dolly-parton",
+                            "iq": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 10,
+                    "api_path": "/songs/10212106",
+                    "artist_names": "Beyonc\u00e9 & Dolly Parton",
+                    "full_title": "DOLLY P by\u00a0Beyonc\u00e9 & Dolly\u00a0Parton",
+                    "header_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+                    "id": 10212106,
+                    "lyrics_owner_id": 126836,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-and-dolly-parton-dolly-p-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9 & Dolly Parton",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Beyonce-and-dolly-parton-dolly-p-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false,
+                        "pageviews": 66842
+                    },
+                    "title": "DOLLY P",
+                    "title_with_featured": "DOLLY P",
+                    "url": "https://genius.com/Beyonce-and-dolly-parton-dolly-p-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        },
+                        {
+                            "api_path": "/artists/20955",
+                            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                            "id": 20955,
+                            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dolly Parton",
+                            "url": "https://genius.com/artists/Dolly-parton",
+                            "iq": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 15,
+                    "api_path": "/songs/207947",
+                    "artist_names": "Dolly Parton",
+                    "full_title": "Jolene by\u00a0Dolly\u00a0Parton",
+                    "header_image_thumbnail_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "header_image_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "id": 207947,
+                    "lyrics_owner_id": 250962,
+                    "lyrics_state": "complete",
+                    "path": "/Dolly-parton-jolene-lyrics",
+                    "primary_artist_names": "Dolly Parton",
+                    "pyongs_count": 36,
+                    "relationships_index_url": "https://genius.com/Dolly-parton-jolene-sample",
+                    "release_date_components": {
+                        "year": 1973,
+                        "month": 10,
+                        "day": 15
+                    },
+                    "release_date_for_display": "October 15, 1973",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 15, 1973",
+                    "song_art_image_thumbnail_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "song_art_image_url": "https://images.rapgenius.com/c7233875a7aadfeb60cf3a097e242209.280x280x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "concurrents": 3,
+                        "hot": false,
+                        "pageviews": 2097218
+                    },
+                    "title": "Jolene",
+                    "title_with_featured": "Jolene",
+                    "url": "https://genius.com/Dolly-parton-jolene-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/20955",
+                        "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                        "id": 20955,
+                        "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Dolly Parton",
+                        "url": "https://genius.com/artists/Dolly-parton",
+                        "iq": 100
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/20955",
+                            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                            "id": 20955,
+                            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dolly Parton",
+                            "url": "https://genius.com/artists/Dolly-parton",
+                            "iq": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10251917",
+                    "artist_names": "Beyonc\u00e9 (Ft. Willie Jones)",
+                    "full_title": "JOLENE (Physical Version) by\u00a0Beyonc\u00e9 (Ft.\u00a0Willie\u00a0Jones)",
+                    "header_image_thumbnail_url": "https://images.genius.com/58d305cb1154caa45b78d853833ff2b4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/58d305cb1154caa45b78d853833ff2b4.1000x1000x1.png",
+                    "id": 10251917,
+                    "lyrics_owner_id": 8933395,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-jolene-physical-version-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Beyonce-jolene-physical-version-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 1
+                    },
+                    "release_date_for_display": "April 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/58d305cb1154caa45b78d853833ff2b4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/58d305cb1154caa45b78d853833ff2b4.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "JOLENE (Physical Version)",
+                    "title_with_featured": "JOLENE (Physical Version) (Ft.\u00a0Willie\u00a0Jones)",
+                    "url": "https://genius.com/Beyonce-jolene-physical-version-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1506930",
+                            "header_image_url": "https://images.genius.com/be1ce7229904535993a289d3946f6d91.1000x563x1.jpg",
+                            "id": 1506930,
+                            "image_url": "https://images.genius.com/178fc290c83799aba931bcfbcb6e675f.960x960x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Willie Jones",
+                            "url": "https://genius.com/artists/Willie-jones"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 5,
+                    "api_path": "/songs/11272525",
+                    "artist_names": "Beyonc\u00e9 (Ft. Brittney Spencer, Dolly Parton, Post Malone, Reyna Roberts, Shaboozey, Tanner Adell & Tiera Kennedy)",
+                    "full_title": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance) by\u00a0Beyonc\u00e9 (Ft.\u00a0Brittney\u00a0Spencer, Dolly\u00a0Parton, Post\u00a0Malone, Reyna\u00a0Roberts, Shaboozey, Tanner\u00a0Adell & Tiera\u00a0Kennedy)",
+                    "header_image_thumbnail_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.300x200x1.jpg",
+                    "header_image_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.1000x667x1.jpg",
+                    "id": 11272525,
+                    "lyrics_owner_id": 20845349,
+                    "lyrics_state": "complete",
+                    "path": "/Beyonce-beyonce-bowl-nfl-halftime-show-performance-lyrics",
+                    "primary_artist_names": "Beyonc\u00e9",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Beyonce-beyonce-bowl-nfl-halftime-show-performance-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 25
+                    },
+                    "release_date_for_display": "December 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.300x200x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f0a0a01e63ba4336422bdb0fe8733d16.1000x667x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 6516
+                    },
+                    "title": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance)",
+                    "title_with_featured": "Beyonc\u00e9 Bowl (NFL Halftime Show Performance) (Ft.\u00a0Brittney\u00a0Spencer, Dolly\u00a0Parton, Post\u00a0Malone, Reyna\u00a0Roberts, Shaboozey, Tanner\u00a0Adell & Tiera\u00a0Kennedy)",
+                    "url": "https://genius.com/Beyonce-beyonce-bowl-nfl-halftime-show-performance-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1823620",
+                            "header_image_url": "https://images.genius.com/c6dc7545590bca5995868448887a2ba9.826x826x1.jpg",
+                            "id": 1823620,
+                            "image_url": "https://images.genius.com/c6dc7545590bca5995868448887a2ba9.826x826x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brittney Spencer",
+                            "url": "https://genius.com/artists/Brittney-spencer"
+                        },
+                        {
+                            "api_path": "/artists/3064465",
+                            "header_image_url": "https://images.genius.com/128cb47e27d674a59d0b8d3a59385496.620x414x1.jpg",
+                            "id": 3064465,
+                            "image_url": "https://images.genius.com/b85cf1465f3f0a5a7d8f3e19a94d41fe.800x800x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tiera Kennedy",
+                            "url": "https://genius.com/artists/Tiera-kennedy"
+                        },
+                        {
+                            "api_path": "/artists/2333200",
+                            "header_image_url": "https://images.genius.com/1164af8b475fd2ca9a4bf6d89137c073.1000x333x1.jpg",
+                            "id": 2333200,
+                            "image_url": "https://images.genius.com/dbd7106215b0d84dc50c391486aee6e1.415x415x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Reyna Roberts",
+                            "url": "https://genius.com/artists/Reyna-roberts"
+                        },
+                        {
+                            "api_path": "/artists/2835248",
+                            "header_image_url": "https://images.genius.com/48e7105a5e90db5c501a3408de7e3f21.1000x333x1.jpg",
+                            "id": 2835248,
+                            "image_url": "https://images.genius.com/9f42226063eec5fe846c01423dfb4917.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tanner Adell",
+                            "url": "https://genius.com/artists/Tanner-adell"
+                        },
+                        {
+                            "api_path": "/artists/69508",
+                            "header_image_url": "https://images.genius.com/66a44ab7f70f42d2b4f96488bf59b4f5.835x577x1.jpg",
+                            "id": 69508,
+                            "image_url": "https://images.genius.com/499cd28de4ba7db8358c931b9473136c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Shaboozey",
+                            "url": "https://genius.com/artists/Shaboozey"
+                        },
+                        {
+                            "api_path": "/artists/20955",
+                            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+                            "id": 20955,
+                            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Dolly Parton",
+                            "url": "https://genius.com/artists/Dolly-parton",
+                            "iq": 100
+                        },
+                        {
+                            "api_path": "/artists/326362",
+                            "header_image_url": "https://images.genius.com/606d37a33bf28ae321ab215e7babd8bb.1000x492x1.png",
+                            "id": 326362,
+                            "image_url": "https://images.genius.com/e9d48648e7936361442309bc90f481d3.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Post Malone",
+                            "url": "https://genius.com/artists/Post-malone",
+                            "iq": 16344
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/498",
+                        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                        "id": 498,
+                        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Beyonc\u00e9",
+                        "url": "https://genius.com/artists/Beyonce"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498",
+                            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                            "id": 498,
+                            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Beyonc\u00e9",
+                            "url": "https://genius.com/artists/Beyonce"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Beyonce-jolene-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10224131",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/7910798d6d556d019ed220add199bb56.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7910798d6d556d019ed220add199bb56.684x684x1.png",
+                    "id": 10224131,
+                    "lyrics_owner_id": 19794033,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-beyonce-jolene-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-beyonce-jolene-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7910798d6d556d019ed220add199bb56.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7910798d6d556d019ed220add199bb56.684x684x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Traduzione Italiana)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-beyonce-jolene-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10215694",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Beyonc\u00e9 - JOLENE (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.780x780x1.png",
+                    "id": 10215694,
+                    "lyrics_owner_id": 21719590,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-beyonce-jolene-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-beyonce-jolene-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/da919a01632aa2f71f90c0f4501cb9e6.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-beyonce-jolene-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10216963",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Beyonc\u00e9 - JOLENE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/63a100cad8b9b493d84986448c7538e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/63a100cad8b9b493d84986448c7538e6.1000x1000x1.png",
+                    "id": 10216963,
+                    "lyrics_owner_id": 10662999,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-beyonce-jolene-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-beyonce-jolene-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/63a100cad8b9b493d84986448c7538e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/63a100cad8b9b493d84986448c7538e6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-beyonce-jolene-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10220312",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10220312,
+                    "lyrics_owner_id": 8020115,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-beyonce-jolene-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-jolene-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-jolene-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10219866",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10219866,
+                    "lyrics_owner_id": 14506753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-beyonce-jolene-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-beyonce-jolene-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-beyonce-jolene-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10260467",
+                    "artist_names": "Genius Nederlandse Vertalingen",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "id": 10260467,
+                    "lyrics_owner_id": 8909468,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-nederlandse-vertalingen-beyonce-jolene-nederlandse-vertaling-lyrics",
+                    "primary_artist_names": "Genius Nederlandse Vertalingen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-jolene-nederlandse-vertaling-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Nederlandse Vertaling)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Nederlandse Vertaling)",
+                    "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-jolene-nederlandse-vertaling-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1805866",
+                        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                        "id": 1805866,
+                        "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Nederlandse Vertalingen",
+                        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1805866",
+                            "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                            "id": 1805866,
+                            "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Nederlandse Vertalingen",
+                            "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10290016",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Beyonc\u00e9 - JOLENE (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "id": 10290016,
+                    "lyrics_owner_id": 1025804,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-beyonce-jolene-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-jolene-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-jolene-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10256651",
+                    "artist_names": "Genius Norske Oversettelser",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Norsk Oversettelse) by\u00a0Genius\u00a0Norske Oversettelser",
+                    "header_image_thumbnail_url": "https://images.genius.com/840515c3b173a5c8422c6b96898de47b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/840515c3b173a5c8422c6b96898de47b.1000x1000x1.png",
+                    "id": 10256651,
+                    "lyrics_owner_id": 6936343,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-norske-oversettelser-beyonce-jolene-norsk-oversettelse-lyrics",
+                    "primary_artist_names": "Genius Norske Oversettelser",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-norske-oversettelser-beyonce-jolene-norsk-oversettelse-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/840515c3b173a5c8422c6b96898de47b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/840515c3b173a5c8422c6b96898de47b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Norsk Oversettelse)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Norsk Oversettelse)",
+                    "url": "https://genius.com/Genius-norske-oversettelser-beyonce-jolene-norsk-oversettelse-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3461450",
+                        "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                        "id": 3461450,
+                        "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Norske Oversettelser",
+                        "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3461450",
+                            "header_image_url": "https://images.genius.com/680b68dafe88638e2d7259774d2295a4.371x270x1.png",
+                            "id": 3461450,
+                            "image_url": "https://images.genius.com/484c118eb5fe4bd52b677cd7fb86a8bb.270x270x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Norske Oversettelser",
+                            "url": "https://genius.com/artists/Genius-norske-oversettelser"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10240952",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Beyonc\u00e9 - JOLENE (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "id": 10240952,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-beyonce-jolene-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-jolene-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - JOLENE (Terjemahan Indonesia)",
+                    "title_with_featured": "Beyonc\u00e9 - JOLENE (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-jolene-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10224131",
+            "id": 10224131,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-beyonce-jolene-traduzione-italiana-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-beyonce-jolene-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10215694",
+            "id": 10215694,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-beyonce-jolene-turkce-ceviri-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-beyonce-jolene-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10216963",
+            "id": 10216963,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-beyonce-jolene-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-beyonce-jolene-lyrics"
+        },
+        {
+            "api_path": "/songs/10220312",
+            "id": 10220312,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-beyonce-jolene-deutsche-ubersetzung-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-beyonce-jolene-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/10219866",
+            "id": 10219866,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-beyonce-jolene-traducao-em-portugues-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-beyonce-jolene-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10260467",
+            "id": 10260467,
+            "language": "nl",
+            "lyrics_state": "complete",
+            "path": "/Genius-nederlandse-vertalingen-beyonce-jolene-nederlandse-vertaling-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Nederlandse Vertaling)",
+            "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-jolene-nederlandse-vertaling-lyrics"
+        },
+        {
+            "api_path": "/songs/10290016",
+            "id": 10290016,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-beyonce-jolene-polskie-tumaczenie-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-jolene-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10256651",
+            "id": 10256651,
+            "language": "no",
+            "lyrics_state": "complete",
+            "path": "/Genius-norske-oversettelser-beyonce-jolene-norsk-oversettelse-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Norsk Oversettelse)",
+            "url": "https://genius.com/Genius-norske-oversettelser-beyonce-jolene-norsk-oversettelse-lyrics"
+        },
+        {
+            "api_path": "/songs/10240952",
+            "id": 10240952,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-beyonce-jolene-terjemahan-indonesia-lyrics",
+            "title": "Beyonc\u00e9 - JOLENE (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-jolene-terjemahan-indonesia-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/20955",
+            "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+            "id": 20955,
+            "image_url": "https://images.genius.com/830589b1d8e38d88cccec8cdd9ab2c2b.296x296x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Dolly Parton",
+            "url": "https://genius.com/artists/Dolly-parton",
+            "iq": 100
+        }
+    ],
+    "artist": "Beyonc\u00e9",
+    "lyrics": "87 ContributorsTranslationsItalianoT\u00fcrk\u00e7e\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)DeutschPortugu\u00easNederlandsPolskiNorskBahasa IndonesiaJOLENE Lyrics\u201cJOLENE\u201d sees Beyonc\u00e9 put a spin on Dolly Parton\u2019s famous country classic, whilst the original expresses a sentiment of desperation towards a side-piece, Beyonc\u00e9\u2019s rendition sees the protagonist know her\u2026 Read More\u00a0\n(Jolene)\n(Jolene)\n\nJolene, Jolene, Jolene, Jolene\nI'm warnin\u2019 you, don't come for my man (Jolene)\nJolene, Jolene, Jolene, Jolene\nDon't take the chance because you think you can\n\nYou\u2019re beautiful, beyond compare\nTakes more than beauty and seductive stares\nTo come between a family and a happy man\nJolene, I'm a woman too\nTh\u0435 games you play are nothing new\nSo you don't want no h\u0435at with me, Jolene\nWe've been deep in love for twenty years\nI raised that man, I raised his kids\nI know my man better than he knows himself (Yeah, what?)\nI can easily understand\nWhy you're attracted to my man\nBut you don't want this smoke, so shoot your shot with someone else (You heard me)\n\nJolene, Jolene, Jolene, Jolene\nI'm warnin' you, woman, find you your own man\nJolene, I know I\u2019m a queen, Jolene\nI\u2019m still a Creole banjee bitch from Louisiane (Don't try me)\n\nThere\u2019s a thousand girls in every room\nThat act as desperate as you do\nYou a bird, go on and sing your tune, Jolene (What?)\nI had to have this talk with you\n'Cause I hate to have to act a fool\nYour peace depends on how you move, Jolene\nMe and my man crossed those valleys\nHighs and lows and everything between\nGood deeds roll in like tumblin' weeds\nI sleep good, happy\n'Cause you can\u2019t dig up our planted seeds\nI know my man's gon' stand by me, breathin' in my gentle breeze\nI crossed those valleys\nHighs and lows and everything between\nGood deeds roll in like tumblin' weeds\nGood and happy\n'Cause you can't dig up them planted seeds\nJolene, Jolene, Jolene, Jolene, Jolene\nI'ma stand by her, she gon' stand by me, Jolene\n\nI'ma stand by him, he gon' stand by me\n(I'ma stand by her, she gon' stand by me)\nI'ma stand by him, he gon' stand by me, Jolene"
+}

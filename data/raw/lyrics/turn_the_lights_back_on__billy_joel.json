@@ -1,0 +1,985 @@
+{
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/9972712",
+    "artist_names": "Billy Joel",
+    "full_title": "Turn the Lights Back On by\u00a0Billy\u00a0Joel",
+    "header_image_thumbnail_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.300x300x1.png",
+    "header_image_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.1000x1000x1.png",
+    "id": 9972712,
+    "instrumental": false,
+    "lyrics_owner_id": 3524332,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1721886548,
+    "path": "/Billy-joel-turn-the-lights-back-on-lyrics",
+    "primary_artist_names": "Billy Joel",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Billy-joel-turn-the-lights-back-on-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 2,
+        "day": 1
+    },
+    "release_date_for_display": "February 1, 2024",
+    "release_date_with_abbreviated_month_for_display": "Feb. 1, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 18,
+        "iq_earners": 18,
+        "transcribers": 3,
+        "unreviewed_annotations": 12,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 122240
+    },
+    "title": "Turn the Lights Back On",
+    "title_with_featured": "Turn the Lights Back On",
+    "updated_by_human_at": 1740971531,
+    "url": "https://genius.com/Billy-joel-turn-the-lights-back-on-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/16965",
+        "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+        "id": 16965,
+        "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Billy Joel",
+        "url": "https://genius.com/artists/Billy-joel"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/16965",
+            "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+            "id": 16965,
+            "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Billy Joel",
+            "url": "https://genius.com/artists/Billy-joel"
+        }
+    ],
+    "apple_music_id": "1726209022",
+    "apple_music_player_url": "https://genius.com/songs/9972712/apple_music_player",
+    "description": {
+        "plain": "Billy\u2019s new single since 2007, and his first song since the River of Dreams in 1993."
+    },
+    "embed_content": "<div id='rg_embed_link_9972712' class='rg_embed_link' data-song-id='9972712'>Read <a href='https://genius.com/Billy-joel-turn-the-lights-back-on-lyrics'>\u201cTurn the Lights Back On\u201d by Billy\u00a0Joel</a> on Genius</div> <script crossorigin src='//genius.com/songs/9972712/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-02-01",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#868278",
+    "song_art_secondary_color": "#46433e",
+    "song_art_text_color": "#fff",
+    "album": null,
+    "custom_performances": [
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1109073",
+                    "header_image_url": "https://images.genius.com/ccfaee10702948b310978df909dd8f2d.1000x563x1.jpg",
+                    "id": 1109073,
+                    "image_url": "https://images.genius.com/8f1e0db788cab1aaa82080de99f4d837.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "PARISI",
+                    "url": "https://genius.com/artists/Parisi"
+                }
+            ]
+        },
+        {
+            "label": "Additional Production",
+            "artists": [
+                {
+                    "api_path": "/artists/27453",
+                    "header_image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+                    "id": 27453,
+                    "image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Emile Haynie",
+                    "url": "https://genius.com/artists/Emile-haynie"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/16965",
+                    "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+                    "id": 16965,
+                    "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Billy Joel",
+                    "url": "https://genius.com/artists/Billy-joel"
+                },
+                {
+                    "api_path": "/artists/1112472",
+                    "header_image_url": "https://images.genius.com/b00d3623594f94e6b22eaec25b3c7270.1000x1000x1.jpg",
+                    "id": 1112472,
+                    "image_url": "https://images.genius.com/b00d3623594f94e6b22eaec25b3c7270.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marco Parisi",
+                    "url": "https://genius.com/artists/Marco-parisi"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1050477",
+                    "header_image_url": "https://images.genius.com/f7b55ebac5a660a4bbc6785e41fa93da.1000x628x1.jpg",
+                    "id": 1050477,
+                    "image_url": "https://images.genius.com/7c5611fd4087ee2c2492d359099960c1.755x755x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leroy Clampitt",
+                    "url": "https://genius.com/artists/Leroy-clampitt"
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1050477",
+                    "header_image_url": "https://images.genius.com/f7b55ebac5a660a4bbc6785e41fa93da.1000x628x1.jpg",
+                    "id": 1050477,
+                    "image_url": "https://images.genius.com/7c5611fd4087ee2c2492d359099960c1.755x755x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leroy Clampitt",
+                    "url": "https://genius.com/artists/Leroy-clampitt"
+                },
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/644483",
+                    "header_image_url": "https://images.genius.com/f5db692c3a4eed2c04438490d8e05aa9.460x460x1.jpg",
+                    "id": 644483,
+                    "image_url": "https://images.genius.com/f5db692c3a4eed2c04438490d8e05aa9.460x460x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Cooke",
+                    "url": "https://genius.com/artists/Randy-cooke"
+                }
+            ]
+        },
+        {
+            "label": "Percussion",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Synthesizer",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Drum Machine",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/1434900",
+                    "header_image_url": "https://images.genius.com/b6c36ce9a60ebeaf128034e2e725cc17.564x564x1.jpg",
+                    "id": 1434900,
+                    "image_url": "https://images.genius.com/b6c36ce9a60ebeaf128034e2e725cc17.564x564x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Giampaolo \u201cJack\u201d Parisi",
+                    "url": "https://genius.com/artists/Giampaolo-jack-parisi"
+                }
+            ]
+        },
+        {
+            "label": "Strings",
+            "artists": [
+                {
+                    "api_path": "/artists/1112472",
+                    "header_image_url": "https://images.genius.com/b00d3623594f94e6b22eaec25b3c7270.1000x1000x1.jpg",
+                    "id": 1112472,
+                    "image_url": "https://images.genius.com/b00d3623594f94e6b22eaec25b3c7270.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marco Parisi",
+                    "url": "https://genius.com/artists/Marco-parisi"
+                }
+            ]
+        },
+        {
+            "label": "Violin",
+            "artists": [
+                {
+                    "api_path": "/artists/1596017",
+                    "header_image_url": "https://images.genius.com/0cf1e819165f8897365afea48c20b465.263x263x1.jpg",
+                    "id": 1596017,
+                    "image_url": "https://images.genius.com/0cf1e819165f8897365afea48c20b465.263x263x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Benjamin Jacobson",
+                    "url": "https://genius.com/artists/Benjamin-jacobson"
+                },
+                {
+                    "api_path": "/artists/979811",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 979811,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tereza Stanislav",
+                    "url": "https://genius.com/artists/Tereza-stanislav"
+                }
+            ]
+        },
+        {
+            "label": "Viola",
+            "artists": [
+                {
+                    "api_path": "/artists/1118896",
+                    "header_image_url": "https://images.genius.com/fe3cdb89c8a340e5b7dd09b867a9aa29.240x240x1.jpg",
+                    "id": 1118896,
+                    "image_url": "https://images.genius.com/fe3cdb89c8a340e5b7dd09b867a9aa29.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Luke Maurer",
+                    "url": "https://genius.com/artists/Luke-maurer"
+                }
+            ]
+        },
+        {
+            "label": "Cello",
+            "artists": [
+                {
+                    "api_path": "/artists/608264",
+                    "header_image_url": "https://images.genius.com/0fb66eb51f1c80fbe8759ef18644e394.1000x688x1.jpg",
+                    "id": 608264,
+                    "image_url": "https://images.genius.com/3e94d17697e734bea50b3b59dbd4f91e.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Vanessa Freebairn-Smith",
+                    "url": "https://genius.com/artists/Vanessa-freebairn-smith"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/553165",
+                    "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "id": 553165,
+                    "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Freddy Wexler",
+                    "url": "https://genius.com/artists/Freddy-wexler"
+                },
+                {
+                    "api_path": "/artists/1050477",
+                    "header_image_url": "https://images.genius.com/f7b55ebac5a660a4bbc6785e41fa93da.1000x628x1.jpg",
+                    "id": 1050477,
+                    "image_url": "https://images.genius.com/7c5611fd4087ee2c2492d359099960c1.755x755x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leroy Clampitt",
+                    "url": "https://genius.com/artists/Leroy-clampitt"
+                },
+                {
+                    "api_path": "/artists/1434900",
+                    "header_image_url": "https://images.genius.com/b6c36ce9a60ebeaf128034e2e725cc17.564x564x1.jpg",
+                    "id": 1434900,
+                    "image_url": "https://images.genius.com/b6c36ce9a60ebeaf128034e2e725cc17.564x564x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Giampaolo \u201cJack\u201d Parisi",
+                    "url": "https://genius.com/artists/Giampaolo-jack-parisi"
+                },
+                {
+                    "api_path": "/artists/27453",
+                    "header_image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+                    "id": 27453,
+                    "image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Emile Haynie",
+                    "url": "https://genius.com/artists/Emile-haynie"
+                },
+                {
+                    "api_path": "/artists/1233820",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1233820,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dan Glashauser",
+                    "url": "https://genius.com/artists/Dan-glashauser"
+                },
+                {
+                    "api_path": "/artists/1033519",
+                    "header_image_url": "https://images.genius.com/0498e2c5b044e2abf0d52eb8fd042698.360x360x1.jpg",
+                    "id": 1033519,
+                    "image_url": "https://images.genius.com/0498e2c5b044e2abf0d52eb8fd042698.360x360x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cian Riordan",
+                    "url": "https://genius.com/artists/Cian-riordan"
+                },
+                {
+                    "api_path": "/artists/1051233",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1051233,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kyle Mann",
+                    "url": "https://genius.com/artists/Kyle-mann"
+                },
+                {
+                    "api_path": "/artists/971977",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 971977,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Travis Warner",
+                    "url": "https://genius.com/artists/Travis-warner"
+                },
+                {
+                    "api_path": "/artists/1550504",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1550504,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Justin Gariano",
+                    "url": "https://genius.com/artists/Justin-gariano"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/460724",
+                    "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+                    "id": 460724,
+                    "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Elmhirst",
+                    "url": "https://genius.com/artists/Tom-elmhirst"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 13687085,
+        "annotator_login": "gone_85d0t_c42d",
+        "api_path": "/referents/30673485",
+        "classification": "unreviewed",
+        "fragment": "Turn the Lights Back On",
+        "id": 30673485,
+        "is_description": true,
+        "path": "/30673485/Billy-joel-turn-the-lights-back-on/Turn-the-lights-back-on",
+        "range": {
+            "content": "Turn the Lights Back On"
+        },
+        "song_id": 9972712,
+        "url": "https://genius.com/30673485/Billy-joel-turn-the-lights-back-on/Turn-the-lights-back-on",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9972712",
+            "client_timestamps": {
+                "updated_by_human_at": 1740971531,
+                "lyrics_updated_at": 1721886548
+            },
+            "context": "Billy Joel",
+            "id": 9972712,
+            "image_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.1000x1000x1.png",
+            "link_title": "Turn the Lights Back On by\u00a0Billy\u00a0Joel",
+            "title": "Turn the Lights Back On",
+            "type": "Song",
+            "url": "https://genius.com/Billy-joel-turn-the-lights-back-on-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30673485",
+                "body": {
+                    "plain": "Billy\u2019s new single since 2007, and his first song since the River of Dreams in 1993."
+                },
+                "comment_count": 2,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30673485,
+                "pinned": false,
+                "share_url": "https://genius.com/30673485",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30673485/Billy-joel-turn-the-lights-back-on/Turn-the-lights-back-on",
+                "verified": false,
+                "votes_total": 12,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/13687085",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://assets.genius.com/images/default_avatar_16.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://assets.genius.com/images/default_avatar_32.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://assets.genius.com/images/default_avatar_100.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 13687085,
+                            "iq": 5065,
+                            "login": "gone_85d0t_c42d",
+                            "name": "gone_85d0t_c42d",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/gone_85d0t_c42d",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/3524332",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/e4c8449e070ee2bbc926da7e7f43a083",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/e4c8449e070ee2bbc926da7e7f43a083",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/e4c8449e070ee2bbc926da7e7f43a083",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/e4c8449e070ee2bbc926da7e7f43a083",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/yatkew3xohr",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 3524332,
+        "iq": 272883,
+        "login": "blue",
+        "name": "blue",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/blue",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=UOf6CMbHPuA"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/553165",
+            "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+            "id": 553165,
+            "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Freddy Wexler",
+            "url": "https://genius.com/artists/Freddy-wexler"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10012660",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Billy Joel - Turn the Lights Back On (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.1000x1000x1.png",
+                    "id": 10012660,
+                    "lyrics_owner_id": 2171344,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-billy-joel-turn-the-lights-back-on-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-billy-joel-turn-the-lights-back-on-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 1
+                    },
+                    "release_date_for_display": "February 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/0f99aab5feb4aaf445a1761d847be61d.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Billy Joel - Turn the Lights Back On (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Billy Joel - Turn the Lights Back On (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-billy-joel-turn-the-lights-back-on-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10012660",
+            "id": 10012660,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-billy-joel-turn-the-lights-back-on-deutsche-ubersetzung-lyrics",
+            "title": "Billy Joel - Turn the Lights Back On (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-billy-joel-turn-the-lights-back-on-deutsche-ubersetzung-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/16965",
+            "header_image_url": "https://images.genius.com/e2cd4004dba82509c1dc7be0e1916685.1000x525x1.jpg",
+            "id": 16965,
+            "image_url": "https://images.genius.com/bf102255b675e6d771e87dae8d8ced49.598x598x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Billy Joel",
+            "url": "https://genius.com/artists/Billy-joel"
+        },
+        {
+            "api_path": "/artists/553165",
+            "header_image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+            "id": 553165,
+            "image_url": "https://images.genius.com/4d5bd0241706e210d4ccaf905d09b491.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Freddy Wexler",
+            "url": "https://genius.com/artists/Freddy-wexler"
+        },
+        {
+            "api_path": "/artists/3826477",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3826477,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Arthur LaFrentz Bacon",
+            "url": "https://genius.com/artists/Arthur-lafrentz-bacon"
+        },
+        {
+            "api_path": "/artists/108841",
+            "header_image_url": "https://images.genius.com/41e6db4a57380ad2956998ea2918d6dd.410x310x1.jpg",
+            "id": 108841,
+            "image_url": "https://images.genius.com/41e6db4a57380ad2956998ea2918d6dd.410x310x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Wayne Hector",
+            "url": "https://genius.com/artists/Wayne-hector"
+        }
+    ],
+    "artist": "Billy Joel",
+    "lyrics": "18 ContributorsTranslationsDeutschTurn the Lights Back On Lyrics\nPlease open the door\nNothing is different, we've been here before\nPacing these halls, trying to talk\nOver\u2005the\u2005silence\nAnd pride sticks\u2005out its tongue\nLaughs at the portrait\u2005that we've become\nStuck in a frame, unable to change\nI was wrong\n\nI'm late, but I'm here right now\nThough I used to be romantic\nI forgot somehow\nTime can make you blind\nBut I see you now\nAs we're layin' in the darkness\nDid I wait too long\nTo turn the lights back on?\n\nHer\u0435, stuck on a hill\nOutsiders inside the hom\u0435 that we built\nThe cold settles in\nIt's been a long winter of indifference\nAnd maybe you love me, maybe you don't\nMaybe you'll learn to and maybe you won't\nYou've had enough, but I won't give up\nOn you\n\nI'm late, but I'm here right now\nAnd I'm tryin' to find the magic\nThat we lost somehow\nMaybe I was blind\nBut I see you now\nAs we're layin' in the darkness\nDid I wait too long\nTo turn the lights back on?\n\n\nI'm late, but I'm here right now\nIs there still time for forgiveness?\nWon't you tell me how?\nI can't read your mind\nBut I see you now\nAs we're layin' in the darkness\nDid I wait too long\nTo turn the lights back on?\n\nI'm here right now\nYes, I'm here right now\nLooking for forgiveness\nI can see as we're layin' in the darkness\nYeah, as we're layin' in the darkness\nDid I wait too long\nTo turn the lights back on?"
+}

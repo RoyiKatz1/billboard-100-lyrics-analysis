@@ -1,0 +1,2060 @@
+{
+    "_type": "song",
+    "annotation_count": 21,
+    "api_path": "/songs/10212111",
+    "artist_names": "Beyonc\u00e9",
+    "full_title": "DAUGHTER by\u00a0Beyonc\u00e9",
+    "header_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "header_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "id": 10212111,
+    "instrumental": false,
+    "lyrics_owner_id": 4212581,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1738677749,
+    "path": "/Beyonce-daughter-lyrics",
+    "primary_artist_names": "Beyonc\u00e9",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Beyonce-daughter-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 29
+    },
+    "release_date_for_display": "March 29, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 3,
+        "contributors": 82,
+        "iq_earners": 82,
+        "transcribers": 5,
+        "unreviewed_annotations": 17,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 483568
+    },
+    "title": "DAUGHTER",
+    "title_with_featured": "DAUGHTER",
+    "updated_by_human_at": 1745867960,
+    "url": "https://genius.com/Beyonce-daughter-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/498",
+        "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+        "id": 498,
+        "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beyonc\u00e9",
+        "url": "https://genius.com/artists/Beyonce"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        }
+    ],
+    "apple_music_id": "1738370974",
+    "apple_music_player_url": "https://genius.com/songs/10212111/apple_music_player",
+    "description": {
+        "plain": "\u201cDAUGHTER\u201d finds Beyonc\u00e9\u2019s character struggling with violent thoughts in the face of infidelity, which cause her to recognize qualities of her father in her thinking. She more fully embodies the roles of protector assumed in previous tracks as she acts on threats against a woman who has eyes for her partner. Throughout, she warns that she is not harmless and can become like her father\u2013she is his daughter, after all.\n\nThe song features Beyonc\u00e9 singing an Italian opera song called \u201cCaro Mio Ben\u201d \u2013included because it narrates about the loneliness felt by the absence of his loved one, and the cruelty he inflicts on her."
+    },
+    "embed_content": "<div id='rg_embed_link_10212111' class='rg_embed_link' data-song-id='10212111'>Read <a href='https://genius.com/Beyonce-daughter-lyrics'>\u201cDAUGHTER\u201d by Beyonc\u00e9</a> on Genius</div> <script crossorigin src='//genius.com/songs/10212111/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "Kings Landing West (Los Angeles, CA), The Trailer (East Hampton, NY), Parkwood West (Los Angeles, CA) and Cave Studios (Nashville, TN)",
+    "release_date": "2024-03-29",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#fffcfa",
+    "song_art_secondary_color": "#c8c0b7",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1043786",
+        "cover_art_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+        "full_title": "COWBOY CARTER by Beyonc\u00e9",
+        "id": 1043786,
+        "name": "COWBOY CARTER",
+        "primary_artist_names": "Beyonc\u00e9",
+        "release_date_for_display": "March 29, 2024",
+        "url": "https://genius.com/albums/Beyonce/Cowboy-carter",
+        "artist": {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/498",
+                "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                "id": 498,
+                "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Beyonc\u00e9",
+                "url": "https://genius.com/artists/Beyonce"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1189403",
+                    "header_image_url": "https://images.genius.com/92ffbd394fa7f8aa0894726b78dea144.1000x333x1.jpg",
+                    "id": 1189403,
+                    "image_url": "https://images.genius.com/e1c0053459c0a02dcf96e3b8a4f4c0b1.387x387x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SING Mastering",
+                    "url": "https://genius.com/artists/Sing-mastering"
+                }
+            ]
+        },
+        {
+            "label": "Mixed At",
+            "artists": [
+                {
+                    "api_path": "/artists/3309216",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3309216,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Avenue A Studio West",
+                    "url": "https://genius.com/artists/Avenue-a-studio-west"
+                }
+            ]
+        },
+        {
+            "label": "Choir Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/661292",
+                    "header_image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "id": 661292,
+                    "image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Dixie",
+                    "url": "https://genius.com/artists/Derek-dixie"
+                }
+            ]
+        },
+        {
+            "label": "Strings Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/661292",
+                    "header_image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "id": 661292,
+                    "image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Dixie",
+                    "url": "https://genius.com/artists/Derek-dixie"
+                }
+            ]
+        },
+        {
+            "label": "Sound Effects",
+            "artists": [
+                {
+                    "api_path": "/artists/661292",
+                    "header_image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "id": 661292,
+                    "image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Dixie",
+                    "url": "https://genius.com/artists/Derek-dixie"
+                },
+                {
+                    "api_path": "/artists/1788207",
+                    "header_image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "id": 1788207,
+                    "image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Khirye Tyler",
+                    "url": "https://genius.com/artists/Khirye-tyler"
+                }
+            ]
+        },
+        {
+            "label": "Additional Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/958155",
+                    "header_image_url": "https://images.genius.com/7bf8990fffff43762cf4bed4bd286947.720x720x1.jpg",
+                    "id": 958155,
+                    "image_url": "https://images.genius.com/7bf8990fffff43762cf4bed4bd286947.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Hamelin",
+                    "url": "https://genius.com/artists/Dave-hamelin"
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/661292",
+                    "header_image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "id": 661292,
+                    "image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Dixie",
+                    "url": "https://genius.com/artists/Derek-dixie"
+                }
+            ]
+        },
+        {
+            "label": "Digital Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/661270",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661270,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "John Cranfield",
+                    "url": "https://genius.com/artists/John-cranfield"
+                },
+                {
+                    "api_path": "/artists/1881023",
+                    "header_image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "id": 1881023,
+                    "image_url": "https://images.genius.com/5d67c776c12510b9e2634b89731210df.895x895x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Andrea Roberts",
+                    "url": "https://genius.com/artists/Andrea-roberts"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/2259918",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2259918,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Oakland 13 Music",
+                    "url": "https://genius.com/artists/Oakland-13-music"
+                },
+                {
+                    "api_path": "/artists/647962",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 647962,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "2082 Music Publishing",
+                    "url": "https://genius.com/artists/2082-music-publishing"
+                },
+                {
+                    "api_path": "/artists/647221",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 647221,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Carter Boys Music",
+                    "url": "https://genius.com/artists/Carter-boys-music"
+                },
+                {
+                    "api_path": "/artists/1392909",
+                    "header_image_url": "https://images.genius.com/7ac214fbd2c4cd778203434451f5816a.1000x566x1.jpg",
+                    "id": 1392909,
+                    "image_url": "https://images.genius.com/9468ac6f0124aef1ed60ec8b1b216f1b.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sentric Music",
+                    "url": "https://genius.com/artists/Sentric-music"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                },
+                {
+                    "api_path": "/artists/4414502",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4414502,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alien Of Extraordinary Ability",
+                    "url": "https://genius.com/artists/Alien-of-extraordinary-ability"
+                },
+                {
+                    "api_path": "/artists/1011919",
+                    "header_image_url": "https://images.genius.com/f908865052a20f4b98598bff88765a73.1000x1000x1.png",
+                    "id": 1011919,
+                    "image_url": "https://images.genius.com/f890a617f1f954d942b094d2ac1a7381.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BMG",
+                    "url": "https://genius.com/artists/Bmg"
+                },
+                {
+                    "api_path": "/artists/4412051",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4412051,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Prokizum Muzik Publishing",
+                    "url": "https://genius.com/artists/Prokizum-muzik-publishing"
+                }
+            ]
+        },
+        {
+            "label": "Audio Editor",
+            "artists": [
+                {
+                    "api_path": "/artists/1788207",
+                    "header_image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "id": 1788207,
+                    "image_url": "https://images.genius.com/cfadf9f2f0c822aac96714d0d83ba3e1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Khirye Tyler",
+                    "url": "https://genius.com/artists/Khirye-tyler"
+                }
+            ]
+        },
+        {
+            "label": "Piano",
+            "artists": [
+                {
+                    "api_path": "/artists/2455358",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2455358,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon M\u00e5rtensson",
+                    "url": "https://genius.com/artists/Simon-martensson"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/2455358",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2455358,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon M\u00e5rtensson",
+                    "url": "https://genius.com/artists/Simon-martensson"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/2455358",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2455358,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon M\u00e5rtensson",
+                    "url": "https://genius.com/artists/Simon-martensson"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2323307",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2323307,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cameron Hogan",
+                    "url": "https://genius.com/artists/Cameron-hogan"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                },
+                {
+                    "api_path": "/artists/3896714",
+                    "header_image_url": "https://images.genius.com/1b7dd6c0827bdc4642f3f40db0f14306.1000x333x1.jpg",
+                    "id": 3896714,
+                    "image_url": "https://images.genius.com/cdba3cac4c8de75d45d6bff6daca9bc5.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200b\u200b\u200bconjust8",
+                    "url": "https://genius.com/artists/Conjust8"
+                },
+                {
+                    "api_path": "/artists/3899961",
+                    "header_image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "id": 3899961,
+                    "image_url": "https://images.genius.com/96d5345ddffd9b2c918401d217a1328a.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danforth Webster",
+                    "url": "https://genius.com/artists/Danforth-webster"
+                },
+                {
+                    "api_path": "/artists/3275496",
+                    "header_image_url": "https://images.genius.com/21b4cece3f89f2a14d05a0a455714665.1000x667x1.jpg",
+                    "id": 3275496,
+                    "image_url": "https://images.genius.com/f4a89df30648b2ea8728a692eb618b6c.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Garrett Duncan",
+                    "url": "https://genius.com/artists/Garrett-duncan"
+                },
+                {
+                    "api_path": "/artists/3113960",
+                    "header_image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "id": 3113960,
+                    "image_url": "https://images.genius.com/00224c2d94c8f941d54c39293698f917.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jeremy Dilli",
+                    "url": "https://genius.com/artists/Jeremy-dilli"
+                },
+                {
+                    "api_path": "/artists/2892322",
+                    "header_image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "id": 2892322,
+                    "image_url": "https://images.genius.com/f271d1855bcac7cec059affff12c3c34.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jonathan Lopez Garcia",
+                    "url": "https://genius.com/artists/Jonathan-lopez-garcia"
+                },
+                {
+                    "api_path": "/artists/3125989",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3125989,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Sutton",
+                    "url": "https://genius.com/artists/Nick-sutton"
+                },
+                {
+                    "api_path": "/artists/2083255",
+                    "header_image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "id": 2083255,
+                    "image_url": "https://images.genius.com/90fe0773395e2c98ddc713079968549a.544x544x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Patrick Gardner",
+                    "url": "https://genius.com/artists/Patrick-gardner"
+                },
+                {
+                    "api_path": "/artists/3750310",
+                    "header_image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "id": 3750310,
+                    "image_url": "https://images.genius.com/1865a72ddb4bf6904c9e541697d17414.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Terena Dawn",
+                    "url": "https://genius.com/artists/Terena-dawn"
+                }
+            ]
+        },
+        {
+            "label": "Choir",
+            "artists": [
+                {
+                    "api_path": "/artists/3373072",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3373072,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Storm Chapman",
+                    "url": "https://genius.com/artists/Storm-chapman"
+                },
+                {
+                    "api_path": "/artists/1807368",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1807368,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Naarai Jacobs",
+                    "url": "https://genius.com/artists/Naarai-jacobs"
+                },
+                {
+                    "api_path": "/artists/3899922",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3899922,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nava Morris",
+                    "url": "https://genius.com/artists/Nava-morris"
+                },
+                {
+                    "api_path": "/artists/2432742",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2432742,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Phylicia Hill",
+                    "url": "https://genius.com/artists/Phylicia-hill"
+                },
+                {
+                    "api_path": "/artists/1807371",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1807371,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jerome Wayne",
+                    "url": "https://genius.com/artists/Jerome-wayne"
+                },
+                {
+                    "api_path": "/artists/3347100",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3347100,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jenelle Dunkley",
+                    "url": "https://genius.com/artists/Jenelle-dunkley"
+                },
+                {
+                    "api_path": "/artists/1180353",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1180353,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Lakeisha Lewis",
+                    "url": "https://genius.com/artists/Lakeisha-lewis"
+                },
+                {
+                    "api_path": "/artists/1807369",
+                    "header_image_url": "https://images.genius.com/36699dae76186513de8ceab44b07fd37.838x838x1.jpg",
+                    "id": 1807369,
+                    "image_url": "https://images.genius.com/36699dae76186513de8ceab44b07fd37.838x838x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kiandra Richardson",
+                    "url": "https://genius.com/artists/Kiandra-richardson"
+                },
+                {
+                    "api_path": "/artists/1881763",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1881763,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Donald Paige",
+                    "url": "https://genius.com/artists/Donald-paige"
+                },
+                {
+                    "api_path": "/artists/1807367",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1807367,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Steve Epting",
+                    "url": "https://genius.com/artists/Steve-epting"
+                },
+                {
+                    "api_path": "/artists/1005660",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1005660,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cedric Leonard",
+                    "url": "https://genius.com/artists/Cedric-leonard"
+                },
+                {
+                    "api_path": "/artists/612523",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 612523,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Morales",
+                    "url": "https://genius.com/artists/Jason-morales"
+                },
+                {
+                    "api_path": "/artists/1291074",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1291074,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chelsea Miller",
+                    "url": "https://genius.com/artists/Chelsea-miller"
+                },
+                {
+                    "api_path": "/artists/3899923",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3899923,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Broke Brewer",
+                    "url": "https://genius.com/artists/Broke-brewer"
+                },
+                {
+                    "api_path": "/artists/28895",
+                    "header_image_url": "https://images.genius.com/5e64a73368693014b10ad1573dc3dc5c.232x232x1.jpg",
+                    "id": 28895,
+                    "image_url": "https://images.genius.com/5e64a73368693014b10ad1573dc3dc5c.232x232x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "George Young",
+                    "url": "https://genius.com/artists/George-young"
+                },
+                {
+                    "api_path": "/artists/1019751",
+                    "header_image_url": "https://images.genius.com/9d27a583c2e0efb2b0b16da92f2e5fe6.960x958x1.png",
+                    "id": 1019751,
+                    "image_url": "https://images.genius.com/9d27a583c2e0efb2b0b16da92f2e5fe6.960x958x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Camille Grigsby",
+                    "url": "https://genius.com/artists/Camille-grigsby"
+                },
+                {
+                    "api_path": "/artists/1056315",
+                    "header_image_url": "https://images.genius.com/cee8963175884ad9b6d26c5cf25eac5f.683x683x1.jpg",
+                    "id": 1056315,
+                    "image_url": "https://images.genius.com/f3662a0bc26d3ca512c781a35cc3d5db.575x575x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dwanna Orange",
+                    "url": "https://genius.com/artists/Dwanna-orange"
+                },
+                {
+                    "api_path": "/artists/2021672",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2021672,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LaMarcus Eldridge",
+                    "url": "https://genius.com/artists/Lamarcus-eldridge"
+                },
+                {
+                    "api_path": "/artists/1019756",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1019756,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mabvuto Carpenter",
+                    "url": "https://genius.com/artists/Mabvuto-carpenter"
+                },
+                {
+                    "api_path": "/artists/2027928",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2027928,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Princess Fortier",
+                    "url": "https://genius.com/artists/Princess-fortier"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/19600",
+                    "header_image_url": "https://images.genius.com/2ea8de375c68eafabc9fec8fc4d0b462.1000x1000x1.jpg",
+                    "id": 19600,
+                    "image_url": "https://images.genius.com/d1cb3ef39d7927b4d26183705f99064f.985x985x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Gary Clark Jr.",
+                    "url": "https://genius.com/artists/Gary-clark-jr"
+                },
+                {
+                    "api_path": "/artists/2136204",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2136204,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rod Castro",
+                    "url": "https://genius.com/artists/Rod-castro"
+                },
+                {
+                    "api_path": "/artists/3591090",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3591090,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nate Ferraro",
+                    "url": "https://genius.com/artists/Nate-ferraro"
+                },
+                {
+                    "api_path": "/artists/2455358",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2455358,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Simon M\u00e5rtensson",
+                    "url": "https://genius.com/artists/Simon-martensson"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1826267",
+                    "header_image_url": "https://images.genius.com/877e54ecb8e4ed6495103f10f6d3ddf5.378x378x1.jpg",
+                    "id": 1826267,
+                    "image_url": "https://images.genius.com/877e54ecb8e4ed6495103f10f6d3ddf5.378x378x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dani Pampuri",
+                    "url": "https://genius.com/artists/Dani-pampuri"
+                },
+                {
+                    "api_path": "/artists/3219321",
+                    "header_image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "id": 3219321,
+                    "image_url": "https://images.genius.com/2754d86c52720b9e254515727c2019a8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Matheus Braz",
+                    "url": "https://genius.com/artists/Matheus-braz"
+                },
+                {
+                    "api_path": "/artists/333940",
+                    "header_image_url": "https://images.genius.com/71d15a3f08be550c14133167aed328b6.611x1000x1.jpg",
+                    "id": 333940,
+                    "image_url": "https://images.genius.com/4bf43f4fbdd74b7ec57ffb0974459bf4.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cam",
+                    "url": "https://genius.com/artists/Cam"
+                },
+                {
+                    "api_path": "/artists/1180585",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1180585,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nick Lobel",
+                    "url": "https://genius.com/artists/Nick-lobel"
+                },
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                },
+                {
+                    "api_path": "/artists/4177532",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4177532,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kyle Huffman",
+                    "url": "https://genius.com/artists/Kyle-huffman"
+                }
+            ]
+        },
+        {
+            "label": "Strings",
+            "artists": [
+                {
+                    "api_path": "/artists/1141505",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1141505,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephanie Yu",
+                    "url": "https://genius.com/artists/Stephanie-yu"
+                },
+                {
+                    "api_path": "/artists/661324",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661324,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Adrienne Woods",
+                    "url": "https://genius.com/artists/Adrienne-woods"
+                },
+                {
+                    "api_path": "/artists/3487117",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3487117,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Chelsea Gwizdala",
+                    "url": "https://genius.com/artists/Chelsea-gwizdala"
+                },
+                {
+                    "api_path": "/artists/1807382",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1807382,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rhea Hosanny",
+                    "url": "https://genius.com/artists/Rhea-hosanny"
+                },
+                {
+                    "api_path": "/artists/1890094",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1890094,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephanie Matthews",
+                    "url": "https://genius.com/artists/Stephanie-matthews"
+                },
+                {
+                    "api_path": "/artists/1195748",
+                    "header_image_url": "https://images.genius.com/2a0cc31d771356b1ce2a719edd9533be.533x533x1.webp",
+                    "id": 1195748,
+                    "image_url": "https://images.genius.com/2a0cc31d771356b1ce2a719edd9533be.533x533x1.webp",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Marta Honer",
+                    "url": "https://genius.com/artists/Marta-honer"
+                },
+                {
+                    "api_path": "/artists/661276",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 661276,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Crystal Alforque",
+                    "url": "https://genius.com/artists/Crystal-alforque"
+                },
+                {
+                    "api_path": "/artists/684869",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 684869,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bianca McClure",
+                    "url": "https://genius.com/artists/Bianca-mcclure"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/498",
+                    "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+                    "id": 498,
+                    "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Beyonc\u00e9",
+                    "url": "https://genius.com/artists/Beyonce"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/661269",
+                    "header_image_url": "https://images.genius.com/08825a5ce554536bbb4a60b0092eedd9.1000x563x1.jpg",
+                    "id": 661269,
+                    "image_url": "https://images.genius.com/ca6fcf05ab723627c36b0a710f361caa.720x720x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stuart White",
+                    "url": "https://genius.com/artists/Stuart-white"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1039832",
+                    "header_image_url": "https://images.genius.com/6c7a1ca7f42a6bd89c4dc2753b833b85.1000x355x1.png",
+                    "id": 1039832,
+                    "image_url": "https://images.genius.com/af48fb2902918ff6d8f9702c7f77b5c6.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Parkwood Entertainment",
+                    "url": "https://genius.com/artists/Parkwood-entertainment"
+                },
+                {
+                    "api_path": "/artists/30372",
+                    "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+                    "id": 30372,
+                    "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Columbia Records",
+                    "url": "https://genius.com/artists/Columbia-records",
+                    "iq": 129
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15008177,
+        "annotator_login": "TASNPROT",
+        "api_path": "/referents/31268661",
+        "classification": "accepted",
+        "fragment": "DAUGHTER",
+        "id": 31268661,
+        "is_description": true,
+        "path": "/31268661/Beyonce-daughter/Daughter",
+        "range": {
+            "content": "DAUGHTER"
+        },
+        "song_id": 10212111,
+        "url": "https://genius.com/31268661/Beyonce-daughter/Daughter",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10212111",
+            "client_timestamps": {
+                "updated_by_human_at": 1745867960,
+                "lyrics_updated_at": 1738677749
+            },
+            "context": "Beyonc\u00e9",
+            "id": 10212111,
+            "image_url": "https://images.genius.com/5cbb880f8dbcfac9a31bf74313899cb8.1000x1000x1.png",
+            "link_title": "DAUGHTER by\u00a0Beyonc\u00e9",
+            "title": "DAUGHTER",
+            "type": "Song",
+            "url": "https://genius.com/Beyonce-daughter-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31268661",
+                "body": {
+                    "plain": "\u201cDAUGHTER\u201d finds Beyonc\u00e9\u2019s character struggling with violent thoughts in the face of infidelity, which cause her to recognize qualities of her father in her thinking. She more fully embodies the roles of protector assumed in previous tracks as she acts on threats against a woman who has eyes for her partner. Throughout, she warns that she is not harmless and can become like her father\u2013she is his daughter, after all.\n\nThe song features Beyonc\u00e9 singing an Italian opera song called \u201cCaro Mio Ben\u201d \u2013included because it narrates about the loneliness felt by the absence of his loved one, and the cruelty he inflicts on her."
+                },
+                "comment_count": 4,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31268661,
+                "pinned": false,
+                "share_url": "https://genius.com/31268661",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/31268661/Beyonce-daughter/Daughter",
+                "verified": false,
+                "votes_total": 71,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 0.37735849056603776,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/14763594",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/1195csjgysck",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/pf5348d6weg",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 14763594,
+                            "iq": 778,
+                            "login": "cjvallezg",
+                            "name": "cjvallezg",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/cjvallezg",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.3679245283018868,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1196720",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/70e293011f95638f25ac10d49e8abf75",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/70e293011f95638f25ac10d49e8abf75",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/70e293011f95638f25ac10d49e8abf75",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/70e293011f95638f25ac10d49e8abf75",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/6QQJpbdyQZainPUP7JDR_a%20momentus%20and%20glorious%20occasion%20for%20greiving.jpg",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 1196720,
+                            "iq": 20211,
+                            "login": "theyearwas2017",
+                            "name": "theyearwas2017",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/theyearwas2017",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "attribution": 0.25471698113207547,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15008177",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/4dc89263fdc83c4ba087832b47183c98",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/4dc89263fdc83c4ba087832b47183c98",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 15008177,
+                            "iq": 2445,
+                            "login": "TASNPROT",
+                            "name": "TASNPROT",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/TASNPROT",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/1784922",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/375de9408ff3ef59c842e5e7c6b833e1",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/7zhzqhlwtmx",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 1784922,
+        "iq": 11035,
+        "login": "drukqlord",
+        "name": "drukqlord",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/drukqlord",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "beyonce",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/beyonce/beyonce-daughter"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=cjeC0zNqigo"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/333940",
+            "header_image_url": "https://images.genius.com/71d15a3f08be550c14133167aed328b6.611x1000x1.jpg",
+            "id": 333940,
+            "image_url": "https://images.genius.com/4bf43f4fbdd74b7ec57ffb0974459bf4.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cam",
+            "url": "https://genius.com/artists/Cam"
+        },
+        {
+            "api_path": "/artists/2455358",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2455358,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Simon M\u00e5rtensson",
+            "url": "https://genius.com/artists/Simon-martensson"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/2227280",
+                    "artist_names": "Cecilia Bartoli & Gy\u00f6rgy Fischer",
+                    "full_title": "Caro mio ben by\u00a0Cecilia\u00a0Bartoli & Gy\u00f6rgy\u00a0Fischer",
+                    "header_image_thumbnail_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                    "id": 2227280,
+                    "lyrics_owner_id": 1549345,
+                    "lyrics_state": "complete",
+                    "path": "/Cecilia-bartoli-and-gyorgy-fischer-caro-mio-ben-lyrics",
+                    "primary_artist_names": "Cecilia Bartoli & Gy\u00f6rgy Fischer",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cecilia-bartoli-and-gyorgy-fischer-caro-mio-ben-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Caro mio ben",
+                    "title_with_featured": "Caro mio ben",
+                    "url": "https://genius.com/Cecilia-bartoli-and-gyorgy-fischer-caro-mio-ben-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/405335",
+                        "header_image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                        "id": 405335,
+                        "image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cecilia Bartoli",
+                        "url": "https://genius.com/artists/Cecilia-bartoli"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/405335",
+                            "header_image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                            "id": 405335,
+                            "image_url": "https://images.genius.com/f9c576495d634a9ac8e2a5646d86b8b3.396x396x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cecilia Bartoli",
+                            "url": "https://genius.com/artists/Cecilia-bartoli"
+                        },
+                        {
+                            "api_path": "/artists/4267929",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 4267929,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Gy\u00f6rgy Fischer",
+                            "url": "https://genius.com/artists/Gyorgy-fischer"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11795753",
+                    "artist_names": "\u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 (Pyotr Ilyich Tchaikovsky)",
+                    "full_title": "Violin Concerto in D Minor by\u00a0\u041f\u0451\u0442\u0440\u00a0\u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 (Pyotr Ilyich Tchaikovsky)",
+                    "header_image_thumbnail_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.300x385x1.jpg",
+                    "header_image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                    "id": 11795753,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Pyotr-ilyich-tchaikovsky-violin-concerto-in-d-minor-lyrics",
+                    "primary_artist_names": "\u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 (Pyotr Ilyich Tchaikovsky)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Pyotr-ilyich-tchaikovsky-violin-concerto-in-d-minor-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.300x385x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Violin Concerto in D Minor",
+                    "title_with_featured": "Violin Concerto in D Minor",
+                    "url": "https://genius.com/Pyotr-ilyich-tchaikovsky-violin-concerto-in-d-minor-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/452969",
+                        "header_image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                        "id": 452969,
+                        "image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 (Pyotr Ilyich Tchaikovsky)",
+                        "url": "https://genius.com/artists/Pyotr-ilyich-tchaikovsky"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/452969",
+                            "header_image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                            "id": 452969,
+                            "image_url": "https://images.genius.com/8ed5d41014044efcc00821a3ed485275.779x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439 (Pyotr Ilyich Tchaikovsky)",
+                            "url": "https://genius.com/artists/Pyotr-ilyich-tchaikovsky"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11795759",
+                    "artist_names": "Joseph Bologne Chevalier de Saint-Georges",
+                    "full_title": "Violin Concerto in D Major, Op. 3 No. 1: II. Adagio by\u00a0Joseph\u00a0Bologne Chevalier de Saint-Georges",
+                    "header_image_thumbnail_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                    "id": 11795759,
+                    "lyrics_owner_id": 8280771,
+                    "lyrics_state": "complete",
+                    "path": "/Joseph-bologne-chevalier-de-saint-georges-violin-concerto-in-d-major-op-3-no-1-ii-adagio-lyrics",
+                    "primary_artist_names": "Joseph Bologne Chevalier de Saint-Georges",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Joseph-bologne-chevalier-de-saint-georges-violin-concerto-in-d-major-op-3-no-1-ii-adagio-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Violin Concerto in D Major, Op. 3 No. 1: II. Adagio",
+                    "title_with_featured": "Violin Concerto in D Major, Op. 3 No. 1: II. Adagio",
+                    "url": "https://genius.com/Joseph-bologne-chevalier-de-saint-georges-violin-concerto-in-d-major-op-3-no-1-ii-adagio-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1695989",
+                        "header_image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                        "id": 1695989,
+                        "image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Joseph Bologne Chevalier de Saint-Georges",
+                        "url": "https://genius.com/artists/Joseph-bologne-chevalier-de-saint-georges"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1695989",
+                            "header_image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                            "id": 1695989,
+                            "image_url": "https://images.genius.com/14077f67916db00aefe254a8c414d608.396x396x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Joseph Bologne Chevalier de Saint-Georges",
+                            "url": "https://genius.com/artists/Joseph-bologne-chevalier-de-saint-georges"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Beyonce-daughter-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10290048",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Beyonc\u00e9 - DAUGHTER (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "id": 10290048,
+                    "lyrics_owner_id": 1025804,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-beyonce-daughter-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-daughter-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/fbb03b647f0c2b35e4e563131403c9e6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - DAUGHTER (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Beyonc\u00e9 - DAUGHTER (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-daughter-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10260469",
+                    "artist_names": "Genius Nederlandse Vertalingen",
+                    "full_title": "Beyonc\u00e9 - DAUGHTER (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+                    "header_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "id": 10260469,
+                    "lyrics_owner_id": 8909468,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-nederlandse-vertalingen-beyonce-daughter-nederlandse-vertaling-lyrics",
+                    "primary_artist_names": "Genius Nederlandse Vertalingen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-daughter-nederlandse-vertaling-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/6c1a1596bc9df0ccbcf4b71c8a829449.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - DAUGHTER (Nederlandse Vertaling)",
+                    "title_with_featured": "Beyonc\u00e9 - DAUGHTER (Nederlandse Vertaling)",
+                    "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-daughter-nederlandse-vertaling-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1805866",
+                        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                        "id": 1805866,
+                        "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Nederlandse Vertalingen",
+                        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1805866",
+                            "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+                            "id": 1805866,
+                            "image_url": "https://images.genius.com/1702c5af985b610509b5c1a0b5d78371.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Nederlandse Vertalingen",
+                            "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10240953",
+                    "artist_names": "Genius Terjemahan Indonesia",
+                    "full_title": "Beyonc\u00e9 - DAUGHTER (Terjemahan Indonesia) by\u00a0Genius\u00a0Terjemahan Indonesia",
+                    "header_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "id": 10240953,
+                    "lyrics_owner_id": 5141056,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-terjemahan-indonesia-beyonce-daughter-terjemahan-indonesia-lyrics",
+                    "primary_artist_names": "Genius Terjemahan Indonesia",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-daughter-terjemahan-indonesia-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c725b64fc631b4c231e6c7ec281dee05.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - DAUGHTER (Terjemahan Indonesia)",
+                    "title_with_featured": "Beyonc\u00e9 - DAUGHTER (Terjemahan Indonesia)",
+                    "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-daughter-terjemahan-indonesia-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2016225",
+                        "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "id": 2016225,
+                        "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Terjemahan Indonesia",
+                        "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2016225",
+                            "header_image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "id": 2016225,
+                            "image_url": "https://images.genius.com/d15e031540bd1e47580b661f0db6b2f2.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Terjemahan Indonesia",
+                            "url": "https://genius.com/artists/Genius-terjemahan-indonesia"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10219897",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Beyonc\u00e9 - DAUGHTER (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "id": 10219897,
+                    "lyrics_owner_id": 14506753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-beyonce-daughter-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-beyonce-daughter-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 29
+                    },
+                    "release_date_for_display": "March 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/16569666f309fd94e7281e2542979961.780x780x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Beyonc\u00e9 - DAUGHTER (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Beyonc\u00e9 - DAUGHTER (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-beyonce-daughter-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10290048",
+            "id": 10290048,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-beyonce-daughter-polskie-tumaczenie-lyrics",
+            "title": "Beyonc\u00e9 - DAUGHTER (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-beyonce-daughter-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10260469",
+            "id": 10260469,
+            "language": "nl",
+            "lyrics_state": "complete",
+            "path": "/Genius-nederlandse-vertalingen-beyonce-daughter-nederlandse-vertaling-lyrics",
+            "title": "Beyonc\u00e9 - DAUGHTER (Nederlandse Vertaling)",
+            "url": "https://genius.com/Genius-nederlandse-vertalingen-beyonce-daughter-nederlandse-vertaling-lyrics"
+        },
+        {
+            "api_path": "/songs/10240953",
+            "id": 10240953,
+            "language": "id",
+            "lyrics_state": "complete",
+            "path": "/Genius-terjemahan-indonesia-beyonce-daughter-terjemahan-indonesia-lyrics",
+            "title": "Beyonc\u00e9 - DAUGHTER (Terjemahan Indonesia)",
+            "url": "https://genius.com/Genius-terjemahan-indonesia-beyonce-daughter-terjemahan-indonesia-lyrics"
+        },
+        {
+            "api_path": "/songs/10219897",
+            "id": 10219897,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-beyonce-daughter-traducao-em-portugues-lyrics",
+            "title": "Beyonc\u00e9 - DAUGHTER (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-beyonce-daughter-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10216985",
+            "id": 10216985,
+            "language": null,
+            "lyrics_state": "incomplete",
+            "path": "/Genius-russian-translations-beyonce-daughter-lyrics",
+            "title": "Beyonc\u00e9 - DAUGHTER (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-beyonce-daughter-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/498",
+            "header_image_url": "https://images.genius.com/b6f8f961f03f57321b4f5dadd80cdd8c.1000x333x1.png",
+            "id": 498,
+            "image_url": "https://images.genius.com/1b15800fd28a9371b1a512273d55a13d.681x681x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Beyonc\u00e9",
+            "url": "https://genius.com/artists/Beyonce"
+        },
+        {
+            "api_path": "/artists/2",
+            "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+            "id": 2,
+            "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "JAY-Z",
+            "url": "https://genius.com/artists/Jay-z",
+            "iq": 225
+        },
+        {
+            "api_path": "/artists/1181",
+            "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
+            "id": 1181,
+            "image_url": "https://images.genius.com/088f3bfabc3a8acfd99acbd86c03c993.520x520x1.png",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "The-Dream",
+            "url": "https://genius.com/artists/The-dream",
+            "iq": 14277
+        },
+        {
+            "api_path": "/artists/333940",
+            "header_image_url": "https://images.genius.com/71d15a3f08be550c14133167aed328b6.611x1000x1.jpg",
+            "id": 333940,
+            "image_url": "https://images.genius.com/4bf43f4fbdd74b7ec57ffb0974459bf4.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Cam",
+            "url": "https://genius.com/artists/Cam"
+        },
+        {
+            "api_path": "/artists/2455358",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 2455358,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Simon M\u00e5rtensson",
+            "url": "https://genius.com/artists/Simon-martensson"
+        },
+        {
+            "api_path": "/artists/661292",
+            "header_image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+            "id": 661292,
+            "image_url": "https://images.genius.com/55c9682bdbc3e4fbf424c49888707b24.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Derek Dixie",
+            "url": "https://genius.com/artists/Derek-dixie"
+        }
+    ],
+    "artist": "Beyonc\u00e9",
+    "lyrics": "82 ContributorsTranslationsPolskiNederlandsBahasa IndonesiaPortugu\u00easBeyonc\u00e9 - DAUGHTER (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)DAUGHTER Lyrics\u201cDAUGHTER\u201d finds Beyonc\u00e9\u2019s character struggling with violent thoughts in the face of infidelity, which cause her to recognize qualities of her father in her thinking. She more fully embodies the roles of\u2026 Read More\u00a0\nYour body laid out on these filthy floors\nYour bloodstains on my custom coutures\nBathroom attendant let me right in\nShe was a big fan\nI really tried to stay cool\nBut your arrogance disturbed my solitude\nNow I ripped your dress and you're all black and blue\nLook what you made me do\nThey keep sayin' that I ain't nothin' like my father\nBut I'm the furthest thing from choir boys and altars\nIf you cross me, I'm just like my father\nI am colder than Titanic water\n\nHelp me, Lord, from these fantasies in my head\nThey ain't ever been safe ones\nI don't fellowship with these fak\u0435 ones\nSo let's travel to whit\u0435 chapels and sing hymns\nHold rosaries, and sing in stained glass symphonies\nCleanse me, Holy Trinity\nFrom this marijuana smoke smell in my hair\n\nI sashayed my dress\nDid my best impression of a damsel in distress\nThis alcohol and smell of regret\nAllured my catch\nOutfit too small to hide my scars\nFeelin' bottled up like bottle service broads\nHow long can he hold his breath before his death?\n\nCaro mio ben\nCredimi almen\nSenza di te\nLanguisce il cor\nIl tuo fedel\nSospira ognor\nCessa, crudel\nTanto rigor\nOoh, ooh\n\nHelp me, Lord, from these fantasies in my head\nThey ain't ever been safe ones\nI don't fellowship with these fake ones\nSo let's travel to white chapels and sing hymns\nHold rosaries, sing in stained glass symphonies\nCleanse me, Holy Trinity\nFrom this marijuana smoke smell in my hair\n\nSay I'm nothin' like my father\nBut I'm the furthest thing from choir boys and altars\nDouble cross me, I'm just like my father\nI am colder than Titanic water"
+}

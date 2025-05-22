@@ -1,0 +1,868 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/9735986",
+    "artist_names": "Justin Moore",
+    "full_title": "This Is My Dirt by\u00a0Justin\u00a0Moore",
+    "header_image_thumbnail_url": "https://images.genius.com/dd660985e50bb1fceecb925f709b3d4c.300x300x1.png",
+    "header_image_url": "https://images.genius.com/dd660985e50bb1fceecb925f709b3d4c.1000x1000x1.png",
+    "id": 9735986,
+    "instrumental": false,
+    "lyrics_owner_id": 548516,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1728001310,
+    "path": "/Justin-moore-this-is-my-dirt-lyrics",
+    "primary_artist_names": "Justin Moore",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Justin-moore-this-is-my-dirt-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 11,
+        "day": 17
+    },
+    "release_date_for_display": "November 17, 2023",
+    "release_date_with_abbreviated_month_for_display": "Nov. 17, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/dd660985e50bb1fceecb925f709b3d4c.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/dd660985e50bb1fceecb925f709b3d4c.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 10,
+        "iq_earners": 10,
+        "transcribers": 4,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 5675
+    },
+    "title": "This Is My Dirt",
+    "title_with_featured": "This Is My Dirt",
+    "updated_by_human_at": 1745759589,
+    "url": "https://genius.com/Justin-moore-this-is-my-dirt-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/167063",
+        "header_image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+        "id": 167063,
+        "image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Justin Moore",
+        "url": "https://genius.com/artists/Justin-moore"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/167063",
+            "header_image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+            "id": 167063,
+            "image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Justin Moore",
+            "url": "https://genius.com/artists/Justin-moore"
+        }
+    ],
+    "apple_music_id": "1714735328",
+    "apple_music_player_url": "https://genius.com/songs/9735986/apple_music_player",
+    "description": {
+        "plain": "\u201cThis Is My Dirt\u201d is a raw and tender perspective on tradition, life, and family in America. The countryside, so often idealized in American culture, is often gobbled up by greedy developers for projects. Thus, they pave over years of family history just for a few damn dollars! Mr. Moore pays homage to these families in this song, praising them for their commitment to heritage. A fantastic song for Hispanic Heritage Month."
+    },
+    "embed_content": "<div id='rg_embed_link_9735986' class='rg_embed_link' data-song-id='9735986'>Read <a href='https://genius.com/Justin-moore-this-is-my-dirt-lyrics'>\u201cThis Is My Dirt\u201d by Justin\u00a0Moore</a> on Genius</div> <script crossorigin src='//genius.com/songs/9735986/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2023-11-17",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#c89748",
+    "song_art_secondary_color": "#ecd49c",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1190916",
+        "cover_art_url": "https://images.genius.com/b4a1886b913dc3a4600648f01c4cbdda.1000x1000x1.png",
+        "full_title": "Soundtrack To Summer 2024 by Big Machine Records",
+        "id": 1190916,
+        "name": "Soundtrack To Summer 2024",
+        "primary_artist_names": "Big Machine Records",
+        "release_date_for_display": "May 24, 2024",
+        "url": "https://genius.com/albums/Big-machine-records/Soundtrack-to-summer-2024",
+        "artist": {
+            "api_path": "/artists/1049237",
+            "header_image_url": "https://images.genius.com/8caf7da2eefa71eb45901c8382405c25.592x267x1.jpg",
+            "id": 1049237,
+            "image_url": "https://images.genius.com/6e092f0a564e981e179633b70f45e493.644x644x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Big Machine Records",
+            "url": "https://genius.com/artists/Big-machine-records"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1049237",
+                "header_image_url": "https://images.genius.com/8caf7da2eefa71eb45901c8382405c25.592x267x1.jpg",
+                "id": 1049237,
+                "image_url": "https://images.genius.com/6e092f0a564e981e179633b70f45e493.644x644x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Big Machine Records",
+                "url": "https://genius.com/artists/Big-machine-records"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Steel Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1972556",
+                    "header_image_url": "https://images.genius.com/739f4a98766a4fcd052fede0277da7d6.399x399x1.jpg",
+                    "id": 1972556,
+                    "image_url": "https://images.genius.com/739f4a98766a4fcd052fede0277da7d6.399x399x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike Johnson",
+                    "url": "https://genius.com/artists/Mike-johnson"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1977262",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1977262,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Zach Kuhlman",
+                    "url": "https://genius.com/artists/Zach-kuhlman"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1800229",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1800229,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Kyle Saetveit",
+                    "url": "https://genius.com/artists/Jason-kyle-saetveit"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1800229",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1800229,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Kyle Saetveit",
+                    "url": "https://genius.com/artists/Jason-kyle-saetveit"
+                },
+                {
+                    "api_path": "/artists/635599",
+                    "header_image_url": "https://images.genius.com/cbae9908f37f8c299319871b5a1553d5.263x263x1.jpg",
+                    "id": 635599,
+                    "image_url": "https://images.genius.com/cbae9908f37f8c299319871b5a1553d5.263x263x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Julian King",
+                    "url": "https://genius.com/artists/Julian-king"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                }
+            ]
+        },
+        {
+            "label": "Mandolin",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Baritone Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/643793",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 643793,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jason Campbell",
+                    "url": "https://genius.com/artists/Jason-campbell"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/638693",
+                    "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "id": 638693,
+                    "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ted Jensen",
+                    "url": "https://genius.com/artists/Ted-jensen"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3747921",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3747921,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Stephan LaPlante",
+                    "url": "https://genius.com/artists/Stephan-laplante"
+                },
+                {
+                    "api_path": "/artists/3747922",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3747922,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Roger Coleman",
+                    "url": "https://genius.com/artists/Roger-coleman"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/680314",
+                    "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "id": 680314,
+                    "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul DiGiovanni",
+                    "url": "https://genius.com/artists/Paul-digiovanni"
+                }
+            ]
+        },
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/3747920",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3747920,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tucker Wilson",
+                    "url": "https://genius.com/artists/Tucker-wilson"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1860888",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1860888,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Wil Houchens",
+                    "url": "https://genius.com/artists/Wil-houchens"
+                }
+            ]
+        },
+        {
+            "label": "Bass Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3747919",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3747919,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Dave Dubas",
+                    "url": "https://genius.com/artists/Dave-dubas"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22377819,
+        "annotator_login": "HayZCoinPouch",
+        "api_path": "/referents/30081785",
+        "classification": "unreviewed",
+        "fragment": "This Is My Dirt",
+        "id": 30081785,
+        "is_description": true,
+        "path": "/30081785/Justin-moore-this-is-my-dirt/This-is-my-dirt",
+        "range": {
+            "content": "This Is My Dirt"
+        },
+        "song_id": 9735986,
+        "url": "https://genius.com/30081785/Justin-moore-this-is-my-dirt/This-is-my-dirt",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9735986",
+            "client_timestamps": {
+                "updated_by_human_at": 1745759589,
+                "lyrics_updated_at": 1728001310
+            },
+            "context": "Justin Moore",
+            "id": 9735986,
+            "image_url": "https://images.genius.com/dd660985e50bb1fceecb925f709b3d4c.1000x1000x1.png",
+            "link_title": "This Is My Dirt by\u00a0Justin\u00a0Moore",
+            "title": "This Is My Dirt",
+            "type": "Song",
+            "url": "https://genius.com/Justin-moore-this-is-my-dirt-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30081785",
+                "body": {
+                    "plain": "\u201cThis Is My Dirt\u201d is a raw and tender perspective on tradition, life, and family in America. The countryside, so often idealized in American culture, is often gobbled up by greedy developers for projects. Thus, they pave over years of family history just for a few damn dollars! Mr. Moore pays homage to these families in this song, praising them for their commitment to heritage. A fantastic song for Hispanic Heritage Month."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30081785,
+                "pinned": false,
+                "share_url": "https://genius.com/30081785",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/30081785/Justin-moore-this-is-my-dirt/This-is-my-dirt",
+                "verified": false,
+                "votes_total": 1,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22377819",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/faa4d580114e06ad3f31a25cacca425e",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/faa4d580114e06ad3f31a25cacca425e",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/faa4d580114e06ad3f31a25cacca425e",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/faa4d580114e06ad3f31a25cacca425e",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/faa4d580114e06ad3f31a25cacca425e",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 22377819,
+                            "iq": 672,
+                            "login": "HayZCoinPouch",
+                            "name": "HayZCoinPouch",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/HayZCoinPouch",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/548516",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/021199cbecb8e3aadbe35d843a8ccf3e",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/ulp8mogjalg",
+        "human_readable_role_for_display": "Staff",
+        "id": 548516,
+        "iq": 301692,
+        "login": "NoBap",
+        "name": "NoBap",
+        "role_for_display": "staff",
+        "url": "https://genius.com/NoBap",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=qjY7WvD-HKM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/412328",
+            "header_image_url": "https://images.genius.com/26018b7eb012067916bbb6ff0f9667f0.320x320x1.jpg",
+            "id": 412328,
+            "image_url": "https://images.genius.com/26018b7eb012067916bbb6ff0f9667f0.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jeremy Stover",
+            "url": "https://genius.com/artists/Jeremy-stover"
+        },
+        {
+            "api_path": "/artists/661895",
+            "header_image_url": "https://images.genius.com/2a90c8da7869a018112a058332b415a3.1000x500x1.jpg",
+            "id": 661895,
+            "image_url": "https://images.genius.com/b6ebd8c360733150db66e12ca473aaa8.433x433x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Scott Borchetta",
+            "url": "https://genius.com/artists/Scott-borchetta"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10905053",
+                    "artist_names": "Justin Moore",
+                    "full_title": "This Is My Dirt (Album Edit) by\u00a0Justin\u00a0Moore",
+                    "header_image_thumbnail_url": "https://images.genius.com/59b1c2f9eceef76638ea3a25a0db592e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/59b1c2f9eceef76638ea3a25a0db592e.1000x1000x1.png",
+                    "id": 10905053,
+                    "lyrics_owner_id": 93685,
+                    "lyrics_state": "complete",
+                    "path": "/Justin-moore-this-is-my-dirt-album-edit-lyrics",
+                    "primary_artist_names": "Justin Moore",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Justin-moore-this-is-my-dirt-album-edit-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 7,
+                        "day": 26
+                    },
+                    "release_date_for_display": "July 26, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 26, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/59b1c2f9eceef76638ea3a25a0db592e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/59b1c2f9eceef76638ea3a25a0db592e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "This Is My Dirt (Album Edit)",
+                    "title_with_featured": "This Is My Dirt (Album Edit)",
+                    "url": "https://genius.com/Justin-moore-this-is-my-dirt-album-edit-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/167063",
+                        "header_image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+                        "id": 167063,
+                        "image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Justin Moore",
+                        "url": "https://genius.com/artists/Justin-moore"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/167063",
+                            "header_image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+                            "id": 167063,
+                            "image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Justin Moore",
+                            "url": "https://genius.com/artists/Justin-moore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/167063",
+            "header_image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+            "id": 167063,
+            "image_url": "https://images.genius.com/0890ee1b7d486d26176ae3de642bfd7f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Justin Moore",
+            "url": "https://genius.com/artists/Justin-moore"
+        },
+        {
+            "api_path": "/artists/680314",
+            "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+            "id": 680314,
+            "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Paul DiGiovanni",
+            "url": "https://genius.com/artists/Paul-digiovanni"
+        },
+        {
+            "api_path": "/artists/374774",
+            "header_image_url": "https://images.genius.com/96b8eedc46e54fd92bce725657568d64.1000x213x1.jpg",
+            "id": 374774,
+            "image_url": "https://images.genius.com/995cb2a3e54a238d8def213969ce30f1.853x853x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Randy Montana",
+            "url": "https://genius.com/artists/Randy-montana"
+        },
+        {
+            "api_path": "/artists/412328",
+            "header_image_url": "https://images.genius.com/26018b7eb012067916bbb6ff0f9667f0.320x320x1.jpg",
+            "id": 412328,
+            "image_url": "https://images.genius.com/26018b7eb012067916bbb6ff0f9667f0.320x320x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jeremy Stover",
+            "url": "https://genius.com/artists/Jeremy-stover"
+        }
+    ],
+    "artist": "Justin Moore",
+    "lyrics": "10 ContributorsThis Is My Dirt Lyrics\nHe had hard work caked on his overalls\nSweat on his neck, chaw in his jaw\nWhen a stranger pulled up and met him outside his barn\nSaid, \"Sir, I don't know if you ever would\nBut I build houses and neighborhoods\nAnd I was wondering if you'd ever wanna sell your farm\"\nWith his old dog barking and running around\nHe paused for a second, spit on the ground\nThen kicked a little gravel, looked down and said\n\nThis is my dirt, these are my fields\nWhere I harvest what I plant\nThat little pond, I catch bluegill\nI built that barn with my two hands\nWhere I raised my babies, a piece of m\u0435\nNah, this ain't just a piece of land\nThe mon\u0435y'd be great, but I can't part ways with a life that works\nYou can't put a greenback dollar on what it's worth\nThis is my dirt\n\nGreat granddaddy bought it for a hundred an acre\nHe'd just got married when he signed the papers\nHim and his brothers framed that old farmhouse\nEvery fence post here we put in the ground\nRan the barbed wire and pulled the plow\nEvery last hay bale, we baled it\nYeah, I'd hate to be the first to sell it\n\nThis is my dirt, these are my fields\nWhere I harvest what I plant\nThat little pond, I catch bluegill\nI built that barn with my two hands\nWhere I raised my babies, a piece of me\nNah, this ain't just a piece of land\nThe money'd be great, but I can't part ways with a life that works\nYou can't put a greenback dollar on what it's worth\nThis is my dirt\n\nThis is where five generations have prayed for rain\nThey'll cover me in it when the good Lord calls my name\n\nThis is my dirt, these are my fields\nWhere I harvest what I plant\nThat little pond, I catch bluegill\nI built that barn with my two hands\nWhere I raised my babies, a piece of me\nNah, this ain't just a piece of land\nThe money'd be great, but I can't part ways with a life that works\nYou can't put a greenback dollar on what it's worth\nThis is my dirt\n\nYeah, this is my dirt\nYeah, this is my dirt\nWhere I harvest what I plant, this is my dirt\nWhere I raised my babies, this is my dirt"
+}

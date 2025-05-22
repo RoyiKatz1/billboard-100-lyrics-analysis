@@ -1,0 +1,989 @@
+{
+    "_type": "song",
+    "annotation_count": 13,
+    "api_path": "/songs/10106777",
+    "artist_names": "Cardi B",
+    "full_title": "Like What (Freestyle) by\u00a0Cardi\u00a0B",
+    "header_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+    "header_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+    "id": 10106777,
+    "instrumental": false,
+    "lyrics_owner_id": 498964,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1733501699,
+    "path": "/Cardi-b-like-what-freestyle-lyrics",
+    "primary_artist_names": "Cardi B",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Cardi-b-like-what-freestyle-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 3,
+        "day": 1
+    },
+    "release_date_for_display": "March 1, 2024",
+    "release_date_with_abbreviated_month_for_display": "Mar. 1, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 2,
+        "contributors": 51,
+        "iq_earners": 51,
+        "transcribers": 3,
+        "unreviewed_annotations": 11,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 149989
+    },
+    "title": "Like What (Freestyle)",
+    "title_with_featured": "Like What (Freestyle)",
+    "updated_by_human_at": 1733501699,
+    "url": "https://genius.com/Cardi-b-like-what-freestyle-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/621678",
+        "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+        "id": 621678,
+        "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Cardi B",
+        "url": "https://genius.com/artists/Cardi-b",
+        "iq": 1315
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/621678",
+            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+            "id": 621678,
+            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Cardi B",
+            "url": "https://genius.com/artists/Cardi-b",
+            "iq": 1315
+        }
+    ],
+    "apple_music_id": "1733762647",
+    "apple_music_player_url": "https://genius.com/songs/10106777/apple_music_player",
+    "description": {
+        "plain": "The renowned rapper and songwriter Cardi B has recently added \u201cLike What\u201d to her most recent album, CB2, as her most recent freestyle. A brilliant collaborative endeavor, the single was composed by Timbaland, Missy Elliott, and Cardi B. The song, which was produced by DJ SwanQo, Sean Island, OctaneThisThatGas, and Lateef the Truthspeaker, combines sounds and lyrics flawlessly to create a cadence that will have you grooving. Do not pass up the opportunity to listen to this Cardi B masterpiece, which will leave you wanting more."
+    },
+    "embed_content": "<div id='rg_embed_link_10106777' class='rg_embed_link' data-song-id='10106777'>Read <a href='https://genius.com/Cardi-b-like-what-freestyle-lyrics'>\u201cLike What (Freestyle)\u201d by Cardi\u00a0B</a> on Genius</div> <script crossorigin src='//genius.com/songs/10106777/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-03-01",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#da8b67",
+    "song_art_secondary_color": "#f0a880",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1227261",
+        "cover_art_url": "https://images.genius.com/c45844fef7ff492e158914020e6f8cef.1000x1000x1.png",
+        "full_title": "Like What (Freestyle) by Cardi B",
+        "id": 1227261,
+        "name": "Like What (Freestyle)",
+        "primary_artist_names": "Cardi B",
+        "release_date_for_display": "March 1, 2024",
+        "url": "https://genius.com/albums/Cardi-b/Like-what-freestyle",
+        "artist": {
+            "api_path": "/artists/621678",
+            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+            "id": 621678,
+            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Cardi B",
+            "url": "https://genius.com/artists/Cardi-b",
+            "iq": 1315
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/621678",
+                "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                "id": 621678,
+                "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Cardi B",
+                "url": "https://genius.com/artists/Cardi-b",
+                "iq": 1315
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Assistant Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2706094",
+                    "header_image_url": "https://images.genius.com/4a23fb0d85e6b1dc45200bc10f6ef66c.902x857x1.jpg",
+                    "id": 2706094,
+                    "image_url": "https://images.genius.com/6e223ece095f8e6803365ea59639b2fe.857x857x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "David Blanco",
+                    "url": "https://genius.com/artists/David-blanco",
+                    "iq": 179
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/88813",
+                    "header_image_url": "https://images.genius.com/95855b9d1e854a06980aaff71acac630.801x1000x1.jpg",
+                    "id": 88813,
+                    "image_url": "https://images.genius.com/266c8abf2c3323ab3a9ef1e7a75e41c1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Offset",
+                    "url": "https://genius.com/artists/Offset",
+                    "iq": 805
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1235540",
+                    "header_image_url": "https://images.genius.com/af08a66d9d630a8b1a209303066535c9.1000x333x1.jpg",
+                    "id": 1235540,
+                    "image_url": "https://images.genius.com/1d8ed0d427aa4ed0044f5f78ba12e2e2.278x278x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Evan LaRay",
+                    "url": "https://genius.com/artists/Evan-laray",
+                    "iq": 125
+                },
+                {
+                    "api_path": "/artists/2337868",
+                    "header_image_url": "https://images.genius.com/51176681dbb3aaaaac74c0bd2f271df8.828x828x1.jpg",
+                    "id": 2337868,
+                    "image_url": "https://images.genius.com/51176681dbb3aaaaac74c0bd2f271df8.828x828x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shareef Rupert",
+                    "url": "https://genius.com/artists/Shareef-rupert"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                },
+                {
+                    "api_path": "/artists/1036576",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1036576,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jenso \u201cJP\u201d Plymouth",
+                    "url": "https://genius.com/artists/Jenso-jp-plymouth"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                },
+                {
+                    "api_path": "/artists/1235540",
+                    "header_image_url": "https://images.genius.com/af08a66d9d630a8b1a209303066535c9.1000x333x1.jpg",
+                    "id": 1235540,
+                    "image_url": "https://images.genius.com/1d8ed0d427aa4ed0044f5f78ba12e2e2.278x278x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Evan LaRay",
+                    "url": "https://genius.com/artists/Evan-laray",
+                    "iq": 125
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 21628441,
+        "annotator_login": "Ritesh5555",
+        "api_path": "/referents/31006513",
+        "classification": "unreviewed",
+        "fragment": "Like What (Freestyle)",
+        "id": 31006513,
+        "is_description": true,
+        "path": "/31006513/Cardi-b-like-what-freestyle/Like-what-freestyle",
+        "range": {
+            "content": "Like What (Freestyle)"
+        },
+        "song_id": 10106777,
+        "url": "https://genius.com/31006513/Cardi-b-like-what-freestyle/Like-what-freestyle",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10106777",
+            "client_timestamps": {
+                "updated_by_human_at": 1733501699,
+                "lyrics_updated_at": 1733501699
+            },
+            "context": "Cardi B",
+            "id": 10106777,
+            "image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+            "link_title": "Like What (Freestyle) by\u00a0Cardi\u00a0B",
+            "title": "Like What (Freestyle)",
+            "type": "Song",
+            "url": "https://genius.com/Cardi-b-like-what-freestyle-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31006513",
+                "body": {
+                    "plain": "The renowned rapper and songwriter Cardi B has recently added \u201cLike What\u201d to her most recent album, CB2, as her most recent freestyle. A brilliant collaborative endeavor, the single was composed by Timbaland, Missy Elliott, and Cardi B. The song, which was produced by DJ SwanQo, Sean Island, OctaneThisThatGas, and Lateef the Truthspeaker, combines sounds and lyrics flawlessly to create a cadence that will have you grooving. Do not pass up the opportunity to listen to this Cardi B masterpiece, which will leave you wanting more."
+                },
+                "comment_count": 5,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31006513,
+                "pinned": false,
+                "share_url": "https://genius.com/31006513",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31006513/Cardi-b-like-what-freestyle/Like-what-freestyle",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/21628441",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/565137d0431a86c56dc5df7c2d1a7c2a",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/565137d0431a86c56dc5df7c2d1a7c2a",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/565137d0431a86c56dc5df7c2d1a7c2a",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/565137d0431a86c56dc5df7c2d1a7c2a",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/565137d0431a86c56dc5df7c2d1a7c2a",
+                            "human_readable_role_for_display": null,
+                            "id": 21628441,
+                            "iq": 121,
+                            "login": "Ritesh5555",
+                            "name": "Ritesh5555",
+                            "role_for_display": null,
+                            "url": "https://genius.com/Ritesh5555",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=GcNC7YnlhKc"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1096212",
+            "header_image_url": "https://images.genius.com/4b4cf028aeaeed2eba5a8c5727dd9c5b.225x300x1.jpg",
+            "id": 1096212,
+            "image_url": "https://images.genius.com/f6eef852719005e9604afa62e513bc37.343x343x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "DJ SwanQo",
+            "url": "https://genius.com/artists/Dj-swanqo"
+        },
+        {
+            "api_path": "/artists/1567354",
+            "header_image_url": "https://images.genius.com/db43352ab682b2ff2fafdbf5fc408807.1000x1000x1.jpg",
+            "id": 1567354,
+            "image_url": "https://images.genius.com/db43352ab682b2ff2fafdbf5fc408807.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Island",
+            "url": "https://genius.com/artists/Sean-island"
+        },
+        {
+            "api_path": "/artists/3829804",
+            "header_image_url": "https://images.genius.com/a456b20d4c3781b947d136679222e7ff.1000x1000x1.jpg",
+            "id": 3829804,
+            "image_url": "https://images.genius.com/a456b20d4c3781b947d136679222e7ff.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "OctaneThisThatGas",
+            "url": "https://genius.com/artists/Octanethisthatgas"
+        },
+        {
+            "api_path": "/artists/3821",
+            "header_image_url": "https://images.genius.com/c2a71073401616aa8ee6dbb7249549a5.1000x667x1.jpg",
+            "id": 3821,
+            "image_url": "https://images.genius.com/c2a71073401616aa8ee6dbb7249549a5.1000x667x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Lateef the Truthspeaker",
+            "url": "https://genius.com/artists/Lateef-the-truthspeaker",
+            "iq": 100
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/33167",
+                    "artist_names": "Missy Elliott",
+                    "full_title": "She's a Bitch by\u00a0Missy\u00a0Elliott",
+                    "header_image_thumbnail_url": "https://images.genius.com/e102afecc19cd50b876a82a39dd04f8c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e102afecc19cd50b876a82a39dd04f8c.1000x1000x1.jpg",
+                    "id": 33167,
+                    "lyrics_owner_id": 50,
+                    "lyrics_state": "complete",
+                    "path": "/Missy-elliott-shes-a-bitch-lyrics",
+                    "primary_artist_names": "Missy Elliott",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Missy-elliott-shes-a-bitch-sample",
+                    "release_date_components": {
+                        "year": 1999,
+                        "month": 4,
+                        "day": 20
+                    },
+                    "release_date_for_display": "April 20, 1999",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 20, 1999",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e102afecc19cd50b876a82a39dd04f8c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e102afecc19cd50b876a82a39dd04f8c.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false,
+                        "pageviews": 47726
+                    },
+                    "title": "She\u2019s a Bitch",
+                    "title_with_featured": "She's a Bitch",
+                    "url": "https://genius.com/Missy-elliott-shes-a-bitch-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1529",
+                        "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+                        "id": 1529,
+                        "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Missy Elliott",
+                        "url": "https://genius.com/artists/Missy-elliott"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1529",
+                            "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+                            "id": 1529,
+                            "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Missy Elliott",
+                            "url": "https://genius.com/artists/Missy-elliott"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10126458",
+                    "artist_names": "Cardi B",
+                    "full_title": "Like What (Freestyle) (Clean Edit) by\u00a0Cardi\u00a0B",
+                    "header_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+                    "id": 10126458,
+                    "lyrics_owner_id": 15616527,
+                    "lyrics_state": "complete",
+                    "path": "/Cardi-b-like-what-freestyle-clean-edit-lyrics",
+                    "primary_artist_names": "Cardi B",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cardi-b-like-what-freestyle-clean-edit-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 1
+                    },
+                    "release_date_for_display": "March 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Like What (Freestyle) (Clean Edit)",
+                    "title_with_featured": "Like What (Freestyle) (Clean Edit)",
+                    "url": "https://genius.com/Cardi-b-like-what-freestyle-clean-edit-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/621678",
+                        "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                        "id": 621678,
+                        "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Cardi B",
+                        "url": "https://genius.com/artists/Cardi-b",
+                        "iq": 1315
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/621678",
+                            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                            "id": 621678,
+                            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Cardi B",
+                            "url": "https://genius.com/artists/Cardi-b",
+                            "iq": 1315
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10115498",
+                    "artist_names": "Cardi B",
+                    "full_title": "Like What (Freestyle) (Instrumental) by\u00a0Cardi\u00a0B",
+                    "header_image_thumbnail_url": "https://images.genius.com/284206f126387324bec7882ceff923d2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/284206f126387324bec7882ceff923d2.1000x1000x1.png",
+                    "id": 10115498,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Cardi-b-like-what-freestyle-instrumental-lyrics",
+                    "primary_artist_names": "Cardi B",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cardi-b-like-what-freestyle-instrumental-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 1
+                    },
+                    "release_date_for_display": "March 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/284206f126387324bec7882ceff923d2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/284206f126387324bec7882ceff923d2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Like What (Freestyle) (Instrumental)",
+                    "title_with_featured": "Like What (Freestyle) (Instrumental)",
+                    "url": "https://genius.com/Cardi-b-like-what-freestyle-instrumental-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/621678",
+                        "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                        "id": 621678,
+                        "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Cardi B",
+                        "url": "https://genius.com/artists/Cardi-b",
+                        "iq": 1315
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/621678",
+                            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                            "id": 621678,
+                            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Cardi B",
+                            "url": "https://genius.com/artists/Cardi-b",
+                            "iq": 1315
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10126433",
+                    "artist_names": "Cardi B & sped up nightcore",
+                    "full_title": "Like What (Freestyle) [Sped Up] by\u00a0Cardi\u00a0B & sped\u00a0up nightcore",
+                    "header_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+                    "id": 10126433,
+                    "lyrics_owner_id": 15616527,
+                    "lyrics_state": "complete",
+                    "path": "/Cardi-b-and-sped-up-nightcore-like-what-freestyle-sped-up-lyrics",
+                    "primary_artist_names": "Cardi B & sped up nightcore",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cardi-b-and-sped-up-nightcore-like-what-freestyle-sped-up-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 28
+                    },
+                    "release_date_for_display": "February 28, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 28, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/4f5f7cf08aa77764c4761113a8ae2fc6.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Like What (Freestyle) [Sped Up]",
+                    "title_with_featured": "Like What (Freestyle) [Sped Up]",
+                    "url": "https://genius.com/Cardi-b-and-sped-up-nightcore-like-what-freestyle-sped-up-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/621678",
+                        "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                        "id": 621678,
+                        "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Cardi B",
+                        "url": "https://genius.com/artists/Cardi-b",
+                        "iq": 1315
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/621678",
+                            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                            "id": 621678,
+                            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Cardi B",
+                            "url": "https://genius.com/artists/Cardi-b",
+                            "iq": 1315
+                        },
+                        {
+                            "api_path": "/artists/3255256",
+                            "header_image_url": "https://images.genius.com/425ed88792cb8f22c3941f2f013d6341.640x640x1.jpg",
+                            "id": 3255256,
+                            "image_url": "https://images.genius.com/623f7728f36c440d643970a188e579ff.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "sped up nightcore",
+                            "url": "https://genius.com/artists/Sped-up-nightcore"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10123304",
+                    "artist_names": "Cardi B & sped up nightcore",
+                    "full_title": "Like What (Freestyle) (Slowed Down) by\u00a0Cardi\u00a0B & sped\u00a0up nightcore",
+                    "header_image_thumbnail_url": "https://images.genius.com/da23221e5e97c2d68ea75dce6aabea6c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/da23221e5e97c2d68ea75dce6aabea6c.1000x1000x1.png",
+                    "id": 10123304,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Cardi-b-and-sped-up-nightcore-like-what-freestyle-slowed-down-lyrics",
+                    "primary_artist_names": "Cardi B & sped up nightcore",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Cardi-b-and-sped-up-nightcore-like-what-freestyle-slowed-down-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 28
+                    },
+                    "release_date_for_display": "February 28, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 28, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/da23221e5e97c2d68ea75dce6aabea6c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/da23221e5e97c2d68ea75dce6aabea6c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Like What (Freestyle) (Slowed Down)",
+                    "title_with_featured": "Like What (Freestyle) (Slowed Down)",
+                    "url": "https://genius.com/Cardi-b-and-sped-up-nightcore-like-what-freestyle-slowed-down-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/621678",
+                        "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                        "id": 621678,
+                        "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Cardi B",
+                        "url": "https://genius.com/artists/Cardi-b",
+                        "iq": 1315
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/621678",
+                            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+                            "id": 621678,
+                            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Cardi B",
+                            "url": "https://genius.com/artists/Cardi-b",
+                            "iq": 1315
+                        },
+                        {
+                            "api_path": "/artists/3255256",
+                            "header_image_url": "https://images.genius.com/425ed88792cb8f22c3941f2f013d6341.640x640x1.jpg",
+                            "id": 3255256,
+                            "image_url": "https://images.genius.com/623f7728f36c440d643970a188e579ff.640x640x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "sped up nightcore",
+                            "url": "https://genius.com/artists/Sped-up-nightcore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/621678",
+            "header_image_url": "https://images.genius.com/92f5d8dd0cf0ebf4ebf1f37864873f34.1000x333x1.jpg",
+            "id": 621678,
+            "image_url": "https://images.genius.com/a87a0e7dab1b25af272f14319aa92c1e.400x400x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Cardi B",
+            "url": "https://genius.com/artists/Cardi-b",
+            "iq": 1315
+        },
+        {
+            "api_path": "/artists/124844",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 124844,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "James D. \u201cSted-Fast\u201d Hargrove",
+            "url": "https://genius.com/artists/James-d-sted-fast-hargrove"
+        },
+        {
+            "api_path": "/artists/1567354",
+            "header_image_url": "https://images.genius.com/db43352ab682b2ff2fafdbf5fc408807.1000x1000x1.jpg",
+            "id": 1567354,
+            "image_url": "https://images.genius.com/db43352ab682b2ff2fafdbf5fc408807.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sean Island",
+            "url": "https://genius.com/artists/Sean-island"
+        },
+        {
+            "api_path": "/artists/3861536",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3861536,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Saleem Allen",
+            "url": "https://genius.com/artists/Saleem-allen"
+        },
+        {
+            "api_path": "/artists/3861537",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3861537,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Omar Thorpe",
+            "url": "https://genius.com/artists/Omar-thorpe"
+        },
+        {
+            "api_path": "/artists/3696828",
+            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "id": 3696828,
+            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Javaan Anderson",
+            "url": "https://genius.com/artists/Javaan-anderson"
+        },
+        {
+            "api_path": "/artists/1529",
+            "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+            "id": 1529,
+            "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Missy Elliott",
+            "url": "https://genius.com/artists/Missy-elliott"
+        },
+        {
+            "api_path": "/artists/112",
+            "header_image_url": "https://images.genius.com/189848ddcf0e9a5309c6428d7c324df8.1000x667x1.jpg",
+            "id": 112,
+            "image_url": "https://images.genius.com/15d99dfd763acb7d87f01bc022d77900.563x563x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Timbaland",
+            "url": "https://genius.com/artists/Timbaland"
+        }
+    ],
+    "artist": "Cardi B",
+    "lyrics": "51 ContributorsLike What (Freestyle) Lyrics\nAyo, let me put some gas in this motherfuckin' year, bitch\nI ain't really talked my shit in a minute\nLike who the fuck these bitches really think they talkin' to?\nLike, bitch, is you fuckin' dumb?\n\nClassy and a cunt (And a cunt)\nBlocks and money gettin' spunt (Gettin' spunt)\nLike (Like), like what? (Like what?)\nLike a Coach bag, baby, this ain't what you want (Nah)\nIf I ask for it, all I wanna hear is, \"Yes\" (Yes)\nBitch said she wanna be my opp, God bless (God bless)\nLook, I ain't even got dressed\nAny L that I took, come after YS\nOh, man (Oh, man)\n\nBaby, here we go again (Here we go again)\nPussy real fat, probably got a double chin\nFirst, that bitch hate me, then this bitch hate me\nAnd somehow, they link up and they become friends, like, how?\nBitch, pipe down (Pipe down)\nMoodboard, all y'all imitatin' my style (Mm)\nBad bitch, red lips, let me show you\nWhite toes, eatin' yellowtail out of Nobu\nUh, keep a hater obsessed\nIn my comments, havin' a dick suckin' contest (Contest)\nI'm pressure, y'all pressed (Y'all pressed)\nY'all don't get addressed, y'all's gettin' outdressed, look (Okurrr)\nIt's a look when I'm hoppin' out the V (Uh-huh)\nRed wig hangin' down to my knees (Uh-huh)\nIt's your birthday, but they talking 'bout me ('Bout me)\nWhy you mad? Take a picture, say, \"Cheese\" (Say, \"Cheese\")\nYou dumb, you slow, you wildin' (Ah, you wildin')\nGot your first pair of Ricks, now you stylin'? (Ah, you stylin')\nEverything you got, I had five years before\nI put it on the 'Gram (Hahahaha) 'fore it even hit the store, look\n\nClassy and a cunt (And a cunt, uh-huh)\nBlocks and money gettin' spunt (Gettin' spunt)\nLike (Like), like what? (Like what?)\nLike a Coach bag, baby, this ain't what you want (Uh-huh)\nIf I ask for it, all I wanna hear is, \"Yes\" (Yes)\nBitch said she wanna be my opp, God bless (God bless)\nLook, I ain't even got dressed\nAny L that I took, come after YS\nOh, man (Ah)\n\nI know y'all bitches be horsin' (Horsin')\nLookin' this good is really exhaustin' (Exhaustin')\nDiamonds hit, Stone Cold Steve Austin (Brr)\nJust got my lasered pussy smooth like a dolphin (Agh)\nTop notch bitch get the most, not the lesser (Uh)\nBitches look big like third trimester (Yes)\nEvery time I pose, these bitches get stress-er\nY'all be puttin' on shit, I don't never\nBitches be hatin' on the low, I peep it\nIf I say anything mean, I mean it\nI ain't never lost no nigga I needed\nI'm rich, I ain't gettin' in no pool that's not heated (Nah)\nBig ass yacht and I'm havin' sex on it\nHer life so trash, think I put a hex on it\nBitches be laughin', like, ho, what's funny?\nYou braggin' on a nigga that be dyin' to fuck me (Fuck me)\n\nClassy and a cunt (And a cunt, uh-huh)\nBlocks and money gettin' spunt (Gettin' spunt)\nLike (Like), like what? (Like what?)\nLike a Coach bag, baby, this ain't what you want (Uh-huh)\nIf I ask for it, all I wanna hear is, \"Yes\" (Yes)\nBitch said she wanna be my opp, God bless (God bless)\nLook, I ain't even got dressed\nAny L that I took, come after YS\nOh, man"
+}

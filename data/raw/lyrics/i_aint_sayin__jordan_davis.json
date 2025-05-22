@@ -1,0 +1,736 @@
+{
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/10665634",
+    "artist_names": "Jordan Davis",
+    "full_title": "I Ain\u2019t Sayin\u2019 by\u00a0Jordan\u00a0Davis",
+    "header_image_thumbnail_url": "https://images.genius.com/b0c3c0ea0facfdf8459d9b51dfbba5f2.300x300x1.png",
+    "header_image_url": "https://images.genius.com/b0c3c0ea0facfdf8459d9b51dfbba5f2.1000x1000x1.png",
+    "id": 10665634,
+    "instrumental": false,
+    "lyrics_owner_id": 15291991,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1740727289,
+    "path": "/Jordan-davis-i-aint-sayin-lyrics",
+    "primary_artist_names": "Jordan Davis",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Jordan-davis-i-aint-sayin-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 7,
+        "day": 26
+    },
+    "release_date_for_display": "July 26, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jul. 26, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/b0c3c0ea0facfdf8459d9b51dfbba5f2.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/b0c3c0ea0facfdf8459d9b51dfbba5f2.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 3,
+        "iq_earners": 3,
+        "transcribers": 1,
+        "unreviewed_annotations": 0,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 9807
+    },
+    "title": "I Ain\u2019t Sayin\u2019",
+    "title_with_featured": "I Ain\u2019t Sayin\u2019",
+    "updated_by_human_at": 1746023996,
+    "url": "https://genius.com/Jordan-davis-i-aint-sayin-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/1103408",
+        "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+        "id": 1103408,
+        "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jordan Davis",
+        "url": "https://genius.com/artists/Jordan-davis",
+        "iq": 782
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/1103408",
+            "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+            "id": 1103408,
+            "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jordan Davis",
+            "url": "https://genius.com/artists/Jordan-davis",
+            "iq": 782
+        }
+    ],
+    "apple_music_id": "1757441854",
+    "apple_music_player_url": "https://genius.com/songs/10665634/apple_music_player",
+    "description": {
+        "plain": "?"
+    },
+    "embed_content": "<div id='rg_embed_link_10665634' class='rg_embed_link' data-song-id='10665634'>Read <a href='https://genius.com/Jordan-davis-i-aint-sayin-lyrics'>\u201cI Ain\u2019t Sayin\u2019\u201d by Jordan\u00a0Davis</a> on Genius</div> <script crossorigin src='//genius.com/songs/10665634/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-07-26",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#f1994b",
+    "song_art_secondary_color": "#f1c188",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1358409",
+        "cover_art_url": "https://images.genius.com/909c4d389832b86c29473eb13b49a92d.1000x1000x1.png",
+        "full_title": "Learn The Hard Way by Jordan Davis",
+        "id": 1358409,
+        "name": "Learn The Hard Way",
+        "primary_artist_names": "Jordan Davis",
+        "release_date_for_display": "August 15, 2025",
+        "url": "https://genius.com/albums/Jordan-davis/Learn-the-hard-way",
+        "artist": {
+            "api_path": "/artists/1103408",
+            "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+            "id": 1103408,
+            "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Jordan Davis",
+            "url": "https://genius.com/artists/Jordan-davis",
+            "iq": 782
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/1103408",
+                "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+                "id": 1103408,
+                "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": true,
+                "name": "Jordan Davis",
+                "url": "https://genius.com/artists/Jordan-davis",
+                "iq": 782
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Drums",
+            "artists": [
+                {
+                    "api_path": "/artists/662407",
+                    "header_image_url": "https://images.genius.com/008b61dfd2094bce8e675ad9d02ad20f.403x403x1.jpg",
+                    "id": 662407,
+                    "image_url": "https://images.genius.com/008b61dfd2094bce8e675ad9d02ad20f.403x403x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Nir Z",
+                    "url": "https://genius.com/artists/Nir-z"
+                }
+            ]
+        },
+        {
+            "label": "Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                },
+                {
+                    "api_path": "/artists/680314",
+                    "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "id": 680314,
+                    "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul DiGiovanni",
+                    "url": "https://genius.com/artists/Paul-digiovanni"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1445274",
+                    "header_image_url": "https://images.genius.com/263786237953d9df3ab5f9ef8738bbb3.150x150x1.jpg",
+                    "id": 1445274,
+                    "image_url": "https://images.genius.com/4522ad9bae3f17b84fb5cde30530f11e.150x150x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jim Cooley",
+                    "url": "https://genius.com/artists/Jim-cooley"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/680314",
+                    "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "id": 680314,
+                    "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul DiGiovanni",
+                    "url": "https://genius.com/artists/Paul-digiovanni"
+                }
+            ]
+        },
+        {
+            "label": "Production Coordinator (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/643889",
+                    "header_image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "id": 643889,
+                    "image_url": "https://images.genius.com/7968d35a354fbf24256a67370eb5593f.199x199x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mike \u201cFrog\u201d Griffith",
+                    "url": "https://genius.com/artists/Mike-frog-griffith"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/1716192",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1716192,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Alex Wright",
+                    "url": "https://genius.com/artists/Alex-wright"
+                }
+            ]
+        },
+        {
+            "label": "Electric Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/662411",
+                    "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "id": 662411,
+                    "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Derek Wells",
+                    "url": "https://genius.com/artists/Derek-wells"
+                },
+                {
+                    "api_path": "/artists/680314",
+                    "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "id": 680314,
+                    "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Paul DiGiovanni",
+                    "url": "https://genius.com/artists/Paul-digiovanni"
+                }
+            ]
+        },
+        {
+            "label": "Acoustic Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/1174073",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 1174073,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Danny Rader",
+                    "url": "https://genius.com/artists/Danny-rader"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/158702",
+                    "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "id": 158702,
+                    "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jimmie Lee Sloas",
+                    "url": "https://genius.com/artists/Jimmie-lee-sloas"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1191665",
+                    "header_image_url": "https://images.genius.com/e369807ebcfab7c770e16315f128a688.298x132x1.jpg",
+                    "id": 1191665,
+                    "image_url": "https://images.genius.com/3750b70a27059d64b1bb4e12e170b944.240x240x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "MCA Nashville",
+                    "url": "https://genius.com/artists/Mca-nashville"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/1104563",
+                    "header_image_url": "https://images.genius.com/4ce4725392359315144f1e941b16908a.600x200x1.jpg",
+                    "id": 1104563,
+                    "image_url": "https://images.genius.com/f2a8361a2e0b9c73b2fc96f42a4e688a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Universal Music Group",
+                    "url": "https://genius.com/artists/Universal-music-group"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 15291991,
+        "annotator_login": "axelcv",
+        "api_path": "/referents/32406714",
+        "classification": "needs_exegesis",
+        "fragment": "I Ain\u2019t Sayin\u2019",
+        "id": 32406714,
+        "is_description": true,
+        "path": "/32406714/Jordan-davis-i-aint-sayin/I-aint-sayin",
+        "range": {
+            "content": "I Ain\u2019t Sayin\u2019"
+        },
+        "song_id": 10665634,
+        "url": "https://genius.com/32406714/Jordan-davis-i-aint-sayin/I-aint-sayin",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10665634",
+            "client_timestamps": {
+                "updated_by_human_at": 1746023996,
+                "lyrics_updated_at": 1740727289
+            },
+            "context": "Jordan Davis",
+            "id": 10665634,
+            "image_url": "https://images.genius.com/b0c3c0ea0facfdf8459d9b51dfbba5f2.1000x1000x1.png",
+            "link_title": "I Ain\u2019t Sayin\u2019 by\u00a0Jordan\u00a0Davis",
+            "title": "I Ain\u2019t Sayin\u2019",
+            "type": "Song",
+            "url": "https://genius.com/Jordan-davis-i-aint-sayin-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/32406714",
+                "body": {
+                    "plain": ""
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": false,
+                "id": 32406714,
+                "pinned": false,
+                "share_url": "https://genius.com/32406714",
+                "source": null,
+                "state": "needs_exegesis",
+                "url": "https://genius.com/32406714/Jordan-davis-i-aint-sayin/I-aint-sayin",
+                "verified": false,
+                "votes_total": 0,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/15291991",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/8e0184ba7319190c6ae116562d383edf",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/11f9c3d62b3b5d8334796e03bb5d5d88.500x269x19.gif",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 15291991,
+                            "iq": 227494,
+                            "login": "axelcv",
+                            "name": "Bob the Minion",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/axelcv",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=e1Jtby_VYME"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/680314",
+            "header_image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+            "id": 680314,
+            "image_url": "https://images.genius.com/bce89406a3d0fa51fd384fdbec3affd2.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Paul DiGiovanni",
+            "url": "https://genius.com/artists/Paul-digiovanni"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11535292",
+                    "artist_names": "Jordan Davis",
+                    "full_title": "I Ain't Sayin' (Alt. Version) by\u00a0Jordan\u00a0Davis",
+                    "header_image_thumbnail_url": "https://images.genius.com/ca0d40f70d533b041a5121abb9f938cd.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/ca0d40f70d533b041a5121abb9f938cd.600x600x1.jpg",
+                    "id": 11535292,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Jordan-davis-i-aint-sayin-alt-version-lyrics",
+                    "primary_artist_names": "Jordan Davis",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Jordan-davis-i-aint-sayin-alt-version-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 2,
+                        "day": 28
+                    },
+                    "release_date_for_display": "February 28, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 28, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ca0d40f70d533b041a5121abb9f938cd.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/ca0d40f70d533b041a5121abb9f938cd.600x600x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "I Ain\u2019t Sayin\u2019 (Alt. Version)",
+                    "title_with_featured": "I Ain't Sayin' (Alt. Version)",
+                    "url": "https://genius.com/Jordan-davis-i-aint-sayin-alt-version-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1103408",
+                        "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+                        "id": 1103408,
+                        "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Jordan Davis",
+                        "url": "https://genius.com/artists/Jordan-davis",
+                        "iq": 782
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1103408",
+                            "header_image_url": "https://images.genius.com/128b5435e179197b54939acfd179cb17.1000x333x1.jpg",
+                            "id": 1103408,
+                            "image_url": "https://images.genius.com/b029baf676ec10d78a3c9d2077fe928a.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Jordan Davis",
+                            "url": "https://genius.com/artists/Jordan-davis",
+                            "iq": 782
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/524939",
+            "header_image_url": "https://images.genius.com/4a79e52127059fab0b8ff04fe3f3243c.1000x667x1.jpg",
+            "id": 524939,
+            "image_url": "https://images.genius.com/a1ba82162423ff06c06977a824d125bc.512x512x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Emily Reid",
+            "url": "https://genius.com/artists/Emily-reid"
+        },
+        {
+            "api_path": "/artists/454866",
+            "header_image_url": "https://images.genius.com/3925f7186e88cfe1e315aa4c5984314d.400x400x1.jpg",
+            "id": 454866,
+            "image_url": "https://images.genius.com/d0779dfc3703ff89cd3d201d7a49d2e7.486x486x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mark Holman",
+            "url": "https://genius.com/artists/Mark-holman"
+        },
+        {
+            "api_path": "/artists/359676",
+            "header_image_url": "https://images.genius.com/a537725bf1cfef256f1a1fc75c213084.1000x1000x1.jpg",
+            "id": 359676,
+            "image_url": "https://images.genius.com/a537725bf1cfef256f1a1fc75c213084.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Steve Moakler",
+            "url": "https://genius.com/artists/Steve-moakler"
+        },
+        {
+            "api_path": "/artists/1005277",
+            "header_image_url": "https://images.genius.com/15e8be3d7a81941e5defb2aaac08bcf2.1000x1000x1.jpg",
+            "id": 1005277,
+            "image_url": "https://images.genius.com/15e8be3d7a81941e5defb2aaac08bcf2.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Travis Wood",
+            "url": "https://genius.com/artists/Travis-wood"
+        }
+    ],
+    "artist": "Jordan Davis",
+    "lyrics": "3 ContributorsI Ain\u2019t Sayin\u2019 Lyrics\nThat beer ain't gettin' any colder\nAnd I don't know who it's waitin' for\nYou keep checkin' over your shoulder\nLike somebody's 'bout to walk through the door\n\nAnd yeah, I bet he's got a real good excuse\nBut right now, I wouldn't wanna be in his boots\nI'm lookin' at what he's got to lose\nSittin' all alone tonight, look\n\nI ain't sayin' I'm an angel, baby if you can't tell\nNo, I ain't the take-you-home-to-mama type\nAnd I ain't sayin' he's a bad guy, all I know is that guy\nMust've up and lost his mind tonight\n'Cause you're down to the ice in that drink\nHe didn't buy, I'm here and he's MIA\nThat ain't no kinda love, I ain't sayin' I'm the one\nI'm just sayin' he sure as hell ain't\nHe sure as h\u0435ll ain't (He sure as hell ain't)\n(H\u0435 sure as hell ain't)\n\nJudgin' by the way you just smiled\nI ain't tellin' you nothin' you don't already know\nHe let you down, but here's the upside\nI can give your move on somewhere to go\n\nI ain't tryin' change that Ms. to a Mrs\nBut he don't know what he's missin', girl, listen\n\nI ain't sayin' I'm an angel, baby if you can't tell\nNo, I ain't the take-you-home-to-mama type\nAnd I ain't sayin' he's a bad guy, all I know is that guy\nMust've up and lost his mind tonight\n'Cause you're down to the ice in that drink\nHe didn't buy, I'm here and he's MIA\nThat ain't no kinda love, I ain't sayin' I'm the one\nI'm just sayin' he sure as hell ain't\nHe sure as hell ain't\nHe sure as hell ain't\n\nYeah, I bet he's got a real good excuse\nBut right now, I wouldn't wanna be in his boots\nI'm lookin' at what he's got to lose\nSittin' all alone tonight, look\n\nI ain't sayin' I'm an angel, baby if you can't tell\nNo, I ain't the take-you-home-to-mama type\nAnd I ain't sayin' he's a bad guy, all I know is that guy\nMust've up and lost his mind tonight\n'Cause you're down to the ice in that drink\nHe didn't buy, I'm here and he's MIA\nThat ain't no kinda love, I ain't sayin' I'm the one\nI'm just sayin' he sure as hell ain't\nHe sure as hell ain't\n\n(He sure as hell ain't)\n(He sure as hell ain't)\n(He sure as hell ain't)\n(He sure as hell ain't)"
+}

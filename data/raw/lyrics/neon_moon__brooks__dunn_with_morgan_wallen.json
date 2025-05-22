@@ -1,0 +1,761 @@
+{
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/317435",
+    "artist_names": "Brooks & Dunn",
+    "full_title": "Neon Moon by\u00a0Brooks\u00a0& Dunn",
+    "header_image_thumbnail_url": "https://images.genius.com/f05e67062bc50b56d9d5d7215fdcf589.300x299x1.jpg",
+    "header_image_url": "https://images.genius.com/f05e67062bc50b56d9d5d7215fdcf589.600x597x1.jpg",
+    "id": 317435,
+    "instrumental": false,
+    "lyrics_owner_id": 358677,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1737083255,
+    "path": "/Brooks-and-dunn-neon-moon-lyrics",
+    "primary_artist_names": "Brooks & Dunn",
+    "pyongs_count": 8,
+    "relationships_index_url": "https://genius.com/Brooks-and-dunn-neon-moon-sample",
+    "release_date_components": {
+        "year": 1992,
+        "month": 2,
+        "day": 24
+    },
+    "release_date_for_display": "February 24, 1992",
+    "release_date_with_abbreviated_month_for_display": "Feb. 24, 1992",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f05e67062bc50b56d9d5d7215fdcf589.300x299x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f05e67062bc50b56d9d5d7215fdcf589.600x597x1.jpg",
+    "stats": {
+        "accepted_annotations": 4,
+        "contributors": 25,
+        "iq_earners": 23,
+        "transcribers": 4,
+        "unreviewed_annotations": 2,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 127686
+    },
+    "title": "Neon Moon",
+    "title_with_featured": "Neon Moon",
+    "updated_by_human_at": 1742233722,
+    "url": "https://genius.com/Brooks-and-dunn-neon-moon-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/50113",
+        "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+        "id": 50113,
+        "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brooks & Dunn",
+        "url": "https://genius.com/artists/Brooks-and-dunn"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/50113",
+            "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+            "id": 50113,
+            "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Brooks & Dunn",
+            "url": "https://genius.com/artists/Brooks-and-dunn"
+        }
+    ],
+    "apple_music_id": "291896531",
+    "apple_music_player_url": "https://genius.com/songs/317435/apple_music_player",
+    "description": {
+        "plain": "The third of four #1 country singles released from Brooks & Dunn\u2019s massively successful 1991 debut album, Brand New Man. \u201cNeon Moon\u201d refers to the neon bar signs under which the singer spends his evenings sorrowfully remembering a long-lost lover."
+    },
+    "embed_content": "<div id='rg_embed_link_317435' class='rg_embed_link' data-song-id='317435'>Read <a href='https://genius.com/Brooks-and-dunn-neon-moon-lyrics'>\u201cNeon Moon\u201d by Brooks\u00a0& Dunn</a> on Genius</div> <script crossorigin src='//genius.com/songs/317435/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "1992-02-24",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_relationships_page",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#cfb692",
+    "song_art_secondary_color": "#f2cf9c",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/102959",
+        "cover_art_url": "https://images.genius.com/6220c15e46e80847a01929d639066d18.1000x1000x1.png",
+        "full_title": "#1s... and Then Some by Brooks & Dunn",
+        "id": 102959,
+        "name": "#1s... and Then Some",
+        "primary_artist_names": "Brooks & Dunn",
+        "release_date_for_display": "September 8, 2009",
+        "url": "https://genius.com/albums/Brooks-and-dunn/1s-and-then-some",
+        "artist": {
+            "api_path": "/artists/50113",
+            "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+            "id": 50113,
+            "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Brooks & Dunn",
+            "url": "https://genius.com/artists/Brooks-and-dunn"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/50113",
+                "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+                "id": 50113,
+                "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Brooks & Dunn",
+                "url": "https://genius.com/artists/Brooks-and-dunn"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/1398143",
+                    "header_image_url": "https://images.genius.com/ef8945fb63139bcfb1a102baff5c1d0e.273x184x1.png",
+                    "id": 1398143,
+                    "image_url": "https://images.genius.com/2a652b1f219014e52c669024a191919f.185x185x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Arista Nashville",
+                    "url": "https://genius.com/artists/Arista-nashville"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 1714416,
+        "annotator_login": "WWJames",
+        "api_path": "/referents/3688393",
+        "classification": "accepted",
+        "fragment": "Neon Moon",
+        "id": 3688393,
+        "is_description": true,
+        "path": "/3688393/Brooks-and-dunn-neon-moon/Neon-moon",
+        "range": {
+            "content": "Neon Moon"
+        },
+        "song_id": 317435,
+        "url": "https://genius.com/3688393/Brooks-and-dunn-neon-moon/Neon-moon",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/317435",
+            "client_timestamps": {
+                "updated_by_human_at": 1742233722,
+                "lyrics_updated_at": 1737083255
+            },
+            "context": "Brooks & Dunn",
+            "id": 317435,
+            "image_url": "https://images.genius.com/f05e67062bc50b56d9d5d7215fdcf589.600x597x1.jpg",
+            "link_title": "Neon Moon by\u00a0Brooks\u00a0& Dunn",
+            "title": "Neon Moon",
+            "type": "Song",
+            "url": "https://genius.com/Brooks-and-dunn-neon-moon-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/3688393",
+                "body": {
+                    "plain": "The third of four #1 country singles released from Brooks & Dunn\u2019s massively successful 1991 debut album, Brand New Man. \u201cNeon Moon\u201d refers to the neon bar signs under which the singer spends his evenings sorrowfully remembering a long-lost lover."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 3688393,
+                "pinned": false,
+                "share_url": "https://genius.com/3688393",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/3688393/Brooks-and-dunn-neon-moon/Neon-moon",
+                "verified": false,
+                "votes_total": 17,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/1714416",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.rapgenius.com/avatars/tiny/331a78ecde68020217ac25f906d0ee91",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.rapgenius.com/avatars/thumb/331a78ecde68020217ac25f906d0ee91",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.rapgenius.com/avatars/small/331a78ecde68020217ac25f906d0ee91",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.rapgenius.com/avatars/medium/331a78ecde68020217ac25f906d0ee91",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.rapgenius.com/avatars/medium/331a78ecde68020217ac25f906d0ee91",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 1714416,
+                            "iq": 77137,
+                            "login": "WWJames",
+                            "name": "WWJames",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/WWJames",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": null,
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "native_uri": "spotify:track:3EUl8M6SzxZl03NPkB8mUd",
+            "provider": "spotify",
+            "type": "audio",
+            "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=8IjOQmwlGmk"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1778783",
+            "header_image_url": "https://images.genius.com/bf6e3719f1d4311de60bcaf70cb856bf.201x201x1.png",
+            "id": 1778783,
+            "image_url": "https://images.genius.com/bf6e3719f1d4311de60bcaf70cb856bf.201x201x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Don Cook",
+            "url": "https://genius.com/artists/Don-cook"
+        },
+        {
+            "api_path": "/artists/128104",
+            "header_image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+            "id": 128104,
+            "image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Scott Hendricks",
+            "url": "https://genius.com/artists/Scott-hendricks"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10665879",
+                    "artist_names": "Mitchell Tenpenny",
+                    "full_title": "Same Moon by\u00a0Mitchell\u00a0Tenpenny",
+                    "header_image_thumbnail_url": "https://images.genius.com/b82d347cea2cb3a5a25e2392d3c677ea.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b82d347cea2cb3a5a25e2392d3c677ea.1000x1000x1.png",
+                    "id": 10665879,
+                    "lyrics_owner_id": 22029661,
+                    "lyrics_state": "complete",
+                    "path": "/Mitchell-tenpenny-same-moon-lyrics",
+                    "primary_artist_names": "Mitchell Tenpenny",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Mitchell-tenpenny-same-moon-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 20
+                    },
+                    "release_date_for_display": "September 20, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 20, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b82d347cea2cb3a5a25e2392d3c677ea.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b82d347cea2cb3a5a25e2392d3c677ea.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Same Moon",
+                    "title_with_featured": "Same Moon",
+                    "url": "https://genius.com/Mitchell-tenpenny-same-moon-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/987293",
+                        "header_image_url": "https://images.genius.com/9138e9beff7fd5b93b04018a7bea342f.750x750x1.jpg",
+                        "id": 987293,
+                        "image_url": "https://images.genius.com/9138e9beff7fd5b93b04018a7bea342f.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Mitchell Tenpenny",
+                        "url": "https://genius.com/artists/Mitchell-tenpenny",
+                        "iq": 100
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/987293",
+                            "header_image_url": "https://images.genius.com/9138e9beff7fd5b93b04018a7bea342f.750x750x1.jpg",
+                            "id": 987293,
+                            "image_url": "https://images.genius.com/9138e9beff7fd5b93b04018a7bea342f.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Mitchell Tenpenny",
+                            "url": "https://genius.com/artists/Mitchell-tenpenny",
+                            "iq": 100
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/4472751",
+                    "artist_names": "Erin Enderlin",
+                    "full_title": "Neon Moon by\u00a0Erin\u00a0Enderlin",
+                    "header_image_thumbnail_url": "https://images.genius.com/917126279044b9c9eefd4c34dbb5530c.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/917126279044b9c9eefd4c34dbb5530c.640x640x1.jpg",
+                    "id": 4472751,
+                    "lyrics_owner_id": 5361247,
+                    "lyrics_state": "complete",
+                    "path": "/Erin-enderlin-neon-moon-lyrics",
+                    "primary_artist_names": "Erin Enderlin",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Erin-enderlin-neon-moon-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 3,
+                        "day": 19
+                    },
+                    "release_date_for_display": "March 19, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 19, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/917126279044b9c9eefd4c34dbb5530c.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/917126279044b9c9eefd4c34dbb5530c.640x640x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Neon Moon",
+                    "title_with_featured": "Neon Moon",
+                    "url": "https://genius.com/Erin-enderlin-neon-moon-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1102026",
+                        "header_image_url": "https://images.genius.com/6bbdaa460a87cab2a370e0694271a146.800x533x1.jpg",
+                        "id": 1102026,
+                        "image_url": "https://images.genius.com/1db21502023499e5c24e2663642094bc.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Erin Enderlin",
+                        "url": "https://genius.com/artists/Erin-enderlin"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1102026",
+                            "header_image_url": "https://images.genius.com/6bbdaa460a87cab2a370e0694271a146.800x533x1.jpg",
+                            "id": 1102026,
+                            "image_url": "https://images.genius.com/1db21502023499e5c24e2663642094bc.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Erin Enderlin",
+                            "url": "https://genius.com/artists/Erin-enderlin"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/4164630",
+                    "artist_names": "Cigarettes After Sex",
+                    "full_title": "Neon Moon by\u00a0Cigarettes\u00a0After Sex",
+                    "header_image_thumbnail_url": "https://images.genius.com/bf435828e9c4b68f90fcf5309e836fcb.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/bf435828e9c4b68f90fcf5309e836fcb.1000x1000x1.jpg",
+                    "id": 4164630,
+                    "lyrics_owner_id": 3453898,
+                    "lyrics_state": "complete",
+                    "path": "/Cigarettes-after-sex-neon-moon-lyrics",
+                    "primary_artist_names": "Cigarettes After Sex",
+                    "pyongs_count": 4,
+                    "relationships_index_url": "https://genius.com/Cigarettes-after-sex-neon-moon-sample",
+                    "release_date_components": {
+                        "year": 2018,
+                        "month": 12,
+                        "day": 17
+                    },
+                    "release_date_for_display": "December 17, 2018",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 17, 2018",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/bf435828e9c4b68f90fcf5309e836fcb.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/bf435828e9c4b68f90fcf5309e836fcb.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false,
+                        "pageviews": 46198
+                    },
+                    "title": "Neon Moon",
+                    "title_with_featured": "Neon Moon",
+                    "url": "https://genius.com/Cigarettes-after-sex-neon-moon-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/508714",
+                        "header_image_url": "https://images.genius.com/2fe734b0e14326ef03c540b35980eaa0.1000x384x1.jpg",
+                        "id": 508714,
+                        "image_url": "https://images.genius.com/f3a813bb87036711775ef48caa13be30.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Cigarettes After Sex",
+                        "url": "https://genius.com/artists/Cigarettes-after-sex"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/508714",
+                            "header_image_url": "https://images.genius.com/2fe734b0e14326ef03c540b35980eaa0.1000x384x1.jpg",
+                            "id": 508714,
+                            "image_url": "https://images.genius.com/f3a813bb87036711775ef48caa13be30.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Cigarettes After Sex",
+                            "url": "https://genius.com/artists/Cigarettes-after-sex"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/4393712",
+                    "artist_names": "Brooks & Dunn (Ft. Kacey Musgraves)",
+                    "full_title": "Neon Moon (2019) by\u00a0Brooks\u00a0& Dunn (Ft.\u00a0Kacey\u00a0Musgraves)",
+                    "header_image_thumbnail_url": "https://images.genius.com/aae3f24766696584bf3b6d1384665a43.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/aae3f24766696584bf3b6d1384665a43.1000x1000x1.png",
+                    "id": 4393712,
+                    "lyrics_owner_id": 3499648,
+                    "lyrics_state": "complete",
+                    "path": "/Brooks-and-dunn-neon-moon-2019-lyrics",
+                    "primary_artist_names": "Brooks & Dunn",
+                    "pyongs_count": 2,
+                    "relationships_index_url": "https://genius.com/Brooks-and-dunn-neon-moon-2019-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 4,
+                        "day": 5
+                    },
+                    "release_date_for_display": "April 5, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/aae3f24766696584bf3b6d1384665a43.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/aae3f24766696584bf3b6d1384665a43.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 14781
+                    },
+                    "title": "Neon Moon (2019)",
+                    "title_with_featured": "Neon Moon (2019) (Ft.\u00a0Kacey\u00a0Musgraves)",
+                    "url": "https://genius.com/Brooks-and-dunn-neon-moon-2019-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/53023",
+                            "header_image_url": "https://images.genius.com/c34fdc7e3660182f558883d5e8593491.1000x333x1.jpg",
+                            "id": 53023,
+                            "image_url": "https://images.genius.com/3f27f0b5015a0ecdfe4dabc058616839.561x561x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Kacey Musgraves",
+                            "url": "https://genius.com/artists/Kacey-musgraves"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/50113",
+                        "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+                        "id": 50113,
+                        "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Brooks & Dunn",
+                        "url": "https://genius.com/artists/Brooks-and-dunn"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/50113",
+                            "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+                            "id": 50113,
+                            "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brooks & Dunn",
+                            "url": "https://genius.com/artists/Brooks-and-dunn"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10889671",
+                    "artist_names": "Brooks & Dunn (Ft. Morgan Wallen)",
+                    "full_title": "Neon Moon (2024) by\u00a0Brooks\u00a0& Dunn (Ft.\u00a0Morgan\u00a0Wallen)",
+                    "header_image_thumbnail_url": "https://images.genius.com/de01944e02083f71be68facbc1e597d9.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/de01944e02083f71be68facbc1e597d9.1000x1000x1.jpg",
+                    "id": 10889671,
+                    "lyrics_owner_id": 14258858,
+                    "lyrics_state": "complete",
+                    "path": "/Brooks-and-dunn-neon-moon-2024-lyrics",
+                    "primary_artist_names": "Brooks & Dunn",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Brooks-and-dunn-neon-moon-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 15
+                    },
+                    "release_date_for_display": "November 15, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 15, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/de01944e02083f71be68facbc1e597d9.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/de01944e02083f71be68facbc1e597d9.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Neon Moon (2024)",
+                    "title_with_featured": "Neon Moon (2024) (Ft.\u00a0Morgan\u00a0Wallen)",
+                    "url": "https://genius.com/Brooks-and-dunn-neon-moon-2024-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/987153",
+                            "header_image_url": "https://images.genius.com/4e29407516eb14ec638e22b90a9d3147.1000x333x1.jpg",
+                            "id": 987153,
+                            "image_url": "https://images.genius.com/aa193dbc8869eb7809d1e8be2f36fad4.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Morgan Wallen",
+                            "url": "https://genius.com/artists/Morgan-wallen",
+                            "iq": 495
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/50113",
+                        "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+                        "id": 50113,
+                        "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Brooks & Dunn",
+                        "url": "https://genius.com/artists/Brooks-and-dunn"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/50113",
+                            "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+                            "id": 50113,
+                            "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Brooks & Dunn",
+                            "url": "https://genius.com/artists/Brooks-and-dunn"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "songs": []
+        }
+    ],
+    "translation_songs": [],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/57361",
+            "header_image_url": "https://images.genius.com/374a8b0613de00d06c4eac3beed067dc.300x441x1.jpg",
+            "id": 57361,
+            "image_url": "https://images.genius.com/a56413d8e7198ce3df4a5e835d2c26a7.300x300x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ronnie Dunn",
+            "url": "https://genius.com/artists/Ronnie-dunn"
+        }
+    ],
+    "artist": "Brooks & Dunn",
+    "lyrics": "25 ContributorsNeon Moon LyricsThe third of four #1 country singles released from Brooks & Dunn\u2019s massively successful 1991 debut album, Brand New Man. \u201cNeon Moon\u201d refers to the neon bar signs under which the singer spends his evenings\u2026 Read More\u00a0\nWhen the sun goes down on my side of town\nThat lonesome feelin' comes to my door\nAnd the whole world turns\nBlue\n\nThere's a rundown bar 'cross the railroad tracks\nI've got a table for two, way in the back\nWhere I sit alone\nAnd think of losin' you\n\nI spend most every night\nBeneath the light of a neon moon\n\nNow if you lose your one and only\nThere's always room here for the lonely\nTo watch your broken dreams dance\nIn and out of the beams of a neon moon\n\nI think of two young lovers, runnin' wild and free\nI close my eyes and sometimes see\nYou in the shadows\nOf this smoke-filled room\n\nNo tellin' how many tears I've sat here and cried\nOr how many lies that I've lied\nTellin' my poor heart\nShe'll come back someday\n\nOh, but I'll be alright\nAs long as there's light from a neon moon\n\nOh, if you lose your one and only\nThere's always room here for the lonely\nTo watch your broken dreams dance\nIn and out of the beams of a neon moon\n\nThe jukebox plays on, drink by drink\nAnd the words of every sad song seem to say what I think\nAnd this hurt inside of me\nAin't never gonna end\n\nOh, but I'll be alright\nAs long as there's light from a neon moon\n\nOh, if you lose your one and only\nThere's always room here for the lonely\nTo watch your broken dreams dance in and out of the beams\nOf a neon moon\n\nCome watch your broken dreams dance\nIn and out of the beams of a neon moon\nOh, watch your broken dreams dance\nIn and out of the beams of a neon moon"
+}

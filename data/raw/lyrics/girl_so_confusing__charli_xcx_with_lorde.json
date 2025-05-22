@@ -1,0 +1,1708 @@
+{
+    "_type": "song",
+    "annotation_count": 15,
+    "api_path": "/songs/10235602",
+    "artist_names": "Charli xcx",
+    "full_title": "Girl, so confusing by\u00a0Charli\u00a0xcx",
+    "header_image_thumbnail_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.1000x1000x1.png",
+    "id": 10235602,
+    "instrumental": false,
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1746814669,
+    "path": "/Charli-xcx-girl-so-confusing-lyrics",
+    "primary_artist_names": "Charli xcx",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Charli-xcx-girl-so-confusing-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 6,
+        "day": 7
+    },
+    "release_date_for_display": "June 7, 2024",
+    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 3,
+        "contributors": 81,
+        "iq_earners": 81,
+        "transcribers": 1,
+        "unreviewed_annotations": 12,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 430186
+    },
+    "title": "Girl, so confusing",
+    "title_with_featured": "Girl, so confusing",
+    "updated_by_human_at": 1747492507,
+    "url": "https://genius.com/Charli-xcx-girl-so-confusing-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/45349",
+        "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+        "id": 45349,
+        "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Charli xcx",
+        "url": "https://genius.com/artists/Charli-xcx",
+        "iq": 4520
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/45349",
+            "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+            "id": 45349,
+            "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Charli xcx",
+            "url": "https://genius.com/artists/Charli-xcx",
+            "iq": 4520
+        }
+    ],
+    "apple_music_id": "1739080642",
+    "apple_music_player_url": "https://genius.com/songs/10235602/apple_music_player",
+    "description": {
+        "plain": "\u201cGirl, so confusing\u201d is the tenth track on Charli XCX\u2019s sixth studio album, BRAT, releasing on June 7, 2024.\n\nOn April 2, 2024, Charli announced the song and confirmed that it would appear on BRAT via a voice memo sent to a small number of fans."
+    },
+    "embed_content": "<div id='rg_embed_link_10235602' class='rg_embed_link' data-song-id='10235602'>Read <a href='https://genius.com/Charli-xcx-girl-so-confusing-lyrics'>\u201cGirl, so confusing\u201d by Charli\u00a0xcx</a> on Genius</div> <script crossorigin src='//genius.com/songs/10235602/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-06-07",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#8ccc04",
+    "song_art_secondary_color": "#d3fc7c",
+    "song_art_text_color": "#000",
+    "album": {
+        "api_path": "/albums/1182895",
+        "cover_art_url": "https://images.genius.com/a5294fd34149beae968a3f2334b3d942.1000x1000x1.png",
+        "full_title": "Brat and it\u2019s completely different but also still brat by Charli xcx",
+        "id": 1182895,
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "primary_artist_names": "Charli xcx",
+        "release_date_for_display": "October 11, 2024",
+        "url": "https://genius.com/albums/Charli-xcx/Brat-and-its-completely-different-but-also-still-brat",
+        "artist": {
+            "api_path": "/artists/45349",
+            "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+            "id": 45349,
+            "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Charli xcx",
+            "url": "https://genius.com/artists/Charli-xcx",
+            "iq": 4520
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/45349",
+                "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+                "id": 45349,
+                "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+                "is_meme_verified": true,
+                "is_verified": true,
+                "name": "Charli xcx",
+                "url": "https://genius.com/artists/Charli-xcx",
+                "iq": 4520
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1112276",
+                    "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+                    "id": 1112276,
+                    "image_url": "https://images.genius.com/7b2cc19148a80214302b30a5dd7f173b.960x960x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner Music Group",
+                    "url": "https://genius.com/artists/Warner-music-group"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/3382207",
+                    "header_image_url": "https://images.genius.com/43687efb938a83698af02dd9bb3e34c4.800x800x1.png",
+                    "id": 3382207,
+                    "image_url": "https://images.genius.com/43687efb938a83698af02dd9bb3e34c4.800x800x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BMG UK",
+                    "url": "https://genius.com/artists/Bmg-uk"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1814538",
+                    "header_image_url": "https://images.genius.com/9df513d162b7495bac00f91d31603601.400x400x1.jpg",
+                    "id": 1814538,
+                    "image_url": "https://images.genius.com/9df513d162b7495bac00f91d31603601.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Idania Valencia",
+                    "url": "https://genius.com/artists/Idania-valencia"
+                },
+                {
+                    "api_path": "/artists/986024",
+                    "header_image_url": "https://images.genius.com/85b2ab4efb5f223d0b6a857628490fd5.1000x522x1.webp",
+                    "id": 986024,
+                    "image_url": "https://images.genius.com/d0533472249650ab6cb68db37601660d.767x767x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Randy Merrill",
+                    "url": "https://genius.com/artists/Randy-merrill"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/986021",
+                    "header_image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "id": 986021,
+                    "image_url": "https://images.genius.com/e814d9bbd3adc8937b25a37e98152640.320x320x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tom Norris",
+                    "url": "https://genius.com/artists/Tom-norris"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/210974",
+                    "header_image_url": "https://images.genius.com/12521d81bce69545ca5c0f815befe3f7.1000x799x1.png",
+                    "id": 210974,
+                    "image_url": "https://images.genius.com/0a9b991453d37430d429610c08121f73.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "A. G. Cook",
+                    "url": "https://genius.com/artists/A-g-cook"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/68978",
+                    "header_image_url": "https://images.genius.com/0cdc8aa2404e49a1d62d154fdba4a7b9.942x623x1.jpg",
+                    "id": 68978,
+                    "image_url": "https://images.genius.com/687803b9595eeee902cf12273aed0c88.623x623x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Atlantic Records",
+                    "url": "https://genius.com/artists/Atlantic-records"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 12858146,
+        "annotator_login": "tommyfication",
+        "api_path": "/referents/31326647",
+        "classification": "unreviewed",
+        "fragment": "Girl, so confusing",
+        "id": 31326647,
+        "is_description": true,
+        "path": "/31326647/Charli-xcx-girl-so-confusing/Girl-so-confusing",
+        "range": {
+            "content": "Girl, so confusing"
+        },
+        "song_id": 10235602,
+        "url": "https://genius.com/31326647/Charli-xcx-girl-so-confusing/Girl-so-confusing",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10235602",
+            "client_timestamps": {
+                "updated_by_human_at": 1747492507,
+                "lyrics_updated_at": 1746814669
+            },
+            "context": "Charli xcx",
+            "id": 10235602,
+            "image_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.1000x1000x1.png",
+            "link_title": "Girl, so confusing by\u00a0Charli\u00a0xcx",
+            "title": "Girl, so confusing",
+            "type": "Song",
+            "url": "https://genius.com/Charli-xcx-girl-so-confusing-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/31326647",
+                "body": {
+                    "plain": "\u201cGirl, so confusing\u201d is the tenth track on Charli XCX\u2019s sixth studio album, BRAT, releasing on June 7, 2024.\n\nOn April 2, 2024, Charli announced the song and confirmed that it would appear on BRAT via a voice memo sent to a small number of fans."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 31326647,
+                "pinned": false,
+                "share_url": "https://genius.com/31326647",
+                "source": null,
+                "state": "pending",
+                "url": "https://genius.com/31326647/Charli-xcx-girl-so-confusing/Girl-so-confusing",
+                "verified": false,
+                "votes_total": 51,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/12858146",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/fc36627cbd1456cb750ddfd5b3320735",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/fc36627cbd1456cb750ddfd5b3320735",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/fc36627cbd1456cb750ddfd5b3320735",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/fc36627cbd1456cb750ddfd5b3320735",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/fc36627cbd1456cb750ddfd5b3320735",
+                            "human_readable_role_for_display": "Contributor",
+                            "id": 12858146,
+                            "iq": 1418,
+                            "login": "tommyfication",
+                            "name": "tommyfication",
+                            "role_for_display": "contributor",
+                            "url": "https://genius.com/tommyfication",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/3186280",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/382eb338ed4c79ede0af8b440757c7c4",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/382eb338ed4c79ede0af8b440757c7c4",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/382eb338ed4c79ede0af8b440757c7c4",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/382eb338ed4c79ede0af8b440757c7c4",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/Ry7aAG3DQaKUAUgdDW4I_giphy.gif",
+        "human_readable_role_for_display": "Editor",
+        "id": 3186280,
+        "iq": 27899,
+        "login": "Nachosbob",
+        "name": "Nachosbob",
+        "role_for_display": "editor",
+        "url": "https://genius.com/Nachosbob",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "charlixcx",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/charlixcx/girl-so-confusing"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=QXKvjyoH5lM"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/210974",
+            "header_image_url": "https://images.genius.com/12521d81bce69545ca5c0f815befe3f7.1000x799x1.png",
+            "id": 210974,
+            "image_url": "https://images.genius.com/0a9b991453d37430d429610c08121f73.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "A. G. Cook",
+            "url": "https://genius.com/artists/A-g-cook"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": "https://genius.com/Charli-xcx-girl-so-confusing-sample/samples",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11670088",
+                    "artist_names": "Ph0ton",
+                    "full_title": "Anamanacharli by\u00a0Ph0ton",
+                    "header_image_thumbnail_url": "https://images.genius.com/ad75fa264a6964c813ae61b846874c6a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/ad75fa264a6964c813ae61b846874c6a.1000x1000x1.png",
+                    "id": 11670088,
+                    "lyrics_owner_id": 4379031,
+                    "lyrics_state": "complete",
+                    "path": "/Ph0ton-anamanacharli-lyrics",
+                    "primary_artist_names": "Ph0ton",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Ph0ton-anamanacharli-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 3,
+                        "day": 28
+                    },
+                    "release_date_for_display": "March 28, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 28, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/ad75fa264a6964c813ae61b846874c6a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/ad75fa264a6964c813ae61b846874c6a.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Anamanacharli",
+                    "title_with_featured": "Anamanacharli",
+                    "url": "https://genius.com/Ph0ton-anamanacharli-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3700508",
+                        "header_image_url": "https://images.genius.com/24c8d98a3b5c8386bc2f2dd1c50374a8.1000x185x1.png",
+                        "id": 3700508,
+                        "image_url": "https://images.genius.com/948dd861a9d9f5bd7367c2df7216da31.400x400x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Ph0ton",
+                        "url": "https://genius.com/artists/Ph0ton"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3700508",
+                            "header_image_url": "https://images.genius.com/24c8d98a3b5c8386bc2f2dd1c50374a8.1000x185x1.png",
+                            "id": 3700508,
+                            "image_url": "https://images.genius.com/948dd861a9d9f5bd7367c2df7216da31.400x400x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Ph0ton",
+                            "url": "https://genius.com/artists/Ph0ton"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11069879",
+                    "artist_names": "buzzkill (CAN)",
+                    "full_title": "Loze Ur Marblez 2024 by\u00a0buzzkill\u00a0(CAN)",
+                    "header_image_thumbnail_url": "https://images.genius.com/f278d8bb57056bbd7cce8f5c56aeb6f0.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f278d8bb57056bbd7cce8f5c56aeb6f0.1000x1000x1.png",
+                    "id": 11069879,
+                    "lyrics_owner_id": 10858985,
+                    "lyrics_state": "complete",
+                    "path": "/Buzzkill-can-loze-ur-marblez-2024-lyrics",
+                    "primary_artist_names": "buzzkill (CAN)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Buzzkill-can-loze-ur-marblez-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 29
+                    },
+                    "release_date_for_display": "October 29, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 29, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f278d8bb57056bbd7cce8f5c56aeb6f0.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f278d8bb57056bbd7cce8f5c56aeb6f0.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Loze Ur Marblez 2024",
+                    "title_with_featured": "Loze Ur Marblez 2024",
+                    "url": "https://genius.com/Buzzkill-can-loze-ur-marblez-2024-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4180284",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 4180284,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "buzzkill (CAN)",
+                        "url": "https://genius.com/artists/Buzzkill-can"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4180284",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 4180284,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "buzzkill (CAN)",
+                            "url": "https://genius.com/artists/Buzzkill-can"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/7404860",
+                    "artist_names": "\u200bmilo is gone",
+                    "full_title": "Girl, so embarrassing by\u00a0\u200bmilo\u00a0is gone",
+                    "header_image_thumbnail_url": "https://images.genius.com/02c76b2bd423eb5e5d4ae265a6c7e60b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/02c76b2bd423eb5e5d4ae265a6c7e60b.736x736x1.jpg",
+                    "id": 7404860,
+                    "lyrics_owner_id": 14407766,
+                    "lyrics_state": "complete",
+                    "path": "/Milo-is-gone-girl-so-embarrassing-lyrics",
+                    "primary_artist_names": "\u200bmilo is gone",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Milo-is-gone-girl-so-embarrassing-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 11,
+                        "day": 1
+                    },
+                    "release_date_for_display": "November 1, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 1, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/02c76b2bd423eb5e5d4ae265a6c7e60b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/02c76b2bd423eb5e5d4ae265a6c7e60b.736x736x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Girl, so embarrassing",
+                    "title_with_featured": "Girl, so embarrassing",
+                    "url": "https://genius.com/Milo-is-gone-girl-so-embarrassing-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4004757",
+                        "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                        "id": 4004757,
+                        "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bmilo is gone",
+                        "url": "https://genius.com/artists/Milo-is-gone"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4004757",
+                            "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                            "id": 4004757,
+                            "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bmilo is gone",
+                            "url": "https://genius.com/artists/Milo-is-gone"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/8934865",
+                    "artist_names": "\u200bmilo is gone & justinheat5678",
+                    "full_title": "Gay, so annoying by\u00a0\u200bmilo\u00a0is gone & justinheat5678",
+                    "header_image_thumbnail_url": "https://images.genius.com/a37e897814595fd164577eaac25607b8.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/a37e897814595fd164577eaac25607b8.1000x1000x1.png",
+                    "id": 8934865,
+                    "lyrics_owner_id": 14407766,
+                    "lyrics_state": "complete",
+                    "path": "/Milo-is-gone-and-justinheat5678-gay-so-annoying-lyrics",
+                    "primary_artist_names": "\u200bmilo is gone & justinheat5678",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Milo-is-gone-and-justinheat5678-gay-so-annoying-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 17
+                    },
+                    "release_date_for_display": "October 17, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 17, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a37e897814595fd164577eaac25607b8.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/a37e897814595fd164577eaac25607b8.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Gay, so annoying",
+                    "title_with_featured": "Gay, so annoying",
+                    "url": "https://genius.com/Milo-is-gone-and-justinheat5678-gay-so-annoying-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4004757",
+                        "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                        "id": 4004757,
+                        "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "\u200bmilo is gone",
+                        "url": "https://genius.com/artists/Milo-is-gone"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4004757",
+                            "header_image_url": "https://images.genius.com/abe7fd9494527f9c4824a8244a76800b.1000x750x1.jpg",
+                            "id": 4004757,
+                            "image_url": "https://images.genius.com/7a4b95991e4677d3b620410a573818ad.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "\u200bmilo is gone",
+                            "url": "https://genius.com/artists/Milo-is-gone"
+                        },
+                        {
+                            "api_path": "/artists/4365016",
+                            "header_image_url": "https://images.genius.com/c67226ff08527de69ec32aecb64ecb0c.1000x1000x1.jpg",
+                            "id": 4365016,
+                            "image_url": "https://images.genius.com/786fd2e2bf4ce549de6c808ce86ad08e.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "justinheat5678",
+                            "url": "https://genius.com/artists/Justinheat5678"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 21,
+                    "api_path": "/songs/10556121",
+                    "artist_names": "Charli xcx & Lorde",
+                    "full_title": "Girl, so confusing featuring lorde by\u00a0Charli\u00a0xcx & Lorde",
+                    "header_image_thumbnail_url": "https://images.genius.com/aa88f05d32282e5d5a41f81c405d6981.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/aa88f05d32282e5d5a41f81c405d6981.1000x1000x1.png",
+                    "id": 10556121,
+                    "lyrics_owner_id": 1599419,
+                    "lyrics_state": "complete",
+                    "path": "/Charli-xcx-and-lorde-girl-so-confusing-featuring-lorde-lyrics",
+                    "primary_artist_names": "Charli xcx & Lorde",
+                    "pyongs_count": 34,
+                    "relationships_index_url": "https://genius.com/Charli-xcx-and-lorde-girl-so-confusing-featuring-lorde-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 21
+                    },
+                    "release_date_for_display": "June 21, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 21, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/aa88f05d32282e5d5a41f81c405d6981.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/aa88f05d32282e5d5a41f81c405d6981.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "concurrents": 3,
+                        "hot": false,
+                        "pageviews": 1094928
+                    },
+                    "title": "Girl, so confusing featuring lorde",
+                    "title_with_featured": "Girl, so confusing featuring lorde",
+                    "url": "https://genius.com/Charli-xcx-and-lorde-girl-so-confusing-featuring-lorde-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/45349",
+                        "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+                        "id": 45349,
+                        "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+                        "is_meme_verified": true,
+                        "is_verified": true,
+                        "name": "Charli xcx",
+                        "url": "https://genius.com/artists/Charli-xcx",
+                        "iq": 4520
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/45349",
+                            "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+                            "id": 45349,
+                            "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Charli xcx",
+                            "url": "https://genius.com/artists/Charli-xcx",
+                            "iq": 4520
+                        },
+                        {
+                            "api_path": "/artists/36944",
+                            "header_image_url": "https://images.genius.com/e6e3cc0a1289d2c0795836bbea4617e0.1000x166x1.png",
+                            "id": 36944,
+                            "image_url": "https://images.genius.com/d1917c81a087573157487a4a7354f5f5.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Lorde",
+                            "url": "https://genius.com/artists/Lorde",
+                            "iq": 10285
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11449496",
+                    "artist_names": "Chappell Roan & Charli xcx",
+                    "full_title": "Good Luck, Babe! / Girl, so confusing (Mixed) by\u00a0Chappell\u00a0Roan & Charli\u00a0xcx",
+                    "header_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "id": 11449496,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Chappell-roan-and-charli-xcx-good-luck-babe-girl-so-confusing-mixed-lyrics",
+                    "primary_artist_names": "Chappell Roan & Charli xcx",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Chappell-roan-and-charli-xcx-good-luck-babe-girl-so-confusing-mixed-sample",
+                    "release_date_components": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 29
+                    },
+                    "release_date_for_display": "January 29, 2025",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 29, 2025",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/93191313b15774a13ab56fffd9c5ad0c.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Good Luck, Babe! / Girl, so confusing (Mixed)",
+                    "title_with_featured": "Good Luck, Babe! / Girl, so confusing (Mixed)",
+                    "url": "https://genius.com/Chappell-roan-and-charli-xcx-good-luck-babe-girl-so-confusing-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1190065",
+                        "header_image_url": "https://images.genius.com/52ea5412c09b75f764b4b99010136967.1000x333x1.jpg",
+                        "id": 1190065,
+                        "image_url": "https://images.genius.com/6a89adbee1a3dbf0d0adcbba2dd31bde.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "Chappell Roan",
+                        "url": "https://genius.com/artists/Chappell-roan",
+                        "iq": 835
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1190065",
+                            "header_image_url": "https://images.genius.com/52ea5412c09b75f764b4b99010136967.1000x333x1.jpg",
+                            "id": 1190065,
+                            "image_url": "https://images.genius.com/6a89adbee1a3dbf0d0adcbba2dd31bde.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "Chappell Roan",
+                            "url": "https://genius.com/artists/Chappell-roan",
+                            "iq": 835
+                        },
+                        {
+                            "api_path": "/artists/45349",
+                            "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+                            "id": 45349,
+                            "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Charli xcx",
+                            "url": "https://genius.com/artists/Charli-xcx",
+                            "iq": 4520
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Charli-xcx-girl-so-confusing-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10240665",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "Charli XCX - Girl, so confusing (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/e63ecc9b2192a6007ad423704bc51426.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/e63ecc9b2192a6007ad423704bc51426.999x999x1.jpg",
+                    "id": 10240665,
+                    "lyrics_owner_id": 14637183,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-charli-xcx-girl-so-confusing-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-charli-xcx-girl-so-confusing-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e63ecc9b2192a6007ad423704bc51426.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/e63ecc9b2192a6007ad423704bc51426.999x999x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 6902
+                    },
+                    "title": "Charli XCX - Girl, so confusing (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "Charli XCX - Girl, so confusing (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-charli-xcx-girl-so-confusing-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10424240",
+                    "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "full_title": "Charli xcx - Girl, so confusing (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviriler",
+                    "header_image_thumbnail_url": "https://images.genius.com/78fe018a6343ec61cf354abf6a3b647c.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/78fe018a6343ec61cf354abf6a3b647c.881x881x1.png",
+                    "id": 10424240,
+                    "lyrics_owner_id": 13666838,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-turkce-ceviri-charli-xcx-girl-so-confusing-turkce-ceviri-lyrics",
+                    "primary_artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-charli-xcx-girl-so-confusing-turkce-ceviri-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/78fe018a6343ec61cf354abf6a3b647c.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/78fe018a6343ec61cf354abf6a3b647c.881x881x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (T\u00fcrk\u00e7e \u00c7eviri)",
+                    "url": "https://genius.com/Genius-turkce-ceviri-charli-xcx-girl-so-confusing-turkce-ceviri-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/569121",
+                        "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                        "id": 569121,
+                        "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                        "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/569121",
+                            "header_image_url": "https://images.genius.com/6f30793e5dcbf4ab19b04f3ffbc99ffb.1000x244x1.png",
+                            "id": 569121,
+                            "image_url": "https://images.genius.com/819b23743176d446430d07d83eb354e5.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius T\u00fcrk\u00e7e \u00c7eviriler",
+                            "url": "https://genius.com/artists/Genius-turkce-ceviriler"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/10562482",
+                    "artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "full_title": "Charli xcx - Girl, so confusing (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434) by\u00a0Genius\u00a0Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "header_image_thumbnail_url": "https://images.genius.com/07b6cf4b18a462ecda901522e66e6cda.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/07b6cf4b18a462ecda901522e66e6cda.853x853x1.png",
+                    "id": 10562482,
+                    "lyrics_owner_id": 3964724,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-russian-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "primary_artist_names": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-russian-translations-charli-xcx-girl-so-confusing-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/07b6cf4b18a462ecda901522e66e6cda.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/07b6cf4b18a462ecda901522e66e6cda.853x853x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                    "url": "https://genius.com/Genius-russian-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/498402",
+                        "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                        "id": 498402,
+                        "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                        "url": "https://genius.com/artists/Genius-russian-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/498402",
+                            "header_image_url": "https://images.genius.com/9c0d430be6eb4d16cff2f1eb684b9b25.1000x281x1.png",
+                            "id": 498402,
+                            "image_url": "https://images.genius.com/8ca5ac7bb07bf9a01c494ecc171764fc.512x512x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Russian Translations (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+                            "url": "https://genius.com/artists/Genius-russian-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10549751",
+                    "artist_names": "Genius Traduzioni Italiane",
+                    "full_title": "Charli xcx - Girl, so confusing (Traduzione Italiana) by\u00a0Genius\u00a0Traduzioni Italiane",
+                    "header_image_thumbnail_url": "https://images.genius.com/f794c56a0413ffa73fe1524380d26b36.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f794c56a0413ffa73fe1524380d26b36.441x441x1.png",
+                    "id": 10549751,
+                    "lyrics_owner_id": 4914933,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traduzioni-italiane-charli-xcx-girl-so-confusing-traduzione-italiana-lyrics",
+                    "primary_artist_names": "Genius Traduzioni Italiane",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traduzioni-italiane-charli-xcx-girl-so-confusing-traduzione-italiana-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f794c56a0413ffa73fe1524380d26b36.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f794c56a0413ffa73fe1524380d26b36.441x441x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (Traduzione Italiana)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (Traduzione Italiana)",
+                    "url": "https://genius.com/Genius-traduzioni-italiane-charli-xcx-girl-so-confusing-traduzione-italiana-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1562857",
+                        "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                        "id": 1562857,
+                        "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traduzioni Italiane",
+                        "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1562857",
+                            "header_image_url": "https://images.genius.com/89c6706d260013b9ae14d7819e2958ce.1000x300x1.png",
+                            "id": 1562857,
+                            "image_url": "https://images.genius.com/49c31c28d11fe82955a0c5030853afc7.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traduzioni Italiane",
+                            "url": "https://genius.com/artists/Genius-traduzioni-italiane"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10507345",
+                    "artist_names": "Genius Traductions fran\u00e7aises",
+                    "full_title": "Charli xcx - Girl, so confusing (Traduction fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+                    "header_image_thumbnail_url": "https://images.genius.com/cc3facaee528fb085358664a8e73473a.252x252x1.png",
+                    "header_image_url": "https://images.genius.com/cc3facaee528fb085358664a8e73473a.252x252x1.png",
+                    "id": 10507345,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traductions-francaises-charli-xcx-girl-so-confusing-traduction-francaise-lyrics",
+                    "primary_artist_names": "Genius Traductions fran\u00e7aises",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traductions-francaises-charli-xcx-girl-so-confusing-traduction-francaise-sample",
+                    "release_date_components": null,
+                    "release_date_for_display": null,
+                    "release_date_with_abbreviated_month_for_display": null,
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cc3facaee528fb085358664a8e73473a.252x252x1.png",
+                    "song_art_image_url": "https://images.genius.com/cc3facaee528fb085358664a8e73473a.252x252x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (Traduction fran\u00e7aise)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (Traduction fran\u00e7aise)",
+                    "url": "https://genius.com/Genius-traductions-francaises-charli-xcx-girl-so-confusing-traduction-francaise-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/140856",
+                        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                        "id": 140856,
+                        "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traductions fran\u00e7aises",
+                        "url": "https://genius.com/artists/Genius-traductions-francaises"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/140856",
+                            "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+                            "id": 140856,
+                            "image_url": "https://images.genius.com/19c032fed44f2e15bda26a7d1e4a6ae6.637x637x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traductions fran\u00e7aises",
+                            "url": "https://genius.com/artists/Genius-traductions-francaises"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10500566",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Charli xcx - Girl, so confusing (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/3f195421373d79781f8456186af9bc50.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/3f195421373d79781f8456186af9bc50.1000x1000x1.png",
+                    "id": 10500566,
+                    "lyrics_owner_id": 14506753,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-charli-xcx-girl-so-confusing-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-charli-xcx-girl-so-confusing-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/3f195421373d79781f8456186af9bc50.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/3f195421373d79781f8456186af9bc50.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-charli-xcx-girl-so-confusing-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10499680",
+                    "artist_names": "Polskie t\u0142umaczenia Genius",
+                    "full_title": "Charli xcx - Girl, so confusing (polskie t\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+                    "header_image_thumbnail_url": "https://images.genius.com/5bd50de18dc224df6dcbd6469f3a3657.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5bd50de18dc224df6dcbd6469f3a3657.999x999x1.png",
+                    "id": 10499680,
+                    "lyrics_owner_id": 21719739,
+                    "lyrics_state": "complete",
+                    "path": "/Polskie-tumaczenia-genius-charli-xcx-girl-so-confusing-polskie-tumaczenie-lyrics",
+                    "primary_artist_names": "Polskie t\u0142umaczenia Genius",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-charli-xcx-girl-so-confusing-polskie-tumaczenie-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5bd50de18dc224df6dcbd6469f3a3657.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5bd50de18dc224df6dcbd6469f3a3657.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (polskie t\u0142umaczenie)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (polskie t\u0142umaczenie)",
+                    "url": "https://genius.com/Polskie-tumaczenia-genius-charli-xcx-girl-so-confusing-polskie-tumaczenie-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/161407",
+                        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                        "id": 161407,
+                        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Polskie t\u0142umaczenia Genius",
+                        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/161407",
+                            "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+                            "id": 161407,
+                            "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Polskie t\u0142umaczenia Genius",
+                            "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10677590",
+                    "artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "full_title": "Charli xcx - Girl, so confusing (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "header_image_thumbnail_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.1000x1000x1.png",
+                    "id": 10677590,
+                    "lyrics_owner_id": 21785592,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-hebrew-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "primary_artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-hebrew-translations-charli-xcx-girl-so-confusing-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 4,
+                        "day": 3
+                    },
+                    "release_date_for_display": "April 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Apr. 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/34d321744a8e728edcf34085725dd61e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                    "url": "https://genius.com/Genius-hebrew-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1699245",
+                        "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                        "id": 1699245,
+                        "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                        "url": "https://genius.com/artists/Genius-hebrew-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1699245",
+                            "header_image_url": "https://images.genius.com/41721e91380bfcbeb375cf7bc5e52f65.1000x563x1.jpg",
+                            "id": 1699245,
+                            "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05de\u05d9\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+                            "url": "https://genius.com/artists/Genius-hebrew-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11345456",
+                    "artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "full_title": "Charli xcx - Girl, so confusing (\u010cesk\u00fd p\u0159eklad) by\u00a0Genius\u00a0\u010cesk\u00e9 p\u0159eklady",
+                    "header_image_thumbnail_url": "https://images.genius.com/7d0b41d0f665e56d5f46094fb109fd79.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7d0b41d0f665e56d5f46094fb109fd79.1000x1000x1.png",
+                    "id": 11345456,
+                    "lyrics_owner_id": 21299323,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-ceske-preklady-charli-xcx-girl-so-confusing-cesky-preklad-lyrics",
+                    "primary_artist_names": "Genius \u010cesk\u00e9 p\u0159eklady",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-ceske-preklady-charli-xcx-girl-so-confusing-cesky-preklad-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7d0b41d0f665e56d5f46094fb109fd79.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7d0b41d0f665e56d5f46094fb109fd79.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (\u010cesk\u00fd p\u0159eklad)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (\u010cesk\u00fd p\u0159eklad)",
+                    "url": "https://genius.com/Genius-ceske-preklady-charli-xcx-girl-so-confusing-cesky-preklad-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1827252",
+                        "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "id": 1827252,
+                        "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                        "url": "https://genius.com/artists/Genius-ceske-preklady"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1827252",
+                            "header_image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "id": 1827252,
+                            "image_url": "https://images.genius.com/b9fd276dd131bae0dcda4a6ab3a9ce55.996x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius \u010cesk\u00e9 p\u0159eklady",
+                            "url": "https://genius.com/artists/Genius-ceske-preklady"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10858471",
+                    "artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "full_title": "Charli xcx - Girl, so confusing (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7) by\u00a0Genius\u00a0Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "header_image_thumbnail_url": "https://images.genius.com/d0107731b994487e5c6fa9db52222727.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/d0107731b994487e5c6fa9db52222727.453x453x1.png",
+                    "id": 10858471,
+                    "lyrics_owner_id": 19544002,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-greek-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "primary_artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-greek-translations-charli-xcx-girl-so-confusing-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d0107731b994487e5c6fa9db52222727.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/d0107731b994487e5c6fa9db52222727.453x453x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+                    "url": "https://genius.com/Genius-greek-translations-charli-xcx-girl-so-confusing-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2888256",
+                        "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                        "id": 2888256,
+                        "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                        "url": "https://genius.com/artists/Genius-greek-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2888256",
+                            "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+                            "id": 2888256,
+                            "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+                            "url": "https://genius.com/artists/Genius-greek-translations"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10847344",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Charli xcx - Girl, so confusing (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/f3197451cd985f19c15bdc1fff226be7.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/f3197451cd985f19c15bdc1fff226be7.1000x1000x1.png",
+                    "id": 10847344,
+                    "lyrics_owner_id": 14660310,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-charli-xcx-girl-so-confusing-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-charli-xcx-girl-so-confusing-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/f3197451cd985f19c15bdc1fff226be7.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/f3197451cd985f19c15bdc1fff226be7.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Charli xcx - Girl, so confusing (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Charli xcx - Girl, so confusing (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-charli-xcx-girl-so-confusing-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/10240665",
+            "id": 10240665,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-charli-xcx-girl-so-confusing-traduccion-al-espanol-lyrics",
+            "title": "Charli XCX - Girl, so confusing (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-charli-xcx-girl-so-confusing-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10424240",
+            "id": 10424240,
+            "language": "tr",
+            "lyrics_state": "complete",
+            "path": "/Genius-turkce-ceviri-charli-xcx-girl-so-confusing-turkce-ceviri-lyrics",
+            "title": "Charli xcx - Girl, so confusing (T\u00fcrk\u00e7e \u00c7eviri)",
+            "url": "https://genius.com/Genius-turkce-ceviri-charli-xcx-girl-so-confusing-turkce-ceviri-lyrics"
+        },
+        {
+            "api_path": "/songs/10562482",
+            "id": 10562482,
+            "language": "ru",
+            "lyrics_state": "complete",
+            "path": "/Genius-russian-translations-charli-xcx-girl-so-confusing-lyrics",
+            "title": "Charli xcx - Girl, so confusing (\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434)",
+            "url": "https://genius.com/Genius-russian-translations-charli-xcx-girl-so-confusing-lyrics"
+        },
+        {
+            "api_path": "/songs/10549751",
+            "id": 10549751,
+            "language": "it",
+            "lyrics_state": "complete",
+            "path": "/Genius-traduzioni-italiane-charli-xcx-girl-so-confusing-traduzione-italiana-lyrics",
+            "title": "Charli xcx - Girl, so confusing (Traduzione Italiana)",
+            "url": "https://genius.com/Genius-traduzioni-italiane-charli-xcx-girl-so-confusing-traduzione-italiana-lyrics"
+        },
+        {
+            "api_path": "/songs/10507345",
+            "id": 10507345,
+            "language": "fr",
+            "lyrics_state": "complete",
+            "path": "/Genius-traductions-francaises-charli-xcx-girl-so-confusing-traduction-francaise-lyrics",
+            "title": "Charli xcx - Girl, so confusing (Traduction fran\u00e7aise)",
+            "url": "https://genius.com/Genius-traductions-francaises-charli-xcx-girl-so-confusing-traduction-francaise-lyrics"
+        },
+        {
+            "api_path": "/songs/10500566",
+            "id": 10500566,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-charli-xcx-girl-so-confusing-traducao-em-portugues-lyrics",
+            "title": "Charli xcx - Girl, so confusing (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-charli-xcx-girl-so-confusing-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/10499680",
+            "id": 10499680,
+            "language": "pl",
+            "lyrics_state": "complete",
+            "path": "/Polskie-tumaczenia-genius-charli-xcx-girl-so-confusing-polskie-tumaczenie-lyrics",
+            "title": "Charli xcx - Girl, so confusing (polskie t\u0142umaczenie)",
+            "url": "https://genius.com/Polskie-tumaczenia-genius-charli-xcx-girl-so-confusing-polskie-tumaczenie-lyrics"
+        },
+        {
+            "api_path": "/songs/10677590",
+            "id": 10677590,
+            "language": "iw",
+            "lyrics_state": "complete",
+            "path": "/Genius-hebrew-translations-charli-xcx-girl-so-confusing-lyrics",
+            "title": "Charli xcx - Girl, so confusing (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+            "url": "https://genius.com/Genius-hebrew-translations-charli-xcx-girl-so-confusing-lyrics"
+        },
+        {
+            "api_path": "/songs/11345456",
+            "id": 11345456,
+            "language": "cs",
+            "lyrics_state": "complete",
+            "path": "/Genius-ceske-preklady-charli-xcx-girl-so-confusing-cesky-preklad-lyrics",
+            "title": "Charli xcx - Girl, so confusing (\u010cesk\u00fd p\u0159eklad)",
+            "url": "https://genius.com/Genius-ceske-preklady-charli-xcx-girl-so-confusing-cesky-preklad-lyrics"
+        },
+        {
+            "api_path": "/songs/10858471",
+            "id": 10858471,
+            "language": "el",
+            "lyrics_state": "complete",
+            "path": "/Genius-greek-translations-charli-xcx-girl-so-confusing-lyrics",
+            "title": "Charli xcx - Girl, so confusing (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7)",
+            "url": "https://genius.com/Genius-greek-translations-charli-xcx-girl-so-confusing-lyrics"
+        },
+        {
+            "api_path": "/songs/10847344",
+            "id": 10847344,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-charli-xcx-girl-so-confusing-deutsche-ubersetzung-lyrics",
+            "title": "Charli xcx - Girl, so confusing (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-charli-xcx-girl-so-confusing-deutsche-ubersetzung-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/45349",
+            "header_image_url": "https://images.genius.com/4aa5e7149cf52e9329faf9cd8f9df73d.1000x333x1.jpg",
+            "id": 45349,
+            "image_url": "https://images.genius.com/de46f1e0502570b3e9110df63f1b37f5.605x605x1.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Charli xcx",
+            "url": "https://genius.com/artists/Charli-xcx",
+            "iq": 4520
+        },
+        {
+            "api_path": "/artists/210974",
+            "header_image_url": "https://images.genius.com/12521d81bce69545ca5c0f815befe3f7.1000x799x1.png",
+            "id": 210974,
+            "image_url": "https://images.genius.com/0a9b991453d37430d429610c08121f73.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "A. G. Cook",
+            "url": "https://genius.com/artists/A-g-cook"
+        }
+    ],
+    "artist": "Charli xcx",
+    "lyrics": "81 ContributorsTranslationsEspa\u00f1olT\u00fcrk\u00e7e\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (Russian)ItalianoFran\u00e7aisPortugu\u00easPolski\u05e2\u05d1\u05e8\u05d9\u05ea (Hebrew)\u010cesky\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acDeutschGirl, so confusing Lyrics\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl\nMan, I don't know, I'm just a girl\nGirl, girl, girl, girl\n\nYeah, I don't know if you like me\nSometimes I think you might hate me\nSometimes I think I might hate you\nMaybe you just wanna be me\nYou always say, \"Let's go out\"\nSo we go eat at a restaurant\nSometimes it feels a bit awkward\n'Cause we don't have much in common\n\nPeople say we're alike\nThey say we've got the same hair\nWe talk about making music\nBut I don't know if it's honest\nCan't tell if you wanna see me\nFalling over and failing\nAnd you can't tell what you're feeling\nI think I know how you feel\n\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl\nMan, I don't know, I'm just a girl\nGirl, girl, girl, girl\n\nYou're all about writing poems\nBut I'm about throwing parties\nThink you should come to my party\nAnd put your hands up\nI think we're totally different\nBut opposites do attract\nMaybe we're so meant to be\nJust you and me\n\n'Cause people say we're alike\nThey say we've got the same hair\nOne day we might make some music\nThe internet would go crazy\nBut you might still wanna see me\nFalling over and failing\nAt least we're closer to being\nOn the same page\n\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, it's so confusing sometimes to be a girl\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl, girl, girl\nGirl, how do you feel being a girl?\nGirl, girl\nMan, I don't know, I'm just a girl\nGirl, girl, girl, girl\n\nGirl, girl, girl, girl"
+}

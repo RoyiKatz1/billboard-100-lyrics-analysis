@@ -1,0 +1,2600 @@
+{
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/9359811",
+    "artist_names": "Tyla",
+    "full_title": "Water by\u00a0Tyla",
+    "header_image_thumbnail_url": "https://images.genius.com/106f2de60431db9409b3a29204be249e.300x300x1.png",
+    "header_image_url": "https://images.genius.com/106f2de60431db9409b3a29204be249e.1000x1000x1.png",
+    "id": 9359811,
+    "instrumental": false,
+    "lyrics_owner_id": 393481,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1734084022,
+    "path": "/Tyla-water-lyrics",
+    "primary_artist_names": "Tyla",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Tyla-water-sample",
+    "release_date_components": {
+        "year": 2023,
+        "month": 7,
+        "day": 28
+    },
+    "release_date_for_display": "July 28, 2023",
+    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+    "song_art_image_thumbnail_url": "https://images.genius.com/106f2de60431db9409b3a29204be249e.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/106f2de60431db9409b3a29204be249e.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 1,
+        "contributors": 47,
+        "iq_earners": 47,
+        "transcribers": 2,
+        "unreviewed_annotations": 1,
+        "verified_annotations": 0,
+        "concurrents": 3,
+        "hot": false,
+        "pageviews": 607379
+    },
+    "title": "Water",
+    "title_with_featured": "Water",
+    "updated_by_human_at": 1745244210,
+    "url": "https://genius.com/Tyla-water-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2601015",
+        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+        "id": 2601015,
+        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tyla",
+        "url": "https://genius.com/artists/Tyla"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2601015",
+            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+            "id": 2601015,
+            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyla",
+            "url": "https://genius.com/artists/Tyla"
+        }
+    ],
+    "apple_music_id": "1699082734",
+    "apple_music_player_url": "https://genius.com/songs/9359811/apple_music_player",
+    "description": {
+        "plain": "\u201cWater\u201d serves as the lead single from Tyla\u2019s self-titled debut album. The Pop-Amapiano track began gaining online traction after Tyla shared a TikTok featuring a dance to the chorus of the song created by her choreographer, Lee-ch\u00e9.\n\nThe song ended up landing Tyla her first Grammy nomination and win for Best African Music Performance. It also became her first top 10 hit in the Billboard Hot 100, making her the highest-charting African female solo artist. To push the song, Tyla released a Remix featuring Travis Scott."
+    },
+    "embed_content": "<div id='rg_embed_link_9359811' class='rg_embed_link' data-song-id='9359811'>Read <a href='https://genius.com/Tyla-water-lyrics'>\u201cWater\u201d by Tyla</a> on Genius</div> <script crossorigin src='//genius.com/songs/9359811/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": "SessionsAtlanta Studios (Atlanta, US) and ACP Studios (Cape Town, ZA)",
+    "release_date": "2023-07-28",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#94cfda",
+    "song_art_secondary_color": "#debdb1",
+    "song_art_text_color": "#000000",
+    "album": {
+        "api_path": "/albums/1244443",
+        "cover_art_url": "https://images.genius.com/c5d84079af76004a2e63a1bfc8f42da5.1000x1000x1.png",
+        "full_title": "TYLA + (Plus) by Tyla",
+        "id": 1244443,
+        "name": "TYLA + (Plus)",
+        "primary_artist_names": "Tyla",
+        "release_date_for_display": "October 11, 2024",
+        "url": "https://genius.com/albums/Tyla/Tyla-plus",
+        "artist": {
+            "api_path": "/artists/2601015",
+            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+            "id": 2601015,
+            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyla",
+            "url": "https://genius.com/artists/Tyla"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2601015",
+                "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                "id": 2601015,
+                "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Tyla",
+                "url": "https://genius.com/artists/Tyla"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Mastered At",
+            "artists": [
+                {
+                    "api_path": "/artists/1189403",
+                    "header_image_url": "https://images.genius.com/92ffbd394fa7f8aa0894726b78dea144.1000x333x1.jpg",
+                    "id": 1189403,
+                    "image_url": "https://images.genius.com/e1c0053459c0a02dcf96e3b8a4f4c0b1.387x387x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "SING Mastering",
+                    "url": "https://genius.com/artists/Sing-mastering"
+                }
+            ]
+        },
+        {
+            "label": "Harmony Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1043444",
+                    "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "id": 1043444,
+                    "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ari PenSmith",
+                    "url": "https://genius.com/artists/Ari-pensmith"
+                }
+            ]
+        },
+        {
+            "label": "Additional Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1043444",
+                    "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "id": 1043444,
+                    "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ari PenSmith",
+                    "url": "https://genius.com/artists/Ari-pensmith"
+                }
+            ]
+        },
+        {
+            "label": "Drum Programmer",
+            "artists": [
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                }
+            ]
+        },
+        {
+            "label": "Video Production Assistant",
+            "artists": [
+                {
+                    "api_path": "/artists/4224441",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4224441,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Shane Charles Sourgose",
+                    "url": "https://genius.com/artists/Shane-charles-sourgose"
+                }
+            ]
+        },
+        {
+            "label": "Video Gaffer",
+            "artists": [
+                {
+                    "api_path": "/artists/2253664",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2253664,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Kelvin Yel Rim Cho",
+                    "url": "https://genius.com/artists/Kelvin-yel-rim-cho"
+                }
+            ]
+        },
+        {
+            "label": "Production Manager (Management)",
+            "artists": [
+                {
+                    "api_path": "/artists/3157360",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3157360,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Cara Braglia",
+                    "url": "https://genius.com/artists/Cara-braglia"
+                }
+            ]
+        },
+        {
+            "label": "Video Set Decorator",
+            "artists": [
+                {
+                    "api_path": "/artists/4224440",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4224440,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rasheed Augustin",
+                    "url": "https://genius.com/artists/Rasheed-augustin"
+                }
+            ]
+        },
+        {
+            "label": "Lyricist",
+            "artists": [
+                {
+                    "api_path": "/artists/1043444",
+                    "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "id": 1043444,
+                    "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ari PenSmith",
+                    "url": "https://genius.com/artists/Ari-pensmith"
+                },
+                {
+                    "api_path": "/artists/3506869",
+                    "header_image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "id": 3506869,
+                    "image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Believve",
+                    "url": "https://genius.com/artists/Believve"
+                },
+                {
+                    "api_path": "/artists/3317229",
+                    "header_image_url": "https://images.genius.com/ce1adbb539985777fa55141fe5f82e3b.828x828x1.jpg",
+                    "id": 3317229,
+                    "image_url": "https://images.genius.com/60b4f95bcbc208194905fee3c4290f8f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mocha Bands",
+                    "url": "https://genius.com/artists/Mocha-bands"
+                },
+                {
+                    "api_path": "/artists/2601015",
+                    "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                    "id": 2601015,
+                    "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyla",
+                    "url": "https://genius.com/artists/Tyla"
+                }
+            ]
+        },
+        {
+            "label": "Composer",
+            "artists": [
+                {
+                    "api_path": "/artists/1043444",
+                    "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "id": 1043444,
+                    "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ari PenSmith",
+                    "url": "https://genius.com/artists/Ari-pensmith"
+                },
+                {
+                    "api_path": "/artists/3506869",
+                    "header_image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "id": 3506869,
+                    "image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Believve",
+                    "url": "https://genius.com/artists/Believve"
+                },
+                {
+                    "api_path": "/artists/3317229",
+                    "header_image_url": "https://images.genius.com/ce1adbb539985777fa55141fe5f82e3b.828x828x1.jpg",
+                    "id": 3317229,
+                    "image_url": "https://images.genius.com/60b4f95bcbc208194905fee3c4290f8f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mocha Bands",
+                    "url": "https://genius.com/artists/Mocha-bands"
+                },
+                {
+                    "api_path": "/artists/2341387",
+                    "header_image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+                    "id": 2341387,
+                    "image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack LoMastro",
+                    "url": "https://genius.com/artists/Jack-lomastro"
+                },
+                {
+                    "api_path": "/artists/3133458",
+                    "header_image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "id": 3133458,
+                    "image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Olmo Zucca",
+                    "url": "https://genius.com/artists/Olmo-zucca"
+                },
+                {
+                    "api_path": "/artists/1948594",
+                    "header_image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+                    "id": 1948594,
+                    "image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rayo",
+                    "url": "https://genius.com/artists/Rayo"
+                },
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                },
+                {
+                    "api_path": "/artists/27603",
+                    "header_image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+                    "id": 27603,
+                    "image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+                    "is_meme_verified": true,
+                    "is_verified": true,
+                    "name": "Tricky Stewart",
+                    "url": "https://genius.com/artists/Tricky-stewart",
+                    "iq": 968
+                },
+                {
+                    "api_path": "/artists/2601015",
+                    "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                    "id": 2601015,
+                    "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Tyla",
+                    "url": "https://genius.com/artists/Tyla"
+                }
+            ]
+        },
+        {
+            "label": "Bass",
+            "artists": [
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                }
+            ]
+        },
+        {
+            "label": "Publisher",
+            "artists": [
+                {
+                    "api_path": "/artists/977738",
+                    "header_image_url": "https://images.genius.com/d720903f79d07247b2e73a8f5e76a7d8.1000x324x1.jpg",
+                    "id": 977738,
+                    "image_url": "https://images.genius.com/901cebec5747d582b7f4bba0179aa0a1.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Concord Music Group",
+                    "url": "https://genius.com/artists/Concord-music-group"
+                },
+                {
+                    "api_path": "/artists/3753991",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3753991,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "LoMastro Music Publishing",
+                    "url": "https://genius.com/artists/Lomastro-music-publishing"
+                },
+                {
+                    "api_path": "/artists/3753980",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3753980,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Always Foward Thinking",
+                    "url": "https://genius.com/artists/Always-foward-thinking"
+                },
+                {
+                    "api_path": "/artists/2495155",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2495155,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Levels To This Music",
+                    "url": "https://genius.com/artists/Levels-to-this-music"
+                },
+                {
+                    "api_path": "/artists/1152704",
+                    "header_image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "id": 1152704,
+                    "image_url": "https://images.genius.com/1bb62d274025c1b8d95153f8fd206473.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner/Chappell",
+                    "url": "https://genius.com/artists/Warner-chappell"
+                },
+                {
+                    "api_path": "/artists/2260456",
+                    "header_image_url": "https://images.genius.com/384f084d262a28f484dabcbc496ca1be.463x75x1.png",
+                    "id": 2260456,
+                    "image_url": "https://images.genius.com/6a6dcf2dc647ec800739f5c9fcf19ac8.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Spirit Music Group",
+                    "url": "https://genius.com/artists/Spirit-music-group"
+                },
+                {
+                    "api_path": "/artists/3665754",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 3665754,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "TURNSTILE BAND PUBLISHING",
+                    "url": "https://genius.com/artists/Turnstile-band-publishing"
+                },
+                {
+                    "api_path": "/artists/992219",
+                    "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+                    "id": 992219,
+                    "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Warner-Tamerlane Publishing Corp.",
+                    "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+                },
+                {
+                    "api_path": "/artists/4401677",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 4401677,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Quantum Mirror Publishing",
+                    "url": "https://genius.com/artists/Quantum-mirror-publishing"
+                }
+            ]
+        },
+        {
+            "label": "Recording Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2515496",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2515496,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Richard Ledesma",
+                    "url": "https://genius.com/artists/Richard-ledesma"
+                },
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                },
+                {
+                    "api_path": "/artists/2157876",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2157876,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ebenezer Maxwell",
+                    "url": "https://genius.com/artists/Ebenezer-maxwell"
+                }
+            ]
+        },
+        {
+            "label": "Keyboards",
+            "artists": [
+                {
+                    "api_path": "/artists/2341387",
+                    "header_image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+                    "id": 2341387,
+                    "image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jack LoMastro",
+                    "url": "https://genius.com/artists/Jack-lomastro"
+                }
+            ]
+        },
+        {
+            "label": "Guitar",
+            "artists": [
+                {
+                    "api_path": "/artists/3133458",
+                    "header_image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "id": 3133458,
+                    "image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Olmo Zucca",
+                    "url": "https://genius.com/artists/Olmo-zucca"
+                }
+            ]
+        },
+        {
+            "label": "Co-Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/1948594",
+                    "header_image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+                    "id": 1948594,
+                    "image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Rayo",
+                    "url": "https://genius.com/artists/Rayo"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Video Director",
+            "artists": [
+                {
+                    "api_path": "/artists/1859533",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 1859533,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "\u200bchild. (Director)",
+                    "url": "https://genius.com/artists/Child-director"
+                }
+            ]
+        },
+        {
+            "label": "Vocal Producer",
+            "artists": [
+                {
+                    "api_path": "/artists/3506869",
+                    "header_image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "id": 3506869,
+                    "image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Believve",
+                    "url": "https://genius.com/artists/Believve"
+                },
+                {
+                    "api_path": "/artists/2157876",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2157876,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ebenezer Maxwell",
+                    "url": "https://genius.com/artists/Ebenezer-maxwell"
+                },
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1184816",
+                    "header_image_url": "https://images.genius.com/aa3ac05651ae1b5cc97b59e13cc7df29.721x721x1.jpg",
+                    "id": 1184816,
+                    "image_url": "https://images.genius.com/aa3ac05651ae1b5cc97b59e13cc7df29.721x721x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Leandro \u201cDro\u201d Hidalgo",
+                    "url": "https://genius.com/artists/Leandro-dro-hidalgo"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/587689",
+                    "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "id": 587689,
+                    "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Colin Leonard",
+                    "url": "https://genius.com/artists/Colin-leonard"
+                }
+            ]
+        },
+        {
+            "label": "Background Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/1043444",
+                    "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "id": 1043444,
+                    "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Ari PenSmith",
+                    "url": "https://genius.com/artists/Ari-pensmith"
+                },
+                {
+                    "api_path": "/artists/3317229",
+                    "header_image_url": "https://images.genius.com/ce1adbb539985777fa55141fe5f82e3b.828x828x1.jpg",
+                    "id": 3317229,
+                    "image_url": "https://images.genius.com/60b4f95bcbc208194905fee3c4290f8f.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Mocha Bands",
+                    "url": "https://genius.com/artists/Mocha-bands"
+                },
+                {
+                    "api_path": "/artists/3506869",
+                    "header_image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "id": 3506869,
+                    "image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Believve",
+                    "url": "https://genius.com/artists/Believve"
+                },
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                }
+            ]
+        },
+        {
+            "label": "Arranger",
+            "artists": [
+                {
+                    "api_path": "/artists/1569669",
+                    "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "id": 1569669,
+                    "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sammy Soso",
+                    "url": "https://genius.com/artists/Sammy-soso"
+                },
+                {
+                    "api_path": "/artists/3133458",
+                    "header_image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "id": 3133458,
+                    "image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Olmo Zucca",
+                    "url": "https://genius.com/artists/Olmo-zucca"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/2892082",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2892082,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FAX Records",
+                    "url": "https://genius.com/artists/Fax-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/2892082",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2892082,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FAX Records",
+                    "url": "https://genius.com/artists/Fax-records"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/49879",
+                    "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "id": 49879,
+                    "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": true,
+                    "name": "Epic Records",
+                    "url": "https://genius.com/artists/Epic-records",
+                    "iq": 100
+                },
+                {
+                    "api_path": "/artists/2892082",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "id": 2892082,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "FAX Records",
+                    "url": "https://genius.com/artists/Fax-records"
+                },
+                {
+                    "api_path": "/artists/88331",
+                    "header_image_url": "https://images.genius.com/fa5ad64edbc5e55390de43364de7c739.1000x333x1.webp",
+                    "id": 88331,
+                    "image_url": "https://images.genius.com/8ccecdf61439d2f6236c3e88a8a8e2cc.1000x1000x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Sony Music Entertainment",
+                    "url": "https://genius.com/artists/Sony-music-entertainment"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 11809232,
+        "annotator_login": "DistESP",
+        "api_path": "/referents/30230932",
+        "classification": "accepted",
+        "fragment": "Water",
+        "id": 30230932,
+        "is_description": true,
+        "path": "/30230932/Tyla-water/Water",
+        "range": {
+            "content": "Water"
+        },
+        "song_id": 9359811,
+        "url": "https://genius.com/30230932/Tyla-water/Water",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/9359811",
+            "client_timestamps": {
+                "updated_by_human_at": 1745244210,
+                "lyrics_updated_at": 1734084022
+            },
+            "context": "Tyla",
+            "id": 9359811,
+            "image_url": "https://images.genius.com/106f2de60431db9409b3a29204be249e.1000x1000x1.png",
+            "link_title": "Water by\u00a0Tyla",
+            "title": "Water",
+            "type": "Song",
+            "url": "https://genius.com/Tyla-water-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/30230932",
+                "body": {
+                    "plain": "\u201cWater\u201d serves as the lead single from Tyla\u2019s self-titled debut album. The Pop-Amapiano track began gaining online traction after Tyla shared a TikTok featuring a dance to the chorus of the song created by her choreographer, Lee-ch\u00e9.\n\nThe song ended up landing Tyla her first Grammy nomination and win for Best African Music Performance. It also became her first top 10 hit in the Billboard Hot 100, making her the highest-charting African female solo artist. To push the song, Tyla released a Remix featuring Travis Scott."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 30230932,
+                "pinned": false,
+                "share_url": "https://genius.com/30230932",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/30230932/Tyla-water/Water",
+                "verified": false,
+                "votes_total": 31,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/11809232",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://filepicker-images.genius.com/j1dr76r5yh",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://filepicker-images.genius.com/9x2lczqf9og",
+                            "human_readable_role_for_display": "Editor",
+                            "id": 11809232,
+                            "iq": 196172,
+                            "login": "DistESP",
+                            "name": "DistESP",
+                            "role_for_display": "editor",
+                            "url": "https://genius.com/DistESP",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/393481",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/604363f092f0359974e634a58a9945d8",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/604363f092f0359974e634a58a9945d8",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/604363f092f0359974e634a58a9945d8",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/604363f092f0359974e634a58a9945d8",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://filepicker-images.genius.com/snnap5nx0i",
+        "human_readable_role_for_display": "Transcriber",
+        "id": 393481,
+        "iq": 651864,
+        "login": "Gift_RealG",
+        "name": "Gift_RealG",
+        "role_for_display": "transcriber",
+        "url": "https://genius.com/Gift_RealG",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": null,
+    "media": [
+        {
+            "attribution": "tylamusic",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/tylamusic/water"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=XoiOOiuH8iI"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1569669",
+            "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+            "id": 1569669,
+            "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sammy Soso",
+            "url": "https://genius.com/artists/Sammy-soso"
+        },
+        {
+            "api_path": "/artists/1948594",
+            "header_image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+            "id": 1948594,
+            "image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rayo",
+            "url": "https://genius.com/artists/Rayo"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 3,
+                    "api_path": "/songs/9753872",
+                    "artist_names": "TDG",
+                    "full_title": "Without My Heart by\u00a0TDG",
+                    "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "id": 9753872,
+                    "lyrics_owner_id": 21311329,
+                    "lyrics_state": "complete",
+                    "path": "/Tdg-without-my-heart-lyrics",
+                    "primary_artist_names": "TDG",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tdg-without-my-heart-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 10,
+                        "day": 20
+                    },
+                    "release_date_for_display": "October 20, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 20, 2023",
+                    "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1747928562",
+                    "stats": {
+                        "unreviewed_annotations": 3,
+                        "hot": false
+                    },
+                    "title": "Without My Heart",
+                    "title_with_featured": "Without My Heart",
+                    "url": "https://genius.com/Tdg-without-my-heart-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3012874",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 3012874,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "TDG",
+                        "url": "https://genius.com/artists/Tdg"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3012874",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3012874,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "TDG",
+                            "url": "https://genius.com/artists/Tdg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10147248",
+                    "artist_names": "Big Choo (Ft. ReUp Reedy)",
+                    "full_title": "Water by\u00a0Big\u00a0Choo (Ft.\u00a0ReUp\u00a0Reedy)",
+                    "header_image_thumbnail_url": "https://images.genius.com/66b2286f3eb62720056002ac0032e3c2.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/66b2286f3eb62720056002ac0032e3c2.1000x1000x1.jpg",
+                    "id": 10147248,
+                    "lyrics_owner_id": 7655824,
+                    "lyrics_state": "complete",
+                    "path": "/Big-choo-water-lyrics",
+                    "primary_artist_names": "Big Choo",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Big-choo-water-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 4
+                    },
+                    "release_date_for_display": "January 4, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 4, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/66b2286f3eb62720056002ac0032e3c2.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/66b2286f3eb62720056002ac0032e3c2.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water",
+                    "title_with_featured": "Water (Ft.\u00a0ReUp\u00a0Reedy)",
+                    "url": "https://genius.com/Big-choo-water-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/1794672",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 1794672,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "ReUp Reedy",
+                            "url": "https://genius.com/artists/Reup-reedy"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/2483609",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 2483609,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Big Choo",
+                        "url": "https://genius.com/artists/Big-choo"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2483609",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 2483609,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Big Choo",
+                            "url": "https://genius.com/artists/Big-choo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": "https://genius.com/Tyla-water-sample/interpolations",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9948500",
+                    "artist_names": "ZULO (Ft. Flow Jones Jr.)",
+                    "full_title": "JOL by\u00a0ZULO (Ft.\u00a0Flow\u00a0Jones Jr.)",
+                    "header_image_thumbnail_url": "https://images.genius.com/7264df8f6ddb5daa91ee263734fe604a.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/7264df8f6ddb5daa91ee263734fe604a.900x900x1.png",
+                    "id": 9948500,
+                    "lyrics_owner_id": 271175,
+                    "lyrics_state": "complete",
+                    "path": "/Zulo-jol-lyrics",
+                    "primary_artist_names": "ZULO",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Zulo-jol-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 1,
+                        "day": 26
+                    },
+                    "release_date_for_display": "January 26, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jan. 26, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/7264df8f6ddb5daa91ee263734fe604a.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/7264df8f6ddb5daa91ee263734fe604a.900x900x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "JOL",
+                    "title_with_featured": "JOL (Ft.\u00a0Flow\u00a0Jones Jr.)",
+                    "url": "https://genius.com/Zulo-jol-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/986761",
+                            "header_image_url": "https://images.genius.com/b2215631578cb80a669764caf0aea64c.1000x333x1.jpg",
+                            "id": 986761,
+                            "image_url": "https://images.genius.com/777d1ce139f3538713cf1d7e49e21fc5.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Flow Jones Jr.",
+                            "url": "https://genius.com/artists/Flow-jones-jr"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/66605",
+                        "header_image_url": "https://images.genius.com/85e6c844740804cecee60e906df8d4b3.1000x429x1.jpg",
+                        "id": 66605,
+                        "image_url": "https://images.genius.com/c410ba64b0ec3c4081c86f8d099bef76.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "ZULO",
+                        "url": "https://genius.com/artists/Zulo",
+                        "iq": 3660
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/66605",
+                            "header_image_url": "https://images.genius.com/85e6c844740804cecee60e906df8d4b3.1000x429x1.jpg",
+                            "id": 66605,
+                            "image_url": "https://images.genius.com/c410ba64b0ec3c4081c86f8d099bef76.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "ZULO",
+                            "url": "https://genius.com/artists/Zulo",
+                            "iq": 3660
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 4,
+                    "api_path": "/songs/11224573",
+                    "artist_names": "DJ Earworm",
+                    "full_title": "United State of Pop 2024 (Blame It On The Whiskey) by\u00a0DJ\u00a0Earworm",
+                    "header_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "id": 11224573,
+                    "lyrics_owner_id": 6685173,
+                    "lyrics_state": "complete",
+                    "path": "/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "primary_artist_names": "DJ Earworm",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 12,
+                        "day": 11
+                    },
+                    "release_date_for_display": "December 11, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 11, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b5e2929ba9f99877a7b7b1510d6721ec.500x500x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 4,
+                        "hot": false
+                    },
+                    "title": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "title_with_featured": "United State of Pop 2024 (Blame It On The Whiskey)",
+                    "url": "https://genius.com/Dj-earworm-united-state-of-pop-2024-blame-it-on-the-whiskey-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/190620",
+                        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                        "id": 190620,
+                        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "DJ Earworm",
+                        "url": "https://genius.com/artists/Dj-earworm"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/190620",
+                            "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+                            "id": 190620,
+                            "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "DJ Earworm",
+                            "url": "https://genius.com/artists/Dj-earworm"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/5094138",
+                    "artist_names": "K CAMP",
+                    "full_title": "Ice Cold by\u00a0K\u00a0CAMP",
+                    "header_image_thumbnail_url": "https://images.genius.com/4ecd7ed93a49b1ea9e3a79506cc4a7ca.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/4ecd7ed93a49b1ea9e3a79506cc4a7ca.516x516x1.jpg",
+                    "id": 5094138,
+                    "lyrics_owner_id": 498964,
+                    "lyrics_state": "complete",
+                    "path": "/K-camp-ice-cold-lyrics",
+                    "primary_artist_names": "K CAMP",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/K-camp-ice-cold-sample",
+                    "release_date_components": {
+                        "year": 2019,
+                        "month": 12,
+                        "day": 13
+                    },
+                    "release_date_for_display": "December 13, 2019",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/4ecd7ed93a49b1ea9e3a79506cc4a7ca.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/4ecd7ed93a49b1ea9e3a79506cc4a7ca.516x516x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 88577
+                    },
+                    "title": "Ice Cold",
+                    "title_with_featured": "Ice Cold",
+                    "url": "https://genius.com/K-camp-ice-cold-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/20742",
+                        "header_image_url": "https://images.genius.com/343b6179eea7958fc1bcb5a43f86a741.1000x1000x1.jpg",
+                        "id": 20742,
+                        "image_url": "https://images.genius.com/937899817bbca48d3fbf47a8d864ae81.807x807x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": true,
+                        "name": "K CAMP",
+                        "url": "https://genius.com/artists/K-camp",
+                        "iq": 1604
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/20742",
+                            "header_image_url": "https://images.genius.com/343b6179eea7958fc1bcb5a43f86a741.1000x1000x1.jpg",
+                            "id": 20742,
+                            "image_url": "https://images.genius.com/937899817bbca48d3fbf47a8d864ae81.807x807x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": true,
+                            "name": "K CAMP",
+                            "url": "https://genius.com/artists/K-camp",
+                            "iq": 1604
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/10766421",
+                    "artist_names": "Dogukan \"D Swish\" Tas",
+                    "full_title": "Erding\u2018s Finest by\u00a0Dogukan\u00a0\"D Swish\" Tas",
+                    "header_image_thumbnail_url": "https://images.genius.com/a9e8783fa923a531f7e4c1c85a912bea.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a9e8783fa923a531f7e4c1c85a912bea.1000x1000x1.jpg",
+                    "id": 10766421,
+                    "lyrics_owner_id": 21078403,
+                    "lyrics_state": "complete",
+                    "path": "/Dogukan-d-swish-tas-erdings-finest-lyrics",
+                    "primary_artist_names": "Dogukan \"D Swish\" Tas",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Dogukan-d-swish-tas-erdings-finest-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 9
+                    },
+                    "release_date_for_display": "August 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a9e8783fa923a531f7e4c1c85a912bea.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a9e8783fa923a531f7e4c1c85a912bea.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 7,
+                        "hot": false
+                    },
+                    "title": "Erding\u2018s Finest",
+                    "title_with_featured": "Erding\u2018s Finest",
+                    "url": "https://genius.com/Dogukan-d-swish-tas-erdings-finest-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/4070155",
+                        "header_image_url": "https://images.genius.com/cdcf03dfa371164f86cf59b6dfd23fa1.948x948x1.jpg",
+                        "id": 4070155,
+                        "image_url": "https://images.genius.com/cdcf03dfa371164f86cf59b6dfd23fa1.948x948x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dogukan \u201cD Swish\u201d Tas",
+                        "url": "https://genius.com/artists/Dogukan-d-swish-tas"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4070155",
+                            "header_image_url": "https://images.genius.com/cdcf03dfa371164f86cf59b6dfd23fa1.948x948x1.jpg",
+                            "id": 4070155,
+                            "image_url": "https://images.genius.com/cdcf03dfa371164f86cf59b6dfd23fa1.948x948x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Dogukan \u201cD Swish\u201d Tas",
+                            "url": "https://genius.com/artists/Dogukan-d-swish-tas"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10180573",
+                    "artist_names": "Caleb Truter",
+                    "full_title": "Wet [LYRICS] by\u00a0Caleb\u00a0Truter",
+                    "header_image_thumbnail_url": "https://images.genius.com/33377cdf4d22abbd66fbc49d8e5fbdc5.300x225x1.jpg",
+                    "header_image_url": "https://images.genius.com/33377cdf4d22abbd66fbc49d8e5fbdc5.480x360x1.jpg",
+                    "id": 10180573,
+                    "lyrics_owner_id": 21673745,
+                    "lyrics_state": "complete",
+                    "path": "/Caleb-truter-wet-lyrics-lyrics",
+                    "primary_artist_names": "Caleb Truter",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Caleb-truter-wet-lyrics-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 3,
+                        "day": 7
+                    },
+                    "release_date_for_display": "March 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Mar. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/33377cdf4d22abbd66fbc49d8e5fbdc5.300x225x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/33377cdf4d22abbd66fbc49d8e5fbdc5.480x360x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Wet [LYRICS]",
+                    "title_with_featured": "Wet [LYRICS]",
+                    "url": "https://genius.com/Caleb-truter-wet-lyrics-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/3148885",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 3148885,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Caleb Truter",
+                        "url": "https://genius.com/artists/Caleb-truter"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/3148885",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 3148885,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Caleb Truter",
+                            "url": "https://genius.com/artists/Caleb-truter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11249911",
+                    "artist_names": "The Mayestic Vibez (Ft. Tyla)",
+                    "full_title": "Water (Remake) by\u00a0The\u00a0Mayestic Vibez (Ft.\u00a0Tyla)",
+                    "header_image_thumbnail_url": "https://music.apple.com/us/album/water-single/1699082722",
+                    "header_image_url": "https://music.apple.com/us/album/water-single/1699082722",
+                    "id": 11249911,
+                    "lyrics_owner_id": 22460230,
+                    "lyrics_state": "complete",
+                    "path": "/The-mayestic-vibez-water-remake-lyrics",
+                    "primary_artist_names": "The Mayestic Vibez",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/The-mayestic-vibez-water-remake-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 8,
+                        "day": 25
+                    },
+                    "release_date_for_display": "August 25, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Aug. 25, 2024",
+                    "song_art_image_thumbnail_url": "https://music.apple.com/us/album/water-single/1699082722",
+                    "song_art_image_url": "https://music.apple.com/us/album/water-single/1699082722",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "Water (Remake)",
+                    "title_with_featured": "Water (Remake) (Ft.\u00a0Tyla)",
+                    "url": "https://genius.com/The-mayestic-vibez-water-remake-lyrics",
+                    "featured_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ],
+                    "primary_artist": {
+                        "api_path": "/artists/4224960",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "id": 4224960,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "The Mayestic Vibez",
+                        "url": "https://genius.com/artists/The-mayestic-vibez"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/4224960",
+                            "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "id": 4224960,
+                            "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747928562",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "The Mayestic Vibez",
+                            "url": "https://genius.com/artists/The-mayestic-vibez"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": "https://genius.com/Tyla-water-sample/remixes",
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/9742706",
+                    "artist_names": "Tyla & Marshmello",
+                    "full_title": "Water by\u00a0Tyla & Marshmello",
+                    "header_image_thumbnail_url": "https://images.genius.com/b6ffcc580a5f6ff6322ec57cfbe66d4b.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/b6ffcc580a5f6ff6322ec57cfbe66d4b.1000x1000x1.jpg",
+                    "id": 9742706,
+                    "lyrics_owner_id": 11809232,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-and-marshmello-water-lyrics",
+                    "primary_artist_names": "Tyla & Marshmello",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-and-marshmello-water-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 17
+                    },
+                    "release_date_for_display": "November 17, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 17, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b6ffcc580a5f6ff6322ec57cfbe66d4b.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/b6ffcc580a5f6ff6322ec57cfbe66d4b.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false,
+                        "pageviews": 6382
+                    },
+                    "title": "Water",
+                    "title_with_featured": "Water",
+                    "url": "https://genius.com/Tyla-and-marshmello-water-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        },
+                        {
+                            "api_path": "/artists/582361",
+                            "header_image_url": "https://images.genius.com/2b3c4e48b5f77f1708282ac17d3ce6db.1000x661x1.jpg",
+                            "id": 582361,
+                            "image_url": "https://images.genius.com/14b930191a40dee18e232b53b899ebd8.640x640x1.jpg",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Marshmello",
+                            "url": "https://genius.com/artists/Marshmello",
+                            "iq": 1335
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 7,
+                    "api_path": "/songs/9742274",
+                    "artist_names": "Tyla & Travis Scott",
+                    "full_title": "Water (Remix) by\u00a0Tyla & Travis\u00a0Scott",
+                    "header_image_thumbnail_url": "https://images.genius.com/cf2747004fd0c5615104a4af53c02c16.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/cf2747004fd0c5615104a4af53c02c16.1000x1000x1.png",
+                    "id": 9742274,
+                    "lyrics_owner_id": 11809232,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-and-travis-scott-water-remix-lyrics",
+                    "primary_artist_names": "Tyla & Travis Scott",
+                    "pyongs_count": 3,
+                    "relationships_index_url": "https://genius.com/Tyla-and-travis-scott-water-remix-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 17
+                    },
+                    "release_date_for_display": "November 17, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 17, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/cf2747004fd0c5615104a4af53c02c16.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/cf2747004fd0c5615104a4af53c02c16.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 5,
+                        "hot": false,
+                        "pageviews": 50642
+                    },
+                    "title": "Water (Remix)",
+                    "title_with_featured": "Water (Remix)",
+                    "url": "https://genius.com/Tyla-and-travis-scott-water-remix-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        },
+                        {
+                            "api_path": "/artists/20185",
+                            "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+                            "id": 20185,
+                            "image_url": "https://images.genius.com/e99f1c2555245961549d4b2484760424.1000x1000x1.png",
+                            "is_meme_verified": true,
+                            "is_verified": true,
+                            "name": "Travis Scott",
+                            "url": "https://genius.com/artists/Travis-scott",
+                            "iq": 6708
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9778637",
+                    "artist_names": "Capella Grey",
+                    "full_title": "Water by\u00a0Capella\u00a0Grey",
+                    "header_image_thumbnail_url": "https://images.genius.com/9001c7253ca2e1c225494b8272ddd2cb.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/9001c7253ca2e1c225494b8272ddd2cb.1000x1000x1.jpg",
+                    "id": 9778637,
+                    "lyrics_owner_id": 9706426,
+                    "lyrics_state": "complete",
+                    "path": "/Capella-grey-water-lyrics",
+                    "primary_artist_names": "Capella Grey",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Capella-grey-water-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 11,
+                        "day": 21
+                    },
+                    "release_date_for_display": "November 21, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Nov. 21, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/9001c7253ca2e1c225494b8272ddd2cb.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/9001c7253ca2e1c225494b8272ddd2cb.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water",
+                    "title_with_featured": "Water",
+                    "url": "https://genius.com/Capella-grey-water-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2461974",
+                        "header_image_url": "https://images.genius.com/f42ecfdabdb1a7ee16052a6040d04d12.1000x557x1.png",
+                        "id": 2461974,
+                        "image_url": "https://images.genius.com/9100d304fcc590e9e9b3a6bf104b2710.399x399x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Capella Grey",
+                        "url": "https://genius.com/artists/Capella-grey"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2461974",
+                            "header_image_url": "https://images.genius.com/f42ecfdabdb1a7ee16052a6040d04d12.1000x557x1.png",
+                            "id": 2461974,
+                            "image_url": "https://images.genius.com/9100d304fcc590e9e9b3a6bf104b2710.399x399x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Capella Grey",
+                            "url": "https://genius.com/artists/Capella-grey"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10065335",
+                    "artist_names": "Tesher",
+                    "full_title": "Water by\u00a0Tesher",
+                    "header_image_thumbnail_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.473x473x1.jpg",
+                    "id": 10065335,
+                    "lyrics_owner_id": 9706426,
+                    "lyrics_state": "unreleased",
+                    "path": "/Tesher-water-lyrics",
+                    "primary_artist_names": "Tesher",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tesher-water-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 13
+                    },
+                    "release_date_for_display": "February 13, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 13, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.473x473x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water",
+                    "title_with_featured": "Water",
+                    "url": "https://genius.com/Tesher-water-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2121748",
+                        "header_image_url": "https://images.genius.com/faec93db0cf2e0794a83393b5ee0f4dc.650x650x1.jpg",
+                        "id": 2121748,
+                        "image_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.473x473x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tesher",
+                        "url": "https://genius.com/artists/Tesher"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2121748",
+                            "header_image_url": "https://images.genius.com/faec93db0cf2e0794a83393b5ee0f4dc.650x650x1.jpg",
+                            "id": 2121748,
+                            "image_url": "https://images.genius.com/0aea3e3323e45bb0c94b99a4fc12c45f.473x473x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tesher",
+                            "url": "https://genius.com/artists/Tesher"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10037800",
+                    "artist_names": "Tyla",
+                    "full_title": "Water (James Hype Remix) [Mixed] by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/5ba72ea54030a6bb06a075ec4f412311.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/5ba72ea54030a6bb06a075ec4f412311.999x999x1.png",
+                    "id": 10037800,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-water-james-hype-remix-mixed-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-water-james-hype-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 2,
+                        "day": 9
+                    },
+                    "release_date_for_display": "February 9, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Feb. 9, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/5ba72ea54030a6bb06a075ec4f412311.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/5ba72ea54030a6bb06a075ec4f412311.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water (James Hype Remix) [Mixed]",
+                    "title_with_featured": "Water (James Hype Remix) [Mixed]",
+                    "url": "https://genius.com/Tyla-water-james-hype-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10353456",
+                    "artist_names": "Tyla",
+                    "full_title": "Water (James Hype Remix) [Mixed] [May 2024] by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.999x999x1.png",
+                    "id": 10353456,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-water-james-hype-remix-mixed-may-2024-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-water-james-hype-remix-mixed-may-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 5,
+                        "day": 3
+                    },
+                    "release_date_for_display": "May 3, 2024",
+                    "release_date_with_abbreviated_month_for_display": "May 3, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/98898a24c5e042c4410363f80ac7cce4.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water (James Hype Remix) [Mixed] [May 2024]",
+                    "title_with_featured": "Water (James Hype Remix) [Mixed] [May 2024]",
+                    "url": "https://genius.com/Tyla-water-james-hype-remix-mixed-may-2024-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10502005",
+                    "artist_names": "Tyla",
+                    "full_title": "Water (Mixed) [Africa Now: June 2024] by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/b88740808ffde8f67001ef9ae6a924e2.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/b88740808ffde8f67001ef9ae6a924e2.1000x1000x1.png",
+                    "id": 10502005,
+                    "lyrics_owner_id": 8326769,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-water-mixed-africa-now-june-2024-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-water-mixed-africa-now-june-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/b88740808ffde8f67001ef9ae6a924e2.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/b88740808ffde8f67001ef9ae6a924e2.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water (Mixed) [Africa Now: June 2024]",
+                    "title_with_featured": "Water (Mixed) [Africa Now: June 2024]",
+                    "url": "https://genius.com/Tyla-water-mixed-africa-now-june-2024-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10502172",
+                    "artist_names": "Tyla",
+                    "full_title": "Water (Sebastian Wibe Remix) [Mixed] by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "id": 10502172,
+                    "lyrics_owner_id": 11677218,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-water-sebastian-wibe-remix-mixed-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-water-sebastian-wibe-remix-mixed-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 6,
+                        "day": 7
+                    },
+                    "release_date_for_display": "June 7, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Jun. 7, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/e8776d117350ce3f44a9fbfd3faabb3f.999x999x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water (Sebastian Wibe Remix) [Mixed]",
+                    "title_with_featured": "Water (Sebastian Wibe Remix) [Mixed]",
+                    "url": "https://genius.com/Tyla-water-sebastian-wibe-remix-mixed-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 1,
+                    "api_path": "/songs/11035810",
+                    "artist_names": "Tyla",
+                    "full_title": "PUSH 2 START / Water (Live from the Victoria\u2019s Secret Fashion Show 2024) by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/d3c677b186cc4fa6b850809314207917.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/d3c677b186cc4fa6b850809314207917.1000x1000x1.jpg",
+                    "id": 11035810,
+                    "lyrics_owner_id": 6251738,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-push-2-start-water-live-from-the-victorias-secret-fashion-show-2024-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-push-2-start-water-live-from-the-victorias-secret-fashion-show-2024-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 10,
+                        "day": 18
+                    },
+                    "release_date_for_display": "October 18, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Oct. 18, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/d3c677b186cc4fa6b850809314207917.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/d3c677b186cc4fa6b850809314207917.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 1,
+                        "hot": false
+                    },
+                    "title": "PUSH 2 START / Water (Live from the Victoria\u2019s Secret Fashion Show 2024)",
+                    "title_with_featured": "PUSH 2 START / Water (Live from the Victoria\u2019s Secret Fashion Show 2024)",
+                    "url": "https://genius.com/Tyla-push-2-start-water-live-from-the-victorias-secret-fashion-show-2024-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9917218",
+                    "artist_names": "Tyla",
+                    "full_title": "Water (Mixed) [Apple Music Live: NYE 2024, Papi Juice] by\u00a0Tyla",
+                    "header_image_thumbnail_url": "https://images.genius.com/66f38969ea3c1227f8784ffaa2e3d90e.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/66f38969ea3c1227f8784ffaa2e3d90e.1000x1000x1.png",
+                    "id": 9917218,
+                    "lyrics_owner_id": 4212581,
+                    "lyrics_state": "complete",
+                    "path": "/Tyla-water-mixed-apple-music-live-nye-2024-papi-juice-lyrics",
+                    "primary_artist_names": "Tyla",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Tyla-water-mixed-apple-music-live-nye-2024-papi-juice-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 12,
+                        "day": 31
+                    },
+                    "release_date_for_display": "December 31, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Dec. 31, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/66f38969ea3c1227f8784ffaa2e3d90e.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/66f38969ea3c1227f8784ffaa2e3d90e.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Water (Mixed) [Apple Music Live: NYE 2024, Papi Juice]",
+                    "title_with_featured": "Water (Mixed) [Apple Music Live: NYE 2024, Papi Juice]",
+                    "url": "https://genius.com/Tyla-water-mixed-apple-music-live-nye-2024-papi-juice-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/2601015",
+                        "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                        "id": 2601015,
+                        "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Tyla",
+                        "url": "https://genius.com/artists/Tyla"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/2601015",
+                            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+                            "id": 2601015,
+                            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Tyla",
+                            "url": "https://genius.com/artists/Tyla"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": "https://genius.com/Tyla-water-sample/translations",
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9649789",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "Tyla - Water (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "id": 9649789,
+                    "lyrics_owner_id": 18227249,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-tyla-water-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-tyla-water-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 28
+                    },
+                    "release_date_for_display": "July 28, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 13371
+                    },
+                    "title": "Tyla - Water (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "Tyla - Water (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-tyla-water-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9681022",
+                    "artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "full_title": "Tyla - Water (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+                    "header_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "id": 9681022,
+                    "lyrics_owner_id": 14660310,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-deutsche-ubersetzungen-tyla-water-deutsche-ubersetzung-lyrics",
+                    "primary_artist_names": "Genius Deutsche \u00dcbersetzungen",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-tyla-water-deutsche-ubersetzung-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 28
+                    },
+                    "release_date_for_display": "July 28, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 30703
+                    },
+                    "title": "Tyla - Water (Deutsche \u00dcbersetzung)",
+                    "title_with_featured": "Tyla - Water (Deutsche \u00dcbersetzung)",
+                    "url": "https://genius.com/Genius-deutsche-ubersetzungen-tyla-water-deutsche-ubersetzung-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1799569",
+                        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                        "id": 1799569,
+                        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Deutsche \u00dcbersetzungen",
+                        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1799569",
+                            "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+                            "id": 1799569,
+                            "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Deutsche \u00dcbersetzungen",
+                            "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/9698519",
+                    "artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "full_title": "\u200bTyla - Water (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+                    "header_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "id": 9698519,
+                    "lyrics_owner_id": 15369872,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-traducciones-al-espanol-tyla-water-traduccion-al-espanol-lyrics",
+                    "primary_artist_names": "Genius Traducciones al Espa\u00f1ol",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-tyla-water-traduccion-al-espanol-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 28
+                    },
+                    "release_date_for_display": "July 28, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/403de4d257be9a677be4d70dfab97e6b.1000x1000x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false,
+                        "pageviews": 10104
+                    },
+                    "title": "\u200bTyla - Water (Traducci\u00f3n al Espa\u00f1ol)",
+                    "title_with_featured": "\u200bTyla - Water (Traducci\u00f3n al Espa\u00f1ol)",
+                    "url": "https://genius.com/Genius-traducciones-al-espanol-tyla-water-traduccion-al-espanol-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1376254",
+                        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                        "id": 1376254,
+                        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Traducciones al Espa\u00f1ol",
+                        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1376254",
+                            "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+                            "id": 1376254,
+                            "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Traducciones al Espa\u00f1ol",
+                            "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+                        }
+                    ]
+                },
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/10089753",
+                    "artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "full_title": "Tyla - Water (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22) by\u00a0Genius\u00a0Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "header_image_thumbnail_url": "https://images.genius.com/8afeaedbfeb144a80a602b39c48e58d6.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/8afeaedbfeb144a80a602b39c48e58d6.1000x1000x1.jpg",
+                    "id": 10089753,
+                    "lyrics_owner_id": 16463578,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-thai-translations-tyla-water-lyrics",
+                    "primary_artist_names": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-thai-translations-tyla-water-sample",
+                    "release_date_components": {
+                        "year": 2023,
+                        "month": 7,
+                        "day": 28
+                    },
+                    "release_date_for_display": "July 28, 2023",
+                    "release_date_with_abbreviated_month_for_display": "Jul. 28, 2023",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/8afeaedbfeb144a80a602b39c48e58d6.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/8afeaedbfeb144a80a602b39c48e58d6.1000x1000x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Tyla - Water (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "title_with_featured": "Tyla - Water (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                    "url": "https://genius.com/Genius-thai-translations-tyla-water-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/1651883",
+                        "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                        "id": 1651883,
+                        "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                        "url": "https://genius.com/artists/Genius-thai-translations"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/1651883",
+                            "header_image_url": "https://images.genius.com/77cf91f2c2cb3d0cf53ffbeae5363481.1000x1000x1.jpg",
+                            "id": 1651883,
+                            "image_url": "https://images.genius.com/5cea20f455d46ecd68cc99b770766936.1000x1000x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Thai Translations (\u0e04\u0e33\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+                            "url": "https://genius.com/artists/Genius-thai-translations"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/9649789",
+            "id": 9649789,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-tyla-water-traducao-em-portugues-lyrics",
+            "title": "Tyla - Water (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-tyla-water-traducao-em-portugues-lyrics"
+        },
+        {
+            "api_path": "/songs/9681022",
+            "id": 9681022,
+            "language": "de",
+            "lyrics_state": "complete",
+            "path": "/Genius-deutsche-ubersetzungen-tyla-water-deutsche-ubersetzung-lyrics",
+            "title": "Tyla - Water (Deutsche \u00dcbersetzung)",
+            "url": "https://genius.com/Genius-deutsche-ubersetzungen-tyla-water-deutsche-ubersetzung-lyrics"
+        },
+        {
+            "api_path": "/songs/9698519",
+            "id": 9698519,
+            "language": "es",
+            "lyrics_state": "complete",
+            "path": "/Genius-traducciones-al-espanol-tyla-water-traduccion-al-espanol-lyrics",
+            "title": "\u200bTyla - Water (Traducci\u00f3n al Espa\u00f1ol)",
+            "url": "https://genius.com/Genius-traducciones-al-espanol-tyla-water-traduccion-al-espanol-lyrics"
+        },
+        {
+            "api_path": "/songs/10089753",
+            "id": 10089753,
+            "language": "th",
+            "lyrics_state": "complete",
+            "path": "/Genius-thai-translations-tyla-water-lyrics",
+            "title": "Tyla - Water (\u0e41\u0e1b\u0e25\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22)",
+            "url": "https://genius.com/Genius-thai-translations-tyla-water-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2601015",
+            "header_image_url": "https://images.genius.com/53627ea4698d2bb6781d3bfbcdc6671e.1000x563x1.jpg",
+            "id": 2601015,
+            "image_url": "https://images.genius.com/3e01724ca0b13f63d5e1a320fe1ea1c8.797x797x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Tyla",
+            "url": "https://genius.com/artists/Tyla"
+        },
+        {
+            "api_path": "/artists/1569669",
+            "header_image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+            "id": 1569669,
+            "image_url": "https://images.genius.com/857328edfc5762a0ddcc1a6969952339.910x910x1.png",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Sammy Soso",
+            "url": "https://genius.com/artists/Sammy-soso"
+        },
+        {
+            "api_path": "/artists/1948594",
+            "header_image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+            "id": 1948594,
+            "image_url": "https://images.genius.com/6f4c483183f963c0074211f3e638241a.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Rayo",
+            "url": "https://genius.com/artists/Rayo"
+        },
+        {
+            "api_path": "/artists/2341387",
+            "header_image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+            "id": 2341387,
+            "image_url": "https://images.genius.com/5ad67ce3237fa6af66477540a67ed848.400x400x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jack LoMastro",
+            "url": "https://genius.com/artists/Jack-lomastro"
+        },
+        {
+            "api_path": "/artists/3133458",
+            "header_image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+            "id": 3133458,
+            "image_url": "https://images.genius.com/009ed54b1f9907ffe91b19d27dc7e008.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Olmo Zucca",
+            "url": "https://genius.com/artists/Olmo-zucca"
+        },
+        {
+            "api_path": "/artists/1043444",
+            "header_image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+            "id": 1043444,
+            "image_url": "https://images.genius.com/c8207ae77c6675d4d180446943247d3d.500x500x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Ari PenSmith",
+            "url": "https://genius.com/artists/Ari-pensmith"
+        },
+        {
+            "api_path": "/artists/3506869",
+            "header_image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+            "id": 3506869,
+            "image_url": "https://images.genius.com/3452ba7960e6efe959260894fa299c87.783x783x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Believve",
+            "url": "https://genius.com/artists/Believve"
+        },
+        {
+            "api_path": "/artists/3317229",
+            "header_image_url": "https://images.genius.com/ce1adbb539985777fa55141fe5f82e3b.828x828x1.jpg",
+            "id": 3317229,
+            "image_url": "https://images.genius.com/60b4f95bcbc208194905fee3c4290f8f.1000x1000x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Mocha Bands",
+            "url": "https://genius.com/artists/Mocha-bands"
+        },
+        {
+            "api_path": "/artists/27603",
+            "header_image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+            "id": 27603,
+            "image_url": "https://s3.amazonaws.com/rapgenius/interview2009.11.13-trickystewart.jpg",
+            "is_meme_verified": true,
+            "is_verified": true,
+            "name": "Tricky Stewart",
+            "url": "https://genius.com/artists/Tricky-stewart",
+            "iq": 968
+        }
+    ],
+    "artist": "Tyla",
+    "lyrics": "47 ContributorsTranslationsPortugu\u00easDeutschEspa\u00f1ol\u0e44\u0e17\u0e22 (Thai)Water Lyrics\u201cWater\u201d serves as the lead single from Tyla\u2019s self-titled debut album. The Pop-Amapiano track began gaining online traction after Tyla shared a TikTok featuring a dance to the chorus of the song created by\u2026 Read More\u00a0\nMake me sweat, make me hotter\nMake me lose my breath, make me water\nMake me sweat, make me hotter\nMake me lose my breath, make me water\n\nNormally, I can keep my cool\nBut tonight, I'm wildin'\nI'ma be (Yeah) in a dangerous mood\nCan you match my timing? (Mm, mm)\nTellin' me (Yeah) that you really 'bout it\nWhy try hide it? Ooh\nTalk is cheap, so show me\nThat you understand how I like it\n\nCan you blow my mind?\nSet off my whole body\nIf I give you my time (Ooh)\nCan you snatch my soul from me?\nI don't wanna wait, come take it\nTake me where I ain't been before\nCan you blow my mind?\nSet off my whole body, whole body\n\nMake me sweat, make me hotter\nMake me lose my breath, make me water\nMake me sweat, make me hotter\nMake me lose my breath, make me water\n\nHopefully you can last all night\nDon't get too excited (Ooh)\nOh, privacy (Mm), you ain't gotta go nowhere\nYou can stay inside it\n\nCan you blow my mind? (Oh)\nSet off my whole body\nIf I give you my time (If I give you my time)\nCan you snatch my soul from me?\nI don't wanna wait, come take it\nTake me where I ain't been before (Before)\nCan you blow my mind?\nSet off my whole body, whole body (Haibo)\n\nMake me sweat, make me hotter (Hotter)\nMake me lose my breath, make me water\nMake me sweat (Sweat), make me hotter (Hotter)\nMake me lose my breath, make me water (Make me sweat)\nMake me sweat, make me hotter (Hotter)\nMake me lose my breath, make me water\nMake me sweat (Sweat), make me hotter (Hotter)\nMake me lose my breath, make me water\n\nMake me sweat, make me hotter\nMake me lose my breath, make me water\nMake me sweat, make me hotter\nMake me lose my breath, make me water"
+}

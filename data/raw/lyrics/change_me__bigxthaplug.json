@@ -1,0 +1,923 @@
+{
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/10927150",
+    "artist_names": "BigXthaPlug",
+    "full_title": "Change Me by\u00a0BigXthaPlug",
+    "header_image_thumbnail_url": "https://images.genius.com/e364cec1d6244c69caf19419e61becba.300x300x1.png",
+    "header_image_url": "https://images.genius.com/e364cec1d6244c69caf19419e61becba.1000x1000x1.png",
+    "id": 10927150,
+    "instrumental": false,
+    "lyrics_owner_id": 9387139,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1747744166,
+    "path": "/Bigxthaplug-change-me-lyrics",
+    "primary_artist_names": "BigXthaPlug",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Bigxthaplug-change-me-sample",
+    "release_date_components": {
+        "year": 2024,
+        "month": 9,
+        "day": 27
+    },
+    "release_date_for_display": "September 27, 2024",
+    "release_date_with_abbreviated_month_for_display": "Sep. 27, 2024",
+    "song_art_image_thumbnail_url": "https://images.genius.com/e364cec1d6244c69caf19419e61becba.300x300x1.png",
+    "song_art_image_url": "https://images.genius.com/e364cec1d6244c69caf19419e61becba.1000x1000x1.png",
+    "stats": {
+        "accepted_annotations": 0,
+        "contributors": 19,
+        "iq_earners": 19,
+        "transcribers": 2,
+        "unreviewed_annotations": 3,
+        "verified_annotations": 0,
+        "hot": false,
+        "pageviews": 32630
+    },
+    "title": "Change Me",
+    "title_with_featured": "Change Me",
+    "updated_by_human_at": 1747744166,
+    "url": "https://genius.com/Bigxthaplug-change-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+        "api_path": "/artists/2991490",
+        "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "id": 2991490,
+        "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "BigXthaPlug",
+        "url": "https://genius.com/artists/Bigxthaplug"
+    },
+    "primary_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        }
+    ],
+    "apple_music_id": "1768819215",
+    "apple_music_player_url": "https://genius.com/songs/10927150/apple_music_player",
+    "description": {
+        "plain": "Released on September 27th, this is BigXthaPlug\u2019s second single since his album with Ro$ana and YungHood, MEET THE 6IXERS, dropped. A snippet was originally released on his Instagram profile here the day before it was released on all platforms, where he also announced that a new album will be coming out on October 11th.\n\nHighlighted by his choice of sample and lyrics, BigX talks about how he has stuck to who he is, where he came from, and what he\u2019s been through, even when critics try and accuse him of the opposite."
+    },
+    "embed_content": "<div id='rg_embed_link_10927150' class='rg_embed_link' data-song-id='10927150'>Read <a href='https://genius.com/Bigxthaplug-change-me-lyrics'>\u201cChange Me\u201d by BigXthaPlug</a> on Genius</div> <script crossorigin src='//genius.com/songs/10927150/embed.js'></script>",
+    "featured_video": false,
+    "language": "en",
+    "recording_location": null,
+    "release_date": "2024-09-27",
+    "current_user_metadata": {
+        "permissions": [
+            "see_pageviews",
+            "view_apple_music_player",
+            "view_recommendations",
+            "view_relationships_page",
+            "view_song_story_gallery"
+        ],
+        "excluded_permissions": [
+            "follow",
+            "award_transcription_iq",
+            "remove_transcription_iq",
+            "pyong",
+            "edit_lyrics",
+            "view_annotation_engagement_data",
+            "publish",
+            "unpublish",
+            "edit_spotify_details",
+            "hide",
+            "unhide",
+            "toggle_featured_video",
+            "add_pinned_annotation_to",
+            "add_community_annotation_to",
+            "destroy",
+            "mark_as_not_spam",
+            "edit_spotify_annotations_for",
+            "verify_lyrics",
+            "unverify_lyrics",
+            "edit_anything",
+            "edit_any_media",
+            "edit",
+            "rename",
+            "edit_tags",
+            "reindex",
+            "view_lyrics_synchronization",
+            "enable_media",
+            "disable_media",
+            "edit_lyrics_or_annotation_brackets",
+            "see_editorial_indicators",
+            "view_attribution_visualization",
+            "edit_annotation_brackets",
+            "preview_lyrics_for_export",
+            "hide_apple_player",
+            "unhide_apple_player",
+            "trigger_apple_match",
+            "mark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_staff_approved",
+            "unmark_lyrics_evaluation_as_complete",
+            "mark_lyrics_evaluation_as_un_staff_approved",
+            "view_transcriber_media_player",
+            "override_apple_match",
+            "set_song_color_gradient",
+            "mark_as_hot",
+            "unmark_as_hot",
+            "view_mark_complete_explanatory_tooltip",
+            "edit_youtube_url",
+            "edit_soundcloud_url",
+            "edit_spotify_uuid",
+            "edit_vevo_url",
+            "create_comment",
+            "moderate_annotations",
+            "create_annotation",
+            "see_short_id",
+            "manage_chart_item",
+            "create_tag",
+            "propose_lyrics_edit",
+            "view_lyrics_edit_proposals_on_song",
+            "create_question",
+            "answer_question_with_source",
+            "create_additional_role",
+            "add_qa",
+            "pin_qa"
+        ],
+        "interactions": {
+            "pyong": false,
+            "following": false
+        },
+        "relationships": {},
+        "iq_by_action": {}
+    },
+    "song_art_primary_color": "#d93638",
+    "song_art_secondary_color": "#582015",
+    "song_art_text_color": "#fff",
+    "album": {
+        "api_path": "/albums/1322515",
+        "cover_art_url": "https://images.genius.com/4db088e40bd68ed1e4e6406c5940bcef.1000x1000x1.png",
+        "full_title": "TAKE CARE (DELUXE) by BigXthaPlug",
+        "id": 1322515,
+        "name": "TAKE CARE (DELUXE)",
+        "primary_artist_names": "BigXthaPlug",
+        "release_date_for_display": "January 24, 2025",
+        "url": "https://genius.com/albums/Bigxthaplug/Take-care-deluxe",
+        "artist": {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        "primary_artists": [
+            {
+                "api_path": "/artists/2991490",
+                "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "id": 2991490,
+                "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "BigXthaPlug",
+                "url": "https://genius.com/artists/Bigxthaplug"
+            }
+        ]
+    },
+    "custom_performances": [
+        {
+            "label": "Additional Vocals",
+            "artists": [
+                {
+                    "api_path": "/artists/72904",
+                    "header_image_url": "https://images.genius.com/d03f15b641eb862a869b6f3d928e06d1.609x609x1.jpg",
+                    "id": 72904,
+                    "image_url": "https://images.genius.com/d03f15b641eb862a869b6f3d928e06d1.609x609x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Jake Troth",
+                    "url": "https://genius.com/artists/Jake-troth"
+                }
+            ]
+        },
+        {
+            "label": "Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Immersive Audio Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/1587302",
+                    "header_image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "id": 1587302,
+                    "image_url": "https://images.genius.com/eb879de53f97e8ec2993eb43f3929718.414x414x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Bainz",
+                    "url": "https://genius.com/artists/Bainz"
+                }
+            ]
+        },
+        {
+            "label": "Mastering Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/643992",
+                    "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "id": 643992,
+                    "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Joe LaPorta",
+                    "url": "https://genius.com/artists/Joe-laporta"
+                }
+            ]
+        },
+        {
+            "label": "Assistant Mixing Engineer",
+            "artists": [
+                {
+                    "api_path": "/artists/2054119",
+                    "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "id": 2054119,
+                    "image_url": "https://assets.genius.com/images/default_avatar_300.png?1747858710",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Aresh Banaji",
+                    "url": "https://genius.com/artists/Aresh-banaji"
+                }
+            ]
+        },
+        {
+            "label": "Label",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                }
+            ]
+        },
+        {
+            "label": "Distributor",
+            "artists": [
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Copyright \u00a9",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        },
+        {
+            "label": "Phonographic Copyright \u2117",
+            "artists": [
+                {
+                    "api_path": "/artists/2991490",
+                    "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "id": 2991490,
+                    "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "BigXthaPlug",
+                    "url": "https://genius.com/artists/Bigxthaplug"
+                },
+                {
+                    "api_path": "/artists/1916823",
+                    "header_image_url": "https://images.genius.com/e29c8c66e5df4214aae09a50c8c59cac.850x416x1.jpg",
+                    "id": 1916823,
+                    "image_url": "https://images.genius.com/e68056d5b8d7f278867c0b9fbc772cdd.500x500x1.jpg",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "UnitedMasters",
+                    "url": "https://genius.com/artists/Unitedmasters"
+                },
+                {
+                    "api_path": "/artists/1909821",
+                    "header_image_url": "https://images.genius.com/bf35e359ae52dae8310bb95abd98734e.1000x1000x1.png",
+                    "id": 1909821,
+                    "image_url": "https://images.genius.com/1170c58144c7d04ae5ac226cdc06d83d.1000x1000x1.png",
+                    "is_meme_verified": false,
+                    "is_verified": false,
+                    "name": "Translation Enterprises",
+                    "url": "https://genius.com/artists/Translation-enterprises"
+                }
+            ]
+        }
+    ],
+    "description_annotation": {
+        "_type": "referent",
+        "annotator_id": 22377702,
+        "annotator_login": "SebastianSchroeter",
+        "api_path": "/referents/33109696",
+        "classification": "accepted",
+        "fragment": "Change Me",
+        "id": 33109696,
+        "is_description": true,
+        "path": "/33109696/Bigxthaplug-change-me/Change-me",
+        "range": {
+            "content": "Change Me"
+        },
+        "song_id": 10927150,
+        "url": "https://genius.com/33109696/Bigxthaplug-change-me/Change-me",
+        "verified_annotator_ids": [],
+        "annotatable": {
+            "api_path": "/songs/10927150",
+            "client_timestamps": {
+                "updated_by_human_at": 1747744166,
+                "lyrics_updated_at": 1747744166
+            },
+            "context": "BigXthaPlug",
+            "id": 10927150,
+            "image_url": "https://images.genius.com/e364cec1d6244c69caf19419e61becba.1000x1000x1.png",
+            "link_title": "Change Me by\u00a0BigXthaPlug",
+            "title": "Change Me",
+            "type": "Song",
+            "url": "https://genius.com/Bigxthaplug-change-me-lyrics"
+        },
+        "annotations": [
+            {
+                "api_path": "/annotations/33109696",
+                "body": {
+                    "plain": "Released on September 27th, this is BigXthaPlug\u2019s second single since his album with Ro$ana and YungHood, MEET THE 6IXERS, dropped. A snippet was originally released on his Instagram profile here the day before it was released on all platforms, where he also announced that a new album will be coming out on October 11th.\n\nHighlighted by his choice of sample and lyrics, BigX talks about how he has stuck to who he is, where he came from, and what he\u2019s been through, even when critics try and accuse him of the opposite."
+                },
+                "comment_count": 0,
+                "community": true,
+                "custom_preview": null,
+                "has_voters": true,
+                "id": 33109696,
+                "pinned": false,
+                "share_url": "https://genius.com/33109696",
+                "source": null,
+                "state": "accepted",
+                "url": "https://genius.com/33109696/Bigxthaplug-change-me/Change-me",
+                "verified": false,
+                "votes_total": 4,
+                "current_user_metadata": {
+                    "permissions": [],
+                    "excluded_permissions": [
+                        "vote",
+                        "edit",
+                        "cosign",
+                        "uncosign",
+                        "destroy",
+                        "accept",
+                        "reject",
+                        "see_unreviewed",
+                        "clear_votes",
+                        "propose_edit_to",
+                        "pin_to_profile",
+                        "unpin_from_profile",
+                        "update_source",
+                        "edit_custom_preview",
+                        "report_as_abusive",
+                        "create_comment"
+                    ],
+                    "interactions": {
+                        "cosign": false,
+                        "pyong": false,
+                        "vote": null
+                    },
+                    "iq_by_action": {}
+                },
+                "authors": [
+                    {
+                        "attribution": 1.0,
+                        "pinned_role": null,
+                        "user": {
+                            "api_path": "/users/22377702",
+                            "avatar": {
+                                "tiny": {
+                                    "url": "https://images.genius.com/avatars/tiny/6a0444643a4ee4edf56d5a143773f5fb",
+                                    "bounding_box": {
+                                        "width": 16,
+                                        "height": 16
+                                    }
+                                },
+                                "thumb": {
+                                    "url": "https://images.genius.com/avatars/thumb/6a0444643a4ee4edf56d5a143773f5fb",
+                                    "bounding_box": {
+                                        "width": 32,
+                                        "height": 32
+                                    }
+                                },
+                                "small": {
+                                    "url": "https://images.genius.com/avatars/small/6a0444643a4ee4edf56d5a143773f5fb",
+                                    "bounding_box": {
+                                        "width": 100,
+                                        "height": 100
+                                    }
+                                },
+                                "medium": {
+                                    "url": "https://images.genius.com/avatars/medium/6a0444643a4ee4edf56d5a143773f5fb",
+                                    "bounding_box": {
+                                        "width": 300,
+                                        "height": 400
+                                    }
+                                }
+                            },
+                            "header_image_url": "https://images.genius.com/avatars/medium/6a0444643a4ee4edf56d5a143773f5fb",
+                            "human_readable_role_for_display": null,
+                            "id": 22377702,
+                            "iq": 131,
+                            "login": "SebastianSchroeter",
+                            "name": "SebastianSchroeter",
+                            "role_for_display": null,
+                            "url": "https://genius.com/SebastianSchroeter",
+                            "current_user_metadata": {
+                                "permissions": [],
+                                "excluded_permissions": [
+                                    "follow"
+                                ],
+                                "interactions": {
+                                    "following": false
+                                }
+                            }
+                        }
+                    }
+                ],
+                "cosigned_by": [],
+                "rejection_comment": null,
+                "verified_by": null
+            }
+        ]
+    },
+    "lyrics_marked_complete_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "lyrics_marked_staff_approved_by": {
+        "api_path": "/users/9387139",
+        "avatar": {
+            "tiny": {
+                "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 16,
+                    "height": 16
+                }
+            },
+            "thumb": {
+                "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 32,
+                    "height": 32
+                }
+            },
+            "small": {
+                "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 100,
+                    "height": 100
+                }
+            },
+            "medium": {
+                "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+                "bounding_box": {
+                    "width": 300,
+                    "height": 400
+                }
+            }
+        },
+        "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+        "human_readable_role_for_display": "Staff",
+        "id": 9387139,
+        "iq": 752467,
+        "login": "yessirre",
+        "name": "Yessirre",
+        "role_for_display": "staff",
+        "url": "https://genius.com/yessirre",
+        "current_user_metadata": {
+            "permissions": [],
+            "excluded_permissions": [
+                "follow"
+            ],
+            "interactions": {
+                "following": false
+            }
+        }
+    },
+    "media": [
+        {
+            "attribution": "bigxdaplug",
+            "provider": "soundcloud",
+            "type": "audio",
+            "url": "https://soundcloud.com/bigxdaplug/change-me"
+        },
+        {
+            "provider": "youtube",
+            "start": 0,
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=JQIgygQHNcQ"
+        }
+    ],
+    "producer_artists": [
+        {
+            "api_path": "/artists/1277787",
+            "header_image_url": "https://images.genius.com/c4c40185a61d59cfb1be5bda90c55640.499x499x1.jpg",
+            "id": 1277787,
+            "image_url": "https://images.genius.com/c4c40185a61d59cfb1be5bda90c55640.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Charley Cooks",
+            "url": "https://genius.com/artists/Charley-cooks"
+        },
+        {
+            "api_path": "/artists/3473632",
+            "header_image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "id": 3473632,
+            "image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tony Coles",
+            "url": "https://genius.com/artists/Tony-coles",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        }
+    ],
+    "song_relationships": [
+        {
+            "relationship_type": "samples",
+            "type": "samples",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/6421454",
+                    "artist_names": "Laura Lee",
+                    "full_title": "Two Lonely Pillows by\u00a0Laura\u00a0Lee",
+                    "header_image_thumbnail_url": "https://images.genius.com/a40d05d98af09d74a634dbeaf5d64b2f.300x300x1.jpg",
+                    "header_image_url": "https://images.genius.com/a40d05d98af09d74a634dbeaf5d64b2f.300x300x1.jpg",
+                    "id": 6421454,
+                    "lyrics_owner_id": 4020270,
+                    "lyrics_state": "complete",
+                    "path": "/Laura-lee-two-lonely-pillows-lyrics",
+                    "primary_artist_names": "Laura Lee",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Laura-lee-two-lonely-pillows-sample",
+                    "release_date_components": {
+                        "year": 1972,
+                        "month": null,
+                        "day": null
+                    },
+                    "release_date_for_display": "1972",
+                    "release_date_with_abbreviated_month_for_display": "1972",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/a40d05d98af09d74a634dbeaf5d64b2f.300x300x1.jpg",
+                    "song_art_image_url": "https://images.genius.com/a40d05d98af09d74a634dbeaf5d64b2f.300x300x1.jpg",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "Two Lonely Pillows",
+                    "title_with_featured": "Two Lonely Pillows",
+                    "url": "https://genius.com/Laura-lee-two-lonely-pillows-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/379541",
+                        "header_image_url": "https://images.genius.com/552a65a0ba383000903d2d961af1fac5.421x421x1.jpg",
+                        "id": 379541,
+                        "image_url": "https://images.genius.com/552a65a0ba383000903d2d961af1fac5.421x421x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Laura Lee",
+                        "url": "https://genius.com/artists/Laura-lee"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/379541",
+                            "header_image_url": "https://images.genius.com/552a65a0ba383000903d2d961af1fac5.421x421x1.jpg",
+                            "id": 379541,
+                            "image_url": "https://images.genius.com/552a65a0ba383000903d2d961af1fac5.421x421x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Laura Lee",
+                            "url": "https://genius.com/artists/Laura-lee"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "relationship_type": "sampled_in",
+            "type": "sampled_in",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolates",
+            "type": "interpolates",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "interpolated_by",
+            "type": "interpolated_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "cover_of",
+            "type": "cover_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "covered_by",
+            "type": "covered_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remix_of",
+            "type": "remix_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "remixed_by",
+            "type": "remixed_by",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "live_version_of",
+            "type": "live_version_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "performed_live_as",
+            "type": "performed_live_as",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translation_of",
+            "type": "translation_of",
+            "url": null,
+            "songs": []
+        },
+        {
+            "relationship_type": "translations",
+            "type": "translations",
+            "url": null,
+            "songs": [
+                {
+                    "annotation_count": 0,
+                    "api_path": "/songs/11006333",
+                    "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "full_title": "BigXthaPlug - Change Me (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+                    "header_image_thumbnail_url": "https://images.genius.com/c7ee673d575c12488b6c54cd6be044ea.300x300x1.png",
+                    "header_image_url": "https://images.genius.com/c7ee673d575c12488b6c54cd6be044ea.340x340x1.png",
+                    "id": 11006333,
+                    "lyrics_owner_id": 4009814,
+                    "lyrics_state": "complete",
+                    "path": "/Genius-brasil-traducoes-bigxthaplug-change-me-traducao-em-portugues-lyrics",
+                    "primary_artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+                    "pyongs_count": null,
+                    "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-change-me-traducao-em-portugues-sample",
+                    "release_date_components": {
+                        "year": 2024,
+                        "month": 9,
+                        "day": 27
+                    },
+                    "release_date_for_display": "September 27, 2024",
+                    "release_date_with_abbreviated_month_for_display": "Sep. 27, 2024",
+                    "song_art_image_thumbnail_url": "https://images.genius.com/c7ee673d575c12488b6c54cd6be044ea.300x300x1.png",
+                    "song_art_image_url": "https://images.genius.com/c7ee673d575c12488b6c54cd6be044ea.340x340x1.png",
+                    "stats": {
+                        "unreviewed_annotations": 0,
+                        "hot": false
+                    },
+                    "title": "BigXthaPlug - Change Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "title_with_featured": "BigXthaPlug - Change Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+                    "url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-change-me-traducao-em-portugues-lyrics",
+                    "featured_artists": [],
+                    "primary_artist": {
+                        "api_path": "/artists/210448",
+                        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                        "id": 210448,
+                        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                    },
+                    "primary_artists": [
+                        {
+                            "api_path": "/artists/210448",
+                            "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+                            "id": 210448,
+                            "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+                            "is_meme_verified": false,
+                            "is_verified": false,
+                            "name": "Genius Brasil Tradu\u00e7\u00f5es",
+                            "url": "https://genius.com/artists/Genius-brasil-traducoes"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "translation_songs": [
+        {
+            "api_path": "/songs/11006333",
+            "id": 11006333,
+            "language": "pt",
+            "lyrics_state": "complete",
+            "path": "/Genius-brasil-traducoes-bigxthaplug-change-me-traducao-em-portugues-lyrics",
+            "title": "BigXthaPlug - Change Me (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+            "url": "https://genius.com/Genius-brasil-traducoes-bigxthaplug-change-me-traducao-em-portugues-lyrics"
+        }
+    ],
+    "verified_annotations_by": [],
+    "verified_contributors": [],
+    "verified_lyrics_by": [],
+    "writer_artists": [
+        {
+            "api_path": "/artists/2991490",
+            "header_image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "id": 2991490,
+            "image_url": "https://images.genius.com/7fbf7bbcc48d672fd776896855719cc1.917x917x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BigXthaPlug",
+            "url": "https://genius.com/artists/Bigxthaplug"
+        },
+        {
+            "api_path": "/artists/3473632",
+            "header_image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "id": 3473632,
+            "image_url": "https://images.genius.com/b3142d615c8fef1385dc2e8613586939.999x999x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": true,
+            "name": "Tony Coles",
+            "url": "https://genius.com/artists/Tony-coles",
+            "iq": 100
+        },
+        {
+            "api_path": "/artists/139421",
+            "header_image_url": "https://images.genius.com/afb5a7ed8a198cd4a52d406e2f62fc1b.1000x563x1.jpg",
+            "id": 139421,
+            "image_url": "https://images.genius.com/5fc98997d49eeffb1f926de40a36ddff.399x399x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "BandPlay",
+            "url": "https://genius.com/artists/Bandplay"
+        },
+        {
+            "api_path": "/artists/72904",
+            "header_image_url": "https://images.genius.com/d03f15b641eb862a869b6f3d928e06d1.609x609x1.jpg",
+            "id": 72904,
+            "image_url": "https://images.genius.com/d03f15b641eb862a869b6f3d928e06d1.609x609x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Jake Troth",
+            "url": "https://genius.com/artists/Jake-troth"
+        },
+        {
+            "api_path": "/artists/1277787",
+            "header_image_url": "https://images.genius.com/c4c40185a61d59cfb1be5bda90c55640.499x499x1.jpg",
+            "id": 1277787,
+            "image_url": "https://images.genius.com/c4c40185a61d59cfb1be5bda90c55640.499x499x1.jpg",
+            "is_meme_verified": false,
+            "is_verified": false,
+            "name": "Charley Cooks",
+            "url": "https://genius.com/artists/Charley-cooks"
+        }
+    ],
+    "artist": "BigXthaPlug",
+    "lyrics": "19 ContributorsTranslationsPortugu\u00easChange Me LyricsReleased on September 27th, this is BigXthaPlug\u2019s second single since his album with Ro$ana and YungHood, MEET THE 6IXERS, dropped. A snippet was originally released on his Instagram profile here the day\u2026 Read More\u00a0\n(Bandpl\u2014)\n\nThey tried to frame me\nFor the pictures I paint\nIt's a cryin' shame\nBut I, I won't let 'em, I won't let 'em change me\nI'll remain\nForever (Forever), forever remain\n\nAyy (Let the band play)\nThey ain't think I would do it, but I did it\nReally havin' this shit, really winnin'\nWas times that I thought I'd forever be sinnin'\nAnd spinnin', whatever to stand on the business\nBut God bless the gang, did it all for the city\nAll the shots they let off, but ain't hit me\nAll the shots w\u0435 let off, they ain't mention was hittin'\nGo ask why h\u0435's findin' them limpin'\nNever change, I'm the same, it's just in me\nThe only thing change is the paper, my vision\nCan't forget 'bout the diamonds and chains on my pendant\nWas starvin', but now we eat steak for a livin'\nIf we ever fell out, you was fake or a bitch\nNiggas quick to switch sides, don't be standin' on shit\nBut yet, I'm the biggest, ain't change on my clique\nRep the six, disrespect and get put in that ditch\nI came up off of rap and know prices for bricks\nMillion-dollar convos, out to eat with my stick\nThen got bowls in condos, lettin' loads go for six\nBrand-new block with my lil' bro, shit came with a switch\nAnd a list, all you niggas gon' die for that shit\nLet 'em make it for months, hurt my pride a lil' bit\nWhen they ride, make his whole family cry for that shit\nI'm the same, I ain't lettin' shit slide and I meant every word that I said, I put this on the six\nI'm the same nigga thuggin' from the cells to the bricks\nBetter ask about X, matter fact, come and see how this rap shit'll help, it mean nothin' to me (Ayy)\n\nI, I won't let 'em, I won't let 'em change me\nI'll remain\nForever (Forever), forever remain\nForever\n\nThey say, \"X went and changed,\" probably 'cause I got rich\nI ain't hurtin', my kids, they ain't wantin' for shit\nThey say, \"X went and changed,\" probably came from a bitch\nTried to hit, now I'm up and they all on my dick\nThey say, \"X went and changed,\" probably came from a nigga I fucked with, but couldn't stand on ten with the gang\nHow come all of these folks get to say that X changed?\nI'm the same and I'm standin' on ten by my name, ayy\n\nI, I won't let 'em, I won't let 'em change me\nI'll remain\nForever (Forever), forever remain\nForever"
+}
