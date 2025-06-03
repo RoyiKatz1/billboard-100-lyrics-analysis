@@ -1,19 +1,19 @@
 import pandas as pd
 import re
 from collections import Counter
-
+#
 def simple_tokenize(text):
     # ממיר את הטקסט לאותיות קטנות ומוציא רק מילים (אותיות ומספרים)
     return re.findall(r'\b\w+\b', text.lower())
 
-# טען את הקובץ עם השירים (שנה את הנתיב ושם העמודה לפי הצורך)
-df = pd.read_excel('data/processed/dataset.xlsx')  # החלף בשם הקובץ שלך
+# file load
+df = pd.read_excel('../data/processed/hot100_translated.xlsx')
 
 all_bigrams = []
 
-for lyrics in df['lyrics'].dropna():
+for lyrics in df['lyrics_en'].dropna():
     tokens = simple_tokenize(lyrics)
-    bigrams_list = list(zip(tokens, tokens[1:]))  # יצירת צמדים פשוטה
+    bigrams_list = list(zip(tokens, tokens[1:]))
     all_bigrams.extend(bigrams_list)
 
 # ספירת התדירות של כל צמד
