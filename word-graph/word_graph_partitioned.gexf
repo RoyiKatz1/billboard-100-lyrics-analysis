@@ -1,0 +1,1451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-06-26">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="modularity_class" type="long" />
+    </attributes>
+    <nodes>
+      <node id="hand" label="hand">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="beautiful" label="beautiful">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="one" label="one">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="trust" label="trust">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="long" label="long">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wild" label="wild">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mess" label="mess">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="blame" label="blame">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="party" label="party">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="hate" label="hate">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="touch" label="touch">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="end" label="end">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="shot" label="shot">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="say" label="say">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="world" label="world">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="stick" label="stick">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="pour" label="pour">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="hold" label="hold">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="away" label="away">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="fire" label="fire">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="sweet" label="sweet">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="think" label="think">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="close" label="close">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="dead" label="dead">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="tryna" label="tryna">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="eye" label="eye">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="hear" label="hear">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sleep" label="sleep">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="truck" label="truck">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="wine" label="wine">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="stay" label="stay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="change" label="change">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="boy" label="boy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pink" label="pink">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kind" label="kind">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="knee" label="knee">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="live" label="live">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="turn" label="turn">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="fuck" label="fuck">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="need" label="need">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="tonight" label="tonight">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="fall" label="fall">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bout" label="bout">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="round" label="round">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="die" label="die">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="feel" label="feel">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pretty" label="pretty">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mean" label="mean">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="baby" label="baby">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="hoe" label="hoe">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="bad" label="bad">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="chain" label="chain">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="street" label="street">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="burn" label="burn">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="right" label="right">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="set" label="set">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="feeling" label="feeling">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="daddy" label="daddy">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="tired" label="tired">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="shake" label="shake">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="day" label="day">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="damn" label="damn">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="little" label="little">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="remember" label="remember">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="face" label="face">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="tie" label="tie">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="light" label="light">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="new" label="new">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="act" label="act">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="man" label="man">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="miss" label="miss">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pass" label="pass">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="night" label="night">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="hard" label="hard">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="believe" label="believe">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="sorry" label="sorry">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="pain" label="pain">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="play" label="play">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="save" label="save">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="crash" label="crash">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="time" label="time">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wonder" label="wonder">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="head" label="head">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="hair" label="hair">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="bed" label="bed">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="ass" label="ass">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="try" label="try">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="makin" label="makin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="drive" label="drive">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="true" label="true">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="hit" label="hit">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="forever" label="forever">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="help" label="help">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="give" label="give">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="okay" label="okay">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mama" label="mama">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="well" label="well">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="call" label="call">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dream" label="dream">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="steal" label="steal">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="red" label="red">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="home" label="home">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="car" label="car">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="cold" label="cold">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="black" label="black">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="wish" label="wish">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="fly" label="fly">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="watch" label="watch">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="nigga" label="nigga">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mind" label="mind">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="way" label="way">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="whip" label="whip">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="nasty" label="nasty">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="heart" label="heart">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="take" label="take">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="old" label="old">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="gettin" label="gettin">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="forget" label="forget">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="smoke" label="smoke">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="high" label="high">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="floor" label="floor">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="lie" label="lie">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ex" label="ex">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bar" label="bar">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="air" label="air">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="foot" label="foot">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="lose" label="lose">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="stop" label="stop">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="girl" label="girl">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="run" label="run">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="fuckin" label="fuckin">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="friend" label="friend">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="low" label="low">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="hot" label="hot">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="leave" label="leave">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="open" label="open">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="young" label="young">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="bitch" label="bitch">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="step" label="step">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wrong" label="wrong">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="keep" label="keep">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="big" label="big">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="block" label="block">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="shit" label="shit">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="find" label="find">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="road" label="road">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="kiss" label="kiss">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="start" label="start">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="thinkin" label="thinkin">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="club" label="club">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="reason" label="reason">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="door" label="door">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="devil" label="devil">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="dick" label="dick">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="guess" label="guess">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="meet" label="meet">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="see" label="see">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="dance" label="dance">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="beat" label="beat">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="luck" label="luck">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="fun" label="fun">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="talk" label="talk">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="whiskey" label="whiskey">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="babe" label="babe">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="show" label="show">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="drink" label="drink">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="place" label="place">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="waste" label="waste">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="thing" label="thing">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="good" label="good">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="ride" label="ride">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="control" label="control">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="break" label="break">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wait" label="wait">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="love" label="love">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="kill" label="kill">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="water" label="water">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mile" label="mile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="city" label="city">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="real" label="real">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="late" label="late">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="life" label="life">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="walk" label="walk">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="crazy" label="crazy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wake" label="wake">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="fast" label="fast">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="gang" label="gang">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="hand" target="love" id="0" weight="212" />
+      <edge source="hand" target="bitch" id="1" weight="223" />
+      <edge source="hand" target="knee" id="2" weight="544" />
+      <edge source="hand" target="shake" id="3" weight="261" />
+      <edge source="beautiful" target="thing" id="4" weight="329" />
+      <edge source="beautiful" target="need" id="5" weight="384" />
+      <edge source="beautiful" target="stay" id="6" weight="293" />
+      <edge source="one" target="thing" id="7" weight="728" />
+      <edge source="one" target="wild" id="8" weight="754" />
+      <edge source="trust" target="love" id="9" weight="198" />
+      <edge source="long" target="thing" id="10" weight="230" />
+      <edge source="long" target="baby" id="11" weight="311" />
+      <edge source="long" target="way" id="12" weight="246" />
+      <edge source="long" target="love" id="13" weight="493" />
+      <edge source="long" target="night" id="14" weight="332" />
+      <edge source="long" target="hate" id="15" weight="220" />
+      <edge source="long" target="ride" id="16" weight="196" />
+      <edge source="long" target="live" id="17" weight="633" />
+      <edge source="wild" target="thing" id="18" weight="932" />
+      <edge source="mess" target="control" id="19" weight="208" />
+      <edge source="mess" target="help" id="20" weight="192" />
+      <edge source="blame" target="baby" id="21" weight="315" />
+      <edge source="party" target="okay" id="22" weight="194" />
+      <edge source="party" target="bout" id="23" weight="270" />
+      <edge source="hate" target="way" id="24" weight="301" />
+      <edge source="hate" target="love" id="25" weight="538" />
+      <edge source="hate" target="face" id="26" weight="193" />
+      <edge source="touch" target="love" id="27" weight="256" />
+      <edge source="touch" target="life" id="28" weight="201" />
+      <edge source="end" target="baby" id="29" weight="275" />
+      <edge source="end" target="world" id="30" weight="220" />
+      <edge source="end" target="shit" id="31" weight="207" />
+      <edge source="shot" target="whiskey" id="32" weight="344" />
+      <edge source="say" target="baby" id="33" weight="739" />
+      <edge source="say" target="right" id="34" weight="207" />
+      <edge source="say" target="door" id="35" weight="328" />
+      <edge source="say" target="way" id="36" weight="230" />
+      <edge source="say" target="love" id="37" weight="493" />
+      <edge source="say" target="mean" id="38" weight="247" />
+      <edge source="say" target="time" id="39" weight="240" />
+      <edge source="say" target="think" id="40" weight="534" />
+      <edge source="say" target="well" id="41" weight="266" />
+      <edge source="say" target="girl" id="42" weight="247" />
+      <edge source="say" target="head" id="43" weight="267" />
+      <edge source="say" target="good" id="44" weight="196" />
+      <edge source="say" target="life" id="45" weight="268" />
+      <edge source="say" target="okay" id="46" weight="205" />
+      <edge source="say" target="leave" id="47" weight="194" />
+      <edge source="say" target="shit" id="48" weight="213" />
+      <edge source="say" target="man" id="49" weight="262" />
+      <edge source="say" target="bitch" id="50" weight="592" />
+      <edge source="say" target="nigga" id="51" weight="362" />
+      <edge source="say" target="block" id="52" weight="194" />
+      <edge source="say" target="find" id="53" weight="260" />
+      <edge source="world" target="day" id="54" weight="218" />
+      <edge source="world" target="wait" id="55" weight="203" />
+      <edge source="world" target="stop" id="56" weight="997" />
+      <edge source="world" target="feeling" id="57" weight="444" />
+      <edge source="world" target="heart" id="58" weight="261" />
+      <edge source="world" target="love" id="59" weight="204" />
+      <edge source="world" target="fire" id="60" weight="325" />
+      <edge source="world" target="night" id="61" weight="303" />
+      <edge source="world" target="good" id="62" weight="432" />
+      <edge source="world" target="luck" id="63" weight="334" />
+      <edge source="world" target="babe" id="64" weight="261" />
+      <edge source="world" target="girl" id="65" weight="255" />
+      <edge source="world" target="set" id="66" weight="336" />
+      <edge source="stick" target="round" id="67" weight="240" />
+      <edge source="pour" target="drink" id="68" weight="613" />
+      <edge source="pour" target="damn" id="69" weight="190" />
+      <edge source="hold" target="need" id="70" weight="225" />
+      <edge source="hold" target="love" id="71" weight="293" />
+      <edge source="hold" target="boy" id="72" weight="211" />
+      <edge source="away" target="day" id="73" weight="306" />
+      <edge source="away" target="heart" id="74" weight="190" />
+      <edge source="away" target="night" id="75" weight="217" />
+      <edge source="away" target="love" id="76" weight="241" />
+      <edge source="away" target="watch" id="77" weight="242" />
+      <edge source="away" target="find" id="78" weight="189" />
+      <edge source="fire" target="need" id="79" weight="266" />
+      <edge source="fire" target="close" id="80" weight="228" />
+      <edge source="fire" target="start" id="81" weight="215" />
+      <edge source="fire" target="set" id="82" weight="333" />
+      <edge source="fire" target="bout" id="83" weight="257" />
+      <edge source="fire" target="turn" id="84" weight="223" />
+      <edge source="sweet" target="baby" id="85" weight="286" />
+      <edge source="sweet" target="guess" id="86" weight="216" />
+      <edge source="sweet" target="dream" id="87" weight="429" />
+      <edge source="sweet" target="hard" id="88" weight="294" />
+      <edge source="sweet" target="black" id="89" weight="513" />
+      <edge source="sweet" target="sleep" id="90" weight="242" />
+      <edge source="sweet" target="bed" id="91" weight="441" />
+      <edge source="think" target="thing" id="92" weight="242" />
+      <edge source="think" target="true" id="93" weight="428" />
+      <edge source="think" target="day" id="94" weight="280" />
+      <edge source="think" target="baby" id="95" weight="1706" />
+      <edge source="think" target="stay" id="96" weight="210" />
+      <edge source="think" target="hear" id="97" weight="242" />
+      <edge source="think" target="tonight" id="98" weight="194" />
+      <edge source="think" target="right" id="99" weight="216" />
+      <edge source="think" target="way" id="100" weight="361" />
+      <edge source="think" target="save" id="101" weight="216" />
+      <edge source="think" target="love" id="102" weight="2122" />
+      <edge source="think" target="fall" id="103" weight="281" />
+      <edge source="think" target="well" id="104" weight="226" />
+      <edge source="think" target="change" id="105" weight="205" />
+      <edge source="think" target="mind" id="106" weight="237" />
+      <edge source="think" target="time" id="107" weight="772" />
+      <edge source="think" target="fuck" id="108" weight="256" />
+      <edge source="think" target="lose" id="109" weight="586" />
+      <edge source="think" target="dream" id="110" weight="444" />
+      <edge source="think" target="shit" id="111" weight="268" />
+      <edge source="think" target="night" id="112" weight="563" />
+      <edge source="think" target="girl" id="113" weight="300" />
+      <edge source="think" target="life" id="114" weight="291" />
+      <edge source="think" target="nigga" id="115" weight="719" />
+      <edge source="think" target="find" id="116" weight="546" />
+      <edge source="think" target="leave" id="117" weight="255" />
+      <edge source="think" target="play" id="118" weight="212" />
+      <edge source="think" target="makin" id="119" weight="266" />
+      <edge source="think" target="bitch" id="120" weight="310" />
+      <edge source="think" target="dead" id="121" weight="288" />
+      <edge source="think" target="bad" id="122" weight="199" />
+      <edge source="think" target="dance" id="123" weight="195" />
+      <edge source="close" target="heart" id="124" weight="189" />
+      <edge source="close" target="eye" id="125" weight="234" />
+      <edge source="close" target="love" id="126" weight="195" />
+      <edge source="close" target="burn" id="127" weight="198" />
+      <edge source="dead" target="nigga" id="128" weight="277" />
+      <edge source="tryna" target="hit" id="129" weight="606" />
+      <edge source="tryna" target="fuck" id="130" weight="314" />
+      <edge source="tryna" target="bitch" id="131" weight="201" />
+      <edge source="tryna" target="nigga" id="132" weight="196" />
+      <edge source="eye" target="time" id="133" weight="258" />
+      <edge source="eye" target="lie" id="134" weight="909" />
+      <edge source="sleep" target="baby" id="135" weight="422" />
+      <edge source="sleep" target="right" id="136" weight="348" />
+      <edge source="sleep" target="guess" id="137" weight="216" />
+      <edge source="sleep" target="night" id="138" weight="260" />
+      <edge source="sleep" target="leave" id="139" weight="301" />
+      <edge source="truck" target="break" id="140" weight="231" />
+      <edge source="truck" target="bed" id="141" weight="440" />
+      <edge source="wine" target="red" id="142" weight="201" />
+      <edge source="stay" target="thing" id="143" weight="301" />
+      <edge source="stay" target="need" id="144" weight="413" />
+      <edge source="stay" target="night" id="145" weight="210" />
+      <edge source="change" target="life" id="146" weight="207" />
+      <edge source="change" target="mind" id="147" weight="216" />
+      <edge source="change" target="sorry" id="148" weight="270" />
+      <edge source="boy" target="baby" id="149" weight="383" />
+      <edge source="boy" target="try" id="150" weight="228" />
+      <edge source="boy" target="love" id="151" weight="378" />
+      <edge source="boy" target="mind" id="152" weight="224" />
+      <edge source="boy" target="whip" id="153" weight="224" />
+      <edge source="pink" target="dance" id="154" weight="270" />
+      <edge source="pink" target="girl" id="155" weight="195" />
+      <edge source="pink" target="club" id="156" weight="648" />
+      <edge source="kind" target="love" id="157" weight="223" />
+      <edge source="kind" target="help" id="158" weight="204" />
+      <edge source="knee" target="ass" id="159" weight="218" />
+      <edge source="knee" target="shake" id="160" weight="497" />
+      <edge source="live" target="leave" id="161" weight="215" />
+      <edge source="turn" target="burn" id="162" weight="270" />
+      <edge source="turn" target="night" id="163" weight="235" />
+      <edge source="turn" target="good" id="164" weight="191" />
+      <edge source="turn" target="girl" id="165" weight="306" />
+      <edge source="turn" target="take" id="166" weight="212" />
+      <edge source="turn" target="call" id="167" weight="245" />
+      <edge source="fuck" target="need" id="168" weight="219" />
+      <edge source="fuck" target="baby" id="169" weight="305" />
+      <edge source="fuck" target="right" id="170" weight="747" />
+      <edge source="fuck" target="love" id="171" weight="615" />
+      <edge source="fuck" target="mean" id="172" weight="290" />
+      <edge source="fuck" target="man" id="173" weight="331" />
+      <edge source="fuck" target="leave" id="174" weight="340" />
+      <edge source="fuck" target="shit" id="175" weight="364" />
+      <edge source="fuck" target="nigga" id="176" weight="705" />
+      <edge source="fuck" target="girl" id="177" weight="207" />
+      <edge source="fuck" target="gang" id="178" weight="347" />
+      <edge source="fuck" target="club" id="179" weight="2178" />
+      <edge source="fuck" target="bitch" id="180" weight="1484" />
+      <edge source="fuck" target="kill" id="181" weight="215" />
+      <edge source="fuck" target="bad" id="182" weight="539" />
+      <edge source="fuck" target="ass" id="183" weight="192" />
+      <edge source="fuck" target="head" id="184" weight="193" />
+      <edge source="fuck" target="ex" id="185" weight="1175" />
+      <edge source="need" target="thing" id="186" weight="498" />
+      <edge source="need" target="baby" id="187" weight="285" />
+      <edge source="need" target="love" id="188" weight="584" />
+      <edge source="need" target="feel" id="189" weight="236" />
+      <edge source="need" target="good" id="190" weight="295" />
+      <edge source="need" target="way" id="191" weight="205" />
+      <edge source="need" target="night" id="192" weight="382" />
+      <edge source="need" target="little" id="193" weight="233" />
+      <edge source="need" target="time" id="194" weight="256" />
+      <edge source="need" target="start" id="195" weight="288" />
+      <edge source="need" target="bitch" id="196" weight="221" />
+      <edge source="need" target="water" id="197" weight="189" />
+      <edge source="tonight" target="baby" id="198" weight="240" />
+      <edge source="tonight" target="love" id="199" weight="318" />
+      <edge source="tonight" target="show" id="200" weight="200" />
+      <edge source="tonight" target="door" id="201" weight="201" />
+      <edge source="fall" target="baby" id="202" weight="239" />
+      <edge source="fall" target="love" id="203" weight="991" />
+      <edge source="fall" target="girl" id="204" weight="213" />
+      <edge source="bout" target="nigga" id="205" weight="396" />
+      <edge source="round" target="damn" id="206" weight="241" />
+      <edge source="die" target="day" id="207" weight="198" />
+      <edge source="feel" target="baby" id="208" weight="328" />
+      <edge source="feel" target="light" id="209" weight="364" />
+      <edge source="feel" target="air" id="210" weight="445" />
+      <edge source="feel" target="love" id="211" weight="375" />
+      <edge source="feel" target="time" id="212" weight="321" />
+      <edge source="feel" target="good" id="213" weight="352" />
+      <edge source="feel" target="life" id="214" weight="282" />
+      <edge source="pretty" target="little" id="215" weight="268" />
+      <edge source="mean" target="love" id="216" weight="217" />
+      <edge source="mean" target="bed" id="217" weight="196" />
+      <edge source="mean" target="break" id="218" weight="586" />
+      <edge source="mean" target="mile" id="219" weight="551" />
+      <edge source="baby" target="thing" id="220" weight="304" />
+      <edge source="baby" target="right" id="221" weight="893" />
+      <edge source="baby" target="friend" id="222" weight="230" />
+      <edge source="baby" target="heart" id="223" weight="350" />
+      <edge source="baby" target="love" id="224" weight="2668" />
+      <edge source="baby" target="night" id="225" weight="612" />
+      <edge source="baby" target="leave" id="226" weight="386" />
+      <edge source="baby" target="lose" id="227" weight="502" />
+      <edge source="baby" target="life" id="228" weight="222" />
+      <edge source="baby" target="girl" id="229" weight="412" />
+      <edge source="baby" target="way" id="230" weight="621" />
+      <edge source="baby" target="home" id="231" weight="247" />
+      <edge source="baby" target="control" id="232" weight="228" />
+      <edge source="baby" target="crazy" id="233" weight="205" />
+      <edge source="baby" target="help" id="234" weight="379" />
+      <edge source="baby" target="guess" id="235" weight="390" />
+      <edge source="baby" target="good" id="236" weight="292" />
+      <edge source="baby" target="believe" id="237" weight="232" />
+      <edge source="baby" target="kiss" id="238" weight="252" />
+      <edge source="baby" target="well" id="239" weight="362" />
+      <edge source="baby" target="miss" id="240" weight="239" />
+      <edge source="baby" target="time" id="241" weight="244" />
+      <edge source="baby" target="shit" id="242" weight="415" />
+      <edge source="baby" target="nigga" id="243" weight="231" />
+      <edge source="baby" target="lie" id="244" weight="191" />
+      <edge source="baby" target="young" id="245" weight="191" />
+      <edge source="baby" target="try" id="246" weight="264" />
+      <edge source="baby" target="wrong" id="247" weight="315" />
+      <edge source="baby" target="dance" id="248" weight="251" />
+      <edge source="baby" target="burn" id="249" weight="295" />
+      <edge source="baby" target="chain" id="250" weight="328" />
+      <edge source="baby" target="nasty" id="251" weight="192" />
+      <edge source="baby" target="tie" id="252" weight="263" />
+      <edge source="baby" target="whip" id="253" weight="896" />
+      <edge source="hoe" target="love" id="254" weight="200" />
+      <edge source="hoe" target="bitch" id="255" weight="219" />
+      <edge source="hoe" target="nigga" id="256" weight="782" />
+      <edge source="bad" target="thing" id="257" weight="193" />
+      <edge source="bad" target="day" id="258" weight="246" />
+      <edge source="bad" target="love" id="259" weight="405" />
+      <edge source="bad" target="good" id="260" weight="297" />
+      <edge source="bad" target="bitch" id="261" weight="707" />
+      <edge source="bad" target="devil" id="262" weight="215" />
+      <edge source="chain" target="love" id="263" weight="279" />
+      <edge source="chain" target="whip" id="264" weight="489" />
+      <edge source="chain" target="tie" id="265" weight="224" />
+      <edge source="street" target="bar" id="266" weight="223" />
+      <edge source="burn" target="smoke" id="267" weight="191" />
+      <edge source="right" target="time" id="268" weight="352" />
+      <edge source="right" target="night" id="269" weight="289" />
+      <edge source="right" target="heart" id="270" weight="299" />
+      <edge source="right" target="lose" id="271" weight="342" />
+      <edge source="right" target="control" id="272" weight="338" />
+      <edge source="right" target="leave" id="273" weight="938" />
+      <edge source="right" target="love" id="274" weight="421" />
+      <edge source="right" target="wrong" id="275" weight="409" />
+      <edge source="right" target="little" id="276" weight="210" />
+      <edge source="feeling" target="stop" id="277" weight="999" />
+      <edge source="feeling" target="new" id="278" weight="204" />
+      <edge source="feeling" target="babe" id="279" weight="333" />
+      <edge source="feeling" target="good" id="280" weight="236" />
+      <edge source="daddy" target="forget" id="281" weight="226" />
+      <edge source="tired" target="friend" id="282" weight="292" />
+      <edge source="tired" target="wonder" id="283" weight="243" />
+      <edge source="tired" target="whiskey" id="284" weight="300" />
+      <edge source="shake" target="ass" id="285" weight="435" />
+      <edge source="day" target="heart" id="286" weight="247" />
+      <edge source="day" target="love" id="287" weight="364" />
+      <edge source="day" target="night" id="288" weight="252" />
+      <edge source="day" target="way" id="289" weight="245" />
+      <edge source="day" target="play" id="290" weight="236" />
+      <edge source="day" target="girl" id="291" weight="265" />
+      <edge source="day" target="life" id="292" weight="215" />
+      <edge source="little" target="love" id="293" weight="261" />
+      <edge source="little" target="night" id="294" weight="240" />
+      <edge source="little" target="life" id="295" weight="214" />
+      <edge source="little" target="girl" id="296" weight="261" />
+      <edge source="remember" target="night" id="297" weight="196" />
+      <edge source="face" target="hair" id="298" weight="241" />
+      <edge source="face" target="ass" id="299" weight="227" />
+      <edge source="tie" target="love" id="300" weight="278" />
+      <edge source="tie" target="whip" id="301" weight="660" />
+      <edge source="light" target="life" id="302" weight="191" />
+      <edge source="light" target="night" id="303" weight="209" />
+      <edge source="new" target="bitch" id="304" weight="194" />
+      <edge source="act" target="help" id="305" weight="192" />
+      <edge source="man" target="heart" id="306" weight="232" />
+      <edge source="man" target="love" id="307" weight="234" />
+      <edge source="man" target="break" id="308" weight="208" />
+      <edge source="man" target="night" id="309" weight="215" />
+      <edge source="man" target="nigga" id="310" weight="224" />
+      <edge source="man" target="bar" id="311" weight="236" />
+      <edge source="man" target="city" id="312" weight="462" />
+      <edge source="miss" target="way" id="313" weight="224" />
+      <edge source="miss" target="kiss" id="314" weight="241" />
+      <edge source="miss" target="hit" id="315" weight="547" />
+      <edge source="pass" target="time" id="316" weight="190" />
+      <edge source="night" target="way" id="317" weight="333" />
+      <edge source="night" target="heart" id="318" weight="260" />
+      <edge source="night" target="love" id="319" weight="734" />
+      <edge source="night" target="friend" id="320" weight="267" />
+      <edge source="night" target="time" id="321" weight="226" />
+      <edge source="night" target="dance" id="322" weight="1344" />
+      <edge source="night" target="girl" id="323" weight="383" />
+      <edge source="night" target="thinkin" id="324" weight="241" />
+      <edge source="night" target="lose" id="325" weight="211" />
+      <edge source="night" target="home" id="326" weight="246" />
+      <edge source="night" target="dream" id="327" weight="247" />
+      <edge source="hard" target="dream" id="328" weight="273" />
+      <edge source="hard" target="break" id="329" weight="197" />
+      <edge source="sorry" target="love" id="330" weight="305" />
+      <edge source="sorry" target="mind" id="331" weight="270" />
+      <edge source="pain" target="love" id="332" weight="247" />
+      <edge source="play" target="nigga" id="333" weight="210" />
+      <edge source="save" target="door" id="334" weight="203" />
+      <edge source="save" target="life" id="335" weight="191" />
+      <edge source="save" target="show" id="336" weight="200" />
+      <edge source="save" target="nigga" id="337" weight="342" />
+      <edge source="crash" target="stop" id="338" weight="846" />
+      <edge source="time" target="try" id="339" weight="197" />
+      <edge source="time" target="heart" id="340" weight="352" />
+      <edge source="time" target="love" id="341" weight="920" />
+      <edge source="time" target="find" id="342" weight="215" />
+      <edge source="time" target="good" id="343" weight="252" />
+      <edge source="time" target="break" id="344" weight="372" />
+      <edge source="time" target="mind" id="345" weight="722" />
+      <edge source="time" target="take" id="346" weight="193" />
+      <edge source="time" target="shit" id="347" weight="287" />
+      <edge source="time" target="waste" id="348" weight="321" />
+      <edge source="time" target="bitch" id="349" weight="265" />
+      <edge source="time" target="girl" id="350" weight="282" />
+      <edge source="time" target="cold" id="351" weight="195" />
+      <edge source="time" target="lose" id="352" weight="329" />
+      <edge source="time" target="makin" id="353" weight="214" />
+      <edge source="head" target="good" id="354" weight="250" />
+      <edge source="head" target="ride" id="355" weight="230" />
+      <edge source="hair" target="ass" id="356" weight="201" />
+      <edge source="bed" target="wake" id="357" weight="228" />
+      <edge source="bed" target="black" id="358" weight="195" />
+      <edge source="bed" target="whiskey" id="359" weight="234" />
+      <edge source="ass" target="hit" id="360" weight="191" />
+      <edge source="ass" target="nigga" id="361" weight="427" />
+      <edge source="try" target="way" id="362" weight="189" />
+      <edge source="try" target="old" id="363" weight="193" />
+      <edge source="try" target="love" id="364" weight="232" />
+      <edge source="try" target="good" id="365" weight="217" />
+      <edge source="makin" target="love" id="366" weight="223" />
+      <edge source="drive" target="car" id="367" weight="289" />
+      <edge source="true" target="love" id="368" weight="381" />
+      <edge source="true" target="dream" id="369" weight="192" />
+      <edge source="hit" target="way" id="370" weight="426" />
+      <edge source="hit" target="kiss" id="371" weight="450" />
+      <edge source="hit" target="hot" id="372" weight="218" />
+      <edge source="hit" target="bitch" id="373" weight="393" />
+      <edge source="hit" target="shit" id="374" weight="212" />
+      <edge source="forever" target="well" id="375" weight="278" />
+      <edge source="give" target="heart" id="376" weight="199" />
+      <edge source="give" target="love" id="377" weight="288" />
+      <edge source="okay" target="place" id="378" weight="224" />
+      <edge source="okay" target="life" id="379" weight="189" />
+      <edge source="okay" target="girl" id="380" weight="189" />
+      <edge source="mama" target="good" id="381" weight="211" />
+      <edge source="mama" target="fly" id="382" weight="198" />
+      <edge source="well" target="love" id="383" weight="853" />
+      <edge source="well" target="late" id="384" weight="560" />
+      <edge source="call" target="love" id="385" weight="201" />
+      <edge source="dream" target="love" id="386" weight="256" />
+      <edge source="steal" target="way" id="387" weight="197" />
+      <edge source="steal" target="heart" id="388" weight="223" />
+      <edge source="home" target="road" id="389" weight="210" />
+      <edge source="car" target="fast" id="390" weight="282" />
+      <edge source="black" target="whiskey" id="391" weight="234" />
+      <edge source="wish" target="good" id="392" weight="357" />
+      <edge source="fly" target="good" id="393" weight="400" />
+      <edge source="nigga" target="love" id="394" weight="321" />
+      <edge source="nigga" target="life" id="395" weight="205" />
+      <edge source="nigga" target="shit" id="396" weight="611" />
+      <edge source="nigga" target="bitch" id="397" weight="805" />
+      <edge source="nigga" target="run" id="398" weight="283" />
+      <edge source="nigga" target="gang" id="399" weight="219" />
+      <edge source="mind" target="way" id="400" weight="193" />
+      <edge source="mind" target="love" id="401" weight="442" />
+      <edge source="mind" target="find" id="402" weight="283" />
+      <edge source="mind" target="meet" id="403" weight="200" />
+      <edge source="mind" target="lose" id="404" weight="305" />
+      <edge source="way" target="thing" id="405" weight="230" />
+      <edge source="way" target="love" id="406" weight="474" />
+      <edge source="way" target="walk" id="407" weight="193" />
+      <edge source="way" target="girl" id="408" weight="189" />
+      <edge source="way" target="life" id="409" weight="217" />
+      <edge source="way" target="step" id="410" weight="851" />
+      <edge source="way" target="road" id="411" weight="225" />
+      <edge source="way" target="shit" id="412" weight="240" />
+      <edge source="way" target="find" id="413" weight="241" />
+      <edge source="way" target="good" id="414" weight="260" />
+      <edge source="way" target="heart" id="415" weight="230" />
+      <edge source="way" target="kiss" id="416" weight="330" />
+      <edge source="whip" target="love" id="417" weight="1216" />
+      <edge source="nasty" target="girl" id="418" weight="1456" />
+      <edge source="heart" target="wait" id="419" weight="528" />
+      <edge source="heart" target="love" id="420" weight="420" />
+      <edge source="heart" target="find" id="421" weight="188" />
+      <edge source="heart" target="lose" id="422" weight="233" />
+      <edge source="heart" target="control" id="423" weight="208" />
+      <edge source="heart" target="break" id="424" weight="736" />
+      <edge source="heart" target="meet" id="425" weight="211" />
+      <edge source="heart" target="good" id="426" weight="357" />
+      <edge source="take" target="good" id="427" weight="301" />
+      <edge source="old" target="lie" id="428" weight="192" />
+      <edge source="gettin" target="love" id="429" weight="241" />
+      <edge source="gettin" target="bar" id="430" weight="870" />
+      <edge source="high" target="low" id="431" weight="195" />
+      <edge source="high" target="road" id="432" weight="1185" />
+      <edge source="floor" target="dance" id="433" weight="199" />
+      <edge source="lie" target="girl" id="434" weight="354" />
+      <edge source="ex" target="kiss" id="435" weight="210" />
+      <edge source="foot" target="bitch" id="436" weight="189" />
+      <edge source="lose" target="thing" id="437" weight="252" />
+      <edge source="lose" target="love" id="438" weight="918" />
+      <edge source="lose" target="control" id="439" weight="507" />
+      <edge source="lose" target="life" id="440" weight="235" />
+      <edge source="lose" target="water" id="441" weight="289" />
+      <edge source="stop" target="babe" id="442" weight="780" />
+      <edge source="stop" target="good" id="443" weight="468" />
+      <edge source="stop" target="luck" id="444" weight="555" />
+      <edge source="stop" target="beat" id="445" weight="415" />
+      <edge source="girl" target="love" id="446" weight="748" />
+      <edge source="girl" target="find" id="447" weight="363" />
+      <edge source="girl" target="fun" id="448" weight="209" />
+      <edge source="girl" target="good" id="449" weight="273" />
+      <edge source="girl" target="dance" id="450" weight="346" />
+      <edge source="girl" target="life" id="451" weight="190" />
+      <edge source="run" target="life" id="452" weight="325" />
+      <edge source="fuckin" target="bitch" id="453" weight="264" />
+      <edge source="friend" target="shit" id="454" weight="191" />
+      <edge source="friend" target="dance" id="455" weight="189" />
+      <edge source="hot" target="bitch" id="456" weight="301" />
+      <edge source="leave" target="love" id="457" weight="589" />
+      <edge source="leave" target="guess" id="458" weight="269" />
+      <edge source="leave" target="bitch" id="459" weight="268" />
+      <edge source="open" target="door" id="460" weight="239" />
+      <edge source="bitch" target="love" id="461" weight="478" />
+      <edge source="bitch" target="walk" id="462" weight="234" />
+      <edge source="bitch" target="talk" id="463" weight="221" />
+      <edge source="bitch" target="life" id="464" weight="282" />
+      <edge source="bitch" target="shit" id="465" weight="634" />
+      <edge source="bitch" target="kill" id="466" weight="242" />
+      <edge source="wrong" target="good" id="467" weight="281" />
+      <edge source="keep" target="love" id="468" weight="200" />
+      <edge source="big" target="love" id="469" weight="199" />
+      <edge source="shit" target="love" id="470" weight="233" />
+      <edge source="find" target="thing" id="471" weight="235" />
+      <edge source="find" target="love" id="472" weight="526" />
+      <edge source="find" target="good" id="473" weight="334" />
+      <edge source="find" target="break" id="474" weight="190" />
+      <edge source="kiss" target="love" id="475" weight="392" />
+      <edge source="club" target="dance" id="476" weight="312" />
+      <edge source="reason" target="good" id="477" weight="240" />
+      <edge source="door" target="life" id="478" weight="196" />
+      <edge source="door" target="show" id="479" weight="325" />
+      <edge source="devil" target="ride" id="480" weight="280" />
+      <edge source="dick" target="good" id="481" weight="270" />
+      <edge source="dick" target="ride" id="482" weight="218" />
+      <edge source="see" target="love" id="483" weight="252" />
+      <edge source="luck" target="good" id="484" weight="914" />
+      <edge source="luck" target="babe" id="485" weight="888" />
+      <edge source="whiskey" target="love" id="486" weight="189" />
+      <edge source="whiskey" target="good" id="487" weight="202" />
+      <edge source="babe" target="good" id="488" weight="666" />
+      <edge source="show" target="life" id="489" weight="198" />
+      <edge source="thing" target="good" id="490" weight="281" />
+      <edge source="thing" target="love" id="491" weight="437" />
+      <edge source="good" target="love" id="492" weight="372" />
+      <edge source="good" target="ride" id="493" weight="265" />
+      <edge source="ride" target="love" id="494" weight="270" />
+      <edge source="break" target="love" id="495" weight="324" />
+      <edge source="break" target="mile" id="496" weight="464" />
+      <edge source="wait" target="love" id="497" weight="1412" />
+      <edge source="love" target="real" id="498" weight="255" />
+      <edge source="love" target="life" id="499" weight="773" />
+      <edge source="love" target="crazy" id="500" weight="223" />
+    </edges>
+  </graph>
+</gexf>
